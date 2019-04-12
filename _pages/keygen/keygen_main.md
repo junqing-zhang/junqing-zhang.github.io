@@ -21,3 +21,7 @@ Overview
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<object width="400" height="500" type="application/pdf" data="https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+</object>
