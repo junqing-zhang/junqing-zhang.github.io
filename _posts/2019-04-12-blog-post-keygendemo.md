@@ -27,4 +27,4 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 
 ## Demo
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="http://img.youtube.com/vi/zcCXj5M2x0k&/100.jpg" alt="Key Generation Demo" width="1000" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
