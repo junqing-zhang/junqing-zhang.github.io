@@ -4,24 +4,28 @@ title: "Key Generation"
 permalink: /keygen_main/
 author_profile: true
 ---
-Overview
+## Overview
+
+Key generation from the wireless channel has emerged as a promising technique to establish cryptographic keys for legitimate users.
+
+The wireless channel is intrinsic to the environment. The multipath is determined by the direct line-of-sight, reflections, and scatterings, which is affected by the layout, scatter distribution and materials, movement of users or scatterers, etc. Therefore, the features and characteristics of wireless channels are unique and unpredictable. The common randomness residing in the wireless environment between any two users can be leveraged to generate cryptographic keys for the secure communications.
 
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/keygen/keygen_wireless_channel.png" alt="...">
 <br />
 
-<br />
-<img align="center" width="1000" src="{{ site.url }}/images/keygen/keygen_steps.pdf" alt="...">
-<br />
+## Key Generation Principles
 
-![Image Title](https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf){width=65%}
+Key generation is mainly based on three principles.
+* Channel reciprocity means the channel responses of the forward and backward links are the same, which is the basis for key generation. When two users measure the same channel parameters at the same frequency, the measurements will be highly correlated, which guarantees that they will generate the same key.
+* Spatial decorrelation indicates that there is randomness residing in the dynamic channel, which ensures the extracted keys are random. A random key will make the cryptographic applications robust against attacks such as brute force.
+* Temporal variation implies that when located a half-wavelength away from the legitimate users, the eavesdropper experiences an uncorrelated channel compared to that between Alice or Bob, guaranteeing the security of the key generation. When the system works at 2.4 GHz, a half-wavelength is about 6 cm, which is quite short.
 
-<object data="https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+## Key Generation Protocol
 
-<object width="400" height="500" type="application/pdf" data="https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-</object>
+A full key generation protocol has been implemented and a demo is developed at Advanced Networks Research Group (ANRG), University of Liverpool. Please refer to the link for detailed information.
+
+## Reference
+Please refer to the following references for a detail introduction and survey.
+* Junqing Zhang, Trung Q. Duong, Roger Woods, and Alan Marshall, “Securing wireless communications of the Internet of Things from the physical layer, An overview”, Entropy, vol. 19, no. 8, 420, 2017. (Invited Paper) DOI: 10.3390/e19080420
+* Junqing Zhang, Trung Q. Duong, Alan Marshall, and Roger Woods, “Key generation from wireless channels: A review,” IEEE Access, vol. 4, pp. 614- 626, Mar. 2016. Open Access. DOI: 10.1109/ACCESS.2016.2521718
