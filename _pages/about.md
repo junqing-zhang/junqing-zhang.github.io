@@ -18,7 +18,7 @@ He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2
 * Physical layer security
 * Key generation
 * Radio frequency fingerprint identification
--
+
 ## Research Expertise
 * Wireless communication techniques, such as OFDM, spread spectrum, etc
 * Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, etc, in particular physical and MAC layers
