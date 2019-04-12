@@ -13,17 +13,15 @@ Junqing Zhang is a Tenure Track Fellow (Assistant Professor) at the Department o
 He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. 
 
 ## Research Area
--===
--1. Internet of Things
--1. Wireless security
--1. Physical layer security
--1. Key generation
--1. Radio frequency fingerprint identification
+* Internet of Things
+* Wireless security
+* Physical layer security
+* Key generation
+* Radio frequency fingerprint identification
 -
 ## Research Expertise
---------
--1. Wireless communication techniques, such as OFDM, spread spectrum, etc
--1. Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, etc, in particular physical and MAC layers
--1. Wireless channel modelling
--1. Software defined radios including Zedboard + FMCOMMS2 and WARP 
--1. Machine learning applications
+* Wireless communication techniques, such as OFDM, spread spectrum, etc
+* Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, etc, in particular physical and MAC layers
+* Wireless channel modelling
+* Software defined radios including Zedboard + FMCOMMS2 and WARP 
+* Machine learning applications
