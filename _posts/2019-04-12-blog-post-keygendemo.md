@@ -12,11 +12,23 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 
 ## Key Generation Protocol
 * Channel Probing:
- * using the Data packet and its corresponding ACK packet to serve as the bidirectional probing packets, implemented based on 802.11 Reference Design: Experiments Framework  . The sampling delay between the Data and ACK is in the order of 10 us therefore a high correlated channel measurements can be obtained.
- * Packet Match: Because the demo is carried out in the office environment, there are many transmissions in the air from other wifi access points. The MAC address is used to filter out the useful packets.
+  * using the Data packet and its corresponding ACK packet to serve as the bidirectional probing packets, implemented based on 802.11 Reference Design: Experiments Framework  . The sampling delay between the Data and ACK is in the order of 10 us therefore a high correlated channel measurements can be obtained.
+  * Packet Match: Because the demo is carried out in the office environment, there are many transmissions in the air from other wifi access points. The MAC address is used to filter out the useful packets.
 *  Quantization: Mean and standard deviation-based quantization
 *  Information Reconciliation: BCH-based secure sketch, BCH code implementation from https://github.com/jkent/python-bchlib used
 *  Privacy amplification: hash function SHA256 from https://docs.python.org/3/library/hashlib.html
 *  Randomness test: NIST randomness test suite is used. The implementation is based on https://github.com/stevenang/randomness_testsuite
 
-#Setup
+##Setup
+
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/keygen/setup.jpg" alt="...">
+<br />
+
+## Demo
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=zcCXj5M2x0k" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
