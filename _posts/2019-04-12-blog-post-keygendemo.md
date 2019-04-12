@@ -2,6 +2,8 @@
 title: 'Key Generation Demo @ University of Liverpool'
 date: 2019-04-12
 permalink: /posts/2019/04/12/keygendemo/
+categories:
+  - Key Generation
 tags:
   - Key Generation
   - Demo
