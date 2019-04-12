@@ -14,4 +14,4 @@ Overview
 <img align="center" width="1000" src="{{ site.url }}/images/keygen/keygen_steps.pdf" alt="...">
 <br />
 
-![Image Title]("{{ site.url }}/images/keygen/keygen_steps.pdf"){width=65%}
+![Image Title](https://github.com/junqing-zhang/junqing-zhang.github.io/blob/master/images/keygen/keygen_steps.pdf){width=65%}
