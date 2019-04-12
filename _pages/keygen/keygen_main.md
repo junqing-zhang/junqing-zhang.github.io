@@ -3,6 +3,8 @@ layout: archive
 title: "Key Generation"
 permalink: /keygen_main/
 author_profile: true
+tags:
+  - Key Generation
 ---
 ## Overview
 
