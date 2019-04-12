@@ -19,7 +19,7 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 *  Privacy amplification: hash function SHA256 from https://docs.python.org/3/library/hashlib.html
 *  Randomness test: NIST randomness test suite is used. The implementation is based on https://github.com/stevenang/randomness_testsuite
 
-##Setup
+## Setup
 
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/keygen/setup.jpg" alt="...">
@@ -27,8 +27,4 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 
 ## Demo
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=zcCXj5M2x0k" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/zcCXj5M2x0k/0.jpg)](http://www.youtube.com/watch?v=zcCXj5M2x0k "")
