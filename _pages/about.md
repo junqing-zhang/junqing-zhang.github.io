@@ -28,6 +28,7 @@ He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk
+
 Department of Electrical Engineering and Electronics
 School of Electrical Engineering, Electronics and Computer Science
 University of Liverpool
