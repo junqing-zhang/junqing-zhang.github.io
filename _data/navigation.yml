@@ -8,13 +8,15 @@ main:
 
   - title: "Research Group"
     url: /research-group/
-    
+
   - title: "Funding And Awards"
     url: /funding-and-awards/
-        
+
   - title: "Professional Activities"
     url: /professional-activities/
 
-  - title: "Blog Posts"
-    url: /year-archive/    
+  - title: "CV"
+    url: /cv/
     
+  - title: "Blog Posts"
+    url: /year-archive/
