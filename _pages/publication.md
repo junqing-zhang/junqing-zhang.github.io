@@ -3,8 +3,6 @@ layout: archive
 title: "Publication"
 permalink: /publication/
 author_profile: true
-toc:true
-toc_label: "Getting Started"
 ---
 
 His citation profile in Google Scholar.
