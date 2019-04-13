@@ -27,11 +27,10 @@ He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2
 * Machine learning applications
 
 ## Contact
-Email: junqing.zhang at liverpool.ac.uk
-
+Email: junqing.zhang at liverpool.ac.uk\
 Department of Electrical Engineering and Electronics\
 School of Electrical Engineering, Electronics and Computer Science\
-University of Liverpool
-Brownlow Hill
-Liverpool L69 3GJ
+University of Liverpool\
+Brownlow Hill\
+Liverpool L69 3GJ\
 United Kingdom
