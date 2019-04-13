@@ -1,9 +1,9 @@
 ---
-title:  "Gemified Theme -- Beta Release"
-toc: true
-toc_label: "Getting Started"
+layout: archive
+title: "Publication"
+permalink: /publication/
+author_profile: true
 ---
-
 
 His citation profile in Google Scholar.
 
