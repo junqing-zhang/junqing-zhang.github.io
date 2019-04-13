@@ -2,12 +2,14 @@
 title: 'Research Tools'
 date: 2019-04-13
 permalink: /posts/2019/04/blog-post-tools/
+categories:
+  - Resources
 tags:
   - Resources
   - Tool
 ---
 
-This paper summarizes some tools helpful for research.
+This page summarizes some tools helpful for research.
 
 * Matlab Export Figure
   * Save Matlab figures to vector figures (pdf, eps), without margin
