@@ -7,6 +7,8 @@ categories:
 tags:
   - Key Generation
 ---
+This page introduces the key general principles and protocol.
+
 ## Overview
 
 Key generation from the wireless channel has emerged as a promising technique to establish cryptographic keys for legitimate users.
