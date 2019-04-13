@@ -15,6 +15,6 @@ Work Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publication %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
