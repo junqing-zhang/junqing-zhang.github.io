@@ -10,7 +10,7 @@ His citation profile in Google Scholar.
 Please send an email to me if you require a copy of the paper.
 
 ## Book Chapter
-1. Junqing Zhang, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in Trusted Communications with Physical Layer Security for 5G and Beyond, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
+1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
 ## Journal Articles
 J1. Junqing Zhang, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” IEEE Wireless Communications, 2019
