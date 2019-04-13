@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Funding and Awards"
+title: "Funding And Awards"
 permalink: /funding-and-awards/
 author_profile: true
 ---
