@@ -9,6 +9,8 @@ tags:
   - lorawan
 ---
 
+This paper summarizes resources for LoRa and LoRaWAN.
+
 ## LoRa/LoRaWAN Resources
 * LoRa modem with LimeSDR [Link](https://myriadrf.org/news/lora-modem-limesdr/)
 * mbed tutorial: Building a private LoRa network [link](https://os.mbed.com/docs/mbed-os/v5.12/tutorials/LoRa-tutorial.html)
