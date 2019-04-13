@@ -1,7 +1,7 @@
 ---
 title: 'LoRaWAN Demo'
 date: 2019-04-13
-permalink: /posts/blog-post-lorawan-fipy-demo/
+permalink: /posts/2019/04/blog-post-lorawan-fipy-demo/
 tags:
   - LoRaWAN
   - Demo
