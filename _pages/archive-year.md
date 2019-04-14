@@ -5,4 +5,5 @@ layout: posts
 author_profile: true
 ---
 
-## [Posts by categories](/categories/)
+## [Posts by Category](/categories/)
+## [Posts by Tag](/tags/)
