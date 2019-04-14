@@ -5,4 +5,4 @@ layout: posts
 author_profile: true
 ---
 
-[Posts by categories](/category-archive/)
+[Posts by categories](/category/)
