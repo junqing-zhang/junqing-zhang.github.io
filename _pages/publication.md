@@ -2,15 +2,11 @@
 layout: archive
 title: "Publication"
 permalink: /publication/
-author_profile: false
-classes: wide
-toc: true
+author_profile: true
 ---
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
 Please send an email to me if you require a copy of the paper.
-
-{% include toc %}
 
 ## Book Chapter
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
