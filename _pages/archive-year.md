@@ -5,6 +5,4 @@ layout: posts
 author_profile: true
 ---
 
-This is a test
-
-[Posts by categories](/category-archive/)
+[Posts by categories](/category/)
