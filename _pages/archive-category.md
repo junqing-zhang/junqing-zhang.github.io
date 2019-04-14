@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-layout: categories
+layout: category
 permalink: /archive-category/
 author_profile: true
 ---
