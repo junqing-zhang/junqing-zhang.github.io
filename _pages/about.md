@@ -16,7 +16,7 @@ He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
 ## News
-* The first Annual General Meeting of the Jiangsu-UK 20+20 World-Class University Consortium was held. [link](({{ site.url }}/posts/2019/04/blog-post-uk-jiangsu-collaboration/)) 
+* The first Annual General Meeting of the UK-Jiangsu 20+20 World-Class University Consortium was held. [link]({{ site.url }}/posts/2019/04/blog-post-uk-jiangsu-collaboration/)
 * My Royal Society Research Grants application is successful. This project will employ deep learning to classify LoRa devices based on their unique radio frequency fingerprinting.
 
 ## Research Area
