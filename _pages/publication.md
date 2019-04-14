@@ -5,9 +5,9 @@ permalink: /publication/
 author_profile: true
 ---
 
-[Book Chapter](#Book Chapter)
-[Journal Articles](#Journal Articles)
-[Conference Papers](#Conference Papers)
+[Book Chapter](#Book Chapter)  
+[Journal Articles](#Journal Articles)  
+[Conference Papers](#Conference Papers)  
 
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
