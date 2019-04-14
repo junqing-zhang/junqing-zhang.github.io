@@ -4,3 +4,5 @@ permalink: /archive-year/
 layout: posts
 author_profile: true
 ---
+
+[Posts by categories](/category-archive/)
