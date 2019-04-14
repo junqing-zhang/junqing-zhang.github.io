@@ -8,14 +8,10 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 Please send an email to me if you require a copy of the paper.
 
-[Book Chapter](#Book-Chapter)  
-[Journal Articles](#Journal)  
-[Conference Papers](#Conference)  
-
-## Book-Chapter
+## Book Chapter
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
-## Journal
+## Journal Article
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, 2019
 1. Linning Peng, Aiqun Hu, **Junqing Zhang**, Yu Jiang, Jiabao Yu, and Yan Yan, “Design of a hybrid RF fingerprint extraction and device classification scheme,” _IEEE Internet of Things Journal_, vol. 6, no. 1, pp. 349 – 360, 2019. [link](https://ieeexplore.ieee.org/document/8360937/)
 1. Lining Peng, Guyue Li, **Junqing Zhang**, Roger Woods, Ming Liu, and Aiqun Hu, “An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation,” _IEEE Transactions on Mobile Computing_, vol. 18, no. 3, pp. 507 – 519, Mar. 2019. [link](https://ieeexplore.ieee.org/abstract/document/8370120)
@@ -36,7 +32,7 @@ Huy Nguyen, **Junqing Zhang**, Nan Yang, Trung Q. Duong, Won-Jon Hwang, “Secur
 1. Nguyen-Son Vo, Binh Ha, Berk Canberk, and **Junqing Zhang**, “Green two-tiered wireless multimedia sensor systems: An energy, bandwidth, and quality optimization framework,” _IET Communications_, vol. 10, no. 18, pp. 2543 – 2550, Dec. 2016. [link](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2016.0406)
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491)
 
-## Conference
+## Conference Paper
 1. Wei Li, Mounir Ghogho, **Junqing Zhang**, Des McLernon, Jing Lei and Syed Ali Raza Zaidi, “Design of an Energy-Efficient Multidimensional Secure Constellation for 5G Communications,” in _Proc. IEEE ICC Workshop on Wireless Physical Layer Security_, Shanghai, China, May 2019.
 1. Yun Wen, Makoto Yoshida, **Junqing Zhang**, Zheng Chu, Pei Xiao, and Rahim Tafazolli, “Machine Learning Based Attack Against Artificial Noise-aided Secure Communication,” in _Proc. IEEE ICC_, Shanghai, China, May 2019.
 1. Linning Peng, Guyue Li, **Junqing Zhang**, and Aiqun Hu, “Securing M2M Transmissions Using Nonreconciled Secret Keys Generated from Wireless Channels,” in _Proc. IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS)_, Abu Dhabi, Dec. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8644401)
