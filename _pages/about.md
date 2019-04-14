@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+toc: true
 ---
 
 Junqing Zhang is a Tenure Track Fellow (Assistant Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK from Feb. 2018. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has been investigating wireless security solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, ZigBee, etc, with a focus on the physical and MAC layers.
