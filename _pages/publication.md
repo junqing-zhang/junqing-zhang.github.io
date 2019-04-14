@@ -4,19 +4,18 @@ title: "Publication"
 permalink: /publication/
 author_profile: true
 ---
-
-[Book Chapter](#Book Chapter)  
-[Journal Articles](#Journal Articles)  
-[Conference Papers](#Conference)  
-
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
 Please send an email to me if you require a copy of the paper.
 
-## Book Chapter
+[Book Chapter](#Book-Chapter)  
+[Journal Articles](#Journal)  
+[Conference Papers](#Conference)  
+
+## Book-Chapter
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
-## Journal Articles
+## Journal
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, 2019
 1. Linning Peng, Aiqun Hu, **Junqing Zhang**, Yu Jiang, Jiabao Yu, and Yan Yan, “Design of a hybrid RF fingerprint extraction and device classification scheme,” _IEEE Internet of Things Journal_, vol. 6, no. 1, pp. 349 – 360, 2019. [link](https://ieeexplore.ieee.org/document/8360937/)
 1. Lining Peng, Guyue Li, **Junqing Zhang**, Roger Woods, Ming Liu, and Aiqun Hu, “An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation,” _IEEE Transactions on Mobile Computing_, vol. 18, no. 3, pp. 507 – 519, Mar. 2019. [link](https://ieeexplore.ieee.org/abstract/document/8370120)
