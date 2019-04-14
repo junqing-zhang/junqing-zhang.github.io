@@ -77,6 +77,8 @@ analytics:
   google:
     tracking_id          :
 
+# Google Analytics
+google_analytics: UA-138327029-1
 
 # Site Author
 author:
@@ -308,3 +310,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
