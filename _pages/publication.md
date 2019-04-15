@@ -3,6 +3,7 @@ layout: archive
 title: "Publication"
 permalink: /publication/
 author_profile: true
+toc: true
 ---
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
@@ -21,7 +22,7 @@ Please send an email to me if you require a copy of the paper.
 1. Guyue Li, Aiqun Hu, **Junqing Zhang**, Linning Peng, Chen Sun, and Daming Cao, “High-agreement uncorrelated secret key generation based on principal component analysis preprocessing,” _IEEE Transactions on Communications_, vol. 66, no. 7, pp. 3022 – 3034, Jul. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8314118)
 1. Yuanrui Zhang, Roger Woods, Youngwook Ko, Alan Marshall, and **Junqing Zhang**, “Security optimization of exposure region-based beamforming with a uniform circular array,” _IEEE Transactions on Communications_, vol. 66, no. 6, pp. 2630 – 2641, Jun. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8093669)
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Securing wireless communications of the Internet of Things from the physical layer, An overview,” _Entropy_, vol. 19, no. 8, 420, 2017. (Invited Paper) [link](https://www.mdpi.com/1099-4300/19/8/420)
-Huy Nguyen, **Junqing Zhang**, Nan Yang, Trung Q. Duong, Won-Jon Hwang, “Secure cooperative single carrier systems under unreliable backhaul and dense networks impact,” _IEEE Access_, vol. 5, pp. 18310 – 18324,  2017. [link](https://ieeexplore.ieee.org/abstract/document/7981320)
+1. Huy Nguyen, **Junqing Zhang**, Nan Yang, Trung Q. Duong, Won-Jon Hwang, “Secure cooperative single carrier systems under unreliable backhaul and dense networks impact,” _IEEE Access_, vol. 5, pp. 18310 – 18324,  2017. [link](https://ieeexplore.ieee.org/abstract/document/7981320)
 1. **Junqing Zhang**, Biao He, Trung Q. Duong, and Roger Woods, “On the key generation from correlated wireless channels,” _IEEE Communications Letters_,  vol. 21, no. 4, pp. 961 — 964, Apr. 2017. [link](https://ieeexplore.ieee.org/abstract/document/7809064)
 1. **Junqing Zhang**, Alan Marshall, Roger Woods, and Trung Q. Duong, “Design of an OFDM physical layer encryption scheme,” _IEEE Transactions on Vehicular Technology_, vol. 66, no. 3, pp. 2114 – 2127, Mar. 2017. [link](https://ieeexplore.ieee.org/abstract/document/7475864)
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Retrodirective assisted secure wireless key establishment,” _IEEE Transactions on Communications_, vol. 65, no. 1, pp. 320 – 334, Jan. 2017. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7588176)
