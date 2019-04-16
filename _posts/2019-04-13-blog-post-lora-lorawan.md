@@ -19,7 +19,7 @@ This paper summarizes resources for LoRa and LoRaWAN.
   * Arduino LMIC [link](https://github.com/matthijskooijman/arduino-lmic)
   * Arduino RadioHead (not supporting LoRaWAN) [link](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html)
   * Pycom micropython LoRa/LoRaWAN modules [link](https://docs.pycom.io/firmwareapi/pycom/network/lora.html)
-* LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg). The gateway was built following the instruction in [Link]
+* LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg). The gateway was built following the instruction in [Link](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online)
 
 ## LoRaWAN Demo
-* A LoRaWAN demo has been created at University of Liverpool. [link]
+* A LoRaWAN demo has been created at University of Liverpool. [link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/)
