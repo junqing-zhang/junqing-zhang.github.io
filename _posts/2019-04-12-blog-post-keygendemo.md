@@ -29,6 +29,14 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 <img align="center" width="1000" src="{{ site.url }}/images/keygen/setup.jpg" alt="...">
 <br />
 
+### Hardware
+* [WARP v3](http://warpproject.org/trac/wiki/GettingStarted/WARPv3). The WARP hardware setup can be found in this [link](http://warpproject.org/trac/wiki/802.11/wlan_exp/GettingStarted).
+* PC
+* 1Gb Ethernet switch
+### Software
+* [802.11 Reference Design: Experiments Framework](http://warpproject.org/trac/wiki/802.11/wlan_exp)
+* GUI and signal processing: Python
+
 ## Demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
