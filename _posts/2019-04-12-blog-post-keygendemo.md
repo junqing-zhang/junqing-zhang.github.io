@@ -5,12 +5,14 @@ permalink: /posts/2019/04/12/keygendemo/
 categories:
   - Key Generation
 tags:
-  - Key Generation
+  - Key Generation  
   - Demo
-  - Experiments
+toc: true
 ---
 
 A WiFi-based key generation demonstration has been developed using WARP board. A full protocol of key generation has been implemented by the Python.
+
+{% include toc %}
 
 ## Key Generation Protocol
 * Channel Probing:
