@@ -2,9 +2,6 @@
 main:
   - title: "Research Areas"
     url: /research-areas/
-    sublinks:
-    -title: Research Group
-     url: /research-group/
 
   - title: "Publication"
     url: /publication/
