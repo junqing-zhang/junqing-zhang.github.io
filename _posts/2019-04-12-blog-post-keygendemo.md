@@ -12,8 +12,6 @@ toc: true
 
 A WiFi-based key generation demonstration has been developed using WARP board. A full protocol of key generation has been implemented by the Python.
 
-{% include toc %}
-
 ## Key Generation Protocol
 * Channel Probing:
   * using the Data packet and its corresponding ACK packet to serve as the bidirectional probing packets, implemented based on 802.11 Reference Design: Experiments Framework  . The sampling delay between the Data and ACK is in the order of 10 us therefore a high correlated channel measurements can be obtained.
@@ -33,6 +31,7 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 * [WARP v3](http://warpproject.org/trac/wiki/GettingStarted/WARPv3). The WARP hardware setup can be found in this [link](http://warpproject.org/trac/wiki/802.11/wlan_exp/GettingStarted).
 * PC
 * 1Gb Ethernet switch
+
 ### Software
 * [802.11 Reference Design: Experiments Framework](http://warpproject.org/trac/wiki/802.11/wlan_exp)
 * GUI and signal processing: Python
