@@ -7,7 +7,7 @@ toc: true
 ---
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
-Please send an email to me if you require a copy of the paper.
+Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of the paper.
 
 {% include toc %}
 
