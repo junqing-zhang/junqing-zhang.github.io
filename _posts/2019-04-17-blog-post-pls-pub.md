@@ -1,5 +1,5 @@
 ---
-title: "Key Generation Publication @ University of Liverpool"
+title: "Physical Layer Security"
 date: 2019-04-17
 permalink: /posts/2019/04/blog-post-pls-pub/
 categories:
