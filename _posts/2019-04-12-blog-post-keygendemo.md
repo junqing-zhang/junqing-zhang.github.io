@@ -12,6 +12,8 @@ toc: true
 
 A WiFi-based key generation demonstration has been developed using WARP board. A full protocol of key generation has been implemented by the Python.
 
+{% include toc %}
+
 ## Key Generation Protocol
 * Channel Probing:
   * using the Data packet and its corresponding ACK packet to serve as the bidirectional probing packets, implemented based on 802.11 Reference Design: Experiments Framework  . The sampling delay between the Data and ACK is in the order of 10 us therefore a high correlated channel measurements can be obtained.
