@@ -1,6 +1,6 @@
 ---
 title: "Key Generation Project"
-date: 2019-04-20
+date: 2019-04-24
 permalink: /posts/2019/04/blog-post-keygen-project/
 categories:
   - Key Generation
@@ -38,7 +38,7 @@ This paper summarizes some important key generation research projects.
 1. CCSS: Collaborative Research: Developing A Physical-Channel Based Lightweight Authentication System for Wireless Body Area Networks (Project Link, NSF Link)
   * Duration: 09/2014 – 08/2017
   * Funder: National Science Foundation
-  * Partners: University of Massachusetts Dartmouth (lead PI: Honggang Wang, $155,912), Worcester Polytechnic Institute (PI: Lifeng Lai, $148,416) and University of Arkansas Little Rock (PI: Shucheng Yu,$120,268)
+  * Partners: University of Massachusetts Dartmouth (lead PI: Honggang Wang, USD155,912), Worcester Polytechnic Institute (PI: Lifeng Lai, USD148,416) and University of Arkansas Little Rock (PI: Shucheng Yu,USD120,268)
 1. Is Wireless Channel Dependable for Security Provisioning? (NSF Link)
   * Duration: 08/2013 – 07/2017
   * Funder: National Science Foundation
