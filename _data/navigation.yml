@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Research Areas"
-    url: /research-areas/
+  - title: "Research Area"
+    url: /research-area/
 
   - title: "Publication"
     url: /publication/
@@ -9,10 +9,10 @@ main:
   - title: "Research Group"
     url: /research-group/
 
-  - title: "Funding And Awards"
+  - title: "Funding & Award"
     url: /funding-and-awards/
 
-  - title: "Professional Activities"
+  - title: "Professional Activity"
     url: /professional-activities/
 
 #  - title: "CV"
