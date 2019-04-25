@@ -1,6 +1,10 @@
 ---
 title: "Radio Frequency Fingerprint (RFF) Identification"
-excerpt: "![image-left](https://junqing-zhang.github.io/images/rffi/RFF_identification_procedure.png){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**."
+excerpt: "<figure style="width: 300px" class="align-right">
+  <img src="https://junqing-zhang.github.io/images/rffi/RFF_identification_procedure.png" alt="">
+  <figcaption>Feels good to be right all the time.</figcaption>
+</figure> 
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**."
 collection: research-area
 ---
 
