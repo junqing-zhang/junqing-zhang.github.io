@@ -1,6 +1,6 @@
 ---
 title: 'Software Defined Radio'
-date: 2019-04-13
+date: 2019-04-25
 permalink: /posts/2019/04/blog-post-sdr/
 categories:
   - Resources
@@ -11,9 +11,13 @@ tags:
 
 This page summarizes information for software defined radio (SDR).
 
+## SDR Comparison
+* Comparisons among different SDR can be found at [link](https://www.crowdsupply.com/lime-micro/limesdr) and [link](https://www.rtl-sdr.com/about-rtl-sdr/)
+
 ## Universal Software Radio Peripheral (USRP)
 * USRP Selection: [https://kb.ettus.com/Selecting_an_USRP_Device](https://kb.ettus.com/Selecting_an_USRP_Device)
 * RF Daughterboard Selection: Not all the USRP is equpped with the RF card, including N and X series. A selection guide is provided at [https://kb.ettus.com/Selecting_an_RF_Daughterboard](https://kb.ettus.com/Selecting_an_RF_Daughterboard)
+
 ## Wireless Open Access Research Platform (WARP)
 * link: [http://warpproject.org/trac](http://warpproject.org/trac)
 * Strictly speaking, WARP is not an SDR platform, because it uses a WiFi chipset MAX2829. It mainly has two reference designs, namely 802.11 reference design and WARPLab reference design. The driver has been developed for both designs and the users can simply focus on developing their applications and prototypes.
