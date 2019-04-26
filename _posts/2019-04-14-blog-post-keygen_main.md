@@ -6,8 +6,11 @@ categories:
   - Key Generation
 tags:
   - Key Generation
+toc: true
 ---
 This page introduces the key general principles and protocol.
+
+{% include toc.html %}
 
 ## Overview
 
