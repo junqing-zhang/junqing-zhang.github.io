@@ -9,7 +9,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of the paper.
 
-{% include toc.html %}
+{% include toc %}
 
 ## Book Chapter
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017

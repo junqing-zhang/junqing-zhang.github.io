@@ -10,7 +10,7 @@ toc: true
 ---
 This page introduces the key general principles and protocol.
 
-{% include toc.html %}
+{% include toc %}
 
 ## Overview
 
