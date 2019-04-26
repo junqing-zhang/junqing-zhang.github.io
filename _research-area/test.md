@@ -1,6 +1,6 @@
 ---
 title: "Radio Frequency Fingerprint (RFF) Identification"
-excerpt: "The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**. <br/><img width = "500" src='/images/keygen/keygen_wireless_channel.png'>"
+excerpt: "The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**. <br/><img src='/images/keygen/keygen_wireless_channel.png'>"
 collection: research-area
 ---
 
