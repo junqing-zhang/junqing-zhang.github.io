@@ -3,7 +3,9 @@ layout: archive
 title: "Professional Activities"
 permalink: /professional-activities/
 author_profile: true
+toc: true
 ---
+{% include toc %}
 
 ## Public Engagement
 ### STEM for BRITAIN 2017
