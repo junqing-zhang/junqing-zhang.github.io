@@ -4,7 +4,7 @@ title: "Professional Activities"
 permalink: /professional-activities/
 author_profile: true
 toc: true
-toc_max_header: 2
+toc_max_header: 1
 ---
 {% include toc %}
 
