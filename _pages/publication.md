@@ -2,7 +2,7 @@
 layout: archive
 title: "Publication"
 permalink: /publication/
-author_profile: false
+author_profile: true
 toc: true
 ---
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
