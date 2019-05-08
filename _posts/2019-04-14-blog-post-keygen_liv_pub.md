@@ -10,6 +10,8 @@ tags:
 ---
 This page summarizes our publication in the area of key generation.
 
+{% include toc %}
+
 ## Key Generation Survey
 1. **Junqing Zhang**, Trung Q. Duong, Alan Marshall, and Roger Woods, “Key generation from wireless channels: A review,” _IEEE Access_, vol. 4, pp. 614- 626, Mar. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7393435)
   * This paper presents a comprehensive survey on the key generation, covering the key generation fundamental, principle, procedures, evaluation metrics, applications.
