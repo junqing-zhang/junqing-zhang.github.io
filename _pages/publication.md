@@ -7,6 +7,8 @@ toc: true
 ---
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
+Our publication in the area of key generation is summarized at [here](https://junqing-zhang.github.io/posts/2019/04/blog-post-keygen_liv_pub/)
+
 Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of the paper.
 
 {% include toc %}
