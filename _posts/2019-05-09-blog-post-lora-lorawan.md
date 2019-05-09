@@ -25,7 +25,8 @@ This paper summarizes resources for LoRa and LoRaWAN.
 * Pycom micropython LoRa/LoRaWAN modules [link](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
 
 ### Hardware
-* mbed LoRa device [link](https://os.mbed.com/cookbook/LoRa){:target="_blank"}
+* mbed LoRa device [(link)](https://os.mbed.com/cookbook/LoRa){:target="_blank"}
+* Micropython-based devices: [FiPy](https://pycom.io/product/fipy/){:target="_blank"}, [LoPy](https://pycom.io/product/lopy4/){:target="_blank"},
 
 ### Resources
 * LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction in [Link](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
