@@ -12,7 +12,7 @@ This page summarizes some publication in the area of physical layer security.
 
 [BEST READINGS TOPICS IN PHYSICAL-LAYER SECURITY](https://www.comsoc.org/publications/best-readings/physical-layer-security) recommended by the IEEE Communication Society
 
-## Review/Survey/Tutorial on Physical Layer Security
+# Review/Survey/Tutorial on Physical Layer Security
 1. Yongpeng Wu, Ashish Khisti, Chengshan Xiao, Giuseppe Caire, Kai-Kit Wong, and Xiqi Gao. “A Survey of Physical Layer Security Techniques for 5G Wireless Networks and Challenges Ahead.” _IEEE Journal on Selected Areas in Communications_, vol. 36, no. 4, pp. 679 – 695, 2018. 
 1. Robyns, Pieter, Peter Quax, and Wim Lamotte. “PHY-layer security is no alternative to cryptography.” In _Proc. 10th ACM Conference on Security and Privacy in Wireless and Mobile Networks_, pp. 160-162, 2017. 
 1. Yiliang Liu, Hsiao-Hwa Chen, and Liangmin Wang, “Physical layer security for next generation wireless networks: Theories, Technologies, and Challenges.” _IEEE Communications Surveys & Tutorials_, vol. 19, no. 1, pp. 347 – 376, First Quarter 2017. 
@@ -22,7 +22,7 @@ This page summarizes some publication in the area of physical layer security.
 1. Amitav Mukherjee, S. Ali A. Fakoorian, Jing Huang, and A. Lee Swindlehurst, “Principles of physical layer security in multiuser wireless networks: A survey.” _IEEE Communications Surveys & Tutorials_, vol. 16, no. 3, pp. 1550-1573, Third Quarter 2014. 
  
 
-## Implementation Work of Physical Layer Security
+# Implementation Work of Physical Layer Security
 The majority of the physical layer security research focus on the theoretical side, including modelling and performance analysis. However, these is some initiative work to prototype and implement physical layer security and demonstrate its practicability and performance. Some examples are shown below.
 
 * Artificial noise, Kevin Ryland, “Physical Layer Security on Software Defined Radio“, 2017 [link]

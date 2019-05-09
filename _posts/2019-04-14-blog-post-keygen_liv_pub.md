@@ -12,7 +12,7 @@ This page summarizes our publication in the area of key generation.
 
 {% include toc %}
 
-## Key Generation Survey
+# Key Generation Survey
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, 2019
 	* This paper gives a tutorial on the radio frequency fingerprinting identification and key generation, in order to achieve the user identify authentication and secure communications, respectively. An integrated security framework is proposed by combining these two techniques.
 1. **Junqing Zhang**, Trung Q. Duong, Alan Marshall, and Roger Woods, “Key generation from wireless channels: A review,” _IEEE Access_, vol. 4, pp. 614- 626, Mar. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7393435)
@@ -20,7 +20,7 @@ This page summarizes our publication in the area of key generation.
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Securing wireless communications of the Internet of Things from the physical layer, An overview,” _Entropy_, vol. 19, no. 8, 420, 2017. (Invited Paper) [link](https://www.mdpi.com/1099-4300/19/8/420)
 	* This paper provides a tutorial for the key generation and physical layer encryption. 
 
-## Key Generation Principle
+# Key Generation Principle
 1. **Junqing Zhang**, Biao He, Trung Q. Duong, and Roger Woods, “On the key generation from correlated wireless channels,” _IEEE Communications Letters_,  vol. 21, no. 4, pp. 961 — 964, Apr. 2017. [link](https://ieeexplore.ieee.org/abstract/document/7809064)
 	* This paper investigates key generation principles with a practical channel model. The secret key capacity is derived.
 	* Simulation study
@@ -34,7 +34,7 @@ This page summarizes our publication in the area of key generation.
   * This paper studies the key generation application in OFDM systems. The temporal and frequency correlation is modelled. The channel reciprocity of subcarrier response is also modelled.
   * Simulation study
 
-## Key Generation Application
+# Key Generation Application
 1. Lining Peng, Guyue Li, **Junqing Zhang**, Roger Woods, Ming Liu, and Aiqun Hu, “An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation,” _IEEE Transactions on Mobile Computing_, vol. 18, no. 3, pp. 507 – 519, Mar. 2019. [link](https://ieeexplore.ieee.org/abstract/document/8370120)
 1. **Junqing Zhang**, Alan Marshall, and Lajos Hanzo, “Channel-envelope differencing eliminates secret key correlation: LoRa-based key generation in low power wide area networks,” _IEEE Transactions on Vehicular Technology_, vol. 67, no. 12, pp. 12462-12466, Dec., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8519327/)
   * This paper investigates key generation applied in long range communications, by taking LoRa as a case study.

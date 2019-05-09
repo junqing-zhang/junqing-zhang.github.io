@@ -11,7 +11,7 @@ tags:
 
 This paper summarizes some important key generation research projects.
 
-## Europe
+# Europe
 1. Securing the Internet of Things, Group Key Generation From Wireless Channels (Project Link)
   * Duration: 10/2016 – 09/2017
   * Partners: Queen’s Unviersity Belfast, UK
@@ -30,7 +30,7 @@ This paper summarizes some important key generation research projects.
   * Funder: EU 7th Framework Programme
   * Partners: Celeno, Imperial College London, UK, VTT, Finland, Thales, Telecom Paris Tech, France
 
-## USA
+# USA
 1. CIF: Small: Collaborative Research: Secret Key Generation Under Resource Constraints
   * Duration: 10/01/2016 – 07/31/2019
   * Funder: National Science Foundation
@@ -61,7 +61,7 @@ This paper summarizes some important key generation research projects.
 1. Securing Wireless Applications and Networks (Project Link)
   * Partner: WINLAB (Wireless Information Network Laboratory), Rutgers University, USA
 
-## Asia
+# Asia
 1. On Future Mobile Communication Physical Layer Security
   * Duration: 01/2017 – 12/2019
   * Funder: National Natural Science Foundation of China (NSFC)

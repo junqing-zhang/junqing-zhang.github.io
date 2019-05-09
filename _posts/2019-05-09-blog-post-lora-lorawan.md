@@ -34,5 +34,5 @@ This paper summarizes resources for LoRa and LoRaWAN.
 # Resources
 * LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction in [Link](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
-## LoRaWAN Demo
+# LoRaWAN Demo
 * A LoRaWAN demo has been created at University of Liverpool. [link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}

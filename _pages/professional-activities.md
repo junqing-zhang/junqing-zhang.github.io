@@ -8,18 +8,18 @@ toc_max_header: 1
 ---
 {% include toc %}
 
-## Public Engagement
-### STEM for BRITAIN 2017
+# Public Engagement
+## STEM for BRITAIN 2017
 * **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf)
 * STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
-### Queen’s University Belfast Postdoc Showcase - Poster Competition
+## Queen’s University Belfast Postdoc Showcase - Poster Competition
 * Junqing Zhang, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept. 2017
 
-## Tutorial
+# Tutorial
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14 July, 2018
 
-## Invited Talk
+# Invited Talk
 * Invited by Dr. An Liu at Zhejiang University, China, 4th Sept. 2018
 * IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
 * Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
@@ -28,19 +28,19 @@ toc_max_header: 1
 * Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec. 2016
 * Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec. 2016
 
-## Editorship
+# Editorship
 * Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
 
-## TPC Chair
+# TPC Chair
 * 6th IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security [call for paper]
 
-## Technical Conference Co-Chair
+# Technical Conference Co-Chair
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
 
-## Session Chair
+# Session Chair
 * IEEE GLOBECOM 2016 Signal Processing for Communications Symposium, Security and Secrecy Track
 
-## TPC Member
+# TPC Member
 * IEEE GLOBECOM 2019 Cognitive Radio and AI-Enabled Networks Symposium
 * IEEE International Conference on Communications (ICC) 2019: Communication and Information Systems Security Symposium
 * IEEE International Conference on Communications (ICC) 2019: Wireless Communications Symposium
@@ -58,11 +58,11 @@ toc_max_header: 1
 * IEEE GLOBECOM 2016 Signal Processing for Communications Symposium
 * IEEE GLOBECOM 2016 4th Workshop on Trusted Communications with Physical Layer Security
 
-## Technical Reviewer
-### Proposal
+# Technical Reviewer
+## Proposal
 * Vietnam National Foundation for Science and Technology Development (NAFOSTED) 2018
 
-### Journal
+## Journal
 * IEEE Wireless Communications Magazine
 * IEEE Vehicular Technology Magazine
 * IEEE Transactions on Communications
@@ -90,7 +90,7 @@ toc_max_header: 1
 * MDPI Sensors
 * MDPI Cryptography
 
-### Conference
+## Conference
 * IEEE Conference on Communications and Network Security (CNS) 2018
 * IEEE GLOBECOM 2014 - 2017
 * IEEE International Conference on Communications (ICC) 2016, 2017, 2019
