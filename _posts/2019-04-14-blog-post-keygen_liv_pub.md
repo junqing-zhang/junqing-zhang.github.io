@@ -46,3 +46,5 @@ This page summarizes our publication in the area of key generation.
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Retrodirective assisted secure wireless key establishment,” _IEEE Transactions on Communications_, vol. 65, no. 1, pp. 320 – 334, Jan. 2017. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7588176)
   * This paper designed key generation with retrodirective array, which acts as the relay node.
   * Simulation study
+1. **Junqing Zhang**, Roger Woods,  Trung Q. Duong, Alan Marshall, Yuan Ding, Yi Huang, and Qian Xu, “Experimental study on key generation for physical layer security in wireless communications,” _IEEE Access_, vol. 4, pp. 4464 – 4477, Sept. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7557048)
+	* Experimental study
