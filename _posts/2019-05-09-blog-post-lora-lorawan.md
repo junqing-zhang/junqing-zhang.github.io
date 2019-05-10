@@ -12,9 +12,9 @@ tags:
 This paper summarizes resources for LoRa and LoRaWAN.
 <figure>
   <img src="{{site.url}}/images/lorawan/lorawan_architecture.png" alt="LoRaWAN Architecture"/>
-  <figcaption>LoRaWAN Architecture. Source: Page 8 of the white paper [A technical overview of LoRa® and LoRaWAN™](https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf){:target="_blank"}</figcaption>
+  <figcaption>LoRaWAN Architecture. </figcaption>
 </figure>
-
+Source: Page 8 of the white paper [A technical overview of LoRa® and LoRaWAN™](https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf){:target="_blank"}
 
 
 # LoRa
