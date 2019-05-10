@@ -12,7 +12,7 @@ tags:
 This paper summarizes resources for LoRa and LoRaWAN.
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/lorawan/lorawan_architecture.png" alt="...">
+<img align="center" width="1000" src="{{ site.url }}/images/lorawan/lorawan_architecture.png" alt="..." title="LoRaWAN Architecture">
 <br />
 
 # LoRa
