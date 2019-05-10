@@ -18,10 +18,15 @@ This paper summarizes resources for LoRa and LoRaWAN.
 * Understanding LoRa RF modulation [link](https://revspace.nl/DecodingLora){:target="_blank"}
 
 # LoRaWAN
+LoRaWAN is a media access control (MAC) protocol for wide area networks. It is defined by [LoRa Alliance](https://lora-alliance.org/){:target="_blank"}
+
+LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. A difference between Symphony Link and LoRaWAN can be found [here](https://www.link-labs.com/whitepaper-symphony-link-vs-lorawan?hsCtaTracking=e10ced9e-aeca-4846-938a-7332bcf2e515%7C016f5d73-fc31-4196-835a-1f573372d5bb){:target="_blank"}
+
 ## Standard
 * LoRaWAN specifications [link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}
 
 ## Tutorial
+* [LoRaWAN Overview by TTN](https://www.thethingsnetwork.org/docs/lorawan/){:target="_blank"}
 * mbed tutorial: Building a private LoRa network [link](https://os.mbed.com/docs/mbed-os/v5.12/tutorials/LoRa-tutorial.html){:target="_blank"}
 * LoRaWAN network architecture [link](https://os.mbed.com/docs/mbed-os/v5.12/reference/lora-tech.html){:target="_blank"}
 
