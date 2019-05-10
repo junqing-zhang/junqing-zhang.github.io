@@ -13,6 +13,8 @@ This paper summarizes resources for LoRa and LoRaWAN.
 
 
 # LoRa
+LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation.
+
 ## Understand LoRa modulation
 * LoRa modem with LimeSDR [Link](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
 * Understanding LoRa RF modulation [link](https://revspace.nl/DecodingLora){:target="_blank"}
