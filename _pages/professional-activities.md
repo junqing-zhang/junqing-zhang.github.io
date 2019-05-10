@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 toc_max_header: 1
 ---
-{% include toc %}
+{% include toc h_min = 1%}
 
 # Public Engagement
 ## STEM for BRITAIN 2017
