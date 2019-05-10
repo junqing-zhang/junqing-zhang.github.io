@@ -16,6 +16,11 @@ This paper summarizes resources for LoRa and LoRaWAN.
 <br />
 Source: Page 8 of the white paper [A technical overview of LoRa® and LoRaWAN™](https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf){:target="_blank"}
 
+<figure>
+  <img src="{{site.url}}/images/lorawan/lorawan_architecture.png" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
 
 
 # LoRa
