@@ -27,15 +27,15 @@ This paper summarizes resources for LoRa and LoRaWAN.
 
 ## LoRaWAN Network Server
 * Public Network Server	
-	* The Things Network https://www.thethingsnetwork.org/
+	* The Things Network](https://www.thethingsnetwork.org/){:target="_blank"} 
 * Private Network Server	
 	* Tutorial: Setting up a Private Routing Environment
  [link](https://www.thethingsnetwork.org/article/setting-up-a-private-routing-environment){:target="_blank"}
-	* https://www.loraserver.io/
+	* [loraserver](https://www.loraserver.io/){:target="_blank"}
 	
 
 ## LoRaWAN Demo
-* A LoRaWAN demo has been created at University of Liverpool. [link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}
+* A LoRaWAN demo has been created at University of Liverpool. [(link)](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}. A LoRaWAN gateway hosted at The Things Network by ANRG [Link）](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
 # Resources
 ## Hardware
@@ -48,4 +48,4 @@ This paper summarizes resources for LoRa and LoRaWAN.
 * Arduino RadioHead (not supporting LoRaWAN) [link](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}
 * Pycom micropython LoRa/LoRaWAN modules [link](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
 
-A LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction in [Link](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
+
