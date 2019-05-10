@@ -12,10 +12,8 @@ tags:
 This paper summarizes resources for LoRa and LoRaWAN.
 <figure>
   <img src="{{site.url}}/images/lorawan/lorawan_architecture.png" alt="LoRaWAN Architecture"/>
-  <figcaption>LoRaWAN Architecture. </figcaption>
+  <figcaption>LoRaWAN Architecture. Source: Page 8 of the white paper  <a href="https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf" title="A technical overview of LoRa® and LoRaWAN™">Creative Commons license</a> </figcaption>
 </figure>
-Source: Page 8 of the white paper [A technical overview of LoRa® and LoRaWAN™](https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf){:target="_blank"}
-
 
 # LoRa
 LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation.
