@@ -11,6 +11,9 @@ tags:
 
 This paper summarizes resources for LoRa and LoRaWAN.
 
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/lorawan/lorawan_architecture.png" alt="...">
+<br />
 
 # LoRa
 LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation.
