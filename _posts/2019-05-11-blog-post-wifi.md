@@ -20,8 +20,7 @@ This paper summarizes resources for WiFi.
 
 ## [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"}
 
-## 
-[Atheros CSI Tool](https://wands.sg/research/wifi/AtherosCSI/){:target="_blank"}
+## [Atheros CSI Tool](https://wands.sg/research/wifi/AtherosCSI/){:target="_blank"}
 
 
 
