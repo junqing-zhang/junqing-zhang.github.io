@@ -40,7 +40,7 @@ LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. 
 
 ## LoRaWAN Network Server
 * Public Network Server	
-	* The Things Network](https://www.thethingsnetwork.org/){:target="_blank"} 
+	* [The Things Network](https://www.thethingsnetwork.org/){:target="_blank"} 
 * Private Network Server	
 	* Tutorial: Setting up a Private Routing Environment
  [link](https://www.thethingsnetwork.org/article/setting-up-a-private-routing-environment){:target="_blank"}
