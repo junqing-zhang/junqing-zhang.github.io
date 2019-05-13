@@ -13,6 +13,7 @@ This page summarizes our publication in the area of key generation.
 {% include toc %}
 
 # Key Generation Survey
+1. Guyue Li, Chen Sun, **Junqing Zhang**, Eduard Jorswieck, Bin Xiao, Aiqun Hu, “Physical Layer Key Generation in 5G and Beyond Wireless Communications: Challenges and Opportunities,” _Entropy_, 2019
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, 2019
 	* This paper gives a tutorial on the radio frequency fingerprinting identification and key generation, in order to achieve the user identify authentication and secure communications, respectively. An integrated security framework is proposed by combining these two techniques.
 1. **Junqing Zhang**, Trung Q. Duong, Alan Marshall, and Roger Woods, “Key generation from wireless channels: A review,” _IEEE Access_, vol. 4, pp. 614- 626, Mar. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7393435)
