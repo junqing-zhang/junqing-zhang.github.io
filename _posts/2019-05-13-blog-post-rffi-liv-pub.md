@@ -1,7 +1,7 @@
 ---
 title: "Radio Frequency Fingerprinting Identification Publication @ University of Liverpool"
 date: 2019-05-13
-permalink: /posts/2019/04/blog-post-rffi-liv-pub/
+permalink: /posts/2019/05/blog-post-rffi-liv-pub/
 categories:
   - Radio Frequency Fingerprinting Identification
 tags:
