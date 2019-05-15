@@ -37,6 +37,8 @@ Comparsion between different SDR. Source: [https://www.crowdsupply.com/lime-micr
 
 # Universal Software Radio Peripheral (USRP)
 * USRP Selection: [https://kb.ettus.com/Selecting_an_USRP_Device](https://kb.ettus.com/Selecting_an_USRP_Device)
+
+Some USRP series do not have RF capabilities, e.g., the N210 USRP. A separate RF daughterboard will be required.
 * RF Daughterboard Selection: Not all the USRP is equpped with the RF card, including N and X series. A selection guide is provided at [https://kb.ettus.com/Selecting_an_RF_Daughterboard](https://kb.ettus.com/Selecting_an_RF_Daughterboard)
 
 # Wireless Open Access Research Platform (WARP)
