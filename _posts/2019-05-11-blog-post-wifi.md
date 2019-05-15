@@ -14,6 +14,7 @@ This paper summarizes resources for WiFi.
 # Testbed
 
 ## USRP
+* https://www.wime-project.net/
 * [IEEE 802.11 a/g/p transceiver for GNU Radio](https://github.com/bastibl/gr-ieee802-11){:target="_blank"}
 
 ## [WARP 802.11 reference design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
