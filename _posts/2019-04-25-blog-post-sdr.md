@@ -15,6 +15,7 @@ This page summarizes information for software defined radio (SDR).
 * Comparisons among different SDR can be found at [link](https://www.crowdsupply.com/lime-micro/limesdr) and [link](https://www.rtl-sdr.com/about-rtl-sdr/)
 
 Comparsion between different SDR. Source: https://www.crowdsupply.com/lime-micro/limesdr
+
 | Item                     | HackRF One                 | Ettus B200          | Ettus B210          | BladeRF x40         | RTL-SDR      | LimeSDR                                  |
 |--------------------------|----------------------------|---------------------|---------------------|---------------------|--------------|------------------------------------------|
 | Frequency Range          | 1MHz-6GHz                  | 70MHz-6GHz          | 70MHz-6GHz          | 300MHz-3.8GHz       | 22MHz-2.2GHz | 100kHz-3.8GHz                            |
