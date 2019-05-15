@@ -14,24 +14,24 @@ This page summarizes information for software defined radio (SDR).
 # SDR Comparison
 * Comparisons among different SDR can be found at [link](https://www.crowdsupply.com/lime-micro/limesdr) and [link](https://www.rtl-sdr.com/about-rtl-sdr/)
 
-Comparsion between different SDR. Source: https://www.crowdsupply.com/lime-micro/limesdr
+Comparsion between different SDR. Source: [https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table](https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table)
 
-| Item                     | HackRF One                 | Ettus B200          | Ettus B210          | BladeRF x40         | RTL-SDR      | LimeSDR                                  |
-|--------------------------|----------------------------|---------------------|---------------------|---------------------|--------------|------------------------------------------|
-| Frequency Range          | 1MHz-6GHz                  | 70MHz-6GHz          | 70MHz-6GHz          | 300MHz-3.8GHz       | 22MHz-2.2GHz | 100kHz-3.8GHz                            |
-| RF Bandwidth             | 20MHz                      | 61.44MHz            | 61.44MHz            | 40MHz               | 3.2MHz       | 61.44MHz                                 |
-| Sample Depth             | 8 bits                     | 12 bits             | 12 bits             | 12 bits             | 8 bits       | 12 bits                                  |
-| Sample Rate              | 20MSPS                     | 61.44MSPS           | 61.44MSPS           | 40MSPS              | 3.2MSPS      | 61.44MSPS (Limited by USB 3.0 data rate) |
-| Transmitter Channels     | 1                          | 1                   | 2                   | 1                   | 0            | 2                                        |
-| Receivers                | 1                          | 1                   | 2                   | 1                   | 1            | 2                                        |
-| Duplex                   | Half                       | Full                | Full                | Full                | N/A          | Full                                     |
-| Interface                | USB 2.0                    | USB 3.0             | USB 3.0             | USB 3.0             | USB 2.0      | USB 3.0                                  |
-| Programmable Logic Gates | 64 macrocell CPLD          | 75k                 | 100k                | 40k (115k avail)    | N/A          | 40k                                      |
-| Chipset                  | MAX5864, MAX2837, RFFC5072 | AD9364              | AD9361              | LMS6002M            | RTL2832U     | LMS7002M                                 |
-| Open Source              | Full                       | Schematic, Firmware | Schematic, Firmware | Schematic, Firmware | No           | Full                                     |
-| Oscillator Precision     | +/-20ppm                   | +/-2ppm             | +/-2ppm             | +/-1ppm             | ?            | +/-1ppm initial, +/-4ppm stable          |
-| Transmit Power           | -10dBm+ (15dBm @ 2.4GHz)   | 10dBm+              | 10dBm+              | 6dBm                | N/A          | 0 to 10dBm (depending on frequency)      |
-| Price                    | $299                       | $686                | $1,119              | $420 ($650)         | ~$10         | $299 ($289 pre-order)                    |
+| Item                     | HackRF One                  | Ettus B200          | Ettus B210          | BladeRF x40         | RTL-SDR          | LimeSDR                           | LimeSDR Mini                        |
+|--------------------------|-----------------------------|---------------------|---------------------|---------------------|------------------|-----------------------------------|-------------------------------------|
+| Frequency Range          | 1 MHz - 6 GHz               | 70 MHz - 6 GHz      | 70 MHz - 6 GHz      | 300 MHz - 3.8 GHz   | 22 MHz - 2.2 GHz | 100 kHz - 3.8 GHz                 | 10 MHz - 3.5 GHz                    |
+| RF Bandwidth             | 20 MHz                      | 61.44 MHz           | 61.44 MHz           | 40 MHz              | 3.2 MHz          | 61.44 MHz                         | 30.72 MHz                           |
+| Sample Depth             | 8 bit                       | 12 bit              | 12 bit              | 12 bit              | 8 bit            | 12 bit                            | 12 bit                              |
+| Sample Rate              | 20 MSPS                     | 61.44 MSPS          | 61.44 MSPS          | 40 MSPS             | 3.2 MSPS         | 61.44 MSPS                        | 30.72MSPS                           |
+| TX Channels              | 1                           | 1                   | 2                   | 1                   | 0                | 2                                 | 1                                   |
+| RX Channels              | 1                           | 1                   | 2                   | 1                   | 1                | 2                                 | 1                                   |
+| Duplex                   | Half                        | Full                | Full                | Full                | N/A              | Full                              | Full                                |
+| Interface                | USB 2.0                     | USB 3.0             | USB 3.0             | USB 3.0             | USB 2.0          | USB 3.0                           | USB 3.0                             |
+| Programmable Logic Gates | 64 macrocell CPLD           | 75k                 | 100k                | 40k (115k avail)    | N/A              | 40k                               | 16K                                 |
+| Chipset                  | MAX5864, MAX2837, RFFC5072  | AD9364              | AD9361              | LMS6002M            | RTL2832U         | LMS7002M                          | LMS7002M                            |
+| Open Source              | Full                        | Schematic, Firmware | Schematic, Firmware | Schematic, Firmware | No               | Full                              | Full                                |
+| Oscillator Precision     | +/- 20 ppm                  | +/- 2 ppm           | +/- 2 ppm           | +/- 1 ppm           | ?                | +/-1 ppm initial, +/-4 ppm stable | +/- 1 ppm initial, +/- 4 ppm stable |
+| Transmit Power           | -10 dBm+ (15 dBm @ 2.4 GHz) | 10 dBm+             | 10 dBm+             | 6 dBm               | N/A              | max 10 dBm (depending on freq.)   | max 10 dBm (depending on freq.)     |
+| Price                    | $299                        | $686                | $1,119              | $420 ($650)         | ~$10             | $299                              | $159                                |
 
 
 
