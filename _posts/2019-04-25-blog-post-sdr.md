@@ -14,7 +14,7 @@ This page summarizes information for software defined radio (SDR).
 # SDR Comparison
 * Comparisons among different SDR can be found at [link](https://www.crowdsupply.com/lime-micro/limesdr) and [link](https://www.rtl-sdr.com/about-rtl-sdr/)
 
-| delete                   | HackRF One                 | Ettus B200          | Ettus B210          | BladeRF x40         | RTL-SDR      | LimeSDR                                  |
+|                          | HackRF One                 | Ettus B200          | Ettus B210          | BladeRF x40         | RTL-SDR      | LimeSDR                                  |
 |--------------------------|----------------------------|---------------------|---------------------|---------------------|--------------|------------------------------------------|
 | Frequency Range          | 1MHz-6GHz                  | 70MHz-6GHz          | 70MHz-6GHz          | 300MHz-3.8GHz       | 22MHz-2.2GHz | 100kHz-3.8GHz                            |
 | RF Bandwidth             | 20MHz                      | 61.44MHz            | 61.44MHz            | 40MHz               | 3.2MHz       | 61.44MHz                                 |
@@ -30,8 +30,8 @@ This page summarizes information for software defined radio (SDR).
 | Oscillator Precision     | +/-20ppm                   | +/-2ppm             | +/-2ppm             | +/-1ppm             | ?            | +/-1ppm initial, +/-4ppm stable          |
 | Transmit Power           | -10dBm+ (15dBm @ 2.4GHz)   | 10dBm+              | 10dBm+              | 6dBm                | N/A          | 0 to 10dBm (depending on frequency)      |
 | Price                    | $299                       | $686                | $1,119              | $420 ($650)         | ~$10         | $299 ($289 pre-order)                    |
+[Comparsion between different SDR. Source: https://www.crowdsupply.com/lime-micro/limesdr]
 
-Source: https://www.crowdsupply.com/lime-micro/limesdr
 
 # Universal Software Radio Peripheral (USRP)
 * USRP Selection: [https://kb.ettus.com/Selecting_an_USRP_Device](https://kb.ettus.com/Selecting_an_USRP_Device)
