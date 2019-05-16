@@ -15,3 +15,5 @@ This page introduces the background of Radio Frequency Fingerprinting Identifica
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/rffi/RFF_identification_procedure.png" alt="...">
 <br />
+
+![Alt]({{ site.url }}/images/rffi/RFF_identification.pdf)
