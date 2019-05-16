@@ -10,6 +10,7 @@ tag:
 
 This page provides some resource and my own experience for building a personal website.
 
+
 Everyone has different requirements on building a website. The factors include the theme, webpage layout, ad free, user friendliness, widgets, etc. On my first attempt, I used WordPress to build my personal website. It worked really well until one day I noticed there is advertisement at the bottom of each page. If you would like ad free, you have to pay a small amount of fee monthly to upgrade ([https://wordpress.com/pricing/](https://wordpress.com/pricing/)). 
 Therefore, I decided to switch to another platform which will allow me to enjoy all the benefits, in particular ad free, without paying.
 After a survey of the platforms, I finally chose github pages. 
