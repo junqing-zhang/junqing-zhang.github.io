@@ -1,6 +1,6 @@
 ---
 title: 'Resources for LoRa and LoRaWAN'
-date: 2019-05-09
+date: 2019-05-17
 permalink: /posts/2019/05/blog-post-lora-lorawan/
 categories:
   - LoRaWAN
@@ -17,7 +17,7 @@ This paper summarizes resources for LoRa and LoRaWAN.
 
 {% include toc %}
 
-A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}
+A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}. Sometimes peopole use LoRa strictly as the physical layer modualtion technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN.
 
 
 # LoRa
@@ -33,7 +33,10 @@ LoRaWAN is a media access control (MAC) protocol for wide area networks. It is d
 LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. A difference between Symphony Link and LoRaWAN can be found [here](https://www.link-labs.com/whitepaper-symphony-link-vs-lorawan?hsCtaTracking=e10ced9e-aeca-4846-938a-7332bcf2e515%7C016f5d73-fc31-4196-835a-1f573372d5bb){:target="_blank"}
 
 ## Standard
-* LoRaWAN specifications [link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}
+The first LoRaWAN specification was published on January 2015 [download link](https://lora-alliance.org/sites/default/files/2018-05/2015_-_lorawan_specification_1r0_611_1.pdf) and the lastes LoRaWAN specifications is LoRaWAN® Specification v1.0.3 (July 2018) [download link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}.
+
+Many LoRaWAN protocol implementations may not support the lastest version. For example, [pycom devices only support LoRaWAN 1.0.2](https://docs.pycom.io/firmwareapi/pycom/network/lora.html). The previous versions of LoRaWAN specifications  can be accessed from [https://lora-alliance.org/resource-hub](https://lora-alliance.org/resource-hub)
+
 
 ## Tutorial
 * [LoRaWAN Overview by TTN](https://www.thethingsnetwork.org/docs/lorawan/){:target="_blank"}
