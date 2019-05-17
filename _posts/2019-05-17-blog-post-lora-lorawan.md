@@ -49,14 +49,14 @@ Many LoRaWAN protocol implementations may not support the lastest version. For e
 * Public Network Server	
 	* [The Things Network](https://www.thethingsnetwork.org/){:target="_blank"} 
 * Private Network Server	
-	* Tutorial: Setting up a Private Routing Environment
+	* Tutorial: TTN: Setting up a Private Routing Environment
  [link](https://www.thethingsnetwork.org/article/setting-up-a-private-routing-environment){:target="_blank"}
 	* [loraserver](https://www.loraserver.io/){:target="_blank"}
 	
 
 ## LoRaWAN Demo at University of Liverpool
 A LoRaWAN demo has been created at the Adavenced Networks Research Group (ANRG), University of Liverpool. The demo built a complete LoRaWAN-based IoT system, including FiPy end devices, gateway, and applications.
-A detailed introduction can be found at([link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}). 
+A detailed introduction can be found at [link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}. 
 
 A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
