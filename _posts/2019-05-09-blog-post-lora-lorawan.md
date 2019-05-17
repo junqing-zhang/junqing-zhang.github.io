@@ -15,6 +15,8 @@ This paper summarizes resources for LoRa and LoRaWAN.
   <figcaption>LoRaWAN Architecture. Source: Page 8 of the white paper  <a href="https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf" title="A technical overview of LoRa® and LoRaWAN™">A technical overview of LoRa® and LoRaWAN™"</a> </figcaption>
 </figure>
 
+{% include toc %}
+
 A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}
 
 
@@ -60,5 +62,8 @@ LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. 
 * Arduino LMIC [link](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}
 * Arduino RadioHead (not supporting LoRaWAN) [link](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}
 * Pycom micropython LoRa/LoRaWAN modules [link](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
+
+# FAQ
+* 14 LoRa FAQs Answered from LinkLabs [https://www.link-labs.com/blog/lora-faqs](https://www.link-labs.com/blog/lora-faqs)
 
 
