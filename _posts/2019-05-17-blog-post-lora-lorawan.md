@@ -18,8 +18,9 @@ This paper summarizes resources for LoRa and LoRaWAN.
 {% include toc %}
 
 # Overview
-A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}. Sometimes peopole use LoRa strictly as the physical layer modualtion technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN.
-
+LoRa is a new IoT technique which is very suitable for energy efficient and long range communications.
+Sometimes peopole use LoRa as the physical layer modualtion technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN. 
+A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}.
 
 # LoRa
 LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation.
