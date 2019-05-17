@@ -17,6 +17,7 @@ This paper summarizes resources for LoRa and LoRaWAN.
 
 {% include toc %}
 
+# Overview
 A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}. Sometimes peopole use LoRa strictly as the physical layer modualtion technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN.
 
 
@@ -52,8 +53,11 @@ Many LoRaWAN protocol implementations may not support the lastest version. For e
 	* [loraserver](https://www.loraserver.io/){:target="_blank"}
 	
 
-## LoRaWAN Demo
-* A LoRaWAN demo has been created at University of Liverpool. [(link)](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}. A LoRaWAN gateway hosted at The Things Network by ANRG [Link）](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
+## LoRaWAN Demo at University of Liverpool
+A LoRaWAN demo has been created at the Adavenced Networks Research Group (ANRG), University of Liverpool. The demo built a complete LoRaWAN-based IoT system, including FiPy end devices, gateway, and applications.
+A detailed introduction can be found at([link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}). 
+
+A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
 # Resources
 ## Hardware
