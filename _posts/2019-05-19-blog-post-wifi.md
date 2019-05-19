@@ -13,6 +13,13 @@ IEEE 802.11 (WiFi) has been used in most of the laptops, smartphones, tablets. T
 
 Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark of the [WiFi alliance](https://www.wi-fi.org/). However, they are used interchangably in this post.
 
+{% include toc %}
+
+# Standard
+IEEE 802.11 standard defines the physcai layer and media access control (MAC) layer protocols. It has undergone a number of amendments in the last twenty years, since its first release in 1997. A complete list of the IEEE 802.11 amendments is summarized at [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11).
+
+The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, OFDM, 5 GHz), 802.11g (2003, OFDM, 2.4 GHz), 802.11n (2009, MIMO OFDM, high throughput), 802.11ac (2013,MIMO OFDM, very high throughput).
+
 # Testbed
 The commercial network interfance cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies, when OFDM-based techique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
 
