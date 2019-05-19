@@ -11,7 +11,7 @@ tags:
 
 IEEE 802.11 (WiFi) has been used in most of the laptops, smartphones, tablets. The widespread use of WiFi has led to extensive research interests in the area of localization, security, sensing and produced massive successful research outcomes. This paper summarizes some hardware and software resources for WiFi for the research purpose.
 
-Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark of the [WiFi alliance](https://www.wi-fi.org/). However, we use them interchangably in this post.
+Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark of the [WiFi alliance](https://www.wi-fi.org/). However, they are used interchangably in this post.
 
 # Testbed
 The commercial network interfance cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies, when OFDM-based techique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
@@ -23,6 +23,8 @@ The commercial network interfance cards (NICs) only provide received signal stre
 ## [WARP 802.11 reference design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
 
 ## Network Interface Cards
+Please note PCI-e interface is required for these NICs.
+
 ### Intel 5300 NIC
 There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC.
 
