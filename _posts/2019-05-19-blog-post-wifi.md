@@ -28,6 +28,7 @@ The commercial network interfance cards (NICs) only provide received signal stre
 * [IEEE 802.11 a/g/p transceiver for GNU Radio](https://github.com/bastibl/gr-ieee802-11){:target="_blank"}
 
 ## [WARP 802.11 reference design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
+There is an 802.11 reference design implemented for WARP boards, which is compatible with the commercial WiFi. An [experimental framework](http://warpproject.org/trac/wiki/802.11/wlan_exp) is implemented by Python for the research development. The available variables/parameters can be found [here](http://warpproject.org/trac/wiki/802.11/wlan_exp/log/entry_types), among which the CSI is made public.
 
 ## Network Interface Cards
 Please note PCI-e interface is required for these NICs.
@@ -45,5 +46,5 @@ There is [Atheros CSI Tool](https://wands.sg/research/wifi/AtherosCSI/){:target=
 ## [Scapy](https://scapy.net/)
 _Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks._ (quoated from [link](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy))
 
-There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py) supporting IEEE 802.11 
+There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py) supporting IEEE 802.11.
 
