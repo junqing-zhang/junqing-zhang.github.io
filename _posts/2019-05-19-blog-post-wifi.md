@@ -30,14 +30,21 @@ The commercial network interfance cards (NICs) only provide received signal stre
 ## [WARP 802.11 Reference Design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
 There is an 802.11 reference design implemented for WARP boards, which is compatible with the commercial WiFi. An [experimental framework](http://warpproject.org/trac/wiki/802.11/wlan_exp) is implemented by Python for the research development. The available variables/parameters can be found [here](http://warpproject.org/trac/wiki/802.11/wlan_exp/log/entry_types), among which the CSI is made public.
 
+_WARP is being actively used for research in many areas like power management, architectures for wireless receivers, physical layer algorithms, access protocols, routing and cognitive radios._ 
+A list of papers using WARP can be found at [here](http://warpproject.org/trac/wiki/PapersandPresentations).
+
 ## Network Interface Cards
 Please note PCI-e interface is required for these NICs.
 
 ### Intel 5300 NIC
 There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC.
 
+This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [link](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
+
 ### Atheros Chipsets
-There is [Atheros CSI Tool](https://wands.sg/research/wifi/AtherosCSI/){:target="_blank"}.
+There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}.
+
+A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users).
 
 # Software Tool
 ## [Radiotap](https://www.radiotap.org/)
