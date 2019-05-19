@@ -22,9 +22,12 @@ The commercial network interfance cards (NICs) only provide received signal stre
 
 ## [WARP 802.11 reference design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
 
-## [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"}
+## Network Interface Cards
+### Intel 5300 NIC
+There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC.
 
-## [Atheros CSI Tool](https://wands.sg/research/wifi/AtherosCSI/){:target="_blank"}
+### Atheros chipsets
+There is [Atheros CSI Tool](https://wands.sg/research/wifi/AtherosCSI/){:target="_blank"}.
 
 # Software Tool
 ## [Radiotap](https://www.radiotap.org/)
