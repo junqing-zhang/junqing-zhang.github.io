@@ -24,13 +24,11 @@ This paper summarizes resources for WiFi.
 ## [Atheros CSI Tool](https://wands.sg/research/wifi/AtherosCSI/){:target="_blank"}
 
 # Software Tool
-## Radiotap
-* [Official link](https://www.radiotap.org/)
+## [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html)
 
-## [Scapy]((https://scapy.net/))
+## [Scapy](https://scapy.net/)
 _Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks._ (quoated from [link](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy))
 
-There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py
-) supporting IEEE 802.11 
+There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py) supporting IEEE 802.11 
 
