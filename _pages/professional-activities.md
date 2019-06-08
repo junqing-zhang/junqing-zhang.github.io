@@ -96,6 +96,7 @@ toc_max_header: 1
 * IEEE Conference on Communications and Network Security (CNS) 2018
 * IEEE GLOBECOM 2014 - 2017
 * IEEE International Conference on Communications (ICC) 2016, 2017, 2019
+* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2019
 * IEEE Wireless Communications and Networking Conference (WCNC) 2017, 2018
 * IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2016
 * IEEE/CIC International Conference on Communications in China (ICCC) 2017
