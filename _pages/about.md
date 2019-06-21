@@ -35,7 +35,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
-Web: https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/
+Web: [https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/)
 Tel: 0151 79 57790  
 Department of Electrical Engineering and Electronics  
 University of Liverpool  
