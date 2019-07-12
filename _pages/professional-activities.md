@@ -21,6 +21,7 @@ toc_max_header: 1
 
 # Invited Talk
 * Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
+* Joint University of Liverpool-Xian Jiaotong University Workshop at University of Liverpool, UK, 24th June, 2019
 * Invited by Dr. An Liu at Zhejiang University, China, 4th Sept. 2018
 * IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
 * Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
