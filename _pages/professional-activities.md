@@ -13,9 +13,6 @@ toc_max_header: 1
 * **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf)
 * STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
-## Queen’s University Belfast Postdoc Showcase - Poster Competition
-* Junqing Zhang, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept. 2017
-
 # Tutorial
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14 July, 2018
 
@@ -29,6 +26,10 @@ toc_max_header: 1
 * Invited by Dr. Caijun Zhong at Zhejiang University, China, 28th Apr. 2017
 * Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec. 2016
 * Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec. 2016
+
+# Poster Presentation
+## Queen’s University Belfast Postdoc Showcase - Poster Competition
+* Junqing Zhang, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept. 2017
 
 # Editorship
 * Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
