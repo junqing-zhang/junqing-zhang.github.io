@@ -17,6 +17,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
 # Journal Article
+1. **Junqing Zhang**, Ming Ding, David Lopez-Perez, Alan Marshall, and Lajos Hanzo, “Design of an Efficient OFDMA-Based Multi-User Key Generation Protocol,” _IEEE Transactions on Vehicular Technology_, 2019. 
 1. Yuan Ding, Vincent Fusco, **Junqing Zhang**, and Wen-Qin Wang, “Time-modulated OFDM Directional Modulation Transmitters,” _IEEE Transactions on Vehicular Technology_, accepted, 2019. [link](https://ieeexplore.ieee.org/document/8744399)
 1. **Junqing Zhang**, Ming Ding, Guyue Li, and Alan Marshall, “Key Generation Based on Large Scale Fading,” _IEEE Transactions on Vehicular Technology_, accepted, 2019. [link](https://ieeexplore.ieee.org/document/8735939)
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, 2019. [link](https://ieeexplore.ieee.org/document/8715341)
