@@ -17,6 +17,7 @@ toc_max_header: 1
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14 July, 2018
 
 # Invited Talk
+* Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19 July, 2019
 * Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
 * Joint University of Liverpool-Xian Jiaotong University Workshop at University of Liverpool, UK, 24th June, 2019
 * Invited by Dr. An Liu at Zhejiang University, China, 4th Sept. 2018
@@ -28,8 +29,9 @@ toc_max_header: 1
 * Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec. 2016
 
 # Poster Presentation
-## Queen’s University Belfast Postdoc Showcase - Poster Competition
-* Junqing Zhang, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept. 2017
+## Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019, 
+
+## Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept. 2017
 
 # Editorship
 * Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
