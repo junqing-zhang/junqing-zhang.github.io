@@ -29,7 +29,7 @@ toc_max_header: 1
 * Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec. 2016
 
 # Poster Presentation
-* Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019, 
+* Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019
 * Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept. 2017
 
 # Editorship
