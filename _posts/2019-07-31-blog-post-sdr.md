@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio'
-date: 2019-05-16
-permalink: /posts/2019/05/blog-post-sdr/
+date: 2019-07-31
+permalink: /posts/2019/07/blog-post-sdr/
 categories:
   - Resources
 tags:
@@ -56,3 +56,5 @@ Strictly speaking, WARP is not an SDR platform, because it uses a WiFi chipset M
 # Development Tool
 
 ## GNU Radio
+[Tutorial](https://wiki.gnuradio.org/index.php/Tutorials){:target="_blank"}
+
