@@ -7,7 +7,7 @@ categories:
 tags:
   - Resources
   - Software Defined Radio
-  -- USRP
+  - USRP
 ---
 
 This page summarizes information for Universal Software Radio Peripheral (USRP).
