@@ -20,9 +20,9 @@ Some USRP series do not have RF capabilities, e.g., the N210 USRP. A separate RF
 * RF Daughterboard Selection: Not all the USRP is equpped with the RF card, including N and X series. A selection guide is provided at [https://kb.ettus.com/Selecting_an_RF_Daughterboard](https://kb.ettus.com/Selecting_an_RF_Daughterboard){:target="_blank"}
 
 # Configuration
-*[Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on Linux](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux){:target="_blank"}
-*[Building and Installing the USRP Open Source Toolchain (UHD and GNU Radio) on Windows](https://kb.ettus.com/Building_and_Installing_the_USRP_Open_Source_Toolchain_(UHD_and_GNU_Radio)_on_Windows){:target="_blank"}
-*[Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on OS X](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_OS_X){:target="_blank"}
+* [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on Linux](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux){:target="_blank"}
+* [Building and Installing the USRP Open Source Toolchain (UHD and GNU Radio) on Windows](https://kb.ettus.com/Building_and_Installing_the_USRP_Open_Source_Toolchain_(UHD_and_GNU_Radio)_on_Windows){:target="_blank"}
+* [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on OS X](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_OS_X){:target="_blank"}
 
 
 
