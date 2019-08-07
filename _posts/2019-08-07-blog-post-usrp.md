@@ -1,6 +1,6 @@
 ---
 title: 'USRP'
-date: 2019-07-31
+date: 2019-08-07
 permalink: /posts/2019/08/blog-post-usrp/
 categories:
   - Resources
