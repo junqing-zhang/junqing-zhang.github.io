@@ -20,7 +20,7 @@ Some USRP series do not have RF capabilities, e.g., the N210 USRP. A separate RF
 * RF Daughterboard Selection: Not all the USRP is equpped with the RF card, including N and X series. A selection guide is provided at [https://kb.ettus.com/Selecting_an_RF_Daughterboard](https://kb.ettus.com/Selecting_an_RF_Daughterboard){:target="_blank"}
 
 # Installation of GNURadio and UHD
-It is should recommended to use pybombs to install gnuradio and UHD in Ubuntu. Instructions can be found [here](https://www.gnuradio.org/blog/2016-06-19-pybombs-the-what-the-how-and-the-why/){:target="_blank"}
+It is strongly recommended to use pybombs to install gnuradio and UHD in Ubuntu. Instructions can be found [here](https://www.gnuradio.org/blog/2016-06-19-pybombs-the-what-the-how-and-the-why/){:target="_blank"}
 
 Other methods can be found as follows.
 * [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on Linux](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux){:target="_blank"}
