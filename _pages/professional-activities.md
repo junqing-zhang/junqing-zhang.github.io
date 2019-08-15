@@ -45,6 +45,7 @@ toc_max_header: 1
 * IEEE GLOBECOM 2016 Signal Processing for Communications Symposium, Security and Secrecy Track
 
 # TPC Member
+* IEEE International Conference on Communications (ICC) 2020: Wireless Communications Symposium
 * IEEE International Conference on Communications (ICC) 2020: Communication and Information Systems Security Symposium
 * IEEE GLOBECOM 2019 Signal Processing for Communications Symposium
 * IEEE GLOBECOM 2019 Green Communication Systems and Networks
