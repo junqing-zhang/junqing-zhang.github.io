@@ -17,9 +17,10 @@ toc_max_header: 1
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14 July, 2018
 
 # Invited Talk
-* Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19 July, 2019
+* Invited talk at Zhijiang Lab, China, 16th August, 2019
+* Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19th July, 2019
 * Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
-* Joint University of Liverpool-Xian Jiaotong University Workshop at University of Liverpool, UK, 24th June, 2019
+* Invited talk at Joint Workshop of University of Liverpool-Xian Jiaotong University at University of Liverpool, UK, 24th June, 2019
 * Invited by Dr. An Liu at Zhejiang University, China, 4th Sept. 2018
 * IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
 * Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
