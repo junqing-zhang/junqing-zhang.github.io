@@ -14,32 +14,32 @@ toc_max_header: 1
 * STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
 # Tutorial
-* Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14 July, 2018
+* Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
 # Invited Talk
-* Invited by Dr. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug. 2019
-* Invited by Dr. Linning Peng at Southeast University, China, 22nd Aug. 2019
-* Invited talk at Zhijiang Lab, China, 16th August, 2019
+* Invited by Prof. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug., 2019
+* Invited by Dr. Linning Peng at Southeast University, China, 22nd Aug., 2019
+* Invited talk at Zhijiang Lab, China, 16th Aug., 2019
 * Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19th July, 2019
 * Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
 * Invited talk at Joint Workshop of University of Liverpool-Xian Jiaotong University at University of Liverpool, UK, 24th June, 2019
-* Invited by Dr. An Liu at Zhejiang University, China, 4th Sept. 2018
+* Invited by Dr. An Liu at Zhejiang University, China, 4th Sept., 2018
 * IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
 * Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
-* Invited by Prof. Jie Xu at Guangdong University of Technology, China, 22nd Dec. 2017
-* Invited by Dr. Caijun Zhong at Zhejiang University, China, 28th Apr. 2017
-* Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec. 2016
-* Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec. 2016
+* Invited by Prof. Jie Xu at Guangdong University of Technology, China, 22nd Dec., 2017
+* Invited by Dr. Caijun Zhong at Zhejiang University, China, 28th Apr., 2017
+* Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec., 2016
+* Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec., 2016
 
 # Poster Presentation
 * Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019
-* Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept. 2017
+* Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept., 2017
 
 # Editorship
 * Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
 
 # TPC Chair
-* 6th IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security [call for paper]
+* 6th IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security
 
 # Technical Conference Co-Chair
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
