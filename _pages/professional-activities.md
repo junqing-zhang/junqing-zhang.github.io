@@ -17,6 +17,7 @@ toc_max_header: 1
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
 # Invited Talk
+* Invited by Prof. Chao Wang at Tianjin University, China, 30th Aug., 2019
 * Invited by Prof. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug., 2019
 * Invited by Dr. Linning Peng at Southeast University, China, 22nd Aug., 2019
 * Invited talk at Zhijiang Lab, China, 16th Aug., 2019
