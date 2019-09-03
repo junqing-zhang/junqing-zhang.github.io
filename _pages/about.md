@@ -16,7 +16,7 @@ He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
 ## News
-* PhD Opening: [Artificial Intelligence Enhanced Wireless Device Classification Using Radio Frequency Fingerprinting](https://www.findaphd.com/phds/project/artificial-intelligence-enhanced-wireless-device-classification-using-radio-frequency-fingerprinting/?p111050) 
+* PhD Opening: [Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/) 
 * The first Annual General Meeting of the UK-Jiangsu 20+20 World-Class University Consortium was held. [link]({{ site.url }}/posts/2019/04/blog-post-uk-jiangsu-collaboration/)
 * My Royal Society Research Grants application is successful. This project will employ deep learning to classify LoRa devices based on their unique radio frequency fingerprinting.
 
