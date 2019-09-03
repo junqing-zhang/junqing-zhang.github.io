@@ -5,9 +5,19 @@ permalink: /research-group/
 author_profile: true
 ---
 
-I am always looking for excellent PhD students and post-doc.
+I am always looking for excellent PhD students, post-doc, and visiting researchers.
 
-I also welcome visiting researchers. Some potential funding opportunities are listed below.
+# Opening
+I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 20 Sept., 2019.
+
+# Potential Funding
+## Post-doc
+* [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"}
+
+## PhD Students
+* China Scholarship Council
+
+## Visiting Researchers
 * China Scholarship Council
 * [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/) for PhD students and scholars in universities of Jiangsu Province, China.
 
