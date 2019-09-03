@@ -13,10 +13,10 @@ Junqing Zhang is a Tenure Track Fellow (Assistant Professor) at the Department o
 
 He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/)
 
-His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
+His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}.
 
 ## News
-* PhD Opening: [Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/) 
+* PhD Opening: [Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} 
 * The first Annual General Meeting of the UK-Jiangsu 20+20 World-Class University Consortium was held. [link]({{ site.url }}/posts/2019/04/blog-post-uk-jiangsu-collaboration/)
 * My Royal Society Research Grants application is successful. This project will employ deep learning to classify LoRa devices based on their unique radio frequency fingerprinting.
 
@@ -36,7 +36,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
-Web: [https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/)
+Web: [https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/){:target="_blank"}
 Tel: 0151 79 57790  
 Department of Electrical Engineering and Electronics  
 University of Liverpool  
