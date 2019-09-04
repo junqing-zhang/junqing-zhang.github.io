@@ -3,7 +3,11 @@ layout: archive
 title: "Research Group"
 permalink: /research-group/
 author_profile: true
+toc: true
+toc_max_header: 1
 ---
+
+{% include toc h_min = 1%}
 
 I am always looking for excellent PhD students, post-doc, and visiting researchers.
 
