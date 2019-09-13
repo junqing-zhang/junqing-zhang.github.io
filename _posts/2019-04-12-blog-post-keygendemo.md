@@ -4,13 +4,14 @@ date: 2019-04-12
 permalink: /posts/2019/04/12/keygendemo/
 categories:
   - Key Generation
+  - Final Year Project
 tags:
   - Key Generation  
   - Demo
 toc: true
 ---
 
-A WiFi-based key generation demonstration has been developed using WARP board. A full protocol of key generation has been implemented by the Python.
+A WiFi-based key generation demonstration has been developed using WARP board. A full protocol of key generation has been implemented by the Python. This is completed by Mr. Yan Wang as his final year project during 2018 - 2019.
 
 {% include toc %}
 
