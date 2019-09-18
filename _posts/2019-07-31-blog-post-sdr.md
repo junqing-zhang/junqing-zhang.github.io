@@ -34,7 +34,7 @@ There are many SDR platforms available on the market, with different specificati
 | Open Source              | Full                        | Schematic, Firmware | Schematic, Firmware | Schematic, Firmware | No               | Full                              | Full                                |
 | Oscillator Precision     | +/- 20 ppm                  | +/- 2 ppm           | +/- 2 ppm           | +/- 1 ppm           | ?                | +/-1 ppm initial, +/-4 ppm stable | +/- 1 ppm initial, +/- 4 ppm stable |
 | Transmit Power           | -10 dBm+ (15 dBm @ 2.4 GHz) | 10 dBm+             | 10 dBm+             | 6 dBm               | N/A              | max 10 dBm (depending on freq.)   | max 10 dBm (depending on freq.)     |
-| Price                    | $299                        | $686                | $1,119              | $420 ($650)         | ~$10             | $299                              | $159                                |
+| Price                    | $299                        | $686                | $1,119              | $420                | ~$10             | $299                              | $159                                |
 
 
 
