@@ -36,7 +36,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 ## Demonstration
 * [Key Generation Demonstration using WARP]({{ site.url }}/posts/2019/04/12/keygendemo/)
-* [LoRaWAN demonstration using Pycom FiPy]({{ site.url }}/posts/2019/04/blog-post-lorawan-fipy-demo/)
+* [LoRaWAN Demonstration using Pycom FiPy]({{ site.url }}/posts/2019/04/blog-post-lorawan-fipy-demo/)
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
