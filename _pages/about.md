@@ -34,6 +34,10 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 * Software defined radios including, USRP Zedboard + FMCOMMS2 and WARP
 * Machine learning applications
 
+## Demonstration
+* [Key Generation Demonstration using WARP]({{ site.url }}/posts/2019/04/12/keygendemo/)
+* [LoRaWAN demonstration using Pycom FiPy]({{ site.url }}/posts/2019/04/blog-post-lorawan-fipy-demo/)
+
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
 Web: [https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/){:target="_blank"}
