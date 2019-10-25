@@ -71,6 +71,12 @@ A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www
 * Arduino RadioHead (not supporting LoRaWAN) [link](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}
 * Pycom micropython LoRa/LoRaWAN modules [link](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
 
+## SDR Implementation
+* gr-lora [link](https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
+* gr-lora [link](https://github.com/BastilleResearch/gr-lora){:target="_blank"}. A detailed explanation of the model and algorithm can be found in [link](https://pubs.gnuradio.org/index.php/grcon/article/view/8){:target="_blank"}.
+* LoRa in Pothos [link](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
+
+
 # FAQ
 * 14 LoRa FAQs Answered from LinkLabs [https://www.link-labs.com/blog/lora-faqs](https://www.link-labs.com/blog/lora-faqs)
 
