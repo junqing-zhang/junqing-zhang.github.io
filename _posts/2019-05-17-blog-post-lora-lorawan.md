@@ -72,8 +72,8 @@ A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www
 * Pycom micropython LoRa/LoRaWAN modules [link](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
 
 ## SDR Implementation
-* [gr-lora]:(https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
-* [gr-lora]:(https://github.com/BastilleResearch/gr-lora){:target="_blank"}. A detailed explanation of the model and algorithm can be found in [link](https://pubs.gnuradio.org/index.php/grcon/article/view/8){:target="_blank"}. (Yes, both their names are gr-lora)
+* [gr-lora:](https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
+* [gr-lora:](https://github.com/BastilleResearch/gr-lora){:target="_blank"}. A detailed explanation of the model and algorithm can be found in [link](https://pubs.gnuradio.org/index.php/grcon/article/view/8){:target="_blank"}. (Yes, both their names are gr-lora)
 * [LoRa in Pothos](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
 
 
