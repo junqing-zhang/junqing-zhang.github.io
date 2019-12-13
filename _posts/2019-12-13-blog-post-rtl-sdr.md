@@ -12,7 +12,7 @@ tags:
 This paper summarizes resources for LoRa and LoRaWAN.
 <figure>
   <img src="{{site.url}}/images/sdr/rtl-sdr.png" alt="RTL SDR"/>
-  <figcaption>RTL SDR"</a> </figcaption>
+  <figcaption>"RTL SDR"</a> </figcaption>
 </figure>
 
 {% include toc %}
