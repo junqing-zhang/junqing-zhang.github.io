@@ -23,7 +23,7 @@ RTL SDR is a low cost SDR. Check [here](https://www.rtl-sdr.com/about-rtl-sdr/){
 # Hardware Parameter
 
 # Development Tool
-
+Please check [here](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/){:target="_blank"} for a quick start guide.
 ## Matlab
 The Matlab has a support package for RTL SDR: [Communications Toolbox Support Package for RTL-SDR Radio](https://uk.mathworks.com/help/supportpkg/rtlsdrradio/index.html){:target="_blank"}
 
