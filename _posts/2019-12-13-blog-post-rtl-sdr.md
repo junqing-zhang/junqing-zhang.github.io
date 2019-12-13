@@ -10,17 +10,20 @@ tags:
 ---
 
 This paper summarizes resources for RTL SDR.
-<figure>
-  <img src="{{site.url}}/images/sdr/rtl-sdr.jpg" alt="RTL SDR"/>
-  <figcaption>RTL SDR</figcaption>
-</figure>
 
 {% include toc %}
 
 # Overview
 RTL SDR is a low cost SDR. Check [here](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"} for detailed information.
+<figure>
+  <img src="{{site.url}}/images/sdr/rtl-sdr.jpg" alt="RTL SDR"/>
+  <figcaption>RTL SDR</figcaption>
+</figure>
+
 
 # Hardware Parameter
+* Center frequency: 22 MHz to 2.2 GHz (depending on the tuner)
+* Sampling rate: 225 - 300 kHz and 900 - 2560 kHz
 
 # Development Tool
 Please check [here](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/){:target="_blank"} for a quick start guide.
@@ -31,3 +34,5 @@ The Matlab has a support package for RTL SDR: [Communications Toolbox Support Pa
 [A Python Wrapper for RTL-SDR Radio](https://pypi.org/project/pyrtlsdr/){:target="_blank"}
 
 ## GNU Radio
+[https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr){:target="_blank"}
+
