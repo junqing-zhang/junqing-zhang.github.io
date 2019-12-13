@@ -1,0 +1,33 @@
+---
+title: 'RTL SDR'
+date: 2019-12-13
+permalink: /posts/2019/12/blog-post-rtl-sdr/
+categories:
+  - SDR
+tags:
+  - SDR
+  - RTL-SDR
+---
+
+This paper summarizes resources for LoRa and LoRaWAN.
+<figure>
+  <img src="{{site.url}}/images/sdr/rtl-sdr.png" alt="RTL SDR"/>
+  <figcaption>RTL SDR"</a> </figcaption>
+</figure>
+
+{% include toc %}
+
+# Overview
+RTL SDR is a low cost SDR. Check [here](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"} for detailed information.
+
+# Hardware Parameter
+
+# Development Tool
+
+## Matlab
+The Matlab has a support package for RTL SDR: [Communications Toolbox Support Package for RTL-SDR Radio](https://uk.mathworks.com/help/supportpkg/rtlsdrradio/index.html){:target="_blank"}
+
+## Python
+[A Python Wrapper for RTL-SDR Radio](https://pypi.org/project/pyrtlsdr/){:target="_blank"}
+
+## GNU Radio
