@@ -9,7 +9,7 @@ tags:
   - RTL-SDR
 ---
 
-This paper summarizes resources for LoRa and LoRaWAN.
+This paper summarizes resources for RTL SDR.
 <figure>
   <img src="{{site.url}}/images/sdr/rtl-sdr.jpg" alt="RTL SDR"/>
   <figcaption>RTL SDR</figcaption>
