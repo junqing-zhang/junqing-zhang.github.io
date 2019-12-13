@@ -13,13 +13,13 @@ This page summarizes some tools helpful for research.
 
 * Matlab Export Figure
   * Save Matlab figures to vector figures (pdf, eps), without margin
-  * Link: https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig
+  * Link: [https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig){:target="_blank"}  
 * Matlab On-figure magnifier
   * Plot zoomed 2D graphics of images on the same figure
-  * https://uk.mathworks.com/matlabcentral/fileexchange/26007-on-figure-magnifier
+  * Link: [https://uk.mathworks.com/matlabcentral/fileexchange/26007-on-figure-magnifier](https://uk.mathworks.com/matlabcentral/fileexchange/26007-on-figure-magnifier){:target="_blank"}  
 * Overleaf
   * Online Latex editor, suitable for collaboration
-  * Link: https://www.overleaf.com
+  * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"}   
 * Draw.io
   * A free online diagram and flowchart maker
-  * Link: https://www.draw.io/
+  * Link: [https://www.draw.io/](https://www.draw.io/){:target="_blank"}  
