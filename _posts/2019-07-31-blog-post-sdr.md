@@ -9,9 +9,9 @@ tags:
   - Software Defined Radio
 ---
 
-{% include toc %}
-
 This page summarizes information for software defined radio (SDR).
+
+{% include toc %}
 
 # Overview
 *Radio components such as modulators, demodulators and tuners are traditionally implemented in hardware components. The advent of modern computing and analogue to digital converters allows most of these traditionally hardware based components to be implemented into software instead. Hence, the term software defined radio. This enables easy signal processing and thus cheap wide band scanner radios to be produced.* (quoted from [https://www.rtl-sdr.com/about-rtl-sdr/](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"})
