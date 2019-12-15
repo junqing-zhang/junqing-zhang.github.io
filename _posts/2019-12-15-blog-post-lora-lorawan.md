@@ -81,6 +81,11 @@ A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www
 ### LoRa
 * [Arduino RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}
 
+### Summary
+| Hardware Type | Driver (LoRa)                                                                                               | Driver (LoRaWAN)                                                                     | Language    | Supported Devices       |   |   |
+|---------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------|-------------------------|---|---|
+| Pycom devices | [LoRaMAC](https://docs.pycom.io/tutorials/lora/lora-mac/){:target="_blank"}                                 | [LoRaWAN-OTAA](https://docs.pycom.io/tutorials/lora/lorawan-otaa/){:target="_blank"} | Micropython | Fipy, LoPy              |   |   |
+| Arduino Based | [Arduino RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"} | [Arduino LMIC](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}   | Arduino C   | Arduino LoRa GPS Sheild |   |   |
 
 ## SDR Implementation
 * [gr-lora:](https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
