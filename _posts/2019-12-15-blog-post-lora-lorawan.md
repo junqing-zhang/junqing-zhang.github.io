@@ -64,11 +64,11 @@ A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www
 ## Hardware
 * [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target="_blank"}
 * Micropython-based devices: [FiPy](https://pycom.io/product/fipy/){:target="_blank"}, [LoPy](https://pycom.io/product/lopy4/){:target="_blank"},
-* [Arduino LoRa GPS Sheild]（https://wiki.dragino.com/index.php?title=Lora/GPS_Shield）{:target="_blank"}
+* [Arduino LoRa GPS Sheild](https://wiki.dragino.com/index.php?title=Lora/GPS_Shield){:target="_blank"}
 * [LoRa GPS HAT for Raspberry Pi
-]（https://www.dragino.com/products/lora/item/106-lora-gps-hat.html）{:target="_blank"}
-* [Microchip RN2483]（https://www.microchip.com/wwwproducts/en/RN2483）{:target="_blank"}
-* [Seeeduino LoRaWAN]（http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/）{:target="_blank"}
+](https://www.dragino.com/products/lora/item/106-lora-gps-hat.html){:target="_blank"}
+* [Microchip RN2483](https://www.microchip.com/wwwproducts/en/RN2483){:target="_blank"}
+* [Seeeduino LoRaWAN](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/){:target="_blank"}
 
 
 ## Development Tool
