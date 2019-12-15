@@ -60,36 +60,22 @@ A detailed introduction can be found at [link](https://junqing-zhang.github.io/p
 
 A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
-# Resources
-## Hardware
-* [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target="_blank"}
-* Micropython-based devices: [FiPy](https://pycom.io/product/fipy/){:target="_blank"}, [LoPy](https://pycom.io/product/lopy4/){:target="_blank"},
-* [Arduino LoRa GPS Sheild](https://wiki.dragino.com/index.php?title=Lora/GPS_Shield){:target="_blank"}
-* [LoRa GPS HAT for Raspberry Pi
-](https://www.dragino.com/products/lora/item/106-lora-gps-hat.html){:target="_blank"}
-* [Microchip RN2483](https://www.microchip.com/wwwproducts/en/RN2483){:target="_blank"}
-* [Seeeduino LoRaWAN](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/){:target="_blank"}
+# Hardware and Software
+Here is a (non-comprehensive) summary of the LoRa/LoRaWAN devices and their drivers.
+
+| Hardware Type | Driver (LoRa)                                                                                               | Driver (LoRaWAN)                                                                     | Language    | Supported Devices                                                                                                                                                                            |
+|---------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pycom devices | [LoRaMAC](https://docs.pycom.io/tutorials/lora/lora-mac/){:target="_blank"}                                 | [LoRaWAN-OTAA](https://docs.pycom.io/tutorials/lora/lorawan-otaa/){:target="_blank"} | Micropython | [FiPy](https://pycom.io/product/fipy/){:target="_blank"}, [LoPy](https://pycom.io/product/lopy4/){:target="_blank"}                                                                          |
+| Arduino Based | [Arduino RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"} | [Arduino LMIC](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}   | Arduino C   | [Arduino LoRa GPS Sheild](https://wiki.dragino.com/index.php?title=Lora/GPS_Shield){:target="_blank"}, [Seeeduino LoRaWAN](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/){:target="_blank"} |
+| mBed SX1272   | [SX1272Lib](https://os.mbed.com/teams/Semtech/code/SX1272Lib/file/b988b60083a1/sx1272/){:target="_blank"}   |                                                                                      | C           | [SX1272MB2xAS ](https://os.mbed.com/components/SX1272MB2xAS/){:target="_blank"}                                                                                                              |
+| RN2483        |                                                                                                             |                                                                                      |             | [Microchip RN2483](https://www.microchip.com/wwwproducts/en/RN2483){:target="_blank"}                                                                                                        |
+|               |                                                                                                             |                                                                                      |             | [LoRa GPS HAT for Raspberry Pi](https://www.dragino.com/products/lora/item/106-lora-gps-hat.html){:target="_blank"}                                                                          |
 
 
-## Development Tool
-
-### LoRaWAN
-* [mbed LoRaWAN APIs](https://os.mbed.com/docs/mbed-os/v5.12/apis/lorawan.html){:target="_blank"}
-* [Arduino LMIC](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}
-* [Pycom micropython LoRa/LoRaWAN modules ](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
-
-### LoRa
-* [Arduino RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}
-
-### Summary
-
-| Hardware Type | Driver (LoRa)                                                                                               | Driver (LoRaWAN)                                                                     | Language    | Supported Devices       |
-|---------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------|-------------------------|
-| Pycom devices | [LoRaMAC](https://docs.pycom.io/tutorials/lora/lora-mac/){:target="_blank"}                                 | [LoRaWAN-OTAA](https://docs.pycom.io/tutorials/lora/lorawan-otaa/){:target="_blank"} | Micropython | Fipy, LoPy              |
-| Arduino Based | [Arduino RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"} | [Arduino LMIC](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}   | Arduino C   | Arduino LoRa GPS Sheild |
+A full list of the [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target="_blank"} and the[mbed LoRaWAN APIs](https://os.mbed.com/docs/mbed-os/v5.12/apis/lorawan.html){:target="_blank"}
 
 
-## SDR Implementation
+# SDR Implementation
 * [gr-lora:](https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
 * [gr-lora:](https://github.com/BastilleResearch/gr-lora){:target="_blank"}. A detailed explanation of the model and algorithm can be found in [link](https://pubs.gnuradio.org/index.php/grcon/article/view/8){:target="_blank"}. (Yes, both their names are gr-lora)
 * [LoRa in Pothos](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
