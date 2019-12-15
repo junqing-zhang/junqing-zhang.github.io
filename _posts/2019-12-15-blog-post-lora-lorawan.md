@@ -1,7 +1,7 @@
 ---
 title: 'Resources for LoRa and LoRaWAN'
-date: 2019-05-17
-permalink: /posts/2019/05/blog-post-lora-lorawan/
+date: 2019-12-15
+permalink: /posts/2019/12/blog-post-lora-lorawan/
 categories:
   - LoRaWAN
 tags:
@@ -62,14 +62,25 @@ A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www
 
 # Resources
 ## Hardware
-* mbed LoRa device [(link)](https://os.mbed.com/cookbook/LoRa){:target="_blank"}
+* [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target="_blank"}
 * Micropython-based devices: [FiPy](https://pycom.io/product/fipy/){:target="_blank"}, [LoPy](https://pycom.io/product/lopy4/){:target="_blank"},
+* [Arduino LoRa GPS Sheild]（https://wiki.dragino.com/index.php?title=Lora/GPS_Shield）{:target="_blank"}
+* [LoRa GPS HAT for Raspberry Pi
+]（https://www.dragino.com/products/lora/item/106-lora-gps-hat.html）{:target="_blank"}
+* [Microchip RN2483]（https://www.microchip.com/wwwproducts/en/RN2483）{:target="_blank"}
+* [Seeeduino LoRaWAN]（http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/）{:target="_blank"}
 
-## Development tool
-* mbed LoRaWAN APIs [link](https://os.mbed.com/docs/mbed-os/v5.12/apis/lorawan.html){:target="_blank"}
-* Arduino LMIC [link](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}
-* Arduino RadioHead (not supporting LoRaWAN) [link](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}
-* Pycom micropython LoRa/LoRaWAN modules [link](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
+
+## Development Tool
+
+### LoRaWAN
+* [mbed LoRaWAN APIs](https://os.mbed.com/docs/mbed-os/v5.12/apis/lorawan.html){:target="_blank"}
+* [Arduino LMIC](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}
+* [Pycom micropython LoRa/LoRaWAN modules ](https://docs.pycom.io/firmwareapi/pycom/network/lora.html){:target="_blank"}
+
+### LoRa
+* [Arduino RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}
+
 
 ## SDR Implementation
 * [gr-lora:](https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
