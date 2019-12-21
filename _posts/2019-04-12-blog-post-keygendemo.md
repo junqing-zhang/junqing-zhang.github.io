@@ -39,7 +39,7 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 * [802.11 Reference Design: Experiments Framework](http://warpproject.org/trac/wiki/802.11/wlan_exp)
 * GUI and signal processing: Python
 
-# Demo
+# Demo Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=981pQEnXRCk&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
 
 [comment]: <a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
