@@ -33,6 +33,6 @@ A light sensing and control IoT system is created as a case study. The LoRa end 
 <br />
 
 # Demo Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="{{ site.url }}/images/lorawan/gui_lorawan.png" alt="LoRaWAN Demo" width="1000" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DrxtVFzTsQk&" target="_blank"><img src="{{ site.url }}/images/lorawan/gui_lorawan.png" alt="LoRaWAN Demo" width="1000" border="10" /></a>
 
  
