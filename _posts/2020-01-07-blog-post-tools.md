@@ -44,3 +44,7 @@ This page summarizes some tools helpful for research.
 ## LaTex Online Tool - Overleaf
 * Online Latex editor, suitable for collaboration
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"}   
+
+## Generate Table for LaTex
+* Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"} 
+* There are also many online table generators for LaTex. 
