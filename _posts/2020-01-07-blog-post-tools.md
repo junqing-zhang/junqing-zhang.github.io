@@ -11,6 +11,8 @@ tags:
 
 This page summarizes some tools helpful for research.
 
+{% include toc %}
+
 # Figure
 
 ## Matlab Export Figure
