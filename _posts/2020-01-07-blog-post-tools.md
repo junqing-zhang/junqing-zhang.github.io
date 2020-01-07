@@ -37,6 +37,7 @@ This page summarizes some tools helpful for research.
 ## LaTex Software 
  * If you are using LaTex with Windows, I strongly suggest to use the combination of Miktex+TeXnicCenter+Sumatra PDF viewer. They are very handy to use.
  * Download Link: [http://www.texniccenter.org/download/](http://www.texniccenter.org/download/){:target="_blank"}  
+ * Please click [here](https://granasat.ugr.es/wp-content/uploads/2018/02/How_to_Sumatra_EN.pdf){:target="_blank"} for a tutorial about the installation and setup.
    
 ## LaTex Online Tool - Overleaf
 * Online Latex editor, suitable for collaboration
