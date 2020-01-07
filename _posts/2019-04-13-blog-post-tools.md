@@ -26,3 +26,7 @@ This page summarizes some tools helpful for research.
 * Activepresenter
   * A very good tool to create demonstration video. The layout is very similar to Powerpoint so it is very easy to use. Free version available.
   * Link: [https://atomisystems.com/activepresenter/](https://atomisystems.com/activepresenter/){:target="_blank"}  
+ 
+ LaTex
+  * If you are using Latex with Windows, I strongly suggest to use the combination of Miktex+TeXnicCenter+Sumatra PDF viewer
+   * Download Link: [http://www.texniccenter.org/download/](http://www.texniccenter.org/download/){:target="_blank"}  
