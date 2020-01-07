@@ -23,3 +23,6 @@ This page summarizes some tools helpful for research.
 * Draw.io
   * A free online diagram and flowchart maker
   * Link: [https://www.draw.io/](https://www.draw.io/){:target="_blank"}  
+* Activepresenter
+  * A very good tool to create demonstration video. The layout is very similar to Powerpoint so it is very easy to use. Free version available.
+  * Link: [https://atomisystems.com/activepresenter/](https://atomisystems.com/activepresenter/){:target="_blank"}  
