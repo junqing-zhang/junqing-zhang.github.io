@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning'
-date: 2019-12-13
-permalink: /posts/2019/12/blog-post-deep-learning/
+date: 2020-01-10
+permalink: /posts/2020/01/blog-post-deep-learning/
 categories:
   - Resources
 tags:

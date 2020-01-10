@@ -1,7 +1,7 @@
 ---
 title: 'My Experience of Learning Deep Learning With Python'
-date: 2019-12-15
-permalink: /posts/2019/12/blog-post-python-deep-learning/
+date: 2020-01-09
+permalink: /posts/2020/01/blog-post-python-deep-learning/
 categories:
   - Deep Learning
   - Python
@@ -22,5 +22,5 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 
 # Tutorials
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/){:target="_blank"}
-
+[How to Develop 1D Convolutional Neural Network Models for Human Activity Recognition](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification//){:target="_blank"}
 
