@@ -60,7 +60,7 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [Pynq board](http://www.pynq.io/){:target="_blank"}
 
 ## Single Board Computer
-* Up squared board
+* [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
 
 The High Frequency Engineering Group at University of Liverpool has an anechoic chamber and the biggest reverberation chamber in the UK universities.
