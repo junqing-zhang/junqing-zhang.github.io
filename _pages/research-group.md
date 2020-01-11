@@ -39,7 +39,7 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has been equipped with a number of advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests.
 
 ## Software Defined Radio (SDR)
-* USRP N210 *3
+* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} *3
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
