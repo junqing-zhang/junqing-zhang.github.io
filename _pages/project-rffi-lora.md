@@ -19,9 +19,9 @@ The wireless security is vital because the exchanged data may be confidential. I
 This project aims to design a robust device authentication scheme by exploiting the radio frequency fingerprinting (RFF). RFF is intrinsic hardware imperfection resulted from the manufacturing process, which is unique and cannot be tampered. Therefore, it is a good candidate for device identity.
 
 # Methodology
-RFF identification is usually consisted of two stages, namely the training and classification.
+RFF identification is consisted of two stages, namely the training and classification.
 <figure>
-  <img src="{{site.url}}/images/rffi/rffi_lora.png" width="60%" alt="RFFI for LoRa"/>
+  <img src="{{site.url}}/images/rffi/rffi_lora.png" width="100" alt="RFFI for LoRa"/>
   <figcaption>RFF identification for LoRa </figcaption>
 </figure>
 
