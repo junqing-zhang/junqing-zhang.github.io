@@ -1,13 +1,15 @@
 ---
 title: "Key Generation Publication @ University of Liverpool"
-date: 2019-04-14
-permalink: /posts/2019/04/blog-post-keygen_liv_pub/
+date: 2020-01-11
+permalink: /posts/2020/01/blog-post-keygen_liv_pub/
 categories:
   - Key Generation
 tags:
   - Key Generation
   - Publication
 ---
+University of Liverpool has been one of the leading institutions in the world in the area of key generation from wireless channels. We have carried out systematic research to investigate different aspects of this exciting technique. Our research covers all aspects, ranging from theoretical modelling, simulation, and experimental validations.
+
 This page summarizes our publication in the area of key generation.
 
 {% include toc %}
@@ -36,6 +38,8 @@ This page summarizes our publication in the area of key generation.
   * Simulation study
 
 # Key Generation Application
+1. Henri Ruotsalainen, **Junqing Zhang**, and Stepan Grebeniuk, “Experimental Investigation on Wireless Key Generation for Low Power Wide Area Networks,” _IEEE Internet of Things Journal_, accepted [link](https://ieeexplore.ieee.org/document/8865100)
+1. **Junqing Zhang**, Ming Ding, David Lopez-Perez, Alan Marshall, and Lajos Hanzo, “Design of an Efficient OFDMA-Based Multi-User Key Generation Protocol,” _IEEE Transactions on Vehicular Technology_, vol. 68, no. 9, pp. 8842 - 8852, Sept. 2019. [link](https://ieeexplore.ieee.org/document/8765327)
 1. Lining Peng, Guyue Li, **Junqing Zhang**, Roger Woods, Ming Liu, and Aiqun Hu, “An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation,” _IEEE Transactions on Mobile Computing_, vol. 18, no. 3, pp. 507 – 519, Mar. 2019. [link](https://ieeexplore.ieee.org/abstract/document/8370120)
 1. **Junqing Zhang**, Alan Marshall, and Lajos Hanzo, “Channel-envelope differencing eliminates secret key correlation: LoRa-based key generation in low power wide area networks,” _IEEE Transactions on Vehicular Technology_, vol. 67, no. 12, pp. 12462-12466, Dec., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8519327/)
   * This paper investigates key generation applied in long range communications, by taking LoRa as a case study.
