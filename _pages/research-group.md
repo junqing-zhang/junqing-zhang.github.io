@@ -34,3 +34,23 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 ## Visiting Researchers
 * China Scholarship Council
 * [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/) for PhD students and scholars in universities of Jiangsu Province, China.
+
+# Resources and Facilities
+Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has been equipped with a number of advanced testbeds. We are capable of carrying out a variety of wireless tests.
+
+## Software Defined Radio (SDR)
+* USRP N210 *3
+* LimeSDR *3
+* [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
+* PlutoSDR
+* RTL-SDR
+
+## Wireless Kits
+* Pycom FiPy (from WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
+* LoRa devices, including mbed LoRa devices, Arduino LoRa shield and Microchip RN2483 LoRa
+
+## Single Board Computers
+* Up squared board
+* Raspberry Pi 4
+
+The High Frequency Engineering Group at University of Liverpool has an anechoic chamber and the biggest reverberation chamber in the UK universities.
