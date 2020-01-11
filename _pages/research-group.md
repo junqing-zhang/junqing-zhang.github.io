@@ -36,18 +36,20 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 * [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/) for PhD students and scholars in universities of Jiangsu Province, China.
 
 # Resources and Facilities
-Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has been equipped with a number of advanced testbeds. We are capable of carrying out a variety of wireless tests.
+Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has been equipped with a number of advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests.
 
 ## Software Defined Radio (SDR)
 * USRP N210 *3
-* LimeSDR *3
+* [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
+* [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
-* PlutoSDR
-* RTL-SDR
+* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*2
+* [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*3
 
 ## Wireless Kits
-* Pycom FiPy (from WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
+* [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
 * LoRa devices, including mbed LoRa devices, Arduino LoRa shield and Microchip RN2483 LoRa
+* LoRa Gateway
 
 ## Single Board Computers
 * Up squared board
