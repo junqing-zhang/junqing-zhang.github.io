@@ -1,7 +1,7 @@
 ---
-title: 'Key Generation Demo @ University of Liverpool'
-date: 2019-04-12
-permalink: /posts/2019/04/12/keygendemo/
+title: 'Key Generation Demonstration @ University of Liverpool'
+date: 2020-01-11
+permalink: /posts/2020/01/11/keygendemo/
 categories:
   - Key Generation
   - Final Year Project
@@ -40,7 +40,7 @@ A WiFi-based key generation demonstration has been developed using WARP board. A
 * GUI and signal processing: Python
 
 # Demo Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=981pQEnXRCk&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QXeVH1ViXXw&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
 
 [comment]: <a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
 
