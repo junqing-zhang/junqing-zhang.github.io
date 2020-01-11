@@ -36,7 +36,7 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 * [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/) for PhD students and scholars in universities of Jiangsu Province, China.
 
 # Resources and Facilities
-Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has been equipped with a number of advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests.
+Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has been equipped with a number of advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests and building embedded Internet of Things systems.
 
 ## Software Defined Radio (SDR)
 * [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} *3
