@@ -25,8 +25,8 @@ RFF identification is consisted of two stages, namely the training and classific
   <figcaption>RFF identification for LoRa </figcaption>
 </figure>
 
-<img src="{{site.url}}/images/rffi/rffi_lora.png" alt="Kitten"
-	title="A cute kitten" width="10" />
+Image
+<img src="{{site.url}}/images/rffi/rffi_lora.png" alt="Kitten" title="A cute kitten" width="10" />
 
 
 
