@@ -46,12 +46,20 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*2
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*3
 
-## Wireless Kits
+## Wireless Kit
 * [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
 * LoRa devices, including mbed LoRa devices, Arduino LoRa shield and Microchip RN2483 LoRa
 * LoRa Gateway
 
-## Single Board Computers
+
+## GPU Platform
+* [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"}
+
+## FPGA Platform
+* [Zedboard](http://zedboard.org/product/zedboard){:target="_blank"}
+* [Pynq board](http://www.pynq.io/){:target="_blank"}
+
+## Single Board Computer
 * Up squared board
 * Raspberry Pi 4
 
