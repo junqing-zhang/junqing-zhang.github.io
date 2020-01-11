@@ -21,7 +21,7 @@ This project aims to design a robust device authentication scheme by exploiting 
 # Methodology
 RFF identification is consisted of two stages, namely the training and classification.
 <figure>
-  <img src="{{site.url}}/images/rffi/rffi_lora.png" width="100" alt="RFFI for LoRa"/>
+  <img src="{{site.url}}/images/rffi/rffi_lora.png" width="10" alt="RFFI for LoRa"/>
   <figcaption>RFF identification for LoRa </figcaption>
 </figure>
 
