@@ -26,12 +26,12 @@ RFF identification is consisted of two stages, namely the training and classific
 </figure>
 
 Image
-<img src="{{site.url}}/images/rffi/rffi_lora.png" alt="Kitten" title="A cute kitten" width="10" />
+<img src="{{site.url}}/images/rffi/rffi_lora.png" alt="Kitten" title="A cute kitten" width="200" />
 
 Image23
 
 <br />
-<img align="center" width="10" src="{{ site.url }}/images/rffi/rffi_lora.png" alt="Test">
+<img align="center" width="200" src="{{ site.url }}/images/rffi/rffi_lora.png" alt="Test">
 <br />
 
 
