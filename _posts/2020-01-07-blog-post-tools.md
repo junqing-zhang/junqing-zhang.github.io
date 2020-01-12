@@ -9,8 +9,8 @@ tags:
   - Tool
 ---
 
-Our research can be assisted by many useful and easy-to-use tools, for producing fancy figures, creating demonstration video, writing Latex efficiently. There are also many tool tools to make our everyday work much easier. 
-This page summarizes some useful tools that I am using. And most importantly, most of them are free.
+Our research can be assisted by many useful and easy-to-use tools, for producing fancy figures, creating demonstration video, writing Latex efficiently. There are also many tools to make our everyday work much easier. 
+This page summarizes some useful tools that I am using. Most importantly, most of them are free.
 
 {% include toc %}
 
