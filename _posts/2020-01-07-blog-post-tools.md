@@ -48,3 +48,12 @@ This page summarizes some tools helpful for research.
 ## Generate Table for LaTex
 * Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"} 
 * There are also many online table generators for LaTex. 
+
+# Misc
+## Notepad++
+This is a quite handy and powerful text editor. It is free and you can download it from [here](https://notepad-plus-plus.org/downloads/){:target="_blank"}.
+
+It has abundant plugins to expand the features. Some useful plugins are explained in this [link](https://medium.com/issuehunt/20-best-notepad-plugins-for-developers-183886939eab){:target="_blank"}.
+
+## Github Pages
+If you wish to build a personal page that looks professional, I strongly suggest you to use Github Pages. For more information, please refer to another [post](https://junqing-zhang.github.io/posts/2019/05/blog-post-building-a-website/){:target="_blank"}.
