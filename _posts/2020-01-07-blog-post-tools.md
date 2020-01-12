@@ -1,5 +1,5 @@
 ---
-title: 'Research Tools'
+title: 'Tools, Not Just For Research'
 date: 2020-01-07
 permalink: /posts/2020/01/blog-post-tools/
 categories:
@@ -9,7 +9,8 @@ tags:
   - Tool
 ---
 
-This page summarizes some tools helpful for research.
+Our research can be assisted by many useful and easy-to-use tools, for producing fancy figures, creating demonstration video, writing Latex efficiently. There are also many tool tools to make our everyday work much easier. 
+This page summarizes some useful tools that I am using. And most importantly, most of them are free.
 
 {% include toc %}
 
@@ -26,6 +27,9 @@ This page summarizes some tools helpful for research.
 ## Drawing Diagrams - Draw.io
 * A free online diagram and flowchart maker
 * Link: [https://www.draw.io/](https://www.draw.io/){:target="_blank"}  
+
+## Visio
+If you have the license for Visio, this is a great tool to create flowcharts and diagrams.
 
 # Video  
 
