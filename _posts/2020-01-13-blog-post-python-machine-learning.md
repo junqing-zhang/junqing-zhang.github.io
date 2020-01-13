@@ -21,11 +21,25 @@ This paper summarizes resources for learning machine learning and deep learning 
 # Installing Python
 I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"}.
 
-# Tutorials for Machine Learning
+# Machine Learning
+## Tutorial
 * [Python Machine Learning Tutorial, Scikit-Learn](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn){:target="_blank"}
 
-# Tutorials for Deep Learning
+# Deep Learning
+## Tutorial
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/){:target="_blank"}
 * [How to Develop 1D Convolutional Neural Network Models for Human Activity Recognition](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/){:target="_blank"}
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
+
+## Code Snippet
+* Check the installed packages
+```
+conda list
+```
+
+* Install a particular tensorflow version using conda
+```
+conda install -c conda-forge tensorflow=1.13
+```
+
 
