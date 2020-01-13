@@ -29,10 +29,10 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 * [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"}
 
 ## PhD Students
-* China Scholarship Council
+* [China Scholarship Council](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"}
 
 ## Visiting Researchers
-* China Scholarship Council
+* [China Scholarship Council](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"}
 * [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/) for PhD students and scholars in universities of Jiangsu Province, China.
 
 # Resources and Facilities
