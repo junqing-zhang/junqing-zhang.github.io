@@ -33,4 +33,7 @@ An experience of using github pages can be found at [https://jponttuset.cat/buil
 In our opinion, WordPress versus github pages is comparable to Word versus LaTex. If you are fimilar with LaTex, you will not find difficulty using github pages. It uses markdown to render the format. While the syntax of markdown is different from LaTex, the methodology is the same.
 
 # Tutorials
-* [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
+* [http://jmcglone.com/guides/github-pages/]
+
+# Markdown
+Markdown is used to render the github pages. A quick introduction on its syntax can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
