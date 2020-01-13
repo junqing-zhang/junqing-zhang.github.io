@@ -22,8 +22,10 @@ This paper summarizes resources for learning machine learning and deep learning 
 I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"}.
 
 # Machine Learning
+
 ## Tutorial
 * [Python Machine Learning Tutorial, Scikit-Learn](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn){:target="_blank"}
+* [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
 
 # Deep Learning
 ## Tutorial
