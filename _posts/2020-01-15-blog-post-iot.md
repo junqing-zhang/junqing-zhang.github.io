@@ -14,7 +14,7 @@ What is IoT?
 
 # Overview
 A good white paper explaining 
-(Key Priorities for Sub-GHz Wireless Deployment)[https://www.silabs.com/documents/public/white-papers/Key-Priorities-for-Sub-GHz-Wireless-Deployments.pdf]{:target="_blank"}
+[Key Priorities for Sub-GHz Wireless Deployment]([https://www.silabs.com/documents/public/white-papers/Key-Priorities-for-Sub-GHz-Wireless-Deployments.pdf){:target="_blank"}
 
 # Sub GHz IoT
 LoRa, NB-IoT, SigFox
