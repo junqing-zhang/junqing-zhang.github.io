@@ -62,5 +62,11 @@ It has abundant plugins to expand the features. Some useful plugins are explaine
 ## Github Pages
 If you wish to build a personal page that looks professional, I strongly suggest you to use Github Pages. For more information, please refer to another [post](https://junqing-zhang.github.io/posts/2019/05/blog-post-building-a-website/){:target="_blank"}.
 
+## Github Desktop
+
 ## Everything
 A very small but handy tool to search all the files and folders in your PC. Free download from [here](https://www.voidtools.com/){:target="_blank"}. You don't have to remember where you store your files any more. Simply search by some words of the file names.
+
+## PuTTY
+
+## MobaXterm
