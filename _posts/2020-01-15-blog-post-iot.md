@@ -1,5 +1,5 @@
 ---
-title: 'My Experience of Learning Machine Learning and Deep Learning With Python'
+title: 'Internet of Things'
 date: 2020-01-15
 permalink: /posts/2020/01/blog-post-iot/
 categories:
@@ -13,7 +13,7 @@ What is IoT?
 {% include toc %}
 
 # Overview
-A good white paper explainning 
+A good white paper explaining 
 (Key Priorities for Sub-GHz Wireless Deployment)[https://www.silabs.com/documents/public/white-papers/Key-Priorities-for-Sub-GHz-Wireless-Deployments.pdf]{:target="_blank"}
 
 ## Sub GHz IoT
