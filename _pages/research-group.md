@@ -8,7 +8,13 @@ toc: true
 
 {% include toc %}
 
-I am always looking for excellent PhD students, post-doc, and visiting researchers.
+I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
+
+I am always looking for excellent PhD students, post-doc, and visiting researchers. All our research is carried out by exploiting the wireless channels for  innovative applications. The three topics that I am particularly interested are
+* Key generation from wireless channels
+* Radio frequency fingerprinting identification
+* Device free wireless sensing
+If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk) with you CV. 
 
 # Opening
 I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 31 January, 2020.
@@ -41,10 +47,16 @@ For more information please check [our university website](https://www.liverpool
 We may have some department studentships. Please contact us for details.
 
 ## Visiting Researchers
-### [China Scholarship Council](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"}
+We unfortunately usually do not have funding to support visiting researchers. However, if you can secure funding from another source, you are very welcome to visit our lab.
+
+Some available funding schemes can be considered if you are PhD students or scholars currently registered in China.
+### CSC Scholarship
+[China Scholarship Council](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} opens to all the PhD students and scholars in China. Please visit CSC website for details. 
 
 ### UK Jiangsu 20+20 programme
-If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} for further informaiton. 
+If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. Under this scheme, PhD and ECRs will be supported for six months and one year, respectively.
+
+Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} for further information. 
 
 # Requirement
 ## English Language Requirement
