@@ -26,18 +26,18 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 # Potential Funding
 ## Post-doc
 
-1. Newton International Fellowships
+### Newton International Fellowships
 The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2020. Please contact us if you are interested.
 
 ## PhD Students
-1. China Scholarship Council
+### China Scholarship Council
 We are proud to be the partner of CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the tuition fee and CSC will provide the living allowance.
 
 The application will open every year around October. Please note this is a two step application. You should submit a full application to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. Once you are successful at step 1, you will then submit a full application to the CSC in China. The deadline is usually in the middle of March.
 
 For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website.
 
-1. University and Department Scholarship
+### University and Department Scholarship
 We may have some department studentships. Please contact us for details.
 
 ## Visiting Researchers
