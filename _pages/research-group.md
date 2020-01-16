@@ -14,6 +14,7 @@ I am always looking for excellent PhD students, post-doc, and visiting researche
 * Key generation from wireless channels
 * Radio frequency fingerprinting identification
 * Device free wireless sensing
+
 If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk) with you CV. 
 
 # Opening
