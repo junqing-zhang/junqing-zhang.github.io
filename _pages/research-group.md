@@ -4,10 +4,9 @@ title: "Research Group"
 permalink: /research-group/
 author_profile: true
 toc: true
-toc_max_header: 1
 ---
 
-{% include toc h_min = 1%}
+{% include toc %}
 
 I am always looking for excellent PhD students, post-doc, and visiting researchers.
 
@@ -45,7 +44,7 @@ We may have some department studentships. Please contact us for details.
 ### [China Scholarship Council](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"}
 
 ### UK Jiangsu 20+20 programme
-If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/). Please visit [https://ukjs2020.com/](https://ukjs2020.com/)
+If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} for further informaiton. 
 
 # Requirement
 ## English Language Requirement
