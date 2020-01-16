@@ -26,34 +26,23 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 ## Co-supervisor
 * Mr. Jia Kan, co-supervision with Dr. Jie Zhang at Xian Jiaotong-Liverpool University (Sept. 2019 to present )
 
-# Visiting PhD Students
+## Visiting PhD Students
 * Mr. Wenming Wang from Nanjing University of Posts and Telecommunications (to start in Feb., 2020)
 
 # Potential Funding
-## Post-doc
-
-### Newton International Fellowships
+## Newton International Fellowships for Post-Doc
 The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2020. Please contact us if you are interested.
 
-## PhD Students
-### China Scholarship Council
+## China Scholarship Council for PhD Students and Visiting Researchers
 We are proud to be the partner of CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the tuition fee and CSC will provide the living allowance.
 
 The application will open every year around October. Please note this is a two step application. You should submit a full application to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. Once you are successful at step 1, you will then submit a full application to the CSC in China. The deadline is usually in the middle of March.
 
 For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website.
 
-### University and Department Scholarship
-We may have some department studentships. Please contact us for details.
+CSC also has funding for visiting researchers, including visiting PhDs and scholars.
 
-## Visiting Researchers
-We unfortunately usually do not have funding to support visiting researchers. However, if you can secure funding from another source, you are very welcome to visit our lab.
-
-Some available funding schemes can be considered if you are PhD students or scholars currently registered in China.
-### CSC Scholarship
-[China Scholarship Council](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} opens to all the PhD students and scholars in China. Please visit CSC website for details. 
-
-### UK Jiangsu 20+20 programme
+## UK Jiangsu 20+20 programme for Visiting Researchers
 If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. Under this scheme, PhD and ECRs will be supported for six months and one year, respectively.
 
 Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} for further information. 
