@@ -15,6 +15,11 @@ This page summarizes some useful tools that I am using. Most importantly, most o
 {% include toc %}
 
 # Figure
+We strongly recommend to use vector figures for academic publication because of the good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures.
+
+The only exceptions to use bitmap in academic publication are the photos of experimental setup and authors' biographies. 
+
+Below are some tools to prepare good-looking vector figures.
 
 ## Matlab Export Figure
 * Save Matlab figures to vector figures (pdf, eps), without margin
