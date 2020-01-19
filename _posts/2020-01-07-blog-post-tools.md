@@ -54,6 +54,13 @@ If you have the license for Visio, this is a great tool to create flowcharts and
 * Online Latex editor, suitable for collaboration
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"}   
 
+## IEEE Latex Template
+* IEEE template class, read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} 
+* IEEE reference, Bibtex, download from [here](https://ctan.org/tex-archive/macros/latex/contrib/IEEEtran/bibtex?lang=en){:target="_blank"} 
+
+## Using Latex for Preparing Presentation
+* Latex is also very good to prepare presentations. Please refer to [here](https://www.overleaf.com/learn/latex/Beamer) for a tutorial.
+
 ## Generate Table for LaTex
 * Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"} 
 * There are also many online table generators for LaTex. 
