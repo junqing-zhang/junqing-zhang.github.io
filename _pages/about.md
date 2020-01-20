@@ -13,8 +13,8 @@ Junqing Zhang is a Tenure Track Fellow (Assistant Professor) at the Department o
 
 He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/)
 
-His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"} and publication list in [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"}.
-
+Please find more information from his citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}, publication list in [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"}.
+and his [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile.
 
 ## News
 * PhD Opening: I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 31 January, 2020.
