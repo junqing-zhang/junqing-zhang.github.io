@@ -15,6 +15,7 @@ Latex is a good tool to prepare report, academic papers, presentations.
 {% include toc %}
 
 # Overview
+Different from Word, LaTex may look complicated and difficult in the beginning. It is true, because Latex requires knowledge about the syntax and rules. The learning curve may a little steep but once you become a  master, you will love it. You will produce a good looking report without worrying the format any more.
 
 # Software
 ## Offline Software 
