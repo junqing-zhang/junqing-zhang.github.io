@@ -39,7 +39,7 @@ Different from Word, LaTex may look complicated and difficult to learn in the be
 * There are also many online table generators for LaTex. 
 
 # Bibliographies 
-Bibtex is strongly recommended to organize reference in Latex. While it is very easy and efficient to use, there are a number of pitfalls. Please refer to this (tutorial)[https://serialmentor.com/blog/2015/10/2/Bibtex]{:target="_blank"} for details.
+Bibtex is strongly recommended to organize reference in Latex. While it is very easy and efficient to use, there are a number of pitfalls. Please refer to this [tutorial](https://serialmentor.com/blog/2015/10/2/Bibtex){:target="_blank"} for details.
 
 
 
