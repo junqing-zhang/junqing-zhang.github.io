@@ -41,14 +41,18 @@ It is very difficult and unfriendly to generate a table from scratch in Latex. T
 * Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"} 
 * There are also many online table generators for LaTex. 
 
+Excel2LATEX is recommended over online table generators. It allows you to save the table in an Excel file and you can edit the table and regenerate the Latex source code whenever you want.
 
 # Bibliographies 
 Bibtex is strongly recommended to organize reference in Latex. While it is very easy and efficient to use, there are a number of pitfalls. Please refer to this [tutorial](https://serialmentor.com/blog/2015/10/2/Bibtex){:target="_blank"} for details.
 
+## Bibtex entries
 In order to avoid any errors, it is strong advised to download the bibtex entries from the online database, rather than creating from scratch by yourself. For example, search the title in the [Google Scholar](https://scholar.google.com/) and click "Import into BibTeX" to view the bibtex record. If it is not there, turn it on in the Settings of Google Scholar.
 
 The bibtex entries downloaded from any database are unfortunately not fully correct. You will need to adjust it according to the target journal and also the pitfalls mentioned above. In particular, check the journal field and delete any fields that are not required.
 
+## Multiple Bibliographies
+If you need to create multiple bibliographies in the same document, [multibib](https://ctan.org/pkg/multibib?lang=en) can help you with this. Check [here](https://www.overleaf.com/learn/latex/multibib) for an introduction and an example.
 
 
 
