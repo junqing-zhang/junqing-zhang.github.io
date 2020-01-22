@@ -34,9 +34,13 @@ There are many Latex editors available and many of them are free to use. If you 
 * Latex is also very good to prepare presentations. Please refer to [here](https://www.overleaf.com/learn/latex/Beamer) for a tutorial.
 
 # Tutorials
+
 ## Generate Table for LaTex
+It is very difficult and unfriendly to generate a table from scratch in Latex. There are many tools available to make this tedious work much easier.
+
 * Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"} 
 * There are also many online table generators for LaTex. 
+
 
 # Bibliographies 
 Bibtex is strongly recommended to organize reference in Latex. While it is very easy and efficient to use, there are a number of pitfalls. Please refer to this [tutorial](https://serialmentor.com/blog/2015/10/2/Bibtex){:target="_blank"} for details.
