@@ -25,12 +25,12 @@ Different from Word, LaTex may look complicated and difficult to learn in the be
 * Online Latex editor, suitable for collaboration
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"} 
 
-## Template
+# Template
 ## IEEE Latex Template
 * IEEE template class, read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} 
 * IEEE reference, Bibtex, download from [here](https://ctan.org/tex-archive/macros/latex/contrib/IEEEtran/bibtex?lang=en){:target="_blank"} 
 
-## Using Latex for Preparing Presentation
+## Presentation Beamer
 * Latex is also very good to prepare presentations. Please refer to [here](https://www.overleaf.com/learn/latex/Beamer) for a tutorial.
 
 # Tutorials
