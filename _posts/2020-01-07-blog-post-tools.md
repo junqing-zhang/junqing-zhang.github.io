@@ -44,7 +44,7 @@ If you have the license for Visio, this is a great tool to create flowcharts and
  
 
 # LaTex
-Please refer to the (other post)[https://junqing-zhang.github.io/posts/2020/01/blog-post-latex/] for Latex
+Please refer to the [other post](https://junqing-zhang.github.io/posts/2020/01/blog-post-latex/) for Latex
 
 
 
