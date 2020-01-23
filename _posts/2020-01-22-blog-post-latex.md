@@ -17,7 +17,7 @@ Different from Word, LaTex may look complicated and difficult to learn in the be
 
 # Overview
 The most fascinate feature of Latex is that it allows you to focus on the content and frees you from worrying the format. It is very good at writing equations. It is excellent in managing the cross reference of figures and tables, and also the references. 
-Please refer to the (tutorial at overleaf)[https://www.overleaf.com/learn/latex/Tutorials]{:target="_blank"} to start.
+Please refer to the [tutorial at overleaf](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"} to start.
 
 # Software
 If you have not used Latex before, I suggest to use the online platform, namely overleaf, first to get yourself familiar with Latex syntax. It may be a little complicated to install and setup Latex software. Overleaf will take care of the packages automatically and you can focus on learning Latex. However, since overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with Latex, I still recommend to use offline software.
@@ -92,6 +92,7 @@ Use the following code to include two subfigures
 ```
 
 # latexdiff, Latex Track Change
+One attractive that Word has is the track change, which allows different people to edit the same document and see the changes that each other has made. Unfortunately the Latex itself does not support track change, but there is an amazing utility named [latexdiff](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents){:target="_blank"} to do something similar. It can compare two latex tex files and mark the changes between them. Please follow the [latexdiff](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents){:target="_blank"} for instruction.
 
 
 # Misc
