@@ -47,6 +47,7 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 * **Choose vector figure over bitmap**: It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
 
 * Code Snippet
+One figure
 ```
 \begin{figure}[!t]
 	\centering
@@ -56,6 +57,27 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 \end{figure}
 ```
 
+In order to include subfigures, IEEE template recommends to use subfig.sty. Declare subfig package in the preamble:
+```
+\ifCLASSOPTIONcompsoc
+\usepackage[caption=false,font=normalsize,labelfont=sf,textfont=sf]{subfig}
+\else
+\usepackage[caption=false,font=footnotesize]{subfig}
+\fi
+```
+Use the following code to include two subfigures
+```
+\begin{figure}[!t]
+\centering
+\subfloat[]{\includegraphics[width=3.4in]{Pictures/fig1.pdf}
+\label{fig:fig1}}\\
+\subfloat[]{\includegraphics[width=3.4in]{Pictures/fig2.pdf}
+\label{fig:fig2}}
+\caption{(a) Caption1. (b) Caption2.}
+\label{fig:fig}
+\end{figure}
+
+```
 
 # Bibliographies 
 Bibtex is strongly recommended to organize reference in Latex. While it is very easy and efficient to use, there are a number of pitfalls. Please refer to this [tutorial](https://serialmentor.com/blog/2015/10/2/Bibtex){:target="_blank"} for details.
