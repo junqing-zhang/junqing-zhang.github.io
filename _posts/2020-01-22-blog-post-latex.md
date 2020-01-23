@@ -43,6 +43,20 @@ It is very difficult and unfriendly to generate a table from scratch in Latex. T
 
 Excel2LATEX is recommended over online table generators. It allows you to save the table in an Excel file and you can edit the table and regenerate the Latex source code whenever you want.
 
+## Figure
+* **Choose vector figure over bitmap**: It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
+
+* Code Snippet
+```
+\begin{figure}[!t]
+	\centering
+		\includegraphics[width=3.4in]{fig1.pdf}
+	\caption{Caption.}
+	\label{fig:fig1}
+\end{figure}
+```
+
+
 # Bibliographies 
 Bibtex is strongly recommended to organize reference in Latex. While it is very easy and efficient to use, there are a number of pitfalls. Please refer to this [tutorial](https://serialmentor.com/blog/2015/10/2/Bibtex){:target="_blank"} for details.
 
