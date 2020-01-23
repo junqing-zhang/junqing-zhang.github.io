@@ -90,13 +90,17 @@ Use the following code to include two subfigures
 \end{figure}
 
 ```
+
+# latexdiff, Latex Track Change
+
+
 # Misc
 ## Color
 Define in the preamble
 ```
 \usepackage{color,xcolor,colortbl}
-\newcommand{\blue}[1]{{\color{blue}#1}}
-\newcommand{\red}[1]{{\color{red}#1}}
+\newcommand{\blue}[1]{ {\color{blue}#1}}
+\newcommand{\red}[1]{ {\color{red}#1}}
 ```
 Use it in the main text as follows.
 ```
