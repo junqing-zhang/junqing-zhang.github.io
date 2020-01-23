@@ -52,10 +52,13 @@ Please refer to the [other post](https://junqing-zhang.github.io/posts/2020/01/b
 ## Notepad++
 This is a quite handy and powerful text editor. It is free and you can download it from [here](https://notepad-plus-plus.org/downloads/){:target="_blank"}.
 
-It has abundant plugins to expand the features. Some useful plugins are explained in this [link](https://medium.com/issuehunt/20-best-notepad-plugins-for-developers-183886939eab){:target="_blank"}.
+* Plugin: It has abundant plugins to expand the features. Some useful plugins are explained in this [link](https://medium.com/issuehunt/20-best-notepad-plugins-for-developers-183886939eab){:target="_blank"}.
+* Find in files, [tutorial](https://www.templatemonster.com/help/how-to-use-the-find-in-files-feature-in-notepad.html){:target="_blank"} and a [YouTube Tutorial](https://www.youtube.com/watch?v=cTj4WOVjYhQ){:target="_blank"}.
+
 
 ## Github Pages
 If you wish to build a personal page that looks professional, I strongly suggest you to use Github Pages. For more information, please refer to another [post](https://junqing-zhang.github.io/posts/2019/05/blog-post-building-a-website/){:target="_blank"}.
+
 
 ## Github Desktop
 
