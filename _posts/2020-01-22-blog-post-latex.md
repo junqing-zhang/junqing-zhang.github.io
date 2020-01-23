@@ -25,6 +25,9 @@ There are many Latex editors available and many of them are free to use. If you 
 * Online Latex editor, suitable for collaboration
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"} 
 
+## Note
+If you have not used Latex before, I suggest to use the overleaf first to get yourself familiar with Latex syntax. It may be a little complicated to install and setup Latex software. Overleaf will take care of the packages automatically and you can focus on learning Latex. However, since overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with Latex, I still recommend to use offline software.
+
 # Template
 ## IEEE Latex Template
 * IEEE template class, read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} 
@@ -33,9 +36,8 @@ There are many Latex editors available and many of them are free to use. If you 
 ## Presentation Beamer
 * Latex is also very good to prepare presentations. Please refer to [here](https://www.overleaf.com/learn/latex/Beamer) for a tutorial.
 
-# Tutorials
 
-## Generate Table for LaTex
+# Table
 It is very difficult and unfriendly to generate a table from scratch in Latex. There are many tools available to make this tedious work much easier.
 
 * Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"} 
@@ -43,11 +45,12 @@ It is very difficult and unfriendly to generate a table from scratch in Latex. T
 
 Excel2LATEX is recommended over online table generators. It allows you to save the table in an Excel file and you can edit the table and regenerate the Latex source code whenever you want.
 
-## Figure
-* **Choose vector figure over bitmap**: It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
+# Figure
+## Choose vector figure over bitmap 
+It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
 
-* Code Snippet
-One figure
+## Code Snippet
+* One figure
 ```
 \begin{figure}[!t]
 	\centering
@@ -56,6 +59,8 @@ One figure
 	\label{fig:fig1}
 \end{figure}
 ```
+
+* Subfigures
 
 In order to include subfigures, IEEE template recommends to use subfig.sty. Declare subfig package in the preamble:
 ```
