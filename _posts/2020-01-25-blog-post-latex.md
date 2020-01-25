@@ -19,6 +19,8 @@ Different from Word, LaTex may look complicated and difficult to learn in the be
 The most fascinate feature of Latex is that it allows you to focus on the content and frees you from worrying the format. It is very good at writing equations. It is excellent in managing the cross reference of figures and tables, and also the references. 
 Please refer to the [tutorial at Overleaf](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"} to start.
 
+For any report and document, the basic elements include the text, figures, tables, equations, references, etc. You will then have to take care of the referencing of the figures, tables and equations. You may have to worry about the places of the figures and tables. Don't worry, LaTex will sort out all of them.
+
 # Software
 If you have not used Latex before, I suggest to use the online platform, namely overleaf, first to get yourself familiar with Latex syntax. It may be a little complicated to install and setup Latex software. Overleaf will take care of the packages automatically and you can focus on learning Latex. However, since overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with Latex, I still recommend to use offline software.
 
@@ -93,6 +95,12 @@ Use the following code to include two subfigures
 \end{figure}
 
 ```
+
+# Cross Referencing
+When using figures, tables, and equations, I strongly suggest to use cross referencing. Please refer to [this link](https://www.overleaf.com/learn/latex/Cross_referencing_sections_and_equations){:target="_blank"} for a detailed tutorial.
+
+It includes two step. First, include the label during the definition. Prefix is recommended to distinguish them, e.g., \label{fig:fig1}, \label{tab:tab1}, and \label{eq:eq1}. This is extremely helpful when your report has many of them. Then, in the main text, refer to it by using \ref{fig:fig1}, \ref{tab:tab1}, \ref{eq:eq1}.
+
 
 # Latex Track Change
 One attractive that Word has is the track change, which allows different people to edit the same document and see the changes that each other has made. 
