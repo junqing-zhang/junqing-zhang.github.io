@@ -1,6 +1,6 @@
 ---
 title: 'How to Use LaTex'
-date: 2020-01-22
+date: 2020-01-25
 permalink: /posts/2020/01/blog-post-latex/
 categories:
   - Resources
@@ -34,8 +34,11 @@ There are many Latex editors available and many of them are free to use. If you 
 
 # Template
 ## IEEE Latex Template
-* IEEE template class, read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} 
-* IEEE reference, Bibtex, download from [here](https://ctan.org/tex-archive/macros/latex/contrib/IEEEtran/bibtex?lang=en){:target="_blank"} 
+Different publishers and journals may have different LaTex templates. Please download from the publisher's website. In particular, most of the IEEE journals and transactions use the same [IEEE LaTex templates](https://www.duboku.net/voddetail-1168.html){:target="_blank"} . There are some exceptions, e.g., [IEEE Access](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-ieee-access/){:target="_blank"}.
+
+Please read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} for instruction of how to use the IEEE LaTex template. I strongly suggest to read it time to time when you are using some special features of the template, e.g., subfigures, algorithms.
+
+IEEE has special requirements on the bibliography. Bibtex is suggested to organize the references. Read the information [here](https://ctan.org/tex-archive/macros/latex/contrib/IEEEtran/bibtex?lang=en){:target="_blank"} for instruction. When you are writing your only report without following the IEEE Latex template, you can still use the IEEE reference format. It is strongly suggested if you are from the electronics and electrical engineering areas.
 
 ## Presentation Beamer
 * Latex is also very good to prepare presentations. Please refer to [here](https://www.overleaf.com/learn/latex/Beamer){:target="_blank"} for a tutorial.
