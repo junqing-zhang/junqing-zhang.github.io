@@ -44,6 +44,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
+1. You Chen, Guyue Li, Chen Sun, **Junqing Zhang**, Eduard Jorswieck, and Bin Xiao, “Beam-domain secret key generation for multi-user massive MIMO networks,” in _Proc. IEEE ICC_, accepted
 1. Wei Li, Mounir Ghogho, **Junqing Zhang**, Des McLernon, Jing Lei and Syed Ali Raza Zaidi, “Design of an Energy-Efficient Multidimensional Secure Constellation for 5G Communications,” in _Proc. IEEE ICC Workshop on Wireless Physical Layer Security_, Shanghai, China, May 2019.
 1. Yun Wen, Makoto Yoshida, **Junqing Zhang**, Zheng Chu, Pei Xiao, and Rahim Tafazolli, “Machine Learning Based Attack Against Artificial Noise-aided Secure Communication,” in _Proc. IEEE ICC_, Shanghai, China, May 2019.
 1. Linning Peng, Guyue Li, **Junqing Zhang**, and Aiqun Hu, “Securing M2M Transmissions Using Nonreconciled Secret Keys Generated from Wireless Channels,” in _Proc. IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS)_, Abu Dhabi, Dec. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8644401){:target="_blank"}
