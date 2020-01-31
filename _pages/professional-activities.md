@@ -10,7 +10,7 @@ toc_max_header: 1
 
 # Public Engagement
 ## STEM for BRITAIN 2017
-* **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf)
+* **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
 * STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
 # Tutorial

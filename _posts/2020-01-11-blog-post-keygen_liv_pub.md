@@ -8,9 +8,10 @@ tags:
   - Key Generation
   - Publication
 ---
-University of Liverpool has been one of the leading institutions in the world in the area of key generation from wireless channels. We have carried out systematic research to investigate different aspects of this exciting technique. Our research covers all aspects, ranging from theoretical modelling, simulation, and experimental validations.
 
-This page summarizes our publication in the area of key generation.
+University of Liverpool has been one of the leading institutions worldwide in the area of _key generation from wireless channels_. We have carried out systematic research to investigate different aspects of this exciting technique, ranging from theoretical modelling, simulation, and experimental validations. This page summarizes our key generation publication.
+
+Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_blank"} that summarizes our work.
 
 {% include toc %}
 
@@ -52,4 +53,5 @@ This page summarizes our publication in the area of key generation.
   * This paper designed key generation with retrodirective array, which acts as the relay node.
   * Simulation study
 1. **Junqing Zhang**, Roger Woods,  Trung Q. Duong, Alan Marshall, Yuan Ding, Yi Huang, and Qian Xu, “Experimental study on key generation for physical layer security in wireless communications,” _IEEE Access_, vol. 4, pp. 4464 – 4477, Sept. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7557048)
-	* Experimental study
+
+A systematic experimental study to investigate the key generation principles, namely temporal variation, channel reciprocity and spatial decorrelation. The experiments were carried out in an anechoic chamber, a reverberation chamber and an indoor office.
