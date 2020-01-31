@@ -28,9 +28,10 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 1. **Junqing Zhang**, Biao He, Trung Q. Duong, and Roger Woods, “On the key generation from correlated wireless channels,” _IEEE Communications Letters_,  vol. 21, no. 4, pp. 961 — 964, Apr. 2017. [link](https://ieeexplore.ieee.org/abstract/document/7809064)
 	* This paper investigates key generation principles with a practical channel model. The secret key capacity is derived.
 	* Simulation study
-1. **Junqing Zhang**, Alan Marshall, Roger Woods, and Trung Q. Duong, “Efficient key generation by exploiting randomness from channel responses of individual OFDM subcarriers,” _IEEE Transactions on Communications_, vol. 64, no. 6, pp. 2578 – 2588, Jun. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7448884)
-  * This paper carries out comprehensive experimental studies on the key generation principles, including temporal variation, channel reciprocity, and spatial decorrelation. The experiments were carried out in the anechoic chamber, reverberation chamber, and indoor office environments.
-  * Experimental study
+	
+1. **Junqing Zhang**, Roger Woods,  Trung Q. Duong, Alan Marshall, Yuan Ding, Yi Huang, and Qian Xu, “Experimental study on key generation for physical layer security in wireless communications,” _IEEE Access_, vol. 4, pp. 4464 – 4477, Sept. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7557048)
+   This paper carries out comprehensive experimental studies on the key generation principles, including temporal variation, channel reciprocity, and spatial decorrelation. The experiments were carried out in the anechoic chamber, reverberation chamber, and indoor office environments.
+  
 1. **Junqing Zhang**, Roger Woods, Trung Q. Duong, Alan Marshall, and Yuan Ding, “Experimental study on channel reciprocity in wireless key generation,” in _Proc. 17th IEEE International Workshop on Signal Processing Advances in Wireless Communications Special Session on Physical Layer Security for 5G_, Edinburgh, UK, Jul. 2016 (Invited Paper). [link](https://ieeexplore.ieee.org/abstract/document/7536825)
   * This paper investigates channel reciprocity by an innovative experiment design. Two WARP boards were connected by a power splitter, which enabled analyzing effects of noise and non-simultaneous sampling.
   * Experimental study
