@@ -54,4 +54,4 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
   * Simulation study
 1. **Junqing Zhang**, Roger Woods,  Trung Q. Duong, Alan Marshall, Yuan Ding, Yi Huang, and Qian Xu, “Experimental study on key generation for physical layer security in wireless communications,” _IEEE Access_, vol. 4, pp. 4464 – 4477, Sept. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7557048)
 
-A systematic experimental study to investigate the key generation principles, namely temporal variation, channel reciprocity and spatial decorrelation. The experiments were carried out in an anechoic chamber, a reverberation chamber and an indoor office.
+   A systematic experimental study to investigate the key generation principles, namely temporal variation, channel reciprocity and spatial decorrelation. The experiments were carried out in an anechoic chamber, a reverberation chamber and an indoor office.
