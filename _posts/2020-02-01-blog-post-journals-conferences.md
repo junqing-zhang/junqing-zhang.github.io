@@ -16,6 +16,11 @@ This page summarizes the journals and conferences for communications, computing 
 Journals can be mainly categorized into survey/tutorial-based and technical contribution-based. The latter can be further divided into regular papers (usually longer than eight pages) and letters (less than five pages).
 
 # Survey/Tutorial
+Survey and tutorial summarize the recent progress of a particular research area. Read these articles will help grab an overall understanding of the topic, which is very helpful, in particular to beginners.
+
+An differentiation between tutorial and survey can be found at the [information for authors of IEEE Communications Surveys and Tutorials](https://www.comsoc.org/publications/journals/ieee-comst/ieee-communications-surveys-tutorials-submit-manuscript){:target="_blank"}. Generally speaking, survey articles aim to provide a comprehensive coverage while tutorial is usually written in a technical-light manner, to be understood even by non-expert.
+
+
 **Communications**
 * IEEE Communications Surveys and Tutorials
 * IEEE Communications Magazine
@@ -25,9 +30,9 @@ Journals can be mainly categorized into survey/tutorial-based and technical cont
 * IEEE Security & Privacy
 
 **Other**
-Some journals accept both survey/tutorial and technical papers.
-* IEEE Internet of Things Journal
-* IEEE Access
+* Proceedings of IEEE
+* IEEE Internet of Things Journal (accept both survey/tutorial and technical papers)
+* IEEE Access (accept both survey/tutorial and technical papers)
 
 # Technical Contributions
 ## Regular Paper
@@ -50,7 +55,7 @@ Some journals accept both survey/tutorial and technical papers.
 * IEEE Internet of Things Journal
 
 **Others**
-* IEEE Access
+* IEEE Access (open access)
 * IEEE Sensors Journal
 * IEEE Systems Journal
 
@@ -67,7 +72,7 @@ Some journals accept both survey/tutorial and technical papers.
 
 **IEEE**
 * IEEE Symposium on Security and Privacy
-* IEEE INFOCOM
+* IEEE INFOCOM (double blind review)
 * IEEE GLOBECOM
 * IEEE ICC
 * IEEE ICASSP
@@ -81,5 +86,9 @@ Some journals accept both survey/tutorial and technical papers.
 ## How to Prepare the Manuscript
 Each journal and conference will have information for authors, which will explain the requirements in terms of the number of pages, format, etc.
 
+For example, the information for authors of IEEE Transactions on Wireless Communications can be found [here](https://www.comsoc.org/publications/journals/ieee-twc/submit-manuscript){:target="_blank"}.
+
 ## Extending Conference Paper to Journal
 There may be different rules for journals regarding extending a conference paper. Please refer to the website of the particular journal for detailed instruction.
+
+For example, the policy of IEEE Transactions on Wireless Communications can be found [here](https://www.comsoc.org/publications/journals/ieee-transactions-wireless-communications/conference-vs-journal){:target="_blank"}.
