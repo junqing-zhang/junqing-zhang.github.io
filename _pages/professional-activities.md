@@ -72,10 +72,10 @@ toc_max_header: 1
 * IEEE GLOBECOM 2016 4th Workshop on Trusted Communications with Physical Layer Security
 
 # Technical Reviewer
-## Proposal
+**Proposal**
 * Vietnam National Foundation for Science and Technology Development (NAFOSTED) 2018
 
-## Journal
+**Journal**
 * IEEE Wireless Communications Magazine
 * IEEE Vehicular Technology Magazine
 * IEEE Transactions on Communications
@@ -103,7 +103,7 @@ toc_max_header: 1
 * MDPI Sensors
 * MDPI Cryptography
 
-## Conference
+**Conference**
 * IEEE Conference on Communications and Network Security (CNS) 2018
 * IEEE GLOBECOM 2014 - 2017
 * IEEE International Conference on Communications (ICC) 2016, 2017, 2019
