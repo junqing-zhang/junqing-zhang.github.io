@@ -21,10 +21,12 @@ Survey and tutorial summarize the recent progress of a particular research area.
 An differentiation between tutorial and survey can be found at the [information for authors of IEEE Communications Surveys and Tutorials](https://www.comsoc.org/publications/journals/ieee-comst/ieee-communications-surveys-tutorials-submit-manuscript){:target="_blank"}. Generally speaking, survey articles aim to provide a comprehensive coverage while tutorial is usually written in a technical-light manner, to be understood even by non-expert.
 
 
-**Communications**
+**Communications and Networking**
 * IEEE Communications Surveys and Tutorials
 * IEEE Communications Magazine
 * IEEE Wireless Communications
+* IEEE Network
+
 
 **Security**
 * IEEE Security & Privacy
@@ -36,10 +38,11 @@ An differentiation between tutorial and survey can be found at the [information 
 
 # Technical Contributions
 ## Regular Paper
-**Communications**
+**Communications and Networking**
 * IEEE Transactions on Wireless Communications
 * IEEE Transactions on Communications
 * IEEE Transactions on Vehicular Technology
+* IEEE/ACM Transactions on Networking
 
 **Signal Processing**
 * IEEE Transactions on Signal Processing
@@ -62,6 +65,7 @@ An differentiation between tutorial and survey can be found at the [information 
 ## Letters/Correspondence
 * IEEE Communications Letters (double blind review)
 * IEEE Wireless Communications Letters
+* IEEE Networking Letters
 * IEEE Transactions on Vehicular Technology Correspondence
 
 # Conferences
