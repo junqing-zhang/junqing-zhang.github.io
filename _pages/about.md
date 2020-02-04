@@ -36,7 +36,7 @@ and his [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target
 * Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, etc, in particular physical and MAC layers
 * Wireless channel modelling
 * Software defined radios including USRP, Zedboard + FMCOMMS2, and WARP
-* Machine learning applications
+* Machine learning and deep learning applications in the wireless communications and security
 
 ## Demonstration
 * [Key Generation Demonstration using WARP]({{ site.url }}/posts/2019/04/12/keygendemo/)
