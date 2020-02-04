@@ -27,7 +27,9 @@ and his [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target
 * Wireless security
 * Physical layer security
 * Key generation
+* Device authentication
 * Radio frequency fingerprint identification
+* Device free wireless sensing
 
 ## Research Expertise
 * Wireless communication techniques, such as OFDM, spread spectrum, etc
