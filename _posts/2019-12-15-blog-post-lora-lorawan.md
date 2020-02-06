@@ -79,6 +79,8 @@ A full list of the [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target
 * [gr-lora:](https://github.com/BastilleResearch/gr-lora){:target="_blank"}. A detailed explanation of the model and algorithm can be found in [link](https://pubs.gnuradio.org/index.php/grcon/article/view/8){:target="_blank"}. (Yes, both their names are gr-lora)
 * [LoRa in Pothos](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
 
+# How to Build a LoRaWAN Application
+As the above picture shows, a LoRaWAN application requires end devices, gateway, network server, and an application.
 
 # FAQ
 * 14 LoRa FAQs Answered from LinkLabs [https://www.link-labs.com/blog/lora-faqs](https://www.link-labs.com/blog/lora-faqs)
