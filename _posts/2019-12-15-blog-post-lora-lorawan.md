@@ -86,7 +86,7 @@ As the above picture shows, a LoRaWAN application requires end devices, gateway,
 There are different options for selecting the end devices, based on your preference. Please refer to the previous section for the hardware and their drivers. 
 
 ## Gateway
-You may have experience setting up a WiFi router (access point) at home or office. Users will need password to access the router for internet, which can be referred as a private router. In LoRaWAN, it is a different story. You do not need a password to connect to a gateway. As long as there is a gateway nearby, your end devices will connect to the gateway and eventually to the network server. In this case, the gateway is public. A detailed introduction on the gateway can be found at (here)[https://www.thethingsnetwork.org/docs/gateways/]{:target="_blank"}, where you can find a list of recommended hardware.
+You may have experience setting up a WiFi router (access point) at home or office. Users will need password to access the router for internet, which can be referred as a private router. In LoRaWAN, it is a different story. You do not need a password to connect to a gateway. As long as there is a gateway nearby, your end devices will connect to the gateway and eventually to the network server. In this case, the gateway is public. A detailed introduction on the gateway can be found at [here](https://www.thethingsnetwork.org/docs/gateways/){:target="_blank"}, where you can find a list of recommended hardware.
 
 If you intend to setup a gateway, you can configure it as public or private. An instruction of using RAK831 gateway can be found here [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
