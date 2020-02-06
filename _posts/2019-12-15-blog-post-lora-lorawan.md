@@ -53,13 +53,6 @@ Many LoRaWAN protocol implementations may not support the latest version. For ex
  [link](https://www.thethingsnetwork.org/article/setting-up-a-private-routing-environment){:target="_blank"}
 	* [loraserver](https://www.loraserver.io/){:target="_blank"}
 	
-
-## LoRaWAN Demo at University of Liverpool
-A LoRaWAN demo has been created at the Adavenced Networks Research Group (ANRG), University of Liverpool. The demo built a complete LoRaWAN-based IoT system, including FiPy end devices, gateway, and applications.
-A detailed introduction can be found at [link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}. 
-
-A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
-
 # Hardware and Software
 Here is a (non-comprehensive) summary of the LoRa/LoRaWAN devices and their drivers.
 
@@ -80,23 +73,32 @@ A full list of the [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target
 * [LoRa in Pothos](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
 
 # How to Build a LoRaWAN Application
-As the above picture shows, a LoRaWAN application requires end devices, gateway, network server, and an application.
+As the above picture shows, a complete LoRaWAN application requires end devices, gateway, network server, and an application.
 
-## End Device
+**End Device**
+
 There are different options for selecting the end devices, based on your preference. Please refer to the previous section for the hardware and their drivers. 
 
-## Gateway
+For example, if you are using Pycom devices, you can connect the end device by using [Authentication By Personalisation (ABP)](https://docs.pycom.io/tutorials/lora/lorawan-abp/){:target="_blank"} or [Over The Air Authentication (OTAA)](https://docs.pycom.io/tutorials/lora/lorawan-otaa/){:target="_blank"}. 
+
+**Gateway**
 You may have experience setting up a WiFi router (access point) at home or office. Users will need password to access the router for internet, which can be referred as a private router. In LoRaWAN, it is a different story. You do not need a password to connect to a gateway. As long as there is a gateway nearby, your end devices will connect to the gateway and eventually to the network server. In this case, the gateway is public. A detailed introduction on the gateway can be found at [here](https://www.thethingsnetwork.org/docs/gateways/){:target="_blank"}, where you can find a list of recommended hardware.
 
 If you intend to setup a gateway, you can configure it as public or private. An instruction of using RAK831 gateway can be found here [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
-## Network Server
+**Network Server**
 The Things Networks (TTN) is a free and probably the most popular LoRaWAN server. Please refer to [here](https://www.thethingsnetwork.org/docs/applications/){:target="_blank"} for an instruction about creating applications in TTN.
 
 Another tutorial from [pycom](https://docs.pycom.io/gettingstarted/registration/lora/ttn/){:target="_blank"} can be found here.
 
-## Application
+**Application**
 Please refer to [this link](https://www.thethingsnetwork.org/docs/applications/){:target="_blank"} for building applications using TTN.
+
+**LoRaWAN Demo at University of Liverpool**
+A LoRaWAN demo has been created at the Advanced Networks Research Group (ANRG), University of Liverpool. The demo built a complete LoRaWAN-based IoT system, including FiPy end devices, gateway, and applications.
+A detailed introduction can be found at [link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}. 
+
+A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
 # FAQ
 * 14 LoRa FAQs Answered from LinkLabs [https://www.link-labs.com/blog/lora-faqs](https://www.link-labs.com/blog/lora-faqs){:target="_blank"}
