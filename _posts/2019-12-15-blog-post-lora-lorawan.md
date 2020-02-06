@@ -32,7 +32,10 @@ A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https
 
 
 ## LoRa
-LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation. Some key features
+LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation. 
+
+**Some key features of LoRa**
+
 * Chirp spread spectrum
 * [Different frequency plan](https://www.thethingsnetwork.org/docs/lorawan/frequency-plans.html){:target="_blank"}, e.g., EU863-870, CN470-510 and US902-928
 
