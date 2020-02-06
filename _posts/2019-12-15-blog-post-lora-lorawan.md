@@ -32,7 +32,9 @@ A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https
 
 
 ## LoRa
-LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation.
+LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation. Some key features
+* Chirp spread spectrum
+* [Different frequency plan](https://www.thethingsnetwork.org/docs/lorawan/frequency-plans.html){:target="_blank"}, e.g., EU863-870, CN470-510 and US902-928
 
 **Understand LoRa modulation**
 
@@ -40,10 +42,17 @@ LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://ww
 * Understanding LoRa RF modulation [link](https://revspace.nl/DecodingLora){:target="_blank"}
 
 ## LoRaWAN
-LoRaWAN is a media access control (MAC) protocol for wide area networks. It is defined by [LoRa Alliance](https://lora-alliance.org/){:target="_blank"}
+LoRaWAN is a media access control (MAC) protocol for wide area networks. It is defined by [LoRa Alliance](https://lora-alliance.org/){:target="_blank"}.
 The first LoRaWAN specification was published on January 2015 ([download link](https://lora-alliance.org/sites/default/files/2018-05/2015_-_lorawan_specification_1r0_611_1.pdf)) and the latest LoRaWAN specifications is LoRaWAN® Specification v1.0.3 (July 2018) [download link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}.
 
 Many LoRaWAN protocol implementations may not support the latest version. For example, [pycom devices only support LoRaWAN 1.0.2](https://docs.pycom.io/firmwareapi/pycom/network/lora.html). The previous versions of LoRaWAN specifications  can be accessed from [https://lora-alliance.org/resource-hub](https://lora-alliance.org/resource-hub)
+
+**Some key features of LoRaWAN**
+
+* [Class A, B, and C](https://www.thethingsnetwork.org/docs/lorawan/classes.html){:target="_blank"}
+* [Authentication](https://www.thethingsnetwork.org/docs/lorawan/addressing.html){:target="_blank"}: Over-the-Air Activation (OTAA) and Activation by Personalization (ABP)
+* LoRaWAN in most countries uses ALOHA to access the spectrum, which will then be subject to the [duty cycle limitation](https://www.thethingsnetwork.org/docs/lorawan/duty-cycle.html){:target="_blank"}, e.g., in EU868 plan. LoRaWAN in some countries does support listen before talk (LBT), e.g., [LBT is enabled in AS923 plan](https://www.multitech.net/developer/software/lora/listen-before-talk/){:target="_blank"}.
+* AES for security
 
 LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. A difference between Symphony Link and LoRaWAN can be found [here](https://www.link-labs.com/whitepaper-symphony-link-vs-lorawan?hsCtaTracking=e10ced9e-aeca-4846-938a-7332bcf2e515%7C016f5d73-fc31-4196-835a-1f573372d5bb){:target="_blank"}
 
@@ -52,7 +61,7 @@ There are different options for selecting the end devices, based on your prefere
 
 | Hardware Type       | Driver (LoRa)                                                                                                                                                                               | Driver (LoRaWAN)                                                                     | Language    | Supported Devices                                                                                                                                                                            |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pycom devices       | [LoRaMAC](https://docs.pycom.io/tutorials/lora/lora-mac/){:target="_blank"}                                                                                                                 | [LoRaWAN-OTAA](https://docs.pycom.io/tutorials/lora/lorawan-otaa/){:target="_blank"} | Micropython | [FiPy](https://pycom.io/product/fipy/){:target="_blank"}, [LoPy](https://pycom.io/product/lopy4/){:target="_blank"}                                                                          |
+| Pycom devices       | [LoRaMAC](https://docs.pycom.io/tutorials/lora/lora-mac/){:target="_blank"}                                                                                                                 | [LoRaWAN-OTAA](https://docs.pycom.io/tutorials/lora/lorawan-otaa/){:target="_blank"}, [LoRaWAN-ABP](https://docs.pycom.io/tutorials/lora/lorawan-abp/){:target="_blank"} | Micropython | [FiPy](https://pycom.io/product/fipy/){:target="_blank"}, [LoPy](https://pycom.io/product/lopy4/){:target="_blank"}                                                                          |
 | Arduino Shield      | [Arduino RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html){:target="_blank"}                                                                                 | [Arduino LMIC](https://github.com/matthijskooijman/arduino-lmic){:target="_blank"}   | Arduino C   | [Arduino LoRa GPS Sheild](https://wiki.dragino.com/index.php?title=Lora/GPS_Shield){:target="_blank"}, [Seeeduino LoRaWAN](http://wiki.seeedstudio.com/Seeeduino_LoRAWAN/){:target="_blank"} |
 | Raspberry Pi Shield |                                                                                                                                                                                             |                                                                                      | C           | [LoRa GPS HAT for Raspberry Pi](https://www.dragino.com/products/lora/item/106-lora-gps-hat.html){:target="_blank"}                                                                          |
 | mBed-Based          | [SX1272Lib](https://os.mbed.com/teams/Semtech/code/SX1272Lib/file/b988b60083a1/sx1272/){:target="_blank"}, [SX1276Lib](https://os.mbed.com/teams/Semtech/code/SX1276Lib/){:target="_blank"} | [LoRaWAN-lib](https://os.mbed.com/teams/Semtech/code/LoRaWAN-lib/){:target="_blank"} | C           | [SX1272MB2xAS ](https://os.mbed.com/components/SX1272MB2xAS/){:target="_blank"}, [SX1276MB1xAS](https://os.mbed.com/components/SX1276MB1xAS/){:target="_blank"}                              |
@@ -80,7 +89,7 @@ Another tutorial from [pycom](https://docs.pycom.io/gettingstarted/registration/
 # Application
 Please refer to [this link](https://www.thethingsnetwork.org/docs/applications/){:target="_blank"} for building applications using TTN.
 
-
+There is a number of data API and SDK for interaction between the applications and TTN server. 
 
 
 # LoRaWAN Demo at University of Liverpool
