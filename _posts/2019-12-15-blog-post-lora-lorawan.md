@@ -19,7 +19,7 @@ This paper summarizes resources for LoRa and LoRaWAN.
 
 # Overview
 LoRa is a new IoT technique which is very suitable for energy efficient and long range communications.
-Sometimes peopole use LoRa as the physical layer modualtion technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN. 
+Sometimes people use LoRa as the physical layer modulation technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN. 
 A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}.
 
 # LoRa
@@ -35,9 +35,9 @@ LoRaWAN is a media access control (MAC) protocol for wide area networks. It is d
 LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. A difference between Symphony Link and LoRaWAN can be found [here](https://www.link-labs.com/whitepaper-symphony-link-vs-lorawan?hsCtaTracking=e10ced9e-aeca-4846-938a-7332bcf2e515%7C016f5d73-fc31-4196-835a-1f573372d5bb){:target="_blank"}
 
 ## Standard
-The first LoRaWAN specification was published on January 2015 ([download link](https://lora-alliance.org/sites/default/files/2018-05/2015_-_lorawan_specification_1r0_611_1.pdf)) and the lastest LoRaWAN specifications is LoRaWAN® Specification v1.0.3 (July 2018) [download link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}.
+The first LoRaWAN specification was published on January 2015 ([download link](https://lora-alliance.org/sites/default/files/2018-05/2015_-_lorawan_specification_1r0_611_1.pdf)) and the latest LoRaWAN specifications is LoRaWAN® Specification v1.0.3 (July 2018) [download link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}.
 
-Many LoRaWAN protocol implementations may not support the lastest version. For example, [pycom devices only support LoRaWAN 1.0.2](https://docs.pycom.io/firmwareapi/pycom/network/lora.html). The previous versions of LoRaWAN specifications  can be accessed from [https://lora-alliance.org/resource-hub](https://lora-alliance.org/resource-hub)
+Many LoRaWAN protocol implementations may not support the latest version. For example, [pycom devices only support LoRaWAN 1.0.2](https://docs.pycom.io/firmwareapi/pycom/network/lora.html). The previous versions of LoRaWAN specifications  can be accessed from [https://lora-alliance.org/resource-hub](https://lora-alliance.org/resource-hub)
 
 
 ## Tutorial
@@ -82,7 +82,23 @@ A full list of the [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target
 # How to Build a LoRaWAN Application
 As the above picture shows, a LoRaWAN application requires end devices, gateway, network server, and an application.
 
+## End Device
+There are different options for selecting the end devices, based on your preference. Please refer to the previous section for the hardware and their drivers. 
+
+## Gateway
+You may have experience setting up a WiFi router (access point) at home or office. Users will need password to access the router for internet, which can be referred as a private router. In LoRaWAN, it is a different story. You do not need a password to connect to a gateway. As long as there is a gateway nearby, your end devices will connect to the gateway and eventually to the network server. In this case, the gateway is public. A detailed introduction on the gateway can be found at (here)[https://www.thethingsnetwork.org/docs/gateways/]{:target="_blank"}, where you can find a list of recommended hardware.
+
+If you intend to setup a gateway, you can configure it as public or private. An instruction of using RAK831 gateway can be found here [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
+
+## Network Server
+The Things Networks (TTN) is a free and probably the most popular LoRaWAN server. Please refer to [here](https://www.thethingsnetwork.org/docs/applications/){:target="_blank"} for an instruction about creating applications in TTN.
+
+Another tutorial from [pycom](https://docs.pycom.io/gettingstarted/registration/lora/ttn/){:target="_blank"} can be found here.
+
+## Application
+Please refer to [this link](https://www.thethingsnetwork.org/docs/applications/){:target="_blank"} for building applications using TTN.
+
 # FAQ
-* 14 LoRa FAQs Answered from LinkLabs [https://www.link-labs.com/blog/lora-faqs](https://www.link-labs.com/blog/lora-faqs)
+* 14 LoRa FAQs Answered from LinkLabs [https://www.link-labs.com/blog/lora-faqs](https://www.link-labs.com/blog/lora-faqs){:target="_blank"}
 
 
