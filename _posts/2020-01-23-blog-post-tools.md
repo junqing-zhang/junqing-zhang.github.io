@@ -65,6 +65,9 @@ If you wish to build a personal page that looks professional, I strongly suggest
 ## Everything
 A very small but handy tool to search all the files and folders in your PC. Free download from [here](https://www.voidtools.com/){:target="_blank"}. You don't have to remember where you store your files any more. Simply search by some words of the file names.
 
+## Google Chrome to unlock PDF file
+Some PDF files are locked and cannot be annotated. This can be solved by Google Chorme. Firstly, use Chrome to open the pdf file. Then use the Print function to save it to your PC. The new saved file should be editable.
+
 ## PuTTY
 
 ## MobaXterm

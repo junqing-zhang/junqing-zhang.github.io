@@ -27,9 +27,11 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Wireless Communications
 * IEEE Network
 
-
 **Security**
 * IEEE Security & Privacy
+
+**Internet of Things**
+* IEEE Internet of Things Magazine
 
 **Other**
 * Proceedings of IEEE
