@@ -11,8 +11,8 @@ toc: true
 I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
 
 I am always looking for excellent PhD students, post-doc, and visiting researchers. All our research is carried out by exploiting the wireless channels for  innovative applications. The three topics that I am particularly interested are
-* Key generation from wireless channels
-* Radio frequency fingerprinting identification
+* [Key generation from wireless channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
+* [Radio frequency fingerprinting identification]{https://junqing-zhang.github.io/research-area/rffi/}{:target="_blank"}
 * Device free wireless sensing
 
 If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk) with you CV. 
@@ -22,7 +22,8 @@ I have an opening in the area of Safeguarding Autonomous Systems, Key Generation
 
 # PhD Students
 ## Main Supervisor
-* Mr. Guanxiong Shen, co-supervision with Prof Alan Marshall (Nov., 2019 to present). Research topic: Radio frequency fingerprinting identification.
+* Mr. Guanxiong Shen, co-supervision with Prof Alan Marshall (Nov., 2019 to present). Research topic: Radio frequency fingerprinting identification
+* Mr. Guolin Yin, co-supervision with Dr. Xinping Yi and Prof Alan Marshall (to start in May 2020). Research topic: Device free wireless sensing
 
 ## Co-supervisor
 * Mr. Jia Kan, co-supervision with Dr. Jie Zhang at Xian Jiaotong-Liverpool University (Sept. 2019 to present )
