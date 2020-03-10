@@ -15,6 +15,8 @@ This page summarizes the journals and conferences for communications, computing 
 # Overview
 Journals can be mainly categorized into survey/tutorial-based and technical contribution-based. The latter can be further divided into regular papers (usually longer than eight pages) and letters (less than five pages).
 
+A full list of the magazines and journals of the IEEE Communications Society can be found [here](https://www.comsoc.org/publications/submit-paper){:target="_blank"}.
+
 # Survey/Tutorial
 Survey and tutorial summarize the recent progress of a particular research area. Read these articles will help grab an overall understanding of the topic, which is very helpful, in particular to beginners.
 
