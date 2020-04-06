@@ -40,7 +40,7 @@ and his [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target
 * Machine learning and deep learning applications in the wireless communications and security
 
 ## Demonstration
-* [Key Generation Demonstration using WARP]({{ site.url }}/posts/2020/01/11/keygendemo/)
+* [Key Generation Demonstration using WARP]({{ site.url }}/posts/2020/03/11/keygendemo/)
 * [LoRaWAN Demonstration using Pycom FiPy]({{ site.url }}/posts/2019/04/blog-post-lorawan-fipy-demo/)
 
 ## Contact
