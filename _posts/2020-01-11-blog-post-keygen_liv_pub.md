@@ -30,8 +30,7 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 	* Simulation study
 	
 1. **Junqing Zhang**, Roger Woods,  Trung Q. Duong, Alan Marshall, Yuan Ding, Yi Huang, and Qian Xu, “Experimental study on key generation for physical layer security in wireless communications,” _IEEE Access_, vol. 4, pp. 4464 – 4477, Sept. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7557048)
-   
-   This paper carries out comprehensive experimental studies on the key generation principles, including temporal variation, channel reciprocity, and spatial decorrelation. The experiments were carried out in the anechoic chamber, reverberation chamber, and indoor office environments.
+   * This paper carries out comprehensive experimental studies on the key generation principles, including temporal variation, channel reciprocity, and spatial decorrelation. The experiments were carried out in the anechoic chamber, reverberation chamber, and indoor office environments.
   
 1. **Junqing Zhang**, Roger Woods, Trung Q. Duong, Alan Marshall, and Yuan Ding, “Experimental study on channel reciprocity in wireless key generation,” in _Proc. 17th IEEE International Workshop on Signal Processing Advances in Wireless Communications Special Session on Physical Layer Security for 5G_, Edinburgh, UK, Jul. 2016 (Invited Paper). [link](https://ieeexplore.ieee.org/abstract/document/7536825)
   * This paper investigates channel reciprocity by an innovative experiment design. Two WARP boards were connected by a power splitter, which enabled analyzing effects of noise and non-simultaneous sampling.
@@ -41,7 +40,8 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
   * Simulation study
 
 # Key Generation Application
-1. Henri Ruotsalainen, **Junqing Zhang**, and Stepan Grebeniuk, “Experimental Investigation on Wireless Key Generation for Low Power Wide Area Networks,” _IEEE Internet of Things Journal_, accepted [link](https://ieeexplore.ieee.org/document/8865100)
+1. Henri Ruotsalainen, **Junqing Zhang**, and Stepan Grebeniuk, “Experimental Investigation on Wireless Key Generation for Low Power Wide Area Networks,” _IEEE Internet of Things Journal_, vol. 7, no. 3, pp. 1745 - 1755, Mar. 2020. [link](https://ieeexplore.ieee.org/document/8865100){:target="_blank"}
+  * This paper studies the key generation application for LoRa/LoRaWAN.
 1. **Junqing Zhang**, Ming Ding, David Lopez-Perez, Alan Marshall, and Lajos Hanzo, “Design of an Efficient OFDMA-Based Multi-User Key Generation Protocol,” _IEEE Transactions on Vehicular Technology_, vol. 68, no. 9, pp. 8842 - 8852, Sept. 2019. [link](https://ieeexplore.ieee.org/document/8765327)
 1. Lining Peng, Guyue Li, **Junqing Zhang**, Roger Woods, Ming Liu, and Aiqun Hu, “An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation,” _IEEE Transactions on Mobile Computing_, vol. 18, no. 3, pp. 507 – 519, Mar. 2019. [link](https://ieeexplore.ieee.org/abstract/document/8370120)
 1. **Junqing Zhang**, Alan Marshall, and Lajos Hanzo, “Channel-envelope differencing eliminates secret key correlation: LoRa-based key generation in low power wide area networks,” _IEEE Transactions on Vehicular Technology_, vol. 67, no. 12, pp. 12462-12466, Dec., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8519327/)
@@ -55,5 +55,4 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
   * This paper designed key generation with retrodirective array, which acts as the relay node.
   * Simulation study
 1. **Junqing Zhang**, Roger Woods,  Trung Q. Duong, Alan Marshall, Yuan Ding, Yi Huang, and Qian Xu, “Experimental study on key generation for physical layer security in wireless communications,” _IEEE Access_, vol. 4, pp. 4464 – 4477, Sept. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7557048)
-
-   A systematic experimental study to investigate the key generation principles, namely temporal variation, channel reciprocity and spatial decorrelation. The experiments were carried out in an anechoic chamber, a reverberation chamber and an indoor office.
+   * A systematic experimental study to investigate the key generation principles, namely temporal variation, channel reciprocity and spatial decorrelation. The experiments were carried out in an anechoic chamber, a reverberation chamber and an indoor office.
