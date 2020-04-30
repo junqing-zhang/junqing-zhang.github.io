@@ -28,11 +28,20 @@ If you have not used Latex before, I suggest to use the online platform, namely 
 * Online Latex editor. Free features are sufficient for basic use. 
 * Suitable for collaboration.
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"} 
+* You don't have to worry the packages. 
 
 ## Offline Software 
 There are many Latex editors available and many of them are free to use. If you are using LaTex with Windows, I strongly suggest to use the combination of Miktex+TeXnicCenter+Sumatra PDF viewer. They are very handy to use.
  * Download Link: [http://www.texniccenter.org/download/](http://www.texniccenter.org/download/){:target="_blank"}  
  * Please click [here](https://granasat.ugr.es/wp-content/uploads/2018/02/How_to_Sumatra_EN.pdf){:target="_blank"} for a tutorial about the installation and setup.  
+
+Some tips to use the above combinations:
+* Create a project with your .tex file and then you will have the Outline view
+* When you are editing the tex file, press F5 will take you to the corresponding part in the pdf file (Sumatra PDF viewer)
+* When you are viewing your pdf file (Sumatra PDF viewer), double click the pdf file will take you to the corresponding part in the tex file.
+The above features will allow you switch between the tex and pdf quickly.
+
+When use MikTex, you will need the admin right to install all the required packages.
 
 # Template
 ## IEEE Latex Template
@@ -40,7 +49,7 @@ Different publishers and journals may have different LaTex templates. Please dow
 
 Please read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} for instruction of how to use the IEEE LaTex template. I strongly suggest to read it time to time when you are using some special features of the template, e.g., subfigures, algorithms.
 
-IEEE has special requirements on the bibliography. Bibtex is suggested to organize the references. Read the information [here](https://ctan.org/tex-archive/macros/latex/contrib/IEEEtran/bibtex?lang=en){:target="_blank"} for instruction. When you are writing your only report without following the IEEE Latex template, you can still use the IEEE reference format. It is strongly suggested if you are from the electronics and electrical engineering areas.
+IEEE has special requirements on the bibliography. Bibtex is suggested to organize the references. Read the information [here](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/macros/latex/contrib/IEEEtran/bibtex/IEEEtran_bst_HOWTO.pdf){:target="_blank"} for instruction. When you are writing your only report without following the IEEE Latex template, you can still use the IEEE reference format. It is strongly suggested if you are from the electronics and electrical engineering areas.
 
 ## Presentation Beamer
 * Latex is also very good to prepare presentations. Please refer to [here](https://www.overleaf.com/learn/latex/Beamer){:target="_blank"} for a tutorial.
@@ -51,11 +60,11 @@ IEEE has special requirements on the bibliography. Bibtex is suggested to organi
 
 # Table
 It is very difficult and unfriendly to generate a table from scratch in Latex. There are many tools available to make this tedious work much easier.
-
-* Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"} 
 * There are also many online table generators for LaTex. 
+* Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"}. 
 
 Excel2LATEX is recommended over online table generators. It allows you to save the table in an Excel file and you can edit the table and regenerate the Latex source code whenever you want.
+
 
 # Figure
 ## Choose vector figure over bitmap 
