@@ -19,8 +19,7 @@ and his [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target
 ## News
 * PhD Opening: I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 31 January, 2020.
 * Call for paper: Special Issue on "Security Threats to Artificial Intelligence-Driven Wireless Communication Systems" on Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
-* The first Annual General Meeting of the UK-Jiangsu 20+20 World-Class University Consortium was held. [link]({{ site.url }}/posts/2019/04/blog-post-uk-jiangsu-collaboration/)
-* My Royal Society Research Grants application is successful. This project will employ deep learning to classify LoRa devices based on their unique radio frequency fingerprinting.
+
 
 [//]: # * Newton International Fellowships: The Newton International Fellowships is open for application now. The submission deadline is 3pm on Thursday 26 March 2020. The application guideline can be found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"}. Please email me with your CV if you are interested in applying this Fellowship.
 
