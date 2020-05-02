@@ -20,6 +20,10 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 
 
 # Key Generation Protocol
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/keygen/keygen_protocol.png" alt="...">
+<br />
+
 * Channel Probing:
   * using the Data packet and its corresponding ACK packet to serve as the bidirectional probing packets, implemented based on 802.11 Reference Design: Experiments Framework  . The sampling delay between the Data and ACK is in the order of 10 us therefore a high correlated channel measurements can be obtained.
   * Packet Match: Because the demo is carried out in the office environment, there are many transmissions in the air from other wifi access points. The MAC address is used to filter out the useful packets.
