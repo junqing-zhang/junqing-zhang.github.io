@@ -28,7 +28,14 @@ Other methods can be found as follows.
 * [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on OS X](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_OS_X){:target="_blank"}
 
 
-# Configuration
+# Matlab Support
+Matlab has a good support for Ettus USRP which allows fast test and prototype. Please visit * [Communications Toolbox Support Package for USRP Radio](https://uk.mathworks.com/help/supportpkg/usrpradio/index.html){:target="_blank"} for more information.
+
+
+# Resources
+* [What Is the Difference between NI and Ettus Research USRP Devices?](https://www.ni.com/en-gb/innovations/white-papers/19/what-is-the-difference-between-ni-and-ettus-usrps.html){:target="_blank"}
+
+
 
 
 
