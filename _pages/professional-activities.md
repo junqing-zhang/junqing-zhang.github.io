@@ -40,6 +40,10 @@ toc_max_header: 1
 # Editorship
 * Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
 
+# Guest Editor
+* Special Issue on "Security Threats to Artificial Intelligence-Driven Wireless Communication Systems" on Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
+
+
 # TPC Chair
 * 6th IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security
 

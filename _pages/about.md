@@ -13,12 +13,17 @@ Junqing Zhang is a Tenure Track Fellow (Assistant Professor) at the Department o
 
 He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/)
 
-Please find more information from his citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}, publication list in [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"}.
-and his [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile.
+Please find more information from his 
+* [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
+* [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
+* [IEEE](https://ieeexplore.ieee.org/author/37085438201} publication list
+* [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile
+
+
 
 ## News
 * PhD Opening: I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 31 January, 2020.
-* Call for paper: Special Issue on "Security Threats to Artificial Intelligence-Driven Wireless Communication Systems" on Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
+
 
 
 [//]: # * Newton International Fellowships: The Newton International Fellowships is open for application now. The submission deadline is 3pm on Thursday 26 March 2020. The application guideline can be found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"}. Please email me with your CV if you are interested in applying this Fellowship.
