@@ -16,7 +16,7 @@ He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2
 Please find more information from his 
 * [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
 * [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
-* [IEEE](https://ieeexplore.ieee.org/author/37085438201} publication list
+* [IEEE](https://ieeexplore.ieee.org/author/37085438201){:target="_blank"} publication list
 * [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile
 
 
