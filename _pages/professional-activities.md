@@ -83,6 +83,7 @@ toc_max_header: 1
 
 **Journal**
 * IEEE Wireless Communications Magazine
+* IEEE Communications Magazine
 * IEEE Vehicular Technology Magazine
 * IEEE Transactions on Communications
 * IEEE Transactions on Wireless Communications
