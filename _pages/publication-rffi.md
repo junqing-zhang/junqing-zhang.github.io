@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication - Radio Frequency Fingerprinting Identification"
+title: "Publication - Radio Frequency Fingerprinting Identification @ University of Liverpool"
 permalink: /publication-rffi/
 author_profile: true
 toc: true

@@ -88,6 +88,7 @@ toc_max_header: 1
 * IEEE Transactions on Communications
 * IEEE Transactions on Wireless Communications
 * IEEE Transactions on Information Forensics and Security
+* IEEE Transactions on Signal Processing
 * IEEE Transactions on Vehicular Technology
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Dependable and Secure Computing
