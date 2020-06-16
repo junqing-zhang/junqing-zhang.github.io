@@ -7,7 +7,7 @@ toc: true
 ---
 His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
 
-Our publication in the area of key generation is summarized at [here](https://junqing-zhang.github.io/posts/2020/01/blog-post-keygen_liv_pub/)
+Our publication in the area of key generation is summarized at [here](/publication-keygen/)
 
 Our publication in the area of radio frequency fingerprinting identification is summarized at [here](/publication-rffi/)
 
