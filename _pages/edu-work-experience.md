@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 # Work Experience
+## Lecturer (Assistant Professor)
+* Jun. 2020 to present
+* Institution: Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics, University of Liverpool, UK
+
 ## Tenure Track Fellow (Assistant Professor)
-* Feb. 2018 to present
+* Feb. 2018 to Jun. 2020
 * Institution: Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics, University of Liverpool, UK
 
 ## Research Fellow
