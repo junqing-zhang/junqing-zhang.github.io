@@ -60,7 +60,7 @@ English language test certificate (minimum IELTS 6.5 with no components lower th
 Please note this requirement is applicable to both full PhD students and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
 
 # Resources and Facilities
-Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has been equipped with a number of advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests and building embedded Internet of Things systems.
+Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has  equipped with advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests and building embedded Internet of Things systems.
 
 **Software Defined Radio (SDR)**
 * [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} *3
@@ -77,7 +77,7 @@ Thanks to the generous financial support from Royal Society and the Department o
 
 
 **GPU Platform**
-* [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"}
+* [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"} *3
 
 **FPGA Platform**
 * [Zedboard](http://zedboard.org/product/zedboard){:target="_blank"}
@@ -87,4 +87,4 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
 
-The High Frequency Engineering Group at University of Liverpool has an anechoic chamber and the biggest reverberation chamber in the UK universities.
+The [High Frequency Engineering Group](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/research/networks-and-communications/high-frequency-engineering/){:target="_blank"} at University of Liverpool has an anechoic chamber and the biggest reverberation chamber in the UK universities.
