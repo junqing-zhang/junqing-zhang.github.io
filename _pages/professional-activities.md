@@ -39,6 +39,7 @@ toc_max_header: 1
 
 # Editorship
 * Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
+* Review Editor of  IoT and Sensor Networks Section, Frontiers in Communications and Networks (May 2020 to present)
 
 # Guest Editor
 * Special Issue on "Security Threats to Artificial Intelligence-Driven Wireless Communication Systems" on Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
@@ -54,28 +55,17 @@ toc_max_header: 1
 * IEEE GLOBECOM 2016 Signal Processing for Communications Symposium, Security and Secrecy Track
 
 # TPC Member
-* IEEE GLOBECOM 2020 Signal Processing for Communications Symposium
-* IEEE GLOBECOM 2020 Green Communication Systems and Networks
-* IEEE International Conference on Communications (ICC) 2020: Wireless Communications Symposium
-* IEEE International Conference on Communications (ICC) 2020: Communication and Information Systems Security Symposium
-* IEEE GLOBECOM 2019 Signal Processing for Communications Symposium
-* IEEE GLOBECOM 2019 Green Communication Systems and Networks
+* IEEE International Conference on Communications (ICC): Communication and Information Systems Security Symposium, 2019 - 2021
+* IEEE GLOBECOM: Signal Processing for Communications Symposium, 2016 - 2020
+* IEEE GLOBECOM: Green Communication Systems and Networks, 2019 - 2020
+* IEEE International Conference on Communications (ICC): Wireless Communications Symposium, 2019 - 2020
 * IEEE GLOBECOM 2019 Cognitive Radio and AI-Enabled Networks Symposium
-* IEEE International Conference on Communications (ICC) 2019: Communication and Information Systems Security Symposium
-* IEEE International Conference on Communications (ICC) 2019: Wireless Communications Symposium
 * IEEE VTC 2018 Fall Wireless Networks: Protocols, Security and Services Track
 * IEEE GLOBECOM 2018 Cognitive Radio and Networks Symposium
-* IEEE GLOBECOM 2018 Signal Processing for Communications Symposium
-* International Conference on Advanced Technologies for Communications (ATC) 2018
 * International Conference on Computing, Networking and Communications 2018 Signal Processing for Communications Symposium
-* International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
-* IEEE GLOBECOM 2017 Signal Processing for Communications Symposium
-* IEEE GLOBECOM 2017 5th Workshop on Trusted Communications with Physical Layer Security
 * IEEE Vehicular Technology Conference (VTC) 2017 Spring Recent Results and Workshops - W1: High Mobility Wireless Communications (HMWC)
 * IEEE Vehicular Technology Conference (VTC) 2017 Spring Recent Results and Workshops - W5: Wireless Access Technologies and Architectures for Internet of Things (IoT) Applications
-* International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2017
-* IEEE GLOBECOM 2016 Signal Processing for Communications Symposium
-* IEEE GLOBECOM 2016 4th Workshop on Trusted Communications with Physical Layer Security
+* IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security, 2016, 2017
 
 # Technical Reviewer
 **Proposal**
