@@ -34,19 +34,22 @@ Unfortunately we don't have any studentships at the moment. Please drop me an em
 
 # Potential Funding
 ## Newton International Fellowships for Post-Doc
-The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2020. Please contact us if you are interested.
+The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2021. Please contact us if you are interested.
 
 ## China Scholarship Council for PhD Students and Visiting Researchers
-We are proud to be the partner of CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the tuition fee and CSC will provide the living allowance.
+We are proud to be the partner of the CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the international tuition fee and CSC will provide the living allowance.
 
-The application will open every year around October. Please note this is a two step application. You should submit a full application to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. Once you are successful at step 1, you will then submit a full application to the CSC in China. The deadline is usually in the middle of March.
+The application will open every year around October. Please note this is a two-step application. 
+* Step 1: You should submit a full application (in English) to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. 
+* Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May.
+If you are successful in both steps, you will be awarded the full scholarship from our University and CSC.
 
 For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website.
 
-CSC also has funding for visiting researchers, including visiting PhDs and scholars.
+CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures may a little different. Please contact us if you are interested.
 
 ## UK Jiangsu 20+20 programme for Visiting Researchers
-If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. Under this scheme, PhD and ECRs will be supported for six months and one year, respectively.
+If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. 
 
 Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} for further information. 
 
