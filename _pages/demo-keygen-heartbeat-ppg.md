@@ -16,7 +16,7 @@ This demonstration uses PPG sensors to collect heartbeat signals and extract cry
 
 # Key Generation Protocol
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol_with_encryption.png" alt="...">
+<img align="center" width="700" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol_with_encryption.png" alt="...">
 <br />
 
 ## Heartbeat Measurement
@@ -35,11 +35,11 @@ Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG senso
 # Setup
 
 <br />
-<img align="center" width="500" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_diagram.png" alt="...">
+<img align="center" width="400" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_diagram.png" alt="...">
 <br />
 
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_photo.png" alt="...">
+<img align="center" width="500" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_photo.png" alt="...">
 <br />
 
 Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_Pi/blob/master/PulseSensor_Arduino_Pi/PulseSensor_Arduino_Pi.md){:target="_blank"} for the hardware and software setup.
