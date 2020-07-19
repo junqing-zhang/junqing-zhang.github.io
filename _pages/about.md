@@ -45,10 +45,10 @@ Please find more information from his
 * Software defined radios including USRP, Zedboard + FMCOMMS2, and WARP
 * Machine learning and deep learning applications in the wireless communications and security
 
-## Demonstration
+## Research Demonstration
 * [Key Generation Demonstration using WARP]({{ site.url }}/posts/2020/03/11/keygendemo/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
-* [LoRaWAN Demonstration using Pycom FiPy]({{ site.url }}/posts/2019/04/blog-post-lorawan-fipy-demo/)
+* [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
