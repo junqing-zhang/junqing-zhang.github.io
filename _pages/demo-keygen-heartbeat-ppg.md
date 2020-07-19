@@ -24,6 +24,7 @@ A PPG-based key generation demo.
 # IPI Extraction:
 * Peak Detection
 * IPI Alignment
+
 # Key Establishment  
 *  Quantization: IPI trend-based quantization
 *  Information Reconciliation: [BCH-based](https://github.com/jkent/python-bchlib){:target="_blank"} secure sketch
