@@ -54,7 +54,7 @@ Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_
 * GUI and signal processing: Python
 
 # Demo Video
-<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="1000" border="10" /></a>
+<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="600" border="10" /></a>
 
 # Acknowledgement
 We would like to thank Mr Yushi Zheng for his hard work on completing this excellent demo. 
