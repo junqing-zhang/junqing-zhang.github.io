@@ -47,6 +47,7 @@ Please find more information from his
 
 ## Demonstration
 * [Key Generation Demonstration using WARP]({{ site.url }}/posts/2020/03/11/keygendemo/)
+* [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
 * [LoRaWAN Demonstration using Pycom FiPy]({{ site.url }}/posts/2019/04/blog-post-lorawan-fipy-demo/)
 
 ## Contact

@@ -1,16 +1,10 @@
 ---
-title: 'Heartbeat-based Key Generation Demonstration @ University of Liverpool'
-date: 2020-07-19
-permalink: /posts/2020/07/19/heartbeat-keygendemo/
-categories:
-  - Key Generation
-  - Final Year Project
-tags:
-  - Key Generation  
-  - Heartbeat 
-  - Demo
-toc: true
+layout: archive
+title: "Heartbeat Key Generation Demonstration Using PPG Sensors"
+permalink: /demo-keygen-heartbeat-ppg/
+author_profile: true
 ---
+
 
 A heartbeat-based key generation demonstration has been developed at University of Liverpool. A full key generation protocol has been implemented by the Python. 
 
