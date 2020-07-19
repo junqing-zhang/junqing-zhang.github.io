@@ -1,29 +1,30 @@
 ---
 layout: archive
-title: "Heartbeat Key Generation Demonstration Using PPG Sensors"
+title: "Heartbeat Key Generation Demonstration"
 permalink: /demo-keygen-heartbeat-ppg/
 author_profile: true
 ---
 
+You may have used fingerprint authentication or face recognition with your smartphone. But do you know that you can use your heartbeat signals to encrypt your wireless communications?
 
-A heartbeat-based key generation demonstration has been developed at University of Liverpool. A full key generation protocol has been implemented by the Python. 
+In this demonstration, we will present a heartbeat-based key generation technique developed at Advanced Networks Research Group, University of Liverpool. 
 
 {% include toc %}
 
 # Overview
-A PPG-based key generation demo.
-
+This demonstration uses PPG sensors to collect heartbeat signals and extract cryptographic keys from the collected signals. A full key generation protocol has been implemented by the Python. 
 
 # Key Generation Protocol
 <br />
-<img align="center" width="500" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol.png" alt="...">
+<img align="center" width="600" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol_with_encryption.png" alt="...">
 <br />
 
 # Heartbeat Measurement
-
+Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG sensors. This demonstration use PPG sensors as example. PPG sensors are very easy to use.
+ 
 # IPI Extraction:
-* Peak Detection
-* IPI Alignment
+* Peak Detection: Detect the peaks of the heartbeat signals. Multiple level wavelet transform is used to denoise the heartbeat signals.
+* IPI Alignment: Calculate the interpulse interval between any adjacent peaks. Align the common IPIs between Alice and Bob.
 
 # Key Establishment  
 *  Quantization: IPI trend-based quantization
@@ -44,9 +45,9 @@ A PPG-based key generation demo.
 Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_Pi/blob/master/PulseSensor_Arduino_Pi/PulseSensor_Arduino_Pi.md){:target="_blank"} for the hardware and software setup.
 
 ## Hardware
-* [Pulse Sensor](https://www.adafruit.com/product/1093){:target="_blank"}.
-* Arduino board for AD conversion
-* Raspberry Pi with touchscreen
+* [Pulse Sensor](https://www.adafruit.com/product/1093){:target="_blank"}x2
+* Arduino board for AD conversion x2
+* Raspberry Pi with touchscreen x2
 
 
 ## Software
@@ -54,7 +55,8 @@ Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_
 * GUI and signal processing: Python
 
 # Demo Video
-<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="600" border="10" /></a>
+Click the image below to watch the video.
+<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
 
 # Acknowledgement
 We would like to thank Mr Yushi Zheng for his hard work on completing this excellent demo. 
