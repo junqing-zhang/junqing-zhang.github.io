@@ -19,14 +19,14 @@ This demonstration uses PPG sensors to collect heartbeat signals and extract cry
 <img align="center" width="600" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol_with_encryption.png" alt="...">
 <br />
 
-# Heartbeat Measurement
-Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG sensors. This demonstration use PPG sensors as example. PPG sensors are very easy to use.
+## Heartbeat Measurement
+Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG sensors. This demonstration uses PPG sensors as example. PPG sensors are very easy to use.
  
-# IPI Extraction:
+## IPI Extraction:
 * Peak Detection: Detect the peaks of the heartbeat signals. Multiple level wavelet transform is used to denoise the heartbeat signals.
-* IPI Alignment: Calculate the interpulse interval between any adjacent peaks. Align the common IPIs between Alice and Bob.
+* IPI Alignment: Calculate the interpulse interval (IPI) between any adjacent peaks. Align the common IPIs between Alice and Bob.
 
-# Key Establishment  
+## Key Establishment  
 *  Quantization: IPI trend-based quantization
 *  Information Reconciliation: [BCH-based](https://github.com/jkent/python-bchlib){:target="_blank"} secure sketch
 *  Privacy amplification: hash function [SHA256](https://docs.python.org/3/library/hashlib.html){:target="_blank"}
