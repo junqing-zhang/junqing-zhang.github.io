@@ -16,7 +16,7 @@ A PPG-based key generation demo.
 
 # Key Generation Protocol
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol.png" alt="...">
+<img align="center" width="500" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol.png" alt="...">
 <br />
 
 # Heartbeat Measurement
