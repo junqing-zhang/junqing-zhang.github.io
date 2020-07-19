@@ -34,11 +34,11 @@ A PPG-based key generation demo.
 # Setup
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_diagram.png" alt="...">
+<img align="center" width="500" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_diagram.png" alt="...">
 <br />
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_photo.png" alt="...">
+<img align="center" width="600" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_photo.png" alt="...">
 <br />
 
 Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_Pi/blob/master/PulseSensor_Arduino_Pi/PulseSensor_Arduino_Pi.md){:target="_blank"} for the hardware and software setup.
