@@ -49,7 +49,7 @@ Please find more information from his
 
 ## Research Demonstration
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
-* [Key Generation Demonstration using WARP]({{ site.url }}/posts/2020/03/11/keygendemo/)
+* [Key Generation Demonstration using WARP](/demo-keygen-warp/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
 * [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
 
