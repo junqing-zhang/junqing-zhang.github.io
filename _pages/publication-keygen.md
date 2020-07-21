@@ -14,6 +14,8 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 {% include toc %}
 
 # Key Generation Survey
+1. **Junqing Zhang**, Guyue Li, Alan Marshall, Aiqun Hu, and Lajos Hanzo, “A New Frontier for IoT Security Emerging
+From Three Decades of Key Generation Relying on Wireless Channels,” _IEEE Access_, accepted.
 1. Guyue Li, Chen Sun, **Junqing Zhang**, Eduard Jorswieck, Bin Xiao, Aiqun Hu, “Physical Layer Key Generation in 5G and Beyond Wireless Communications: Challenges and Opportunities,” _Entropy_, 2019
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, 2019
 	* This paper gives a tutorial on the radio frequency fingerprinting identification and key generation, in order to achieve the user identify authentication and secure communications, respectively. An integrated security framework is proposed by combining these two techniques.
