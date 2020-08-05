@@ -87,6 +87,7 @@ toc_max_header: 1
 * IEEE Access
 * IEEE Communications Letters
 * IEEE Wireless Communications Letters
+* IEEE Signal Processing Letters
 * ACM Transactions on Embedded Computing Systems
 * IET Communications
 * IET Electronics Letters
