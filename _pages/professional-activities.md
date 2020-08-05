@@ -72,7 +72,9 @@ toc_max_header: 1
 * Vietnam National Foundation for Science and Technology Development (NAFOSTED) 2018
 
 **Journal**
+
 Please check my review record at [Publons](https://publons.com/researcher/3021376/junqing-zhang/peer-review/){:target="_blank"}.
+
 * IEEE Wireless Communications Magazine
 * IEEE Communications Magazine
 * IEEE Vehicular Technology Magazine
