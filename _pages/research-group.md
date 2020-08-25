@@ -10,12 +10,13 @@ toc: true
 
 I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
 
-I am always looking for excellent PhD students, post-doc, and visiting researchers. All our research is carried out by exploiting the wireless channels for  innovative applications. The three topics that I am particularly interested are
+I am always looking for excellent and highly-motivated PhD students, post-doc, and visiting researchers. All our research involves exploiting the wireless channels for innovative applications. The three topics that I am particularly interested are
 * [Key generation from wireless channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
 * [Radio frequency fingerprinting identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}
 * Device free wireless sensing
+I am also very keen to explore new areas.
 
-If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk) with you CV. 
+If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk) with your CV. 
 
 # Opening
 Unfortunately we don't have any studentships at the moment. Please drop me an email with you CV for enquiry. 
@@ -47,14 +48,17 @@ If you are successful in both steps, you will be awarded the full scholarship fr
 
 For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website.
 
-CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures may a little different. Please contact us if you are interested.
+CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
 
 ## UK Jiangsu 20+20 programme for Visiting Researchers
 If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. 
 
-Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} for further information. 
+Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} or contact me for further information. 
 
 # Requirement
+## Background
+The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. Relevant experience in one or more of the following will be an advantage: wireless communications, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. Strong mathematical background and/or programming skills in languages such as MATLAB, Python, C++, R, etc are highly preferred.
+
 ## English Language Requirement
 English language test certificate (minimum IELTS 6.5 with no components lower than 5.5 or other equivalent English qualifications)
 
