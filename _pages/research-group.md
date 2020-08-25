@@ -24,7 +24,8 @@ Unfortunately we don't have any studentships at the moment. Please drop me an em
 # PhD Students
 ## Main Supervisor
 * Mr. Guanxiong Shen, co-supervision with Prof Alan Marshall (Nov., 2019 to present). Research topic: Radio frequency fingerprinting identification
-* Mr. Guolin Yin, co-supervision with Dr. Xinping Yi and Prof Alan Marshall (to start in May 2020). Research topic: Device free wireless sensing
+* Miss Jie Ma, co-supervision with Prof Alan Marshall (to start in October 2020). Research topic: Radio frequency fingerprinting identification
+* Mr. Guolin Yin, co-supervision with Dr. Xinping Yi and Prof Alan Marshall (to start in October 2020). Research topic: Device free wireless sensing
 
 ## Co-supervisor
 * Mr. Jia Kan, co-supervision with Dr. Jie Zhang at Xian Jiaotong-Liverpool University (Sept. 2019 to present )
