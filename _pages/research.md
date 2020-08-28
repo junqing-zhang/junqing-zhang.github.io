@@ -14,18 +14,26 @@ In particular, my research aims to ensure the secure communication using key gen
 <img align="center" width="1000" src="{{ site.url }}/images/system_overview.png" alt="...">
 <br />
 
+
+
+## Key Generation from Wireless Channels
+* Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
+* [Key Generation Overview]({{ site.url }}/posts/2019/04/blog-post-keygen_main/)
+* [Key Generation Publication at University of Liverpool](/publication-keygen/)
+<br/><img src='/images/keygen/keygen_model.png'>"
+
+
+
+## Radio Frequency Fingerprint (RFF) Identification
+* All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
+* [RFF Identification Overview]({{ site.url }}/posts/2019/04/blog-post-rffi_main/)
+
+
+
+
 # Research Keywords
 
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/WordCloudResearch.png" alt="...">
 <br />
 
-
-
-## Key Generation from Wireless Channels
-* Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
-* [Key Generation Overview]({{ site.url }}/posts/2019/04/blog-post-keygen_main/)
-
-## Radio Frequency Fingerprint (RFF) Identification
-* All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
-* [RFF Identification Overview]({{ site.url }}/posts/2019/04/blog-post-rffi_main/)
