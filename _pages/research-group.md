@@ -58,7 +58,10 @@ Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} or
 
 # Requirement
 ## Background
-The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. Relevant experience in one or more of the following will be an advantage: wireless communications, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. Strong mathematical background and/or programming skills in languages such as MATLAB, Python, C++, R, etc are highly preferred.
+* The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. 
+* Relevant experience in one or more of the following will be an advantage: wireless communications and networks, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. 
+* Strong mathematical background and/or programming skills in languages such as MATLAB, Python, C++, R, etc are highly preferred.
+* Good English skills.
 
 ## English Language Requirement
 English language test certificate (minimum IELTS 6.5 with no components lower than 5.5 or other equivalent English qualifications)
