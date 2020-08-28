@@ -8,6 +8,8 @@ tags:
   - Resources
 ---
 
+As a researcher, it is important to write good journal and conference papers. This link summarizes some resources and tips.
+
 {% include toc %}
 
 # How to Write a Paper
