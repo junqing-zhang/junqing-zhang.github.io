@@ -10,7 +10,7 @@ toc: true
 
 Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has  equipped with advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests and building embedded Internet of Things systems.
 
-**Software Defined Radio (SDR)**
+# Software Defined Radio (SDR)
 * [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} *3
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
@@ -18,20 +18,20 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*2
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*3
 
-**Wireless Kit**
+#  Wireless Kit
 * [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
 * LoRa devices, including mbed LoRa devices, Arduino LoRa shield and Microchip RN2483 LoRa
 * LoRa Gateway
 
 
-**GPU Platform**
+#  GPU Platform
 * [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"} *3
 
-**FPGA Platform**
+# FPGA Platform
 * [Zedboard](http://zedboard.org/product/zedboard){:target="_blank"}
 * [Pynq board](http://www.pynq.io/){:target="_blank"}
 
-**Single Board Computer**
+# Single Board Computer
 * [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
 
