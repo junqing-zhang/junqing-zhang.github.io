@@ -1,14 +1,27 @@
 ---
 layout: archive
-title: "Research Areas"
-permalink: /research-areas/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
 I have developed a strong research potential in innovative physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. My research aims to bridge the gap between the theoretical modelling and practical exploitation of physical layer security using state-of-the-art testbeds and equipment.
 
-In particular, my research aims to ensure the secure connection using key generation and device authentication using radio frequency fingerprint identification.
+# Research Topics
+In particular, my research aims to ensure the secure communication using key generation and device authentication using radio frequency fingerprint identification.
+
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/system_overview.png" alt="...">
+<br />
+
+# Research Keywords
+
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/WordCloudResearch.png" alt="...">
+<br />
+
+
+
 ## Key Generation from Wireless Channels
 * Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 * [Key Generation Overview]({{ site.url }}/posts/2019/04/blog-post-keygen_main/)
