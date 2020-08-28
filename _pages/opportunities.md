@@ -5,9 +5,6 @@ permalink: /opportunities/
 author_profile: true
 toc: true
 ---
-
-{% include toc %}
-
 I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
 
 I am always looking for excellent and highly-motivated PhD students, post-doc, and visiting researchers. All our research involves exploiting the wireless channels for innovative applications. The three topics that I am particularly interested are
@@ -18,6 +15,21 @@ I am always looking for excellent and highly-motivated PhD students, post-doc, a
 I am also very keen to explore new areas.
 
 If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk) with your CV. 
+
+{% include toc %}
+
+# Requirement
+## Background
+* The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. 
+* Relevant experience in one or more of the following will be an advantage: wireless communications and networks, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. 
+* Strong mathematical background and/or programming skills in languages such as MATLAB, Python, C++, R, etc are highly preferred.
+* Good English skills.
+
+## English Language Requirement
+English language test certificate (minimum IELTS 6.5 with no components lower than 5.5 or other equivalent English qualifications)
+
+Please note this requirement is applicable to both full PhD students and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
+
 
 # Potential Funding
 ## Newton International Fellowships for Post-Doc
@@ -40,14 +52,3 @@ If you are PhD students or scholars in universities of Jiangsu Province, China, 
 
 Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} or contact me for further information. 
 
-# Requirement
-## Background
-* The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. 
-* Relevant experience in one or more of the following will be an advantage: wireless communications and networks, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. 
-* Strong mathematical background and/or programming skills in languages such as MATLAB, Python, C++, R, etc are highly preferred.
-* Good English skills.
-
-## English Language Requirement
-English language test certificate (minimum IELTS 6.5 with no components lower than 5.5 or other equivalent English qualifications)
-
-Please note this requirement is applicable to both full PhD students and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
