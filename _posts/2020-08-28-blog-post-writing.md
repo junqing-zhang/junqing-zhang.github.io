@@ -36,5 +36,16 @@ For example, the policy of IEEE Transactions on Wireless Communications can be f
 
 ## Abstract and Title
 Some suggestions from the [Information for Authors IEEE Transactions on Artificial Intelligence Author Instructions](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence/information-for-authors-tai){:target="_blank"}
+Title
 > Avoid phrases such as “a novel methodology”, “a new algorithm”, and “a significant application” in the title. By default, papers in TAI offer novel contributions that are significant. One purpose of the paper is to convince the reader that the contribution is novel, scientifically sound, technically correct, and significant. As such, words such as ‘novel’ and ‘new’ are redundant.
+
+Abstract
+> The “Abstract” should not exceed 250 words. Authors are encouraged to attempt to use the following guideline in writing their abstract:
+> * 1-2 sentences introducing the problem.
+> * 2-3 sentences summarizing the state-of-art. Be concise and offer an objective assessment of the current state of play in this area.
+> * 1-2 sentences clearly describing the research gap the paper is concerned with.
+> * 1-2 sentences summarizing the main methodological contribution.
+> * 1-2 sentences summarizing the main result.
+> * 2-3 sentences summarizing the implications of the findings on the wider field of AI.
+
 
