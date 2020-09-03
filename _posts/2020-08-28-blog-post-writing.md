@@ -1,5 +1,5 @@
 ---
-title: 'How to Write a Good Paper'
+title: 'How to Write a (Good) Paper'
 date: 2020-08-28
 permalink: /posts/2020/02/blog-post-writing/
 categories:
@@ -30,4 +30,11 @@ There may be different rules for journals regarding extending a conference paper
 For example, the policy of IEEE Transactions on Wireless Communications can be found [here](https://www.comsoc.org/publications/journals/ieee-transactions-wireless-communications/conference-vs-journal){:target="_blank"}.
 
 # How to Write a Good Paper
+
+## Tips
 * [Top-10 tips for writing a paper](http://conferences.sigcomm.org/co-next/2006/files/pres/10tipsforwritingapaper.pdf){:target="_blank"} by Jim Kurose, University of Massachusetts
+
+## Abstract and Title
+Some suggestions from the [Information for Authors IEEE Transactions on Artificial Intelligence Author Instructions](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence/information-for-authors-tai){:target="_blank"}
+> Avoid phrases such as “a novel methodology”, “a new algorithm”, and “a significant application” in the title. By default, papers in TAI offer novel contributions that are significant. One purpose of the paper is to convince the reader that the contribution is novel, scientifically sound, technically correct, and significant. As such, words such as ‘novel’ and ‘new’ are redundant.
+
