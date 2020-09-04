@@ -8,6 +8,12 @@ toc: true
 
 Please find a list of the final year projects that I am supervising. Students are also welcome to propose their own projects.
 
+The final year projects that I am supervising usually 
+* Use embedded systems such as Raspberry Pi, Arduino, FPGA, and software defined radio platforms 
+* Build wireless applications, such as IoT, security, and sensing
+* Involve wireless technologies including WiFi, LoRa, ZigBee, Bluetooth
+* Require strong programming skills such as Python, C/C++, Matlab
+
 # 2020
 to be updated soon
 
