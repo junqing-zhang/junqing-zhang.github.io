@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-Please find a list of the final year projects that I am supervising. Students are also welcome to propose their own projects.
+Please find a list of the final year projects that I am supervising or have supervised. Students are also welcome to propose their own projects.
 
 The final year projects that I am supervising usually 
 * Use embedded systems such as Raspberry Pi, Arduino, FPGA, and [software defined radio platforms](https://junqing-zhang.github.io/posts/2019/07/blog-post-sdr/) 
