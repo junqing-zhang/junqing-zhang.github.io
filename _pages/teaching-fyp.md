@@ -6,13 +6,13 @@ author_profile: true
 toc: true
 ---
 
-Please find a list of the final year projects that I am supervising. Students are also welcome to proposed their own projects.
+Please find a list of the final year projects that I am supervising. Students are also welcome to propose their own projects.
 
 # 2020
 to be updated soon
 
 # 2019
-* Securing Body Area Networks Using Electrocardiogram Signals
+* [Securing Body Area Networks Using Electrocardiogram Signals](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/)
 * LoRa-Based Key Generation in Low Power Wide Area Networks
 * Build A WiFi-based Key Generation System Using Raspberry Pi
 * Investigating RF impairments for the Radio Frequency Fingerprinting Identification
@@ -21,6 +21,6 @@ to be updated soon
 
 
 # 2018 
-* Build An Automatic Secure Key Generation Protocol for WiFi Systems
-* Build a LoRaWAN-based Internet of Things System
+* [Build An Automatic Secure Key Generation Protocol for WiFi Systems](https://junqing-zhang.github.io/demo-keygen-warp/)
+* [Build a LoRaWAN-based Internet of Things System](https://junqing-zhang.github.io/demo-lorawan-fipy/)
 * Build a Secure LoRa-based Internet of Things System
