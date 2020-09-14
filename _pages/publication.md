@@ -17,7 +17,9 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 # Book Chapter
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
+
 # Journal Article
+1. Guyue Li, Chen Sun, Eduard Jorswieck, **Junqing Zhang**, Aiqun Hu, and You Chen, “Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks,” _IEEE Transactions on Information Forensics and Security_, accepted
 1. **Junqing Zhang**, Guyue Li, Alan Marshall, Aiqun Hu, and Lajos Hanzo, “A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels,” _IEEE Access_, vol. 8, pp. 138406 - 138446, 2020. [link](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
 1. Guyue Li, Zheying Zhang, **Junqing Zhang**, and Aiqun Hu, “Encrypting Wireless Communications On the Fly Using OneTime Pad and Key Generation,” _IEEE Internet of Things Journal_, accepted.  [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Jiabao  Yu, Guyue Li, and Ting Wang, “Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar,” _IEEE Internet of Things Journal_, accepted. [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
