@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-
+* 14 September, 2020, Our paper "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks" has been accepted by IEEE Transactions on Information Forensics and Security. This paper is a collaboration with Dr. Guyue Li @ Southeast University.
 * 7 August, 2020: A preprint on key generation survey paper, "Key Generation for Internet of Things: A Contemporary Survey", has been available in arxiv. Please check it [here](https://arxiv.org/abs/2007.15956){:target="_blank"}. This paper reviews key generation from wireless channel, audio signals, motions, heartbeats, etc.
 * 29 July, 2020: Our recent key generation survey paper, "A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels", has been accepted by IEEE Access. Please check it [here](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
 * 19 July, 2020: Please check our latest [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
