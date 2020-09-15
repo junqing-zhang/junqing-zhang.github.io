@@ -16,7 +16,7 @@ This page summarizes information for software defined radio (SDR).
 # Overview
 *Radio components such as modulators, demodulators and tuners are traditionally implemented in hardware components. The advent of modern computing and analogue to digital converters allows most of these traditionally hardware based components to be implemented into software instead. Hence, the term software defined radio. This enables easy signal processing and thus cheap wide band scanner radios to be produced.* (quoted from [https://www.rtl-sdr.com/about-rtl-sdr/](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"})
 
-An good (though not the latest) introduction on the SDR is available [here](http://www.taylorkillian.com/2013/08/sdr-showdown-hackrf-vs-bladerf-vs-usrp.html){:target="_blank"})
+An good (though not the latest) introduction on the SDR is available [here](http://www.taylorkillian.com/2013/08/sdr-showdown-hackrf-vs-bladerf-vs-usrp.html){:target="_blank"}. A list of SDR can be found [here](https://www.rtl-sdr.com/roundup-software-defined-radios/){:target="_blank"}
 
 # Hardware
 There are many SDR platforms available on the market, with different specifications and prices. A comparsion between different SDR is produced by LimeSDR and quoted here. Source: [https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table](https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table){:target="_blank"}
