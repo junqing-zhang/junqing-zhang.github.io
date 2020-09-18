@@ -74,7 +74,7 @@ An differentiation between tutorial and survey can be found at the [information 
 
 # Conferences
 **ACM**
-* MobiCom: The Annual International Conference on Mobile Computing and Networking
+* MobiCom: The Annual International Conference on Mobile Computing and Networking (double blind review)
 * Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
 * MobiSys: ACM International Conference on Mobile Systems, Applications, and Services (double blind review)
 * SenSys: ACM Conference on Embedded Networked Sensor Systems
@@ -97,4 +97,8 @@ An differentiation between tutorial and survey can be found at the [information 
 * CCS: ACM Conference on Computer and Communications Security
 * USENIX Security
 * Network and Distributed System Security Symposium (NDSS)
+
+# Note
+* Most of the journals and conferences undergo single blind review process, i.e., the authors' information is available to the reviewers. Some journals, e.g., IEEE TMC, let the authors to choose single blind or double blind. Some conferences, e.g., MobiCom, INFOCOM, use double blind review.
+* Most IEEE conferences, IEEE GLOBECOM, ICC, etc., limit the submissions to six pages. 
 
