@@ -1,5 +1,5 @@
 ---
-title: 'Journals and Conferences of Communications, Computing and Security'
+title: 'Journals and Conferences of Communications, Networking, Computing and Security'
 date: 2020-02-01
 permalink: /posts/2020/02/blog-post-journals-conferences/
 categories:
@@ -74,13 +74,15 @@ An differentiation between tutorial and survey can be found at the [information 
 
 # Conferences
 **ACM**
-* The Annual International Conference on Mobile Computing and Networking (MobiCom)
-* ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
-
+* MobiCom: The Annual International Conference on Mobile Computing and Networking
+* Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
+* MobiSys: ACM International Conference on Mobile Systems, Applications, and Services (double blind review)
+* SenSys: ACM Conference on Embedded Networked Sensor Systems
+* WiSec: ACM Conference on Security and Privacy in Wireless and Mobile Networks
 
 **IEEE**
-* IEEE Symposium on Security and Privacy
 * IEEE INFOCOM (double blind review)
+* IEEE SECON: IEEE International Conference on Sensing, Communication and Networking (double blind review)
 * IEEE GLOBECOM
 * IEEE ICC
 * IEEE ICASSP
@@ -89,4 +91,10 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE VTC Spring
 * IEEE VTC Fall
 * IEEE SPAWC
+
+**Best Conferences of the Information Security**
+* IEEE Symposium on Security and Privacy
+* CCS: ACM Conference on Computer and Communications Security
+* USENIX Security
+* Network and Distributed System Security Symposium (NDSS)
 
