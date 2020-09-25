@@ -9,6 +9,8 @@ tags:
   - Bluetooth
 ---
 
+This page is still under active update.
+
 Bluetooth
 
 {% include toc %}

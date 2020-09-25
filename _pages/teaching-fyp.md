@@ -11,7 +11,7 @@ Please find a list of the final year projects that I am supervising or have supe
 The final year projects that I am supervising usually 
 * Use embedded systems such as Raspberry Pi, Arduino, FPGA, and [software defined radio platforms](https://junqing-zhang.github.io/posts/2019/07/blog-post-sdr/) 
 * Build wireless applications, such as IoT, security, and sensing
-* Involve wireless technologies including [WiFi](https://junqing-zhang.github.io/posts/2019/05/blog-post-wifi/), [LoRa/LoRaWAN](https://junqing-zhang.github.io/posts/2019/12/blog-post-lora-lorawan/), ZigBee, and Bluetooth
+* Involve wireless technologies including [WiFi](https://junqing-zhang.github.io/posts/2019/05/blog-post-wifi/), [LoRa/LoRaWAN](https://junqing-zhang.github.io/posts/2019/12/blog-post-lora-lorawan/), ZigBee, and [Bluetooth](https://junqing-zhang.github.io/posts/2020/09/blog-post-bluetooth/);
 * Require strong programming skills such as Python, C/C++, Matlab
 * Involve machine learning and deep learning
 
