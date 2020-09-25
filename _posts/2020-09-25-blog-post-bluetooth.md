@@ -3,9 +3,9 @@ title: 'Resources for Bluetooth'
 date: 2020-09-25
 permalink: /posts/2020/09/blog-post-bluetooth/
 categories:
-  - Bluetooth
-tags:
-  - resources
+  - Resources
+  - Wireless  
+tags:  
   - Bluetooth
 ---
 
@@ -15,3 +15,10 @@ Bluetooth
 
 # Overview
 Bluetooth
+
+# Protocol
+## Physical Layer
+
+## MAC Layer
+
+# Bluetooth Stack

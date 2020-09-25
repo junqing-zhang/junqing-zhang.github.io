@@ -3,10 +3,10 @@ title: 'Resources for LoRa and LoRaWAN'
 date: 2019-12-15
 permalink: /posts/2019/12/blog-post-lora-lorawan/
 categories:
+  - Resources
+  - Wireless  
+tags:  
   - LoRaWAN
-tags:
-  - resources
-  - lorawan
 ---
 
 LoRa/LoRaWAN is a new IoT technique which is very suitable for energy efficient and long range communications. This paper summarizes resources for LoRa and LoRaWAN.

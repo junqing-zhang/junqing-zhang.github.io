@@ -3,6 +3,7 @@ title: "Key Generation Introduction"
 date: 2019-04-14
 permalink: /posts/2019/04/blog-post-keygen_main/
 categories:
+  - Research
   - Key Generation
 tags:
   - Key Generation

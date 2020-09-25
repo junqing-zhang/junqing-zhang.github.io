@@ -3,9 +3,9 @@ title: 'Resources for WiFi'
 date: 2019-05-19
 permalink: /posts/2019/05/blog-post-wifi/
 categories:
-  - WiFi
+  - Resources
+  - Wireless  
 tags:
-  - resources
   - WiFi
 ---
 

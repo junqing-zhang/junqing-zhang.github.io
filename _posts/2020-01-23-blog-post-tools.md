@@ -4,8 +4,8 @@ date: 2020-01-23
 permalink: /posts/2020/01/blog-post-tools/
 categories:
   - Resources
+  - Tool
 tags:
-  - Resources
   - Tool
 ---
 

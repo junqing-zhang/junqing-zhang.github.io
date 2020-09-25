@@ -4,9 +4,8 @@ date: 2020-01-25
 permalink: /posts/2020/01/blog-post-latex/
 categories:
   - Resources
-  - Latex
+  - Tool
 tags:
-  - Resources
   - Latex
 ---
 

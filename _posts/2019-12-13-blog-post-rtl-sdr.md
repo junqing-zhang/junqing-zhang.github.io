@@ -3,9 +3,10 @@ title: 'RTL SDR'
 date: 2019-12-13
 permalink: /posts/2019/12/blog-post-rtl-sdr/
 categories:
-  - SDR
-tags:
-  - SDR
+  - Resources
+  - Wireless  
+  - Software Defined Radio
+tags: 
   - RTL-SDR
 ---
 

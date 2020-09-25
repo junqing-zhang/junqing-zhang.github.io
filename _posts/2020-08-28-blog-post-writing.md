@@ -4,6 +4,7 @@ date: 2020-08-28
 permalink: /posts/2020/02/blog-post-writing/
 categories:
   - Resources  
+  - Tool
 tags:
   - Resources
 ---

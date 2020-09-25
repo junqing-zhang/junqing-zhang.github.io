@@ -4,9 +4,9 @@ date: 2019-08-07
 permalink: /posts/2019/08/blog-post-usrp/
 categories:
   - Resources
-tags:
-  - Resources
+  - Wireless  
   - Software Defined Radio
+tags:
   - USRP
 ---
 

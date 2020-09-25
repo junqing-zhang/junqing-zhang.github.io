@@ -4,8 +4,9 @@ date: 2019-07-31
 permalink: /posts/2019/07/blog-post-sdr/
 categories:
   - Resources
+  - Wireless  
+  - Software Defined Radio
 tags:
-  - Resources
   - Software Defined Radio
 ---
 

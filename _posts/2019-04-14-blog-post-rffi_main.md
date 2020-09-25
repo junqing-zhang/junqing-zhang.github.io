@@ -3,6 +3,7 @@ title: "Radio Frequency Fingerprinting Identification"
 date: 2019-04-14
 permalink: /posts/2019/04/blog-post-rffi_main/
 categories:
+  - Research  
   - Radio Frequency Fingerprinting Identification
 tags:
   - Radio Frequency Fingerprinting Identification
