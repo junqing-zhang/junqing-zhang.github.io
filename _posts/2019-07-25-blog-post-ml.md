@@ -3,6 +3,7 @@ title: "Machine Lerning for Commmunciations"
 date: 2019-07-25
 permalink: /posts/2019/07/blog-post-ml/
 categories:
+  - Research
   - Machine Learning
 tags:
   - Machine Learning

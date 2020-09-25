@@ -14,11 +14,22 @@ Bluetooth
 {% include toc %}
 
 # Overview
-Bluetooth
+Bluetooth, Bluetooth low energy
 
 # Protocol
 ## Physical Layer
+Frequency Hopping
 
 ## MAC Layer
 
 # Bluetooth Stack
+## Linux
+* C language: [BlueZ](http://www.bluez.org/). Check [An Introduction to Bluetooth Programming
+](https://people.csail.mit.edu/albert/bluez-intro/index.html) about its usage.
+* Python: [bluepy](https://github.com/IanHarvey/bluepy)
+
+## Texas Instruments 
+* [TI BLE SDK](https://www.ti.com/tool/BLE-STACK)
+
+# Development Kit
+Raspberry Pi, TI 

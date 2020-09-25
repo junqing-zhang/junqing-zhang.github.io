@@ -4,8 +4,8 @@ date: 2020-01-10
 permalink: /posts/2020/01/blog-post-deep-learning/
 categories:
   - Resources
-tags:
-  - Resources
+  - Machine Learning
+tags:  
   - Deep Learning
 ---
 

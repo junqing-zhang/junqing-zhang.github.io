@@ -3,10 +3,11 @@ title: "Key Generation Project"
 date: 2019-04-24
 permalink: /posts/2019/04/blog-post-keygen-project/
 categories:
+  - Research
   - Key Generation
 tags:
   - Key Generation
-  - Project
+  - Research Project
 ---
 
 This paper summarizes some important key generation research projects.

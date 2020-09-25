@@ -3,6 +3,7 @@ title: "Key Generation Reference"
 date: 2019-04-20
 permalink: /posts/2019/04/blog-post-keygen-pub/
 categories:
+  - Research
   - Key Generation
 tags:
   - Key Generation

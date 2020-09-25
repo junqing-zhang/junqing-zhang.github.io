@@ -3,9 +3,9 @@ title: 'My Experience of Learning Machine Learning and Deep Learning With Python
 date: 2020-01-13
 permalink: /posts/2020/01/blog-post-python-machine-learning/
 categories:
+  - Resources
   - Deep Learning
   - Machine Learning
-  - Python
 tags:
   - Deep Learning
   - Machine Learning
