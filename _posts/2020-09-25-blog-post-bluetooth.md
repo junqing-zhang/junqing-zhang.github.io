@@ -9,9 +9,7 @@ tags:
   - Bluetooth
 ---
 
-This page is still under active update.
-
-Bluetooth
+This page summarizes resources for Bluetooth. It is still under active update.
 
 {% include toc %}
 
