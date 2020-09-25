@@ -19,7 +19,7 @@ Bluetooth, Bluetooth low energy
 
 
 # Protocol
-Some brief introduction of the protocol can be found at the [Microchip Developer Center]{https://microchipdeveloper.com/wireless:ble-introduction}{:target="_blank"}.
+Some brief introduction of the protocol can be found at the [Microchip Developer Center](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
 ## Physical Layer
 Frequency Hopping
