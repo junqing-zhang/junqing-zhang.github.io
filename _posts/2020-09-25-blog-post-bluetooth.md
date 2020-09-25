@@ -29,7 +29,7 @@ Figure from https://microchipdeveloper.com/wireless:ble-introduction
 ## Physical Layer
 Frequency Hopping
 
-## MAC Layer
+## Link Layer
 
 # Bluetooth Stack and Development Kit
 ## Linux
