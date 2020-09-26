@@ -14,9 +14,11 @@ This page summarizes resources for Bluetooth. It is still under active update.
 {% include toc %}
 
 # Overview
-Bluetooth, Bluetooth low energy
+There is some confusion about the Bluetooth. Generally speaking, Bluetooth 1.0 - 3.0 includes classic Bluetooth. Bluetooth 4.0 starts to use Bluetooth Low Energy (BLE). A brief introduction about their difference can be found [here](https://blog.nordicsemi.com/getconnected/the-difference-between-classic-bluetooth-and-bluetooth-low-energy){:target="_blank"} and [here](https://www.semiconductorstore.com/blog/2018/Bluetooth-1-0-vs-2-0-vs-3-0-vs-4-0-vs-5-0-How-They-Differ-Symmetry-Blog/3147/){:target="_blank"}.
 
+New features of Bluetooth 5 can be found [here](https://www.bluetooth.com/bluetooth-resources/bluetooth-5-go-faster-go-further/){:target="_blank"}. The full and latest specification, v5.2 (released in 2019) can be downloaded [here](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}.
 
+If not highlighted, the following descriptions only apply to BLE.
 
 # Protocol
 Some brief introduction of the protocol can be found at the [Microchip Developer Center](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
@@ -27,6 +29,7 @@ Some brief introduction of the protocol can be found at the [Microchip Developer
 Figure from https://microchipdeveloper.com/wireless:ble-introduction
 
 ## Physical Layer
+Some key features of the BLE physical layer
 * 2.4GHz ISM band. The band between 2.402 GHz to 2.4835 GHz is divided into 40 channels with 2 MHz channel spacing.
 * The 40 channels are divided into advertising channels (Ch. 37, 38, and 39) and 37 data channels (Ch. 0-36).
 * Gaussian Frequency-Shift Keying (GFSK).
