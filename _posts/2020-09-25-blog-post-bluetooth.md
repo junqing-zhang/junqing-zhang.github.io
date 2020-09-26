@@ -34,7 +34,7 @@ Some key features of the BLE physical layer
 * The 40 channels are divided into advertising channels (Ch. 37, 38, and 39) and 37 data channels (Ch. 0-36).
 * Gaussian Frequency-Shift Keying (GFSK).
 * Adaptive Frequency Hopping for data channels. The channel selection algorithms can be found in Section 4.5.8 of Part B vol. 6. There are two algorithms defined and the algorithm#1 selects the channel as 
-$f_{n+1} = (f_n + hop)$ mod 37
+$f_{n+1} = (f_n + hop)$ mod 37,
 where hop ranges from 5-16.
 
 <br />
