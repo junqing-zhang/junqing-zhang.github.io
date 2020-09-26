@@ -33,7 +33,7 @@ Some key features of the BLE physical layer
 * 2.4GHz ISM band. The band between 2.402 GHz to 2.4835 GHz is divided into 40 channels with 2 MHz channel spacing.
 * The 40 channels are divided into advertising channels (Ch. 37, 38, and 39) and 37 data channels (Ch. 0-36).
 * Gaussian Frequency-Shift Keying (GFSK).
-* Adaptive Frequency Hopping for data channels.
+* Adaptive Frequency Hopping for data channels. $$f_{n+1} = (f_n + hop) mod 37$$
 
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-phy-channel-assignment.png" alt="..." title="title">
