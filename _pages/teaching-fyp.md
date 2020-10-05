@@ -16,15 +16,15 @@ The final year projects that I am supervising usually
 * Involve machine learning and deep learning
 
 # 2020
-I am going to run the following final year projects in the academic year 2020-2021. Please email me if you are interested.
+I am running the following final year projects in the academic year 2020-2021. 
 * Deep Learning based RFF Identification for LoRa
 * Deep Learning based RFF Identification for LoRa Using Raspberry Pi
 * Deep Learning based RFF Identification for WiFi
-* Deep Learning based RFF Identification for ZigBee
+* Deep Learning based RFF Identification for Bluetooth
 * Bluetooth-based Key Generation
 * Build A WiFi-based Key Generation System Using Raspberry Pi
 * Sub GHz ZigBee-based Key Generation
-* Contact Tracing using Bluetooth
+*  wIoT - A distributed IoT operating system basing on NodeJS
 
 # 2019
 * [Securing Body Area Networks Using Electrocardiogram Signals](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/)
