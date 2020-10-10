@@ -12,11 +12,6 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 # PhD Students
 ## Main Supervisor
 * Mr. Guanxiong Shen, co-supervision with Prof Alan Marshall (Nov., 2019 to present). Research topic: Radio frequency fingerprinting identification
+* Mr. Guolin Yin, co-supervision with Dr. Xinping Yi and Prof Alan Marshall (September 2020 to present). Research topic: Device free wireless sensing
 * Miss Jie Ma, co-supervision with Prof Alan Marshall (to start in October 2020). Research topic: Radio frequency fingerprinting identification
-* Mr. Guolin Yin, co-supervision with Dr. Xinping Yi and Prof Alan Marshall (to start in October 2020). Research topic: Device free wireless sensing
 
-## Co-supervisor
-* Mr. Jia Kan, co-supervision with Dr. Jie Zhang at Xian Jiaotong-Liverpool University (Sept. 2019 to present )
-
-## Visiting PhD Students
-* Mr. Wenming Wang from Nanjing University of Posts and Telecommunications (to start in Feb., 2020)
