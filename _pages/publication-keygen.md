@@ -39,7 +39,7 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
   * Simulation study
 
 # Key Generation Application
-1. Guyue Li, Chen Sun, Eduard Jorswieck, **Junqing Zhang**, Aiqun Hu, and You Chen, “Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks,” _IEEE Transactions on Information Forensics and Security_, accepted
+1. Guyue Li, Chen Sun, Eduard Jorswieck, **Junqing Zhang**, Aiqun Hu, and You Chen, “Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks,” _IEEE Transactions on Information Forensics and Security_, vol. 16, pp. 968 - 982, 2020. [link](https://ieeexplore.ieee.org/document/9205612){:target="_blank"} 
 1. Guyue Li, Zheying Zhang, **Junqing Zhang**, and Aiqun Hu, “Encrypting Wireless Communications On the Fly Using OneTime Pad and Key Generation,” _IEEE Internet of Things Journal_, accepted.  [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
 1. Henri Ruotsalainen, **Junqing Zhang**, and Stepan Grebeniuk, “Experimental Investigation on Wireless Key Generation for Low Power Wide Area Networks,” _IEEE Internet of Things Journal_, vol. 7, no. 3, pp. 1745 - 1755, Mar. 2020. [link](https://ieeexplore.ieee.org/document/8865100){:target="_blank"}
   * This paper studies the key generation application for LoRa/LoRaWAN.
