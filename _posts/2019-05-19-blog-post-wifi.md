@@ -24,7 +24,7 @@ The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, 
 ## MAC Layer
 WiFi use CSMA/CA as the MAC layer protocol.
 
-# Testbed
+# Testbed and Implementations
 The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
 
 ## [USRP Software Defined Radio (USRP)](https://www.ettus.com/products/)
@@ -55,7 +55,7 @@ A list of the relevant publications can be found at [here](https://wands.sg/rese
 
 # Software Tool
 ## Matlab WLAN Toolbox
-The WLAN Toolbox of Matlab is very powerful. There are many useful functions and examples. I suggest to test your idea and algorithms using this Toolbox before you do it with real hardware,
+The WLAN Toolbox of Matlab is very powerful. There are many useful functions and examples. I strongly suggest to test your idea and algorithms using this Toolbox before you do it with real hardware.
 
 ## [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html)
