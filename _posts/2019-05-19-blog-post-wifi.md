@@ -18,14 +18,21 @@ Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark o
 # Standard
 IEEE 802.11 standard defines the physcai layer and media access control (MAC) layer protocols. It has undergone a number of amendments in the last twenty years, since its first release in 1997. A complete list of the IEEE 802.11 amendments is summarized at [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11).
 
+## PHY Layer
 The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, OFDM, 5 GHz), 802.11g (2003, OFDM, 2.4 GHz), 802.11n (2009, MIMO OFDM, high throughput), 802.11ac (2013, MIMO OFDM, very high throughput), 802.11 ax(est late 2019, high efficiency).
 
+## MAC Layer
+WiFi use CSMA/CA as the MAC layer protocol.
+
 # Testbed
-The commercial network interfance cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies, when OFDM-based techique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
+The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
 
 ## [USRP Software Defined Radio (USRP)](https://www.ettus.com/products/)
 * https://www.wime-project.net/
 * [IEEE 802.11 a/g/p transceiver for GNU Radio](https://github.com/bastibl/gr-ieee802-11){:target="_blank"}
+
+## ZedBoard +  FMCOMMS2/3/4 SDR
+* [openwifi](https://github.com/open-sdr/openwifi){:target="_blank"}
 
 ## [WARP 802.11 Reference Design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
 There is an 802.11 reference design implemented for WARP boards, which is compatible with the commercial WiFi. An [experimental framework](http://warpproject.org/trac/wiki/802.11/wlan_exp) is implemented by Python for the research development. The available variables/parameters can be found [here](http://warpproject.org/trac/wiki/802.11/wlan_exp/log/entry_types), among which the CSI is made public.
@@ -47,6 +54,9 @@ There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}.
 A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users).
 
 # Software Tool
+## Matlab WLAN Toolbox
+The WLAN Toolbox of Matlab is very powerful. There are many useful functions and examples. I suggest to test your idea and algorithms using this Toolbox before you do it with real hardware,
+
 ## [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html)
 
