@@ -19,6 +19,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 
 
 # Journal Article
+1. Weitao Xu, **Junqing Zhang**, Shunqi Huang, Chengwen Luo, and Wei Li, “Key Generation for Internet of Things: A Contemporary Survey,”, ACM Computing Surveys, accepted. 
 1. Guyue Li, Zheying Zhang, **Junqing Zhang**, and Aiqun Hu, “Encrypting Wireless Communications On the Fly Using OneTime Pad and Key Generation,” _IEEE Internet of Things Journal_, accepted.  [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Jiabao  Yu, Guyue Li, and Ting Wang, “Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar,” _IEEE Internet of Things Journal_, vol. 7, no. 10, pp. 10581 - 10593, Oct. 2020.  . [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
 1. Guyue Li, Chen Sun, Eduard Jorswieck, **Junqing Zhang**, Aiqun Hu, and You Chen, “Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks,” _IEEE Transactions on Information Forensics and Security_, vol. 16, pp. 968 - 982, 2020. [link](https://ieeexplore.ieee.org/document/9205612){:target="_blank"} 
