@@ -1,7 +1,7 @@
 ---
 title: 'Resources for WiFi'
-date: 2019-05-19
-permalink: /posts/2019/05/blog-post-wifi/
+date: 2020-10-15
+permalink: /posts/2020/10/blog-post-wifi/
 categories:
   - Resources
   - Wireless  
@@ -23,6 +23,10 @@ The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, 
 
 ## MAC Layer
 WiFi use CSMA/CA as the MAC layer protocol.
+
+* Control frames
+* Management frames
+* Data frames
 
 # Testbed and Implementations
 The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
