@@ -1,6 +1,6 @@
 ---
 title: 'LimeSDR'
-date: 2020-10-17
+date: 2020-10-16
 permalink: /posts/2020/10/blog-post-limesdr/
 categories:
   - Resources
