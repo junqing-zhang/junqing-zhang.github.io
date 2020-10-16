@@ -1,6 +1,6 @@
 ---
 title: 'Digital Communications'
-date: 2020-10-15
+date: 2020-10-16
 permalink: /posts/2020/10/blog-post-digital-comms/
 categories:
   - Resources
