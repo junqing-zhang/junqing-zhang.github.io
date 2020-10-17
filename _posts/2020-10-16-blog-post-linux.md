@@ -15,7 +15,16 @@ This paper summarizes resources for Linux
 # Overview
 
 # Running Matlab Remotely in a Server
-
+Step 1: Load Matlab
 ```
-nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm - desktop &
+module load apps/MATLAB/R2020a
+```
+Step 2: Run Matlab without GUI and in the background
+```
+nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &
+```
+
+Display information of your active processes.
+```
+ps -ef | grep loginname
 ```
