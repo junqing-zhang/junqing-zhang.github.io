@@ -15,8 +15,16 @@ This paper summarizes some common and basic usages of Linux. The information is 
 # Overview
 Linux
 
-# Basic Commands
+# How To Start
+1. If you are using Windows OS, you can access to the remote server by 
+* Putty 
+* MobaXterms (recommended)
+
+1. Basic Commands
 `cd`, `ls`, `mkdir`, `pwd`, `cat`, `grep`,`sudo`
+
+1.  Graphic Notebook Editor
+* Command: `gedit file_name.extension`
 
 # Running Matlab Remotely in a Server
 Step 1: Load Matlab
@@ -26,13 +34,11 @@ Step 2: Run Matlab without GUI and in the background
 * Command: `nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &`
 
 # Tips
-1. If you are using Windows OS, you can access to the remote server by Putty or MobaXterms (recommended).
 1. Display information of your active processes.
 * Command: `ps -ef | grep loginname` Or `ps -ef | grep first_7_characters_of_your_loginname_if_it_is_longer_than_8_characters`
 1. Kill A Process
 * Command: `kill PID`
-1.  Graphic Notebook Editor
-* Command: `gedit file_name.extension`
+
 
 # Tutorial:
 * [How to run Matlab on server, University of Calgary](https://people.ucalgary.ca/~yauf/How_to_run_Matlab_on_server.htm){:target="_blank"}
