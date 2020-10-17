@@ -19,19 +19,16 @@ Step 1: Load Matlab
 * Command: `module load apps/MATLAB/R2020a`
 
 Step 2: Run Matlab without GUI and in the background
-* Command: nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &
+* Command: `nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &`
 
 # Tips
-1. If you are using Windows OS, you can access to the remote server by Putty of MobaXterms (recommended)
+1. If you are using Windows OS, you can access to the remote server by Putty or MobaXterms (recommended).
 1. Display information of your active processes.
-* Command: ps -ef | grep loginname
-
-Or
-* Command: ps -ef | grep first_7_characters_of_your_loginname_if_it_is_longer_than_8_characters
+* Command: `ps -ef | grep loginname` Or `ps -ef | grep first_7_characters_of_your_loginname_if_it_is_longer_than_8_characters`
 1. Kill A Process
-* Command: kill PID
+* Command: `kill PID`
 1.  Graphic Notebook Editor
-* Command: gedit file_name.extension
+* Command: `gedit file_name.extension`
 
 # Tutorial:
 * [How to run Matlab on server, University of Calgary](https://people.ucalgary.ca/~yauf/How_to_run_Matlab_on_server.htm){:target="_blank"}
