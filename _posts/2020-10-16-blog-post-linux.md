@@ -13,7 +13,7 @@ This paper summarizes some common and basic usages of Linux. The information is 
 {% include toc %}
 
 # Overview
-Linux
+Linux Test
 
 # How To Start
 1. If you are using Windows OS, you can access to the remote server by 
