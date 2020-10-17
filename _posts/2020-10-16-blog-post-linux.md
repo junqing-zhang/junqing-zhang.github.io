@@ -16,13 +16,10 @@ This paper summarizes resources for Linux
 
 # Running Matlab Remotely in a Server
 Step 1: Load Matlab
-```
-module load apps/MATLAB/R2020a
-```
+* Command: module load apps/MATLAB/R2020a
+
 Step 2: Run Matlab without GUI and in the background
-```
-nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &
-```
+* Command: nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &
 
 
 # Tutorial:
@@ -30,21 +27,12 @@ nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &
 * [How do I run my program in the background (including the use of 'screen')?](https://statistics.berkeley.edu/computing/background-program){:target="_blank"}
 
 # Tips
-* If you are using Windows OS, you can access to the remote server by Putty of MobaXterms (recommended)
-* Display information of your active processes.
-```
-ps -ef | grep loginname
-```
+1. If you are using Windows OS, you can access to the remote server by Putty of MobaXterms (recommended)
+1. Display information of your active processes.
+* Command: ps -ef | grep loginname
 Or
-```
-ps -ef | grep first_7_characters_of_your_loginname_if_it_is_longer_than_8_characters
-
-```
-* Kill A Process
-```
-kill PID
-```
-* Graphic Notebook Editor
-```
-gedit file_name.extension
-```
+* Command: ps -ef | grep first_7_characters_of_your_loginname_if_it_is_longer_than_8_characters
+1. Kill A Process
+* Command: kill PID
+1.  Graphic Notebook Editor
+* Command: gedit file_name.extension
