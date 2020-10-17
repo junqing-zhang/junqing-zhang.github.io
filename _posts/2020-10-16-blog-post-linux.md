@@ -1,5 +1,5 @@
 ---
-title: 'Linux'
+title: 'Linux For Beginners'
 date: 2020-10-17
 permalink: /posts/2020/10/blog-post-linux/
 categories:
@@ -8,7 +8,7 @@ tags:
   - Linux
 ---
 
-This paper summarizes some common and basic usages of Linux.
+This paper summarizes some common and basic usages of Linux. The information is only suitable for beginners.
 
 {% include toc %}
 
@@ -16,7 +16,7 @@ This paper summarizes some common and basic usages of Linux.
 Linux
 
 # Basic Commands
-`cd`, `ls`, `mkdir`, `pwd`
+`cd`, `ls`, `mkdir`, `pwd`, `cat`, `grep`,`sudo`
 
 # Running Matlab Remotely in a Server
 Step 1: Load Matlab
