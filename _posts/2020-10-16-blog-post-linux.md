@@ -23,10 +23,11 @@ Linux Test
 1. Basic Commands
 `cd`, `ls`, `mkdir`, `pwd`, `cat`, `grep`,`sudo`
 
-1.  Graphic Notebook Editor
-* Command: `gedit file_name.extension`
 
 # Common Usage
+1.  Graphic Notebook Editor
+* Command: `gedit file_name.extension`
+1. `vim` [getting started](https://opensource.com/article/19/3/getting-started-vim){:target="_blank"}
 1. Display information of your active processes.
 * Command: `ps -ef | grep loginname` Or `ps -ef | grep first_7_characters_of_your_loginname_if_it_is_longer_than_8_characters`
 
