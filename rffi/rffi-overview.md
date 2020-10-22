@@ -1,13 +1,12 @@
 ---
+layout: archive
 title: "Radio Frequency Fingerprinting Identification"
-date: 2019-04-14
-permalink: /posts/2019/04/blog-post-rffi_main/
-categories:
-  - Research  
-  - Radio Frequency Fingerprinting Identification
-tags:
-  - Radio Frequency Fingerprinting Identification
+permalink: /rffi/rffi-overview/
+author_profile: true
+toc: true
 ---
+
+
 
 This page introduces the background of Radio Frequency Fingerprinting Identification.
 
