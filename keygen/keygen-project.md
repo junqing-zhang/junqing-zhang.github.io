@@ -1,7 +1,7 @@
 ---
 title: "Key Generation Project"
 date: 2019-04-24
-permalink: /posts/2019/04/blog-post-keygen-project/
+permalink: /keygen/keygen-project/
 categories:
   - Research
   - Key Generation

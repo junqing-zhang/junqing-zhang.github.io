@@ -1,7 +1,7 @@
 ---
 title: "Key Generation Reference"
 date: 2019-04-20
-permalink: /posts/2019/04/blog-post-keygen-pub/
+permalink: /keygen/keygen-reference/
 categories:
   - Research
   - Key Generation

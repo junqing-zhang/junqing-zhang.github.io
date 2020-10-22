@@ -1,7 +1,7 @@
 ---
 title: "Key Generation Applications"
 date: 2019-05-10
-permalink: /posts/2019/05/blog-post-keygen-application/
+permalink: /keygen/keygen-application/
 categories:
   - Research
   - Key Generation
