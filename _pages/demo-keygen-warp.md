@@ -1,8 +1,14 @@
 ---
-layout: archive
 title: "Key Generation Demonstration @ University of Liverpool"
+date: 2020-10-22
 permalink: /demo-keygen-warp/
 author_profile: true
+categories:
+  - Research
+  - Key Generation
+tags:
+  - Key Generation
+  - Application
 ---
 
 

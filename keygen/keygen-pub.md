@@ -1,5 +1,4 @@
 ---
-layout: archive
 date: 2020-10-22
 title: "Publication - Key Generation @ University of Liverpool"
 permalink: /keygen/keygen-pub/

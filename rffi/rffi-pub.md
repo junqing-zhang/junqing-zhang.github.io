@@ -1,10 +1,16 @@
 ---
-layout: archive
 title: "Publication - Radio Frequency Fingerprinting Identification @ University of Liverpool"
 permalink: /rffi/rffi-pub/
+date: 2020-10-22
 author_profile: true
 toc: true
+categories:
+  - Research
+  - RFFI
+tags:
+  - RFFI
 ---
+
 
 # Survey/Tutorial
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, vol. 26, no. 5, pp. 92 - 98, Oct. 2019. [link](https://ieeexplore.ieee.org/document/8715341){:target="_blank"}
