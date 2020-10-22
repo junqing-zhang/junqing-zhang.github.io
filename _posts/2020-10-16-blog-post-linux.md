@@ -34,6 +34,8 @@ Linux Test
 1. Kill A Process
 * Command: `kill PID`
 
+1. Copy all the contents of ~/folder1 to ~/new_folder1: `cp -r ~/folder1/. ~/new_folder1`
+
 1. Module
 * Check available modules: `module avail`
 * Check loaded modules: `module list`
