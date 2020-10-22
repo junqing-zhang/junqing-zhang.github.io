@@ -1,11 +1,16 @@
 ---
 layout: archive
+date: 2020-10-22
 title: "Publication - Key Generation @ University of Liverpool"
 permalink: /keygen/keygen-pub/
 author_profile: true
 toc: true
+categories:
+  - Research
+  - Key Generation
+tags:
+  - Key Generation
 ---
-
 
 University of Liverpool has been one of the leading institutions worldwide in the area of _key generation from wireless channels_. We have carried out systematic research to investigate different aspects of this exciting technique, ranging from theoretical modelling, simulation, and experimental validations. This page summarizes our key generation publication.
 
