@@ -28,9 +28,17 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 * [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
 
 # Deep Learning
-## Tutorial
+
+## What is Convolutional Neural Networks (CNN)
+* [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53){:target="_blank"}
+* [Matlab, Convolutional Neural Networks](https://uk.mathworks.com/solutions/deep-learning/convolutional-neural-network.html){:target="_blank"}
+
+## CNN Examples
+* [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5){:target="_blank"}
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/){:target="_blank"}
 * [How to Develop 1D Convolutional Neural Network Models for Human Activity Recognition](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/){:target="_blank"}
+
+## Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
 
 ## Code Snippet
