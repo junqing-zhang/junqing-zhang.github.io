@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publication - Key Generation @ University of Liverpool"
-permalink: /keygen-pub/
+permalink: /keygen/keygen-pub/
 author_profile: true
 toc: true
 ---
