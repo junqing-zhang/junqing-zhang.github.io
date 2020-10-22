@@ -1,7 +1,7 @@
 ---
 title: "Key Generation Introduction"
 date: 2019-04-14
-permalink: /posts/2019/04/blog-post-keygen_main/
+permalink: /keygen/keygen-overview/
 categories:
   - Research
   - Key Generation
