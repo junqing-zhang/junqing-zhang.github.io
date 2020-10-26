@@ -49,6 +49,13 @@ Step 1: Load Matlab
 Step 2: Run Matlab without GUI and in the background
 * Command: `nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &`
 
+The above command may output Bad file descriptor and Warning: “Error reading Character from command line" error. In this case, using the following command instead:
+
+`nohup matlab -nodesktop -nosplash -nodisplay < main.m >log.txt 2>&1   &`
+
+Explanation: ">log.txt" refers to redirecting the output to log.txt. 2>&1 means to input the error information into log.txt, 2 Refers to the standard input and output error (stderr), 1 refers to the standard output (stdout), 2> & 1 means 2 is equivalent to 1 output, the last & is the meaning of background operation, combined with the nohup command. (https://www.programmersought.com/article/91451058498/)
+
+
 # Tutorial:
 * [How to run Matlab on server, University of Calgary](https://people.ucalgary.ca/~yauf/How_to_run_Matlab_on_server.htm){:target="_blank"}
 * [How do I run my program in the background (including the use of 'screen',  University of California, Berkeley)?](https://statistics.berkeley.edu/computing/background-program){:target="_blank"}
