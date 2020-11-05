@@ -3,10 +3,9 @@ title: 'Lego Robot'
 date: 2020-10-14
 permalink: /posts/2020/10/blog-post-legorobot/
 categories:
-  - Resources
-  - Wireless  
+  - Resources  
 tags:  
-  - Bluetooth
+  - LegoRobot
 ---
 
 This page summarizes resources for Lego Robot. It is still under active update.
