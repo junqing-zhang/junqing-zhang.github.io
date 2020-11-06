@@ -63,13 +63,21 @@ The same packet format for both
 * Advertising channel packets
 * Data channel packets
 
-<figure>
-  <img src="{{site.url}}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type"/>
-  <figcaption>BLE Packet Type. </figcaption>
-</figure>
-Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type." title="BLE Packet Type.">
+<br />
+BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
 
 ## Discovery Process
+* Advertising interval: 20 ms
+* Scan interval: 50 ms
+* Scan window: 25 ms
+
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-advertising-and-scanning.png" alt="Advertising and Scanning." title="Advertising and Scanning.">
+<br />
+Advertising and Scanning. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-discovery](https://microchipdeveloper.com/wireless:ble-link-layer-discovery){:target="_blank"}
+
 
 # Bluetooth Stack and Development Kit
 ## Linux
