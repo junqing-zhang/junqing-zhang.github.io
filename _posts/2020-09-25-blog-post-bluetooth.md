@@ -28,6 +28,8 @@ Some brief introduction of the protocol can be found at the [Microchip Developer
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
+Visit [MATLAB Bluetooth Protocol Stack](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"} for a detailed introduction about the Bluetooth and BLE protocol, and a mapping between them and the OSI model.
+
 # Physical Layer
 Some key features of the BLE physical layer
 * 2.4GHz ISM band. The band between 2.402 GHz to 2.4835 GHz is divided into 40 channels with 2 MHz channel spacing.
