@@ -59,14 +59,11 @@ Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://m
 * Frequency hopping is used to select different channels.
 
 ### Packet Type
-<br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type" title="BLE Packet Type">
-<br />
-Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}.
+
 
 <figure>
-  <img src="{{site.url}}/images/bluetooth/ble-packet-format-top-level.png" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
+  <img src="{{site.url}}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type"/>
+  <figcaption>BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"} </figcaption>
 </figure>
 
 
