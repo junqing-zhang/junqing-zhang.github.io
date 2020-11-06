@@ -64,6 +64,12 @@ Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://m
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}.
 
+<figure>
+  <img src="{{site.url}}/images/bluetooth/ble-packet-format-top-level.png" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
+
 # Bluetooth Stack and Development Kit
 ## Linux
 * C language: [BlueZ](http://www.bluez.org/){:target="_blank"}. Check [An Introduction to Bluetooth Programming](https://people.csail.mit.edu/albert/bluez-intro/index.html){:target="_blank"} about its usage.
