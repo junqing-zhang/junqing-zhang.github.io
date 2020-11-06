@@ -21,14 +21,16 @@ New features of Bluetooth 5 can be found [here](https://www.bluetooth.com/blueto
 If not highlighted, the following descriptions apply to BLE, which might not be correct for classic bluetooth.
 
 # Protocol Overview
-Some brief introduction of the protocol can be found at the [Microchip Developer Center](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"} and [Matlab Bluetooth Protocol Stack](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
+Visit [MATLAB Bluetooth Protocol Stack](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"} for a detailed introduction about the Bluetooth and BLE protocol, and a mapping between them and the OSI model.
+
+
+Some brief introduction of the protocol can be found at the [Microchip Developer Center](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-protocol-stack.png" alt="...">
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
-Visit [MATLAB Bluetooth Protocol Stack](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"} for a detailed introduction about the Bluetooth and BLE protocol, and a mapping between them and the OSI model.
 
 # Physical Layer
 Some key features of the BLE physical layer
