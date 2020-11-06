@@ -20,7 +20,7 @@ New features of Bluetooth 5 can be found [here](https://www.bluetooth.com/blueto
 
 If not highlighted, the following descriptions only apply to BLE.
 
-# Protocol
+# Protocol Overview
 Some brief introduction of the protocol can be found at the [Microchip Developer Center](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"} and [Matlab Bluetooth Protocol Stack](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
 <br />
@@ -28,7 +28,7 @@ Some brief introduction of the protocol can be found at the [Microchip Developer
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
-## Physical Layer
+# Physical Layer
 Some key features of the BLE physical layer
 * 2.4GHz ISM band. The band between 2.402 GHz to 2.4835 GHz is divided into 40 channels with 2 MHz channel spacing.
 * The 40 channels are divided into advertising channels (Ch. 37, 38, and 39) and 37 data channels (Ch. 0-36).
@@ -43,29 +43,33 @@ where hop ranges from 5-16.
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
 
-## Link Layer
+# Link Layer
 * Advertising and Scanning
 * Connection
 * Network Topology - Piconet
 * Security - AES - CCM
 
-### Advertising Channel
+## Advertising Channel
 * Device Discovery
 * Connection Establishment
 * Broadcast Transmissions
 
-### Data Channel
+## Data Channel
 * Data transmissions
 * Frequency hopping is used to select different channels.
 
-### Packet Type
-
+## Packet Type
+The same packet format for both 
+* Advertising channel packets
+* Data channel packets
 
 <figure>
   <img src="{{site.url}}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type"/>
   <figcaption>BLE Packet Type. </figcaption>
 </figure>
 Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
+
+## Discovery Process
 
 # Bluetooth Stack and Development Kit
 ## Linux
