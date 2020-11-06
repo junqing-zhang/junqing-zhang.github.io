@@ -78,6 +78,17 @@ BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-l
 <br />
 Advertising and Scanning. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-discovery](https://microchipdeveloper.com/wireless:ble-link-layer-discovery){:target="_blank"}
 
+## Connection Process
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-connecting-phase.png" alt="Connection establishment." title="Connection establishment.">
+<br />
+Connection establishment. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
+
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-connected-phase.png" alt="ble-connected-phase." title="ble-connected-phase.">
+<br />
+Connected phase. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
+
 
 # Bluetooth Stack and Development Kit
 ## Linux
