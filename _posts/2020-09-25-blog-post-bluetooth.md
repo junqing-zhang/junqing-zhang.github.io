@@ -63,9 +63,9 @@ Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://m
 
 <figure>
   <img src="{{site.url}}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type"/>
-  <figcaption>BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"} </figcaption>
+  <figcaption>BLE Packet Type. </figcaption>
 </figure>
-
+Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
 
 # Bluetooth Stack and Development Kit
 ## Linux
