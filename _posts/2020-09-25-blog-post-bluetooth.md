@@ -26,7 +26,7 @@ Some brief introduction of the protocol can be found at the [Microchip Developer
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-protocol-stack.png" alt="...">
 <br />
-Figure from https://microchipdeveloper.com/wireless:ble-introduction
+Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
 ## Physical Layer
 Some key features of the BLE physical layer
@@ -40,13 +40,29 @@ where hop ranges from 5-16.
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-phy-channel-assignment.png" alt="..." title="title">
 <br />
-Figure from https://microchipdeveloper.com/wireless:ble-introduction
+Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
+
 
 ## Link Layer
 * Advertising and Scanning
 * Connection
 * Network Topology - Piconet
 * Security - AES - CCM
+
+### Advertising Channel
+* Device Discovery
+* Connection Establishment
+* Broadcast Transmissions
+
+### Data Channel
+* Data transmissions
+* Frequency hopping is used to select different channels.
+
+### Packet Type
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type" title="BLE Packet Type">
+<br />
+Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}.
 
 # Bluetooth Stack and Development Kit
 ## Linux
