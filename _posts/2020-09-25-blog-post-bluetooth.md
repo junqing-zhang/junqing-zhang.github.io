@@ -1,5 +1,5 @@
 ---
-title: 'Resources for Bluetooth'
+title: 'Resources for Bluetooth Low Energy'
 date: 2020-09-25
 permalink: /posts/2020/09/blog-post-bluetooth/
 categories:
@@ -9,7 +9,7 @@ tags:
   - Bluetooth
 ---
 
-This page summarizes resources for Bluetooth. It is still under active update.
+This page summarizes resources for Bluetooth Low Energy. It is still under active update.
 
 {% include toc %}
 
@@ -18,7 +18,7 @@ There is some confusion about the Bluetooth. Generally speaking, Bluetooth 1.0 -
 
 New features of Bluetooth 5 can be found [here](https://www.bluetooth.com/bluetooth-resources/bluetooth-5-go-faster-go-further/){:target="_blank"}. The full and latest specification, v5.2 (released in 2019) can be downloaded [here](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}.
 
-If not highlighted, the following descriptions only apply to BLE.
+If not highlighted, the following descriptions apply to BLE, which might not be correct for classic bluetooth.
 
 # Protocol Overview
 Some brief introduction of the protocol can be found at the [Microchip Developer Center](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"} and [Matlab Bluetooth Protocol Stack](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
@@ -50,11 +50,13 @@ Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://m
 * Security - AES - CCM
 
 ## Advertising Channel
+Channel 37, 38 and 39
 * Device Discovery
 * Connection Establishment
 * Broadcast Transmissions
 
 ## Data Channel
+Channel 0-36
 * Data transmissions
 * Frequency hopping is used to select different channels.
 
@@ -110,3 +112,6 @@ Note: The module is still under development and its classes, functions, methods 
 
 ## Scapy for Bluetooth
 * [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
+
+## Matlab Bluetooth Supported
+Matlab has also provided simualition support for Bluetooth and BLE. Visit [Communications Toolbox Library for the Bluetooth Protocol support package](https://uk.mathworks.com/help/comm/bluetooth.html) for more information.
