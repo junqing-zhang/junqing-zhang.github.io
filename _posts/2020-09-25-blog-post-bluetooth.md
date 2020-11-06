@@ -117,5 +117,5 @@ Note: The module is still under development and its classes, functions, methods 
 ## Scapy for Bluetooth
 * [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
 
-## Matlab Bluetooth Supported
-Matlab has also provided simualition support for Bluetooth and BLE. Visit [Communications Toolbox Library for the Bluetooth Protocol support package](https://uk.mathworks.com/help/comm/bluetooth.html) for more information.
+## Matlab Bluetooth Support
+Matlab has also provided simulation support for Bluetooth and BLE. Visit [Communications Toolbox Library for the Bluetooth Protocol support package](https://uk.mathworks.com/help/comm/bluetooth.html) for more information.
