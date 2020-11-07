@@ -1,7 +1,7 @@
 ---
 title: 'Resources for Bluetooth Low Energy'
-date: 2020-09-25
-permalink: /posts/2020/09/blog-post-bluetooth/
+date: 2020-11-07
+permalink: /posts/2020/10/blog-post-bluetooth/
 categories:
   - Resources
   - Wireless  
