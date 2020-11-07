@@ -30,10 +30,18 @@ Frequency Band
 ### O-QPSK Physical Layer
 preamble is defined to be 4 bytes of 0x00.
 
+Please refer to [Section 1.1.1.2 O-QPSK PHY of the Rohde & Schwarz Application Note](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1gp105/1GP105_1E_Generation_of_IEEE_802154_Signals.pdf){:target="_blank"} for a detailed introduction.
+
 
 ## MAC Layer
 * Direct Transmission
 * Indirect Transmission (Polling)
+
+### MAC Type
+* Data Frame
+* Beacon Frame
+* Acknowledgement Frame
+* MAC Command Frame
 
 # ZigBee
 ## Network Architecture and Topology
