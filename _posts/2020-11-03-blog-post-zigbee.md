@@ -28,10 +28,14 @@ Frequency Band
 * 2.4 GHz, Worldwide, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, O-QPSK
 
 ### O-QPSK Physical Layer
-preamble is defined to be 4 bytes of 0x00.
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/lrwpanOQPSK.png" alt="...">
+<br />
+Figure from [https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"}.
 
 Please refer to [Section 1.1.1.2 O-QPSK PHY of the Rohde & Schwarz Application Note](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1gp105/1GP105_1E_Generation_of_IEEE_802154_Signals.pdf){:target="_blank"} for a detailed introduction.
 
+Run the [Matlab End-to-End IEEE 802.15.4 PHY Simulation](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"} to have a deep understanding on the modulation. 
 
 ## MAC Layer
 * Direct Transmission
