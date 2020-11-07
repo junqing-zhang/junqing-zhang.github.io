@@ -25,9 +25,8 @@ Unless otherwise highlighted, the following descriptions apply to BLE, which mig
 * Broadcast Connection Topology (BLE only)
 * Mesh Connection Topology (BLE only)
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble_scatternet_topology.png" alt="...">
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/bluetooth_topologies.png" alt="...">
 <br />
-A scatternet of three piconets. 
 Figure from [https://uk.mathworks.com/help/comm/ug/what-is-bluetooth.html](https://uk.mathworks.com/help/comm/ug/what-is-bluetooth.html){:target="_blank"}.
 
 # Protocol Overview
