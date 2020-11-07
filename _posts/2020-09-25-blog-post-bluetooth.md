@@ -27,7 +27,7 @@ Unless otherwise highlighted, the following descriptions apply to BLE, which mig
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/bluetooth/bluetooth_topologies.png" alt="...">
 <br />
-Figure from [https://uk.mathworks.com/help/comm/ug/what-is-bluetooth.html](https://uk.mathworks.com/help/comm/ug/what-is-bluetooth.html){:target="_blank"}.
+Figure from [https://uk.mathworks.com/help/comm/ug/bluetooth-mesh-networking.html](https://uk.mathworks.com/help/comm/ug/bluetooth-mesh-networking.html){:target="_blank"}.
 
 # Protocol Overview
 Visit [MATLAB Bluetooth Protocol Stack](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"} for a detailed introduction about the Bluetooth and BLE protocol, and a mapping between them and the OSI model.
