@@ -33,6 +33,7 @@ For example, the policy of IEEE Transactions on Wireless Communications can be f
 # How to Write a Good Paper
 
 ## Tips
+* [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html){:target="_blank"} 
 * [Top-10 tips for writing a paper](http://conferences.sigcomm.org/co-next/2006/files/pres/10tipsforwritingapaper.pdf){:target="_blank"} by Jim Kurose, University of Massachusetts
 * [How to write for Technical Periodicals & conferences](http://ieeeauthorcenter.ieee.org/wp-content/uploads/How-to-Write-for-Technical-Periodicals-and-Conferences-1.pdf){:target="_blank"} by IEEE
 > Making Your Article interesting to Read
