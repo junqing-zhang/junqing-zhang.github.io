@@ -27,15 +27,19 @@ Frequency Band
 * 915 MHz, America, Australia, channel 1 - 10
 * 2.4 GHz, Worldwide, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, O-QPSK
 
-### O-QPSK Physical Layer
+### O-QPSK PHY
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/bluetooth/lrwpanOQPSK.png" alt="...">
 <br />
 Figure from [https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"}.
 
-Please refer to [Section 1.1.1.2 O-QPSK PHY of the Rohde & Schwarz Application Note](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1gp105/1GP105_1E_Generation_of_IEEE_802154_Signals.pdf){:target="_blank"} for a detailed introduction.
+> All OQPSK PHYs map every 4 PPDU bits to one symbol. The 2.4 GHz OQPSK PHY spreads each symbol to a 32-chip sequence, while the other OQPSK PHYs spread it to a 16-chip sequence. Then, the chip sequences are OQPSK modulated and passed to a half-sine pulse shaping filter (or a normal raised cosine filter, in the 780 MHz band).
 
 Run the [Matlab End-to-End IEEE 802.15.4 PHY Simulation](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"} to have a deep understanding on the modulation. 
+
+
+Please refer to [Section 1.1.1.2 O-QPSK PHY of the Rohde & Schwarz Application Note](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1gp105/1GP105_1E_Generation_of_IEEE_802154_Signals.pdf){:target="_blank"} for a detailed introduction.
+
 
 ## MAC Layer
 * Direct Transmission
