@@ -27,6 +27,10 @@ Frequency Band
 * 915 MHz, America, Australia, channel 1 - 10
 * 2.4 GHz, Worldwide, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, O-QPSK
 
+### O-QPSK Physical Layer
+preamble is defined to be 4 bytes of 0x00.
+
+
 ## MAC Layer
 * Direct Transmission
 * Indirect Transmission (Polling)
