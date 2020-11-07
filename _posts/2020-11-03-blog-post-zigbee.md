@@ -2,6 +2,8 @@
 title: 'Resources for ZigBee and IEEE 802.15.4'
 date: 2020-11-03
 permalink: /posts/2020/11/blog-post-zigbee/
+toc: true
+toc_max_header: 1
 categories:
   - Resources
   - Wireless  
@@ -12,7 +14,7 @@ tags:
 
 This page summarizes resources for ZigBee and IEEE 802.15.4. It is still under active update.
 
-{% include toc %}
+{% include toc h_min = 1%}
 
 # Overview
 IEEE 802.15.4 defines the physical and MAC layers. ZigBee is based on IEEE 802.15.4 but also defines higher layer protocols.
@@ -25,9 +27,9 @@ IEEE 802.15.4 is also adopted by 6LoWPAN, WirelessHART, THREAD, etc.
 Frequency Band
 * 868 MHz, Europe, channel 0
 * 915 MHz, America, Australia, channel 1 - 10
-* 2.4 GHz, Worldwide, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, O-QPSK
+* 2.4 GHz, Worldwide, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, OQPSK
 
-### O-QPSK PHY
+### OQPSK PHY
 <br />
 <img align="center" width="1000" src="{{ site.url }}/images/zigbee/lrwpanOQPSK.png" alt="...">
 <br />
