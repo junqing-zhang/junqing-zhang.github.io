@@ -17,9 +17,16 @@ This page summarizes resources for ZigBee and IEEE 802.15.4. It is still under a
 # Overview
 IEEE 802.15.4 defines the physical and MAC layers. ZigBee is based on IEEE 802.15.4 but also defines higher layer protocols.
 
+IEEE 802.15.4 is also adopted by 6LoWPAN, WirelessHART, THREAD, etc.
+
 # IEEE 802.15.4
 
 ## Physical Layer
+Frequency Band
+* 868 MHz, channel 0, Europe
+* 915 MHz, channel 1 - 10, America, Australia
+* 2.4 GHz, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, Worldwide
+
 ## MAC Layer
 * Direct Transmission
 * Indirect Transmission (Polling)
