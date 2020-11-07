@@ -23,9 +23,9 @@ IEEE 802.15.4 is also adopted by 6LoWPAN, WirelessHART, THREAD, etc.
 
 ## Physical Layer
 Frequency Band
-* 868 MHz, channel 0, Europe
-* 915 MHz, channel 1 - 10, America, Australia
-* 2.4 GHz, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, Worldwide
+* 868 MHz, Europe, channel 0
+* 915 MHz, America, Australia, channel 1 - 10
+* 2.4 GHz, Worldwide, channel $k$ = 11 - 26, $f_c = 2405 + 5*(k-11)$ MHz, O-QPSK
 
 ## MAC Layer
 * Direct Transmission
