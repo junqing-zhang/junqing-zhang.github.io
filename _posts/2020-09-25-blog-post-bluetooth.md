@@ -18,7 +18,17 @@ There is some confusion about the Bluetooth. Generally speaking, Bluetooth 1.0 -
 
 New features of Bluetooth 5 can be found [here](https://www.bluetooth.com/bluetooth-resources/bluetooth-5-go-faster-go-further/){:target="_blank"}. The full and latest specification, v5.2 (released in 2019) can be downloaded [here](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}.
 
-Unless otherwise highlighted, the following descriptions apply to BLE, which might not be correct for classic bluetooth.
+Unless otherwise highlighted, the following descriptions apply to BLE, which might not be correct for classic Bluetooth.
+
+# Network Architecture
+* Point-to-Point and Point-to-Multipoint Connection Topology (Both Bluetooth classic and BLE)
+* Broadcast Connection Topology (BLE only)
+* Mesh Connection Topology (BLE only)
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble_scatternet_topology.png" alt="...">
+<br />
+A scatternet of three piconets. 
+Figure from [https://uk.mathworks.com/help/comm/ug/what-is-bluetooth.html](https://uk.mathworks.com/help/comm/ug/what-is-bluetooth.html){:target="_blank"}.
 
 # Protocol Overview
 Visit [MATLAB Bluetooth Protocol Stack](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"} for a detailed introduction about the Bluetooth and BLE protocol, and a mapping between them and the OSI model.
