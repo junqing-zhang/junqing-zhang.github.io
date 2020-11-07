@@ -21,8 +21,14 @@ IEEE 802.15.4 defines the physical and MAC layers. ZigBee is based on IEEE 802.1
 
 ## Physical Layer
 ## MAC Layer
+* Direct Transmission
+* Indirect Transmission (Polling)
 
 # ZigBee
+## Network Architecture and Topology
+* Star Topology
+* Tree Topology
+* Mesh Topology
 
 # Tutorial
 Check the first chapter of [IEEE 802.15.4 Stack User Guide](https://www.nxp.com/docs/en/user-guide/JN-UG-3024.pdf){:target="_blank"} for a brief introduction of IEEE 802.15.4.
