@@ -43,6 +43,8 @@ Deep Learning
 ## Common CNN Architecture
 ### AlexNet
 * [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
+* [Implementing AlexNet CNN Architecture Using TensorFlow 2.0+ and Keras](https://towardsdatascience.com/implementing-alexnet-cnn-architecture-using-tensorflow-2-0-and-keras-2113e090ad98){:target="_blank"}
+
 
 # Development Tool
 ## Keras
@@ -62,3 +64,4 @@ conda install -c conda-forge tensorflow=1.13
 # Online Resources
 * CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [link](http://cs231n.stanford.edu/){:target="_blank"}
 * A summary of resources [link](https://towardsdatascience.com/convolutional-neural-network-a-step-by-step-guide-a8b4c88d6943){:target="_blank"}
+* [Book Dive into Deep Learning](http://d2l.ai/index.html){:target="_blank"}
