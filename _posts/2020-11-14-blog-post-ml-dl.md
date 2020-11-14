@@ -1,7 +1,7 @@
 ---
-title: 'My Experience of Learning Machine Learning and Deep Learning With Python'
-date: 2020-01-13
-permalink: /posts/2020/01/blog-post-python-machine-learning/
+title: 'Machine Learning and Deep Learning for Beginners'
+date: 2020-11-14
+permalink: /posts/2020/01/blog-post-ml-dl/
 categories:
   - Resources
   - Deep Learning
@@ -12,14 +12,15 @@ tags:
   - Python
 ---
 
-This paper summarizes resources for learning machine learning and deep learning with Python.
+This paper summarizes resources for learning machine learning and deep learning for beginners.
 
 {% include toc %}
 
 # Overview
 
-# Installing Python
+# Python
 I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"}.
+
 
 # Machine Learning
 
@@ -27,8 +28,9 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 * [Python Machine Learning Tutorial, Scikit-Learn](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn){:target="_blank"}
 * [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
 
-# Deep Learning
+Deep Learning
 
+# Convolutional Neural Networks (CNN)
 ## What is Convolutional Neural Networks (CNN)
 * [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53){:target="_blank"}
 * [Matlab, Convolutional Neural Networks](https://uk.mathworks.com/solutions/deep-learning/convolutional-neural-network.html){:target="_blank"}
@@ -38,6 +40,11 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/){:target="_blank"}
 * [How to Develop 1D Convolutional Neural Network Models for Human Activity Recognition](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/){:target="_blank"}
 
+## Common CNN Architecture
+### AlexNet
+* [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
+
+# Development Tool
 ## Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
 
@@ -52,4 +59,6 @@ conda list
 conda install -c conda-forge tensorflow=1.13
 ```
 
-
+# Online Resources
+* CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [link](http://cs231n.stanford.edu/){:target="_blank"}
+* A summary of resources [link](https://towardsdatascience.com/convolutional-neural-network-a-step-by-step-guide-a8b4c88d6943){:target="_blank"}
