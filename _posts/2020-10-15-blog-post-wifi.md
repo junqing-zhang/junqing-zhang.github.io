@@ -41,7 +41,8 @@ The commercial network interface cards (NICs) only provide received signal stren
 ## [WARP 802.11 Reference Design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
 There is an 802.11 reference design implemented for WARP boards, which is compatible with the commercial WiFi. An [experimental framework](http://warpproject.org/trac/wiki/802.11/wlan_exp) is implemented by Python for the research development. The available variables/parameters can be found [here](http://warpproject.org/trac/wiki/802.11/wlan_exp/log/entry_types), among which the CSI is made public.
 
-_WARP is being actively used for research in many areas like power management, architectures for wireless receivers, physical layer algorithms, access protocols, routing and cognitive radios._ 
+>WARP is being actively used for research in many areas like power management, architectures for wireless receivers, physical layer algorithms, access protocols, routing and cognitive radios.
+
 A list of papers using WARP can be found at [here](http://warpproject.org/trac/wiki/PapersandPresentations).
 
 ## Network Interface Cards
@@ -65,7 +66,8 @@ The WLAN Toolbox of Matlab is very powerful. There are many useful functions and
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html)
 
 ## [Scapy](https://scapy.net/)
-_Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks._ (quoated from [link](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy))
+[Scapy official website defines](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy)
+>Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks. 
 
 There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py) supporting IEEE 802.11.
 
