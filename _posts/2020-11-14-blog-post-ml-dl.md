@@ -34,6 +34,7 @@ Deep Learning
 ## What is Convolutional Neural Networks (CNN)
 * [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53){:target="_blank"}
 * [Matlab, Convolutional Neural Networks](https://uk.mathworks.com/solutions/deep-learning/convolutional-neural-network.html){:target="_blank"}
+* [Matlab, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
 
 ## CNN Examples
 * [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5){:target="_blank"}
