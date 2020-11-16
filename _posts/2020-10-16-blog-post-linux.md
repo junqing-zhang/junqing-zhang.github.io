@@ -53,7 +53,7 @@ The above command may output Bad file descriptor and Warning: “Error reading C
 
 `nohup matlab -nodesktop -nosplash -nodisplay < main.m >log.txt 2>&1   &`
 
-Explanation: ">log.txt" refers to redirecting the output to log.txt. 2>&1 means to input the error information into log.txt, 2 Refers to the standard input and output error (stderr), 1 refers to the standard output (stdout), 2> & 1 means 2 is equivalent to 1 output, the last & is the meaning of background operation, combined with the nohup command. (https://www.programmersought.com/article/91451058498/)
+> Explanation: ">log.txt" refers to redirecting the output to log.txt. 2>&1 means to input the error information into log.txt, 2 Refers to the standard input and output error (stderr), 1 refers to the standard output (stdout), 2> & 1 means 2 is equivalent to 1 output, the last & is the meaning of background operation, combined with the nohup command. (https://www.programmersought.com/article/91451058498/)
 
 
 # Tutorial:
