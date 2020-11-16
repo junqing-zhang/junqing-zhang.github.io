@@ -20,3 +20,6 @@ This paper summarizes tutorials and resources regarding to digital communication
 Recommended Book
 * [MIMO‐OFDM Wireless Communications with MATLAB®](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}
 
+# Communications Textbook
+* [Wireless Communications, Andrea Goldsmith, Stanford University](https://www.cambridge.org/core/books/wireless-communications/800BA8A8211FBECB133A7BB77CD2E2BD){:target="_blank"}
+
