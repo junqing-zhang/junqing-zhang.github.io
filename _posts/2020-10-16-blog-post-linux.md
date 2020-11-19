@@ -25,6 +25,7 @@ Linux Test
 
 
 # Common Usage
+1. [Ubuntu Documentation on How to Use the Terminal](https://help.ubuntu.com/community/UsingTheTerminal){:target="_blank"}
 1.  Graphic Notebook Editor
 * Command: `gedit file_name.extension`
 1. `vim` [getting started](https://opensource.com/article/19/3/getting-started-vim){:target="_blank"}
