@@ -19,6 +19,7 @@ Linux Test
 1. If you are using Windows OS, you can access to the remote server by 
 * Putty 
 * MobaXterms (recommended)
+* [How to configure Putty & Xming (on your laptop)](http://laptops.eng.uci.edu/software-installation/using-linux/how-to-configure-xming-putty){:target="_blank"} from University of California, Irvine
 
 1. Basic Commands
 `cd`, `ls`, `mkdir`, `pwd`, `cat`, `grep`,`sudo`

@@ -9,7 +9,7 @@ tags:
   - Bluetooth
 ---
 
-This page summarizes resources for Bluetooth Low Energy. It is still under active update.
+This page summarizes resources for Classic Bluetooth and Bluetooth Low Energy. It is still under active update.
 
 {% include toc %}
 
@@ -49,7 +49,7 @@ Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://m
 
 # Physical Layer
 Some key features of the BLE physical layer
-* 2.4GHz ISM band. The band between 2.402 GHz to 2.4835 GHz is divided into 40 channels with 2 MHz channel spacing.
+* 2.4GHz ISM band. The band between 2.402 GHz to 2.4835 GHz is divided into 40 channels with 2 MHz channel spacing, $f_k = 2402 + k*2 MHz, k = 0, 1, ..., 39$
 * The 40 channels are divided into advertising channels (Ch. 37, 38, and 39) and 37 data channels (Ch. 0-36).
 * Gaussian Frequency-Shift Keying (GFSK).
 * Adaptive Frequency Hopping for data channels. The channel selection algorithms can be found in Section 4.5.8 of Part B vol. 6. There are two algorithms defined and the algorithm#1 selects the channel as 
@@ -61,6 +61,11 @@ where hop ranges from 5-16.
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
+## Preamble
+The preamble defined in BLE v5.2:
+* LE IM packets (8 bits): 10101101, or 01010101 
+* LE 2M packets (16 bits): 1010110110101101, or 0101010101010101 
+Preamble is used for frequency synchronization, symbol timing and automatic gain control. Visit Page 2865 Section 2.1.1 Vol 6, Part B of the [Bluetooth Core Specification v5.2](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}. 
 
 # Link Layer
 * Advertising and Scanning
