@@ -29,6 +29,8 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 * [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
 
 Deep Learning
+# Tutorials
+* [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
 
 # Convolutional Neural Networks (CNN)
 ## What is Convolutional Neural Networks (CNN)
