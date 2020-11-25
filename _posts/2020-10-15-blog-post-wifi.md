@@ -64,7 +64,7 @@ A list of the relevant publications can be found at [here](https://wands.sg/rese
 
 # Software Tool
 ## Matlab WLAN Toolbox
-The WLAN Toolbox of Matlab is very powerful. There are many useful functions and examples. I strongly suggest to test your idea and algorithms using this Toolbox before you do it with real hardware.
+The [Matlab WLAN Toolbox](https://www.mathworks.com/products/wlan.html){:target="_blank"} is very powerful. There are many useful functions and examples. Both PHY and MAC layers are supported. I strongly suggest to test your idea and algorithms using this Toolbox before you do it with real hardware.
 
 ## [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
