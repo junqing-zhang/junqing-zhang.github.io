@@ -21,16 +21,19 @@ IEEE 802.11 standard defines the physcai layer and media access control (MAC) la
 ## PHY Layer
 The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, OFDM, 5 GHz), 802.11g (2003, OFDM, 2.4 GHz), 802.11n (2009, MIMO OFDM, high throughput), 802.11ac (2013, MIMO OFDM, very high throughput), 802.11 ax(est late 2019, high efficiency).
 
+OFDM Basics
+* [802.11 OFDM Overview](http://rfmw.em.keysight.com/wireless/helpfiles/89600B/WebHelp/Subsystems/wlan-ofdm/content/ofdm_80211-overview.htm){:target="_blank"}
+* [Concepts of Orthogonal Frequency Division Multiplexing (OFDM) and 802.11 WLAN](http://rfmw.em.keysight.com/wireless/helpfiles/89600B/WebHelp/Subsystems/wlan-ofdm/content/ofdm_basicprinciplesoverview.htm){:target="_blank"}
+
+IEEE 802.11 OFDM Receiver Design
+* Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
+
 ## MAC Layer
 WiFi use CSMA/CA as the MAC layer protocol.
 
 * Control frames
 * Management frames
 * Data frames
-
-[CWAP 802.11- Probe Request/Response](https://mrncciew.com/2014/10/27/cwap-802-11-probe-requestresponse/){:target="_blank"}
-[WiFi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
-
 
 # Testbed and Implementations
 The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
@@ -52,15 +55,13 @@ A list of papers using WARP can be found at [here](http://warpproject.org/trac/w
 ## Network Interface Cards
 Please note PCI-e interface is required for these NICs.
 
-### Intel 5300 NIC
-There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC.
+**Intel 5300 NIC**
 
-This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [link](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
+There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC. This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [link](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
 
-### Atheros Chipsets
-There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}.
+**Atheros Chipsets**
 
-A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
+There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
 
 # Software Tool
 ## Matlab WLAN Toolbox
@@ -79,3 +80,5 @@ Code Examples:
 * [PythonScapyDot11_TheBook](https://github.com/yadox666/PythonScapyDot11_TheBook){:target="_blank"}
 * [Fake a WLAN connection via Scapy](https://wlan1nde.wordpress.com/2016/08/24/fake-a-wlan-connection-via-scapy/){:target="_blank"}
 * [Generating WiFi communication in Scapy tool](https://research.securitum.com/generating-wifi-communication-in-scapy-tool/){:target="_blank"}
+[CWAP 802.11- Probe Request/Response](https://mrncciew.com/2014/10/27/cwap-802-11-probe-requestresponse/){:target="_blank"}
+[WiFi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
