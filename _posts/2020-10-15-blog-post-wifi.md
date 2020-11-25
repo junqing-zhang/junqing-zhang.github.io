@@ -75,5 +75,7 @@ The WLAN Toolbox of Matlab is very powerful. There are many useful functions and
 
 There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py){:target="_blank"} supporting IEEE 802.11.
 
-[PythonScapyDot11_TheBook](https://github.com/yadox666/PythonScapyDot11_TheBook){:target="_blank"}
-
+Code Examples:
+* [PythonScapyDot11_TheBook](https://github.com/yadox666/PythonScapyDot11_TheBook){:target="_blank"}
+* [Fake a WLAN connection via Scapy](https://wlan1nde.wordpress.com/2016/08/24/fake-a-wlan-connection-via-scapy/){:target="_blank"}
+* [Generating WiFi communication in Scapy tool](https://research.securitum.com/generating-wifi-communication-in-scapy-tool/){:target="_blank"}
