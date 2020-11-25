@@ -67,9 +67,6 @@ There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A l
 ## Matlab WLAN Toolbox
 The [Matlab WLAN Toolbox](https://www.mathworks.com/products/wlan.html){:target="_blank"} is very powerful. There are many useful functions and examples. Both PHY and MAC layers are supported. I strongly suggest to test your idea and algorithms using this Toolbox before you do it with real hardware.
 
-## [Radiotap](https://www.radiotap.org/)
-* What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
-
 ## [Scapy](https://scapy.net/)
 [Scapy official website defines](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy){:target="_blank"}
 >Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks. 
@@ -81,4 +78,7 @@ Code Examples:
 * [Fake a WLAN connection via Scapy](https://wlan1nde.wordpress.com/2016/08/24/fake-a-wlan-connection-via-scapy/){:target="_blank"}
 * [Generating WiFi communication in Scapy tool](https://research.securitum.com/generating-wifi-communication-in-scapy-tool/){:target="_blank"}
 [CWAP 802.11- Probe Request/Response](https://mrncciew.com/2014/10/27/cwap-802-11-probe-requestresponse/){:target="_blank"}
-[WiFi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
+* [WiFi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
+
+## [Radiotap](https://www.radiotap.org/)
+* What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
