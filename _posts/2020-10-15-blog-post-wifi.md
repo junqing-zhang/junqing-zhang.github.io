@@ -11,12 +11,12 @@ tags:
 
 IEEE 802.11 (WiFi) has been used in most of the laptops, smartphones, tablets. The widespread use of WiFi has led to extensive research interests in the area of localization, security, sensing and produced massive successful research outcomes. This paper summarizes some hardware and software resources for WiFi for the research purpose.
 
-Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark of the [WiFi alliance](https://www.wi-fi.org/). However, they are used interchangably in this post.
+Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark of the [WiFi alliance](https://www.wi-fi.org/){:target="_blank"}. However, they are used interchangably in this post.
 
 {% include toc %}
 
 # Standard
-IEEE 802.11 standard defines the physcai layer and media access control (MAC) layer protocols. It has undergone a number of amendments in the last twenty years, since its first release in 1997. A complete list of the IEEE 802.11 amendments is summarized at [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11).
+IEEE 802.11 standard defines the physcai layer and media access control (MAC) layer protocols. It has undergone a number of amendments in the last twenty years, since its first release in 1997. A complete list of the IEEE 802.11 amendments is summarized at [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.
 
 ## PHY Layer
 The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, OFDM, 5 GHz), 802.11g (2003, OFDM, 2.4 GHz), 802.11n (2009, MIMO OFDM, high throughput), 802.11ac (2013, MIMO OFDM, very high throughput), 802.11 ax(est late 2019, high efficiency).
@@ -27,6 +27,10 @@ WiFi use CSMA/CA as the MAC layer protocol.
 * Control frames
 * Management frames
 * Data frames
+
+[CWAP 802.11- Probe Request/Response](https://mrncciew.com/2014/10/27/cwap-802-11-probe-requestresponse/){:target="_blank"}
+[WiFi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
+
 
 # Testbed and Implementations
 The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
@@ -56,18 +60,20 @@ This Intel NIC together with the CSI tool have been used extensively by research
 ### Atheros Chipsets
 There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}.
 
-A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users).
+A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
 
 # Software Tool
 ## Matlab WLAN Toolbox
 The WLAN Toolbox of Matlab is very powerful. There are many useful functions and examples. I strongly suggest to test your idea and algorithms using this Toolbox before you do it with real hardware.
 
 ## [Radiotap](https://www.radiotap.org/)
-* What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html)
+* What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
 
 ## [Scapy](https://scapy.net/)
-[Scapy official website defines](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy)
+[Scapy official website defines](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy){:target="_blank"}
 >Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks. 
 
-There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py) supporting IEEE 802.11.
+There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/dot11.py){:target="_blank"} supporting IEEE 802.11.
+
+[PythonScapyDot11_TheBook](https://github.com/yadox666/PythonScapyDot11_TheBook){:target="_blank"}
 
