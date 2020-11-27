@@ -82,3 +82,11 @@ Code Examples:
 
 ## [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
+
+# Misc Resources
+## Wireshark
+* [Download Link](https://www.wireshark.org/){:target="_blank"}
+
+## WiFi Modes
+[iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
+>Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
