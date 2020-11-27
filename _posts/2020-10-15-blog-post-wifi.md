@@ -31,9 +31,12 @@ IEEE 802.11 OFDM Receiver Design
 ## MAC Layer
 WiFi use CSMA/CA as the MAC layer protocol.
 
+Frame Types
 * Control frames
 * Management frames
 * Data frames
+
+[802.11 Association Process Explained](https://documentation.meraki.com/MR/WiFi_Basics_and_Best_Practices/802.11_Association_Process_Explained){:target="_blank"}
 
 # Testbed and Implementations
 The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. Since CSI is much more useful for innovative research, a (incomplete) list of testbed is given below.
