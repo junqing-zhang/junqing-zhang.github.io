@@ -86,6 +86,9 @@ Code Examples:
 # Misc Resources
 ## Wireshark
 * [Download Link](https://www.wireshark.org/){:target="_blank"}
+* [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/index.html){:target="_blank"}
+>Wireshark is a network packet analyzer. A network packet analyzer presents captured packet data in as much detail as possible.
+>You could think of a network packet analyzer as a measuring device for examining what’s happening inside a network cable, just like an electrician uses a voltmeter for examining what’s happening inside an electric cable (but at a higher level, of course).
 
 ## WiFi Modes
 [iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
