@@ -17,7 +17,7 @@ I have developed a strong research potential in innovative physical layer securi
 <br />
 
 # Research Topics
-In particular, my research aims to ensure the secure communication using key generation and device authentication using radio frequency fingerprint identification.
+In particular, my research aims to exploit the wireless channel for security and sensing. In particular, secure communication will be achieved by using key generation and device authentication. 
 
 <br />
 <img align="center" width="800" src="{{ site.url }}/images/system_overview.png" alt="...">
