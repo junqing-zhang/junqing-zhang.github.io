@@ -43,7 +43,8 @@ The application will open every year around October. Please note this is a two-s
 * Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May.
 If you are successful in both steps, you will be awarded the full scholarship from our University and CSC.
 
-For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website.
+For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website. The deadline is 22 January 2021.
+
 
 CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
 
