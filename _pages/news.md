@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # 2020
+* 5 December, 2020, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN”, has just been accepted by INFOCOM 2021. Congratulations to Guanxiong.
 * 12 October, 2020, Our new survey paper, “Key Generation for Internet of Things: A Contemporary Survey”, has just been accepted by ACM Computing Surveys. This is a collaboration with Dr. Weitao Xu at City University of Hong Kong.
 * 14 September, 2020, Our paper "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks" has been accepted by IEEE Transactions on Information Forensics and Security. This paper is a collaboration with Dr. Guyue Li @ Southeast University.
 * 7 August, 2020: A preprint on key generation survey paper, "Key Generation for Internet of Things: A Contemporary Survey", has been available in arxiv. Please check it [here](https://arxiv.org/abs/2007.15956){:target="_blank"}. This paper reviews key generation from wireless channel, audio signals, motions, heartbeats, etc.
