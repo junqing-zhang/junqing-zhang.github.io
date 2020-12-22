@@ -15,11 +15,12 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
-* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*2
-* [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*3
+* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*3
+* [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*5
 
 # Wireless Kit
-* [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
+* [Pycom FiPy] *10(https://pycom.io/product/fipy/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
+* [Pycom LoPy4] *100(https://pycom.io/product/lopy4/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
 * LoRa devices, including mbed LoRa devices, Arduino LoRa shield and Microchip RN2483 LoRa
 * LoRa Gateway
 
@@ -35,4 +36,5 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
 
+# Facilities
 The [High Frequency Engineering Group](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/research/networks-and-communications/high-frequency-engineering/){:target="_blank"} at University of Liverpool has an anechoic chamber and the biggest reverberation chamber in the UK universities.

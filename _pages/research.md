@@ -61,4 +61,5 @@ We are always keen to apply our knowledge to practical applications. Hence we ha
 * [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
 
 # Resources and Facilities
+We are equipped with abundant wireless devices including software defined radios, wireless kits, GPU platform etc. 
 Please visit [Resources and Facilities](/resources/) for detailed information.
