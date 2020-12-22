@@ -20,9 +20,9 @@ Thanks to the generous financial support from Royal Society and the Department o
 
 # Wireless Kit
 * [Pycom FiPy] *10(https://pycom.io/product/fipy/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
-* [Pycom LoPy4] *100(https://pycom.io/product/lopy4/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
-* LoRa devices, including mbed LoRa devices, Arduino LoRa shield and Microchip RN2483 LoRa
-* LoRa Gateway
+* [Pycom LoPy4] *100(https://pycom.io/product/lopy4/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox )
+* LoRa devices, including mbed LoRa devices sx1272, sx1261, sx1276, Arduino LoRa shield and Microchip RN2483 LoRa
+* Rapsberry Pi-based LoRaWAN Gateway, [RAK831](https://www.thethingsnetwork.org/docs/gateways/rak831/){:target="_blank"}
 
 
 # GPU Platform
