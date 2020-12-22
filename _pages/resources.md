@@ -19,8 +19,8 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*5
 
 # Wireless Kit
-* [Pycom FiPy] *10(https://pycom.io/product/fipy/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
-* [Pycom LoPy4] *100(https://pycom.io/product/lopy4/){:target="_blank"} (for WiFi, Bluetooth, LoRa, SigFox )
+* [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} *10 (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
+* [Pycom LoPy4](https://pycom.io/product/lopy4/){:target="_blank"}*100 (for WiFi, Bluetooth, LoRa, SigFox )
 * LoRa devices, including mbed LoRa devices sx1272, sx1261, sx1276, Arduino LoRa shield and Microchip RN2483 LoRa
 * Rapsberry Pi-based LoRaWAN Gateway, [RAK831](https://www.thethingsnetwork.org/docs/gateways/rak831/){:target="_blank"}
 
