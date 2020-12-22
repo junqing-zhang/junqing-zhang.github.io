@@ -1,6 +1,6 @@
 ---
 title: "Key Generation Reference"
-date: 2019-04-20
+date: 2020-12-22
 permalink: /keygen/keygen-reference/
 categories:
   - Research
@@ -13,6 +13,7 @@ tags:
 This paper summarizes some important key generation references.
 
 # Review/Survey/Tutorial on Key Generation
+1. **Junqing Zhang**, Guyue Li, Alan Marshall, Aiqun Hu, and Lajos Hanzo, “A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels,” _IEEE Access_, accepted. [link](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
 1. Junqing Zhang, Trung Q. Duong, Roger Woods, and Alan Marshall, “Securing wireless communications of the Internet of Things from the physical layer, An overview”, Entropy, vol. 19, no. 8, 420, 2017. (Invited Paper) DOI: 10.3390/e19080420
 1. Amrita Ghosal, Subir Halder, and Stefano Chessa. “Secure Key Design Approaches using Entropy Harvesting in Wireless Sensor Network: A Survey.” Journal of Network and Computer Applications, vol. 78, pp. 216 – 230, Jan. 2017. DOI: 10.1016/j.jnca.2016.11.019
 1. Christopher Huth, René Guillaume, Thomas Strohm, Paul Duplys, Irin Ann Samuel, and Tim Güneysu. “Information reconciliation schemes in physical-layer security: A survey.” Computer Networks, vol. 109, pp: 84-104, Nov. 2016. DOI: 10.1016/j.comnet.2016.06.014
