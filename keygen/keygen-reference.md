@@ -23,4 +23,4 @@ This paper summarizes some important key generation references.
 1. Kui Ren, Hai Su, and Qian Wang, ‘‘Secret key generation exploiting channel characteristics in wireless communications,’’ IEEE Wireless Communications, vol. 18, no. 4, pp. 6–12, Aug. 2011. DOI: 10.1109/MWC.2011.5999759
 
 # Tool
-* NIST SP 800-22: A Statistical Test Suite for the Validation of Random Number Generators and Pseudo Random Number.[Link] C code available for download. Python implementation can be downloaded from here .
+* NIST SP 800-22: A Statistical Test Suite for the Validation of Random Number Generators and Pseudo Random Number.[Link] C code available for download. Python implementation can be downloaded from here.
