@@ -36,6 +36,7 @@ Frame Types
 * Management frames
 * Data frames
 
+[How 802.11 Wireless Works](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc757419(v=ws.10)){:target="_blank"}
 [802.11 Association Process Explained](https://documentation.meraki.com/MR/WiFi_Basics_and_Best_Practices/802.11_Association_Process_Explained){:target="_blank"}
 
 [802.11 Wi-Fi Connection/Disconnection process](https://community.nxp.com/t5/Wireless-Connectivity-Knowledge/802-11-Wi-Fi-Connection-Disconnection-process/ta-p/1121148){:target="_blank"}
