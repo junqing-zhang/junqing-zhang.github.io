@@ -5,6 +5,11 @@ permalink: /edu-work-experience/
 author_profile: true
 ---
 
+# Qualification
+* PhD in Electronics and Electrical Engineering, Queen’s University Belfast
+* Fellow of the Higher Education Academy (FHEA)
+
+
 # Work Experience
 ## Lecturer (Assistant Professor)
 * June 2020 to present
