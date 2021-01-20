@@ -20,7 +20,9 @@ This page summarizes information for software defined radio (SDR).
 An good (though not the latest) introduction on the SDR is available [here](http://www.taylorkillian.com/2013/08/sdr-showdown-hackrf-vs-bladerf-vs-usrp.html){:target="_blank"}. A list of SDR can be found [here](https://www.rtl-sdr.com/roundup-software-defined-radios/){:target="_blank"}
 
 # Hardware
-There are many SDR platforms available on the market, with different specifications and prices. A comparsion between different SDR is produced by LimeSDR and quoted here. Source: [https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table](https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table){:target="_blank"}
+There are many SDR platforms available on the market, with different specifications and prices. A comprehensive list can be found at [here](https://wiki.gnuradio.org/index.php/Hardware){:target="_blank"}
+
+A comparison between different SDR is produced by LimeSDR and quoted here. Source: [https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table](https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table){:target="_blank"}
 
 | Item                     | HackRF One                  | Ettus B200          | Ettus B210          | BladeRF x40         | RTL-SDR          | LimeSDR                           | LimeSDR Mini                        |
 |--------------------------|-----------------------------|---------------------|---------------------|---------------------|------------------|-----------------------------------|-------------------------------------|
