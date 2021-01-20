@@ -23,4 +23,4 @@ tags:
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Guyue Li, “On radio frequency fingerprint identification for DSSS systems in low SNR scenarios,”  _IEEE Communications Letters_, vol. 22, no. 11, pp. 2326 -2329, Nov., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8469002){:target="_blank"}
 
 # Conference Paper
-1. Guanxiong Shen, Junqing Zhang, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in Proc. IEEE INFOCOM, 2021, accepted.
+1. Guanxiong Shen, Junqing Zhang, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in Proc. IEEE INFOCOM, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
