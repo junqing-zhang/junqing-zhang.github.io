@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+# 2021
+We are organizing a special section on [Antennas and Array Processing for Physical Layer Wireless Security](https://ieeeaps.org/antennas-and-array-processing-for-physical-layer-wireless-security){:target="_blank"}, IEEE Open Journal of Antennas and Propagation. Please consider to submit your work to it.
 
 # 2020
 * 5 December, 2020, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN”, has just been accepted by INFOCOM 2021. Congratulations to Guanxiong.
