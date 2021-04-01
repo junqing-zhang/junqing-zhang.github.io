@@ -21,6 +21,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 
 
 # Journal Article
+1. Xintao Huan, Kyeong Soo Kim, and **Junqing Zhang**,``NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks'', _IEEE Transactions on Communications_, accepted, 2021
 1. Weitao Xu, **Junqing Zhang**, Shunqi Huang, Chengwen Luo, and Wei Li, “Key Generation for Internet of Things: A Contemporary Survey,”, _ACM Computing Surveys_, accepted. 
 1. Guyue Li, Zheying Zhang, **Junqing Zhang**, and Aiqun Hu, “Encrypting Wireless Communications On the Fly Using OneTime Pad and Key Generation,” _IEEE Internet of Things Journal_, vol. 8, no. 1, pp. 357 - 369, Jan. 2021.  [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Jiabao  Yu, Guyue Li, and Ting Wang, “Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar,” _IEEE Internet of Things Journal_, vol. 7, no. 10, pp. 10581 - 10593, Oct. 2020. [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}

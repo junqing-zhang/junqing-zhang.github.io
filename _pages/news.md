@@ -8,6 +8,7 @@ author_profile: true
 We are organizing a special section on [Antennas and Array Processing for Physical Layer Wireless Security](https://ieeeaps.org/antennas-and-array-processing-for-physical-layer-wireless-security){:target="_blank"}, IEEE Open Journal of Antennas and Propagation. Please consider to submit your work to it.
 
 # 2020
+* 29 March, 2021, Our paper, ``NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks'' has been accepted by IEEE Transactions on Communications. Congratulations Xintao.
 * 5 December, 2020, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN”, has just been accepted by INFOCOM 2021. Congratulations to Guanxiong.
 * 12 October, 2020, Our new survey paper, “Key Generation for Internet of Things: A Contemporary Survey”, has just been accepted by ACM Computing Surveys. This is a collaboration with Dr. Weitao Xu at City University of Hong Kong.
 * 14 September, 2020, Our paper "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks" has been accepted by IEEE Transactions on Information Forensics and Security. This paper is a collaboration with Dr. Guyue Li @ Southeast University.
