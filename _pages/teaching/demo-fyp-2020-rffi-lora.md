@@ -16,7 +16,7 @@ RFF identification is an emerging technology and it can be used for authenticati
 
 # The structure of RFFI system
 <br />
-<img align="center" width="700" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol_with_encryption.png" alt="...">
+<img align="center" width="700" src="{{ site.url }}/images/teaching/demo-fyp-2020-rffi-lora-overview.png" alt="...">
 <br />
 
 ##Signal Generation
@@ -34,12 +34,9 @@ Any board that can generate LoRa signal without higher layers will work, e.g., L
 # Setup
 
 <br />
-<img align="center" width="400" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_diagram.png" alt="...">
+<img align="center" width="400" src="{{ site.url }}/images/teaching/demo-fyp-2020-rffi-lora-setup.png" alt="...">
 <br />
 
-<br />
-<img align="center" width="500" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_photo.png" alt="...">
-<br />
 
 ## Hardware
 * Lopy4 x10
@@ -51,6 +48,7 @@ Any board that can generate LoRa signal without higher layers will work, e.g., L
 * [ATOM](https://atom.io/packages/pymakr){:target="_blank"}
 * GUI and signal processing: Python
 * Keras 2.4.3, Tensorflow 2.4.1
+
 # Demo Video
 Click the image below to watch the video.
 <a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
