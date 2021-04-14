@@ -57,7 +57,7 @@ Programming language and packages
 
 # Demo Video
 Click the image below to watch the video.
-<a href="https://youtu.be/AzqhLXkZvAM" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
+<a href="https://youtu.be/AzqhLXkZvAM" target="_blank"><img src="{{ site.url }}/images/teaching/demo-fyp-2020-rffi-lora-frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
 
 # Contact
 Please contact Dr. Junqing Zhang (junqing.zhang at liverpool.ac.uk) if you require further information.
