@@ -45,9 +45,15 @@ Any board that can generate LoRa signal without higher layers will work, e.g., L
 
 
 ## Software
+Platform
 * [ATOM](https://atom.io/packages/pymakr){:target="_blank"} for configuring LoPy4
+* MobaXterm for remonte control of Jetson TX2
+
+Programming language and packages
+* [Micropython](https://docs.pycom.io/tutorials/networks/lora/){:target="_blank"} for LoPy4
+* [pyrtlsdr ](https://pypi.org/project/pyrtlsdr/){:target="_blank"} for RTL SDR
 * GUI and signal processing: Python
-* Keras 2.4.3, Tensorflow 2.4.1
+* CNN: Keras 2.4.3 and Tensorflow 2.4.1
 
 # Demo Video
 Click the image below to watch the video.
