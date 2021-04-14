@@ -17,7 +17,7 @@ The final year projects that I am supervising usually
 
 # 2020
 I am running the following final year projects in the academic year 2020-2021. 
-* Deep Learning based RFF Identification for LoRa
+* [Deep Learning based RFF Identification for LoRa](https://junqing-zhang.github.io/teaching/demo-fyp-2020-rffi-lora)
 * Deep Learning based RFF Identification for LoRa Using Raspberry Pi
 * Deep Learning based RFF Identification for WiFi
 * Deep Learning based RFF Identification for Bluetooth

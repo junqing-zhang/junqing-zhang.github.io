@@ -57,7 +57,7 @@ toc_max_header: 1
 # TPC Member
 * IEEE International Conference on Communications (ICC): Communication and Information Systems Security Symposium, 2019 - 2021
 * IEEE International Conference on Communications (ICC): Wireless Communications Symposium, 2019 - 2021
-* IEEE GLOBECOM: Signal Processing for Communications Symposium, 2016 - 2020
+* IEEE GLOBECOM: Signal Processing for Communications Symposium, 2016 - 2021
 * IEEE GLOBECOM: Green Communication Systems and Networks, 2019 - 2020
 * IEEE GLOBECOM 2019 Cognitive Radio and AI-Enabled Networks Symposium
 * IEEE VTC 2018 Fall Wireless Networks: Protocols, Security and Services Track
