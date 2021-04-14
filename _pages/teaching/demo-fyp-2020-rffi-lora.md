@@ -5,7 +5,7 @@ permalink: /teaching/demo-fyp-2020-rffi-lora/
 author_profile: true
 ---
 
-Traditional authentication schemes are implemented on the MAC layer for the LoRaWAN network. RFF is a physical layer feature, originated from hardware imperfection. 
+Traditional authentication schemes are implemented on the MAC layer for the LoRaWAN network. Radio frequency fingerprint (RFF) is a physical layer feature, originated from hardware imperfection. 
 
 In this demonstration, we will present a CNN-based RFF identification for LoRa. 
 
