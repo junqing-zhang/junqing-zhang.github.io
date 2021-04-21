@@ -54,6 +54,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
+1. YUEPEI LI, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021, accepted.
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in _Proc. IEEE INFOCOM_, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
 1. You Chen, Guyue Li, Chen Sun, **Junqing Zhang**, Eduard Jorswieck, and Bin Xiao, “Beam-domain secret key generation for multi-user massive MIMO networks,” in _Proc. IEEE ICC_, Dublin, Ireland, June 2020. [link](https://ieeexplore.ieee.org/document/9149130/){:target="_blank"}
 1. Wei Li, Mounir Ghogho, **Junqing Zhang**, Des McLernon, Jing Lei and Syed Ali Raza Zaidi, “Design of an Energy-Efficient Multidimensional Secure Constellation for 5G Communications,” in _Proc. IEEE ICC Workshop on Wireless Physical Layer Security_, Shanghai, China, May 2019.
