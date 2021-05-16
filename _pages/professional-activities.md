@@ -43,7 +43,7 @@ toc_max_header: 1
 
 # Guest Editor
 * Special Section on Antennas and Array Processing for Physical Layer Wireless Security, IEEE Open Journal of Antennas and Propagation
-* Special Issue on "Security Threats to Artificial Intelligence-Driven Wireless Communication Systems" on Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
+* Special Issue on Security Threats to Artificial Intelligence-Driven Wireless Communication Systems, Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
 
 
 # TPC Chair
