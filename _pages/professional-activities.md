@@ -42,6 +42,7 @@ toc_max_header: 1
 * Review Editor of  IoT and Sensor Networks Section, Frontiers in Communications and Networks (May 2020 to present)
 
 # Guest Editor
+* Special Section on Antennas and Array Processing for Physical Layer Wireless Security, IEEE Open Journal of Antennas and Propagation
 * Special Issue on "Security Threats to Artificial Intelligence-Driven Wireless Communication Systems" on Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
 
 
