@@ -17,7 +17,7 @@ tags:
 
 
 # Journal Article
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identificatio for LoRa Using Deep Learning,” _IEEE JSAC_, 2021, accepted. 
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE JSAC_, 2021, accepted. 
 1. Xintao Huan, Kyeong Soo Kim, and **Junqing Zhang**,“NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks,” _IEEE Transactions on Communications_, accepted, 2021. [link](https://ieeexplore.ieee.org/document/9398669){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Jiabao  Yu, Guyue Li, and Ting Wang, “Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar,” _IEEE Internet of Things Journal_, vol. 7, no. 10, pp. 10581 - 10593, Oct. 2020.  . [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
 1. Linning Peng, **Junqing Zhang**, Ming Liu and Aiqun Hu, “Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure,” _IEEE Transactions on Vehicular Technology_, vol. 69, no. 1, pp. 1091 - 1095, Jan. 2020 [link](https://ieeexplore.ieee.org/document/8888209){:target="_blank"}
