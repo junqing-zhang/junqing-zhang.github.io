@@ -15,7 +15,7 @@ The final year projects that I am supervising usually
 * Require strong programming skills such as Python, C/C++, Matlab
 * Involve machine learning and deep learning
 
-I am running the following final year projects in the academic year 2020-2021. 
+I am running the following final year projects in the academic year 2021-2022. 
 # 2021
 * Deep Learning and mmWave Sensor-based Gesture Recognition
 * Deep Learning and WiFi-based Gesture Recognition
