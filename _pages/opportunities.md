@@ -18,7 +18,10 @@ If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk
 
 {% include toc %}
 
-# Requirement
+# Opening
+* PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"}. The application deadline is 30 May 2021.
+
+# Requirement for PhD Admissions
 ## Background
 * The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. 
 * Relevant experience in one or more of the following will be an advantage: wireless communications and networks, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. 
@@ -31,11 +34,7 @@ English language test certificate (minimum IELTS 6.5 with no components lower th
 Please note this requirement is applicable to both full PhD students and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
 
 
-# Potential Funding
-## Newton International Fellowships for Post-Doc
-The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2021. Please contact us if you are interested.
-
-## China Scholarship Council for PhD Students and Visiting Researchers
+# China Scholarship Council for PhD Students 
 We are proud to be the partner of the CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the international tuition fee and CSC will provide the living allowance.
 
 The application will open every year around October. Please note this is a two-step application. 
@@ -46,10 +45,18 @@ If you are successful in both steps, you will be awarded the full scholarship fr
 For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website. The deadline is 22 January 2021.
 
 
-CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
+[//]: CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
 
-## UK Jiangsu 20+20 programme for Visiting Researchers
+# UK Jiangsu 20+20 Programme for Visiting Researchers
 If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. 
 
 Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} or contact me for further information. 
 
+
+# Fellowships
+The School of Electrical Engineering, Electronics and Computer Science hosts numerous staff members awarded prestigious personal fellowships and is strongly committed to attracting and retaining more fellows in the future.   
+
+Please visit this [link](https://www.liverpool.ac.uk/electrical-engineering-electronics-and-computer-science/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
+
+## Newton International Fellowships for Post-Doc
+The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2021. Please contact us if you are interested.
