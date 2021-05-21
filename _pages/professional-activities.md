@@ -45,8 +45,9 @@ toc_max_header: 1
 * Special Section on Antennas and Array Processing for Physical Layer Wireless Security, IEEE Open Journal of Antennas and Propagation
 * Special Issue on Security Threats to Artificial Intelligence-Driven Wireless Communication Systems, Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
 
-# TPC Chair
-* 6th IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security
+# Workshop Co-Chair
+* IEEE VTC Fall 2021 Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G  
+* IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
 
 # Technical Conference Co-Chair
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
