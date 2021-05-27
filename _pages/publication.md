@@ -21,6 +21,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 
 
 # Journal Article
+1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Transactions on Information Forensics and Security,_ accepted
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE JSAC_, 2021, accepted. 
 1. Xintao Huan, Kyeong Soo Kim, and **Junqing Zhang**,“NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks,” _IEEE Transactions on Communications_, accepted, 2021. [link](https://ieeexplore.ieee.org/document/9398669){:target="_blank"}
 1. Weitao Xu, **Junqing Zhang**, Shunqi Huang, Chengwen Luo, and Wei Li, “Key Generation for Internet of Things: A Contemporary Survey,”, _ACM Computing Surveys_, Article No: 14, Jan. 2021. [link](https://dl.acm.org/doi/10.1145/3429740){:target="_blank"}

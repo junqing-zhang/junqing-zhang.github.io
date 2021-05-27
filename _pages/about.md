@@ -23,6 +23,7 @@ Please find more information from his
 
 ## [News](/news/)
 * PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"}. The application deadline is 30 May 2021.
+* 27 May 2021: Our paper, ``Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification'' has been accepted by IEEE Transactions on Information Forensics & Security.
 * 21 May 2021: We are organizing IEEE VTC Fall 2021 Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G. Please consider to submit your work to it. Submission deadline: 1 July 2021. Please visit [the workshop page](https://events.vtsociety.org/vtc2021-fall/conference-sessions/call-for-workshops/w8-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/) for more information.
 * 3 May, 2021, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning”, has just been accepted by IEEE JSAC Series on Machine Learning in Communications and Networks. Congratulations to Guanxiong.
 * 29 March, 2021, Our paper, ``NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks'' has been accepted by IEEE Transactions on Communications. Congratulations Xintao.
