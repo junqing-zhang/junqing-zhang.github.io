@@ -36,5 +36,10 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
 
+# mmWave Radar
+* [IWR6843AOPEVM](https://www.ti.com/tool/IWR6843AOPEVM){:target="_blank"}: IWR6843AOP evaluation module for integrated antenna-on-package (AoP) intelligent mmWave sensor
+* [MMWAVEICBOOST](https://www.ti.com/tool/MMWAVEICBOOST){:target="_blank"}: mmWave sensors carrier card platform
+
+
 # Facilities
 The [High Frequency Engineering Group](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/research/networks-and-communications/high-frequency-engineering/){:target="_blank"} at University of Liverpool has an anechoic chamber and the biggest reverberation chamber in the UK universities.
