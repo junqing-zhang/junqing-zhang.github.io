@@ -48,7 +48,7 @@ Please find more information from his
 
 ## Research Expertise
 * Wireless communication techniques, such as OFDM, spread spectrum, etc
-* Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, etc, in particular physical and MAC layers
+* Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, Bluetooth, etc, in particular physical and MAC layers
 * Wireless channel modelling
 * Software defined radios including USRP, Zedboard + FMCOMMS2, and WARP
 * Machine learning and deep learning applications in the wireless communications and security
