@@ -79,6 +79,7 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 * IEEE Wireless Communications Magazine
 * IEEE Communications Magazine
 * IEEE Vehicular Technology Magazine
+* IEEE Journal on Selected Areas in Communications
 * IEEE Transactions on Communications
 * IEEE Transactions on Wireless Communications
 * IEEE Transactions on Information Forensics and Security
@@ -110,6 +111,7 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 * IEEE Conference on Communications and Network Security (CNS) 2018
 * IEEE GLOBECOM 2014 - 2017
 * IEEE International Conference on Communications (ICC) 2016, 2017, 2019
+* IEEE Asilomar
 * IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2019
 * IEEE Wireless Communications and Networking Conference (WCNC) 2017, 2018
 * IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2016
