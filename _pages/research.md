@@ -17,7 +17,10 @@ I have developed a strong research potential in innovative physical layer securi
 <br />
 
 # Research Topics
-In particular, my research aims to exploit the wireless channel for security and sensing. In particular, secure communication will be achieved by using key generation and device authentication. 
+My research aims to exploit the wireless channel for security and sensing. 
+
+## Wireless Security
+Secure communication will be achieved by using key generation and device authentication. 
 
 <br />
 <img align="center" width="800" src="{{ site.url }}/images/system_overview.png" alt="...">
@@ -25,7 +28,7 @@ In particular, my research aims to exploit the wireless channel for security and
 
 
 
-## Key Generation from Wireless Channels
+### Key Generation from Wireless Channels
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 * [Key Generation Overview](/keygen/keygen-overview/)
 * [Key Generation Publication at University of Liverpool](/keygen/keygen-pub/)
@@ -40,7 +43,7 @@ Key generation is an emerging technique to establish cryptographic keys between 
 <br />
 
 
-## Radio Frequency Fingerprint (RFF) Identification
+### Radio Frequency Fingerprint (RFF) Identification
 All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
 
 * [RFF Identification Overview](/rffi/rffi-overview/)
@@ -51,7 +54,7 @@ All the components of wireless devices will have slightly different features, e.
 <img align="center" width="800" src="{{ site.url }}/images/rffi/RFF_identification_procedure.png" alt="...">
 <br />
 
-## Device Free Wireless Sensing
+## Wireless Sensing
 To be updated...
 
 # Research Demonstration
