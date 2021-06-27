@@ -6,7 +6,8 @@ author_profile: true
 ---
 # Ongoing Project
 * Principle Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation
-](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1), £251k, July 2021 to June 2023
+](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"} , £251k, July 2021 to June 2023
+
 
 # Completed Project
 * Principle Investigator, Royal Society Research Grants, [Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning](/project-rffi-lora/), £19k, March 2019 to March 2020
