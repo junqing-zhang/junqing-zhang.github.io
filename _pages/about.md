@@ -22,6 +22,7 @@ Please find more information from his
 
 
 ## [News](/news/)
+* 8 July, 2021, Our paper, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals'', has been accepted by IEEE Transactions on Mobile Computing. Please refer to [this link](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/) for a demonstration.
 * 1 July 2021: My EPSRC New Investigator Award is successful. The project's title is [A New Frontier For Internet of Things Security: Far-Flung Key Generation
 ](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}. We will recruit a two-year postdoc soon.
 * PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"}. The application deadline is 30 May 2021.
