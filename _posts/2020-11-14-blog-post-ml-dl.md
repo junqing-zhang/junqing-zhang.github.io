@@ -42,6 +42,8 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 * [How to Develop 1D Convolutional Neural Network Models for Human Activity Recognition](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/){:target="_blank"}
 
 ## Common CNN Architecture
+* [Illustrated: 10 CNN Architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#e276){:target="_blank"}: LeNet-5, AlexNet, VGG-16, Inception-v1, Inception-v3,  ResNet-50, Xception, Inception-v4, Inception-ResNets, ResNeXt-50
+
 ### AlexNet
 * [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
 * [Implementing AlexNet CNN Architecture Using TensorFlow 2.0+ and Keras](https://towardsdatascience.com/implementing-alexnet-cnn-architecture-using-tensorflow-2-0-and-keras-2113e090ad98){:target="_blank"}
