@@ -59,3 +59,5 @@ Abstract
 > * 2-3 sentences summarizing the implications of the findings on the wider field of AI.
 
 
+# Understand the Review Process
+* [the Reviewers Guidelines of IEEE Transactions on Wireless Communications](https://www.comsoc.org/publications/journals/ieee-twc/reviewers-guidelines){:target="_blank"}
