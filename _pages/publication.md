@@ -19,6 +19,10 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 # Book Chapter
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
+# Preprint
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa
+,” [link](https://arxiv.org/abs/2107.02867){:target="_blank"}
+
 # Journal Article
 1. **Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, accepted. [link](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
 1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ accepted. [link](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
