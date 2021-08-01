@@ -69,6 +69,27 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 ## Choose vector figure over bitmap 
 It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
 
+## Matlab Export Figure
+When using Matlab to save figures to to pdf or eps, there will usually be margins. Use the [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig){:target="_blank"} to save Matlab figures without margin.
+
+Matlab figures usually have the grey margin. Use the following codes can set the background to white and save figures into .fig, .pdf and .eps.
+```
+function print2pdf( filename )
+
+savefig(filename)
+filename1 = [filename '.pdf'];
+filename2 = [filename '.eps'];
+
+expression1 = ['export_fig ' filename1];
+expression2 = ['export_fig ' filename2];
+
+set(gcf, 'Color', 'w');
+eval( expression1)
+eval( expression2)
+
+end
+```
+
 ## Code Snippet
 * One figure
 ```
