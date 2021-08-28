@@ -24,6 +24,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 ,” [link](https://arxiv.org/abs/2107.02867){:target="_blank"}
 
 # Journal Article
+1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, accepted.
 1. **Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, accepted. [link](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
 1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ vol. 16, pp. 3974 - 3987, 2021. [link](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, vol. 39, no. 8, pp. 2604 - 2616, Aug. 2021. [link](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}

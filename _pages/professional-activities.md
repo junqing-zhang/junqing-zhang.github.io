@@ -78,6 +78,7 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 
 * IEEE Wireless Communications Magazine
 * IEEE Communications Magazine
+* IEEE Network Magazine
 * IEEE Vehicular Technology Magazine
 * IEEE Journal on Selected Areas in Communications
 * IEEE Transactions on Communications

@@ -22,6 +22,7 @@ Please find more information from his
 
 
 ## [News](/news/)
+* 28 Aug 2021: Our paper, ``Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems'' has been accepted by IEEE Internet of Things Journal. Congratulations Xinwei.
 * 8 July, 2021, Our paper, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals'', has been accepted by IEEE Transactions on Mobile Computing. Please refer to [this link](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/) for a demonstration.
 * 1 July 2021: My EPSRC New Investigator Award is successful. The project's title is [A New Frontier For Internet of Things Security: Far-Flung Key Generation
 ](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}. We will recruit a two-year postdoc soon.
