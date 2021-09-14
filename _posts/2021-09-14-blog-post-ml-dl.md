@@ -51,6 +51,7 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 # Few Shot Learning
 * [An Introduction to Few-Shot Learning
 ](https://www.analyticsvidhya.com/blog/2021/05/an-introduction-to-few-shot-learning/){:target="_blank"}
+* [Understanding Few-Shot Learning in Computer Vision – What You Need to Know](https://neptune.ai/blog/understanding-few-shot-learning-in-computer-vision){:target="_blank"}
 
 # Development Tool
 ## Keras
