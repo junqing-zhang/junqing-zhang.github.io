@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learning and Deep Learning for Beginners'
-date: 2020-11-14
-permalink: /posts/2020/01/blog-post-ml-dl/
+date: 2021-09-14
+permalink: /posts/2021/09/blog-post-ml-dl/
 categories:
   - Resources
   - Deep Learning
@@ -48,6 +48,9 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 * [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
 * [Implementing AlexNet CNN Architecture Using TensorFlow 2.0+ and Keras](https://towardsdatascience.com/implementing-alexnet-cnn-architecture-using-tensorflow-2-0-and-keras-2113e090ad98){:target="_blank"}
 
+# Few Shot Learning
+* [An Introduction to Few-Shot Learning
+](https://www.analyticsvidhya.com/blog/2021/05/an-introduction-to-few-shot-learning/){:target="_blank"}
 
 # Development Tool
 ## Keras
