@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Ongoing Project
 * Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation
-](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"} , £251k, July 2021 to June 2023
+](project-epsrc-nia-keygen) , £251k, July 2021 to June 2023
 
 
 # Completed Project
