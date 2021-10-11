@@ -20,6 +20,8 @@ I am running the following final year projects in the academic year 2021-2022.
 * Deep Learning and mmWave Sensor-based Gesture Recognition
 * Deep Learning and WiFi-based Gesture Recognition
 * Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint Using SDR
+* Device Authentication for ZigBee based on Deep Learning and Radio Frequency Fingerprint
+* Deep Learning based RFF Identification for LoRa
 
 # 2020
 * [Deep Learning based RFF Identification for LoRa](https://junqing-zhang.github.io/teaching/demo-fyp-2020-rffi-lora)
