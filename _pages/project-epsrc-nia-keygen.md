@@ -14,7 +14,7 @@ author_profile: true
 # Introduction
 to be updated
 
-please visit the [link](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1) {:target="_blank"} for more information.
+please visit the [link](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"} for more information.
 
 # Outcome
 to be updated
