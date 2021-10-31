@@ -76,6 +76,7 @@ There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A l
 **Braodcom WiFi Chipsets**
 * [nexmon](https://github.com/seemoo-lab/nexmon){:target="_blank"}
 * [nexmon csi](https://github.com/seemoo-lab/nexmon_csi){:target="_blank"}
+* [Reverse-engineering Broadcom wireless chipsets](https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html){:target="_blank"} 
 
 # Software Tool
 ## Matlab WLAN Toolbox
