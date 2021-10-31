@@ -50,8 +50,10 @@ The commercial network interface cards (NICs) only provide received signal stren
 * https://www.wime-project.net/
 * [IEEE 802.11 a/g/p transceiver for GNU Radio](https://github.com/bastibl/gr-ieee802-11){:target="_blank"}
 
-## ZedBoard +  FMCOMMS2/3/4 SDR
-* [openwifi](https://github.com/open-sdr/openwifi){:target="_blank"}
+## Openwifi
+* [openwifi](https://github.com/open-sdr/openwifi){:target="_blank"} is an SDR (Software Defined Radio) implementation for IEEE802.11/Wi-Fi design with Linux mac80211 compatible full-stack.
+* zynq FPGA +  FMCOMMS2/3/4 RF board
+* For Chinese user, there is a [presentation video ](https://www.zhihu.com/zvideo/1437850059212226561) introducing openwifi by Dr. Jiao.
 
 ## [WARP 802.11 Reference Design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
 There is an 802.11 reference design implemented for WARP boards, which is compatible with the commercial WiFi. An [experimental framework](http://warpproject.org/trac/wiki/802.11/wlan_exp) is implemented by Python for the research development. The available variables/parameters can be found [here](http://warpproject.org/trac/wiki/802.11/wlan_exp/log/entry_types), among which the CSI is made public.
@@ -70,6 +72,10 @@ There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-cs
 **Atheros Chipsets**
 
 There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
+
+**Braodcom WiFi Chipsets**
+* [nexmon](https://github.com/seemoo-lab/nexmon){:target="_blank"}
+* [nexmon csi](https://github.com/seemoo-lab/nexmon_csi){:target="_blank"}
 
 # Software Tool
 ## Matlab WLAN Toolbox
@@ -90,6 +96,9 @@ Code Examples:
 
 ## [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
+
+# Network Monitoring
+* [Building your own Network Monitor with PyShark](https://linuxhint.com/building-your-own-network-monitor-with-pyshark/){:target="_blank"}
 
 # Misc Resources
 ## Wireshark
