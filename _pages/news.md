@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2021
+* 16 November 2021: Our paper, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments'' has been accepted by IEEE Communications Letters. Congratulations Tianyu.
 * 1 September 2021: We are recruiting a two-year postdoc for my EPSRC New Investigator Award Project. Please find detailed information at [link](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=033567){:target="_blank"}. The application deadline is 28 September 2021.
 * 28 Aug 2021: Our paper, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems'' has been accepted by IEEE Internet of Things Journal. Congratulations Xinwei.
 * PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"} The application deadline is 30 May 2021.

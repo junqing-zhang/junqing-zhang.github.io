@@ -22,18 +22,13 @@ Please find more information from his
 
 
 ## [News](/news/)
+* 16 November 2021: Our paper, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments'' has been accepted by IEEE Communications Letters. Congratulations Tianyu.
 * 1 September 2021: We are recruiting a two-year postdoc for my EPSRC New Investigator Award Project. Please find detailed information at [link](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=033567){:target="_blank"}. The application deadline is 28 September 2021.
 * 28 Aug 2021: Our paper, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems'' has been accepted by IEEE Internet of Things Journal. Congratulations Xinwei.
 * 8 July, 2021, Our paper, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals'', has been accepted by IEEE Transactions on Mobile Computing. Please refer to [this link](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/) for a demonstration.
 * 1 July 2021: My EPSRC New Investigator Award is successful. The project's title is [A New Frontier For Internet of Things Security: Far-Flung Key Generation
 ](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}. We will recruit a two-year postdoc soon.
 * PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"}. The application deadline is 30 May 2021.
-* 27 May 2021: Our paper, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification'' has been accepted by IEEE Transactions on Information Forensics & Security.
-* 21 May 2021: We are organizing IEEE VTC Fall 2021 Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G. Please consider to submit your work to it. Submission deadline: 1 July 2021. Please visit [the workshop page](https://events.vtsociety.org/vtc2021-fall/conference-sessions/call-for-workshops/w8-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/) for more information.
-* 3 May, 2021, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning”, has just been accepted by IEEE JSAC Series on Machine Learning in Communications and Networks. Congratulations to Guanxiong.
-* 29 March, 2021, Our paper, “NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks'' has been accepted by IEEE Transactions on Communications. Congratulations Xintao.
-* We are organizing a special section on [Antennas and Array Processing for Physical Layer Wireless Security](https://ieeeaps.org/antennas-and-array-processing-for-physical-layer-wireless-security){:target="_blank"}, IEEE Open Journal of Antennas and Propagation. Please consider to submit your work to it.
-
 
 [//]: * PhD Opening: I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 31 January, 2020.
 
