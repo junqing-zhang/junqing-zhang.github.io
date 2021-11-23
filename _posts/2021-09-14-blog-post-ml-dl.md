@@ -58,6 +58,7 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 
 ## Matlab 
 * [Matlab, Convolutional Neural Networks](https://uk.mathworks.com/solutions/deep-learning/convolutional-neural-network.html){:target="_blank"}
+* [Matlab, Training a Model from Scratch](https://www.mathworks.com/solutions/deep-learning/examples/training-a-model-from-scratch.html){:target="_blank"}
 
 ## Code Snippet
 * Check the installed packages
