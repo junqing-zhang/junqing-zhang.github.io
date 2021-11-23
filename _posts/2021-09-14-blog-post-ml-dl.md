@@ -56,6 +56,7 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 # Development Tool
 ## Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
+* [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}
 
 ## Code Snippet
 * Check the installed packages

@@ -50,6 +50,8 @@ toc_max_header: 1
 * IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
 
 # Technical Conference Co-Chair
+* Co-Chairs of Signal Processing for Communications Symposium at IEEE International Conference on Communications (ICC) 2023
+* Co-Chairs of Wireless Networking and Multimedia Symposium at IEEE/CIC International Conference on Communications in China 2022
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
 
 # Session Chair
