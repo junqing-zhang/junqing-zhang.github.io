@@ -18,10 +18,6 @@ This paper summarizes resources for learning machine learning and deep learning 
 
 # Overview
 
-# Python
-I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"}.
-
-
 # Machine Learning
 * [Python Machine Learning Tutorial, Scikit-Learn](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn){:target="_blank"}
 * [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
@@ -33,7 +29,6 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 # Convolutional Neural Networks (CNN)
 ## What is Convolutional Neural Networks (CNN)
 * [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53){:target="_blank"}
-* [Matlab, Convolutional Neural Networks](https://uk.mathworks.com/solutions/deep-learning/convolutional-neural-network.html){:target="_blank"}
 * [Matlab, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
 
 ## CNN Examples
@@ -54,9 +49,15 @@ I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.co
 * [Understanding Few-Shot Learning in Computer Vision – What You Need to Know](https://neptune.ai/blog/understanding-few-shot-learning-in-computer-vision){:target="_blank"}
 
 # Development Tool
+## Python
+I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"}.
+
 ## Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
 * [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}
+
+## Matlab 
+* [Matlab, Convolutional Neural Networks](https://uk.mathworks.com/solutions/deep-learning/convolutional-neural-network.html){:target="_blank"}
 
 ## Code Snippet
 * Check the installed packages
