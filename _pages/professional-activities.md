@@ -17,6 +17,8 @@ toc_max_header: 1
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
 # Invited Talk
+* Invited by Prof Huiyu Zhou from Leicester to give a keynote speech at the 2nd Workshop for Sino-UK to promote the Development and Application of Artificial Intelligence, 10th December 2021
+* Invited talk for the graduate students at Xian Jiaotong University China, 6th December 2021
 * Invited by Dr. Kyeong Soo Kim at Xian Jiaotong-Liverpool University, China, 2nd Sept., 2019
 * Invited by Prof. Chao Wang at Tianjin University, China, 30th Aug., 2019
 * Invited by Prof. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug., 2019
