@@ -125,6 +125,9 @@ Use the following code to include two subfigures
 
 ```
 
+# Equation
+* [CSE 312: Mathematical Typesetting in Word and LaTeX](https://courses.cs.washington.edu/courses/cse312/20wi/typesetting/hw_typesetting.pdf){:target="_blank"}
+
 # Cross Referencing
 When using figures, tables, and equations, I strongly suggest to use cross referencing. Please refer to [this link](https://www.overleaf.com/learn/latex/Cross_referencing_sections_and_equations){:target="_blank"} for a detailed tutorial.
 

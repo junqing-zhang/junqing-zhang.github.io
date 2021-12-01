@@ -62,6 +62,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
+1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021
 1. Pengcheng Yin, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu,  “LTE Device Identification Based on RF Fingerprint with Multi-Channel Convolutional Neural Network,” in _Proc. IEEE GLOBECOM_, 2021, accepted.
 1. Yuepei Li, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021, accepted.
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in _Proc. IEEE INFOCOM_, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
