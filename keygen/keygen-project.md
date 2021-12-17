@@ -1,6 +1,6 @@
 ---
 title: "Key Generation Project"
-date: 2019-04-24
+date: 2021-12-17
 permalink: /keygen/keygen-project/
 categories:
   - Research
@@ -10,7 +10,7 @@ tags:
   - Research Project
 ---
 
-This paper summarizes some important key generation research projects.
+This paper summarizes key generation research projects.
 
 # Europe
 1. A New Frontier For Internet of Things Security: Far-Flung Key Generation , £251k, [link](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}
