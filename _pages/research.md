@@ -55,7 +55,8 @@ All the components of wireless devices will have slightly different features, e.
 <br />
 
 ## Wireless Sensing
-To be updated...
+* [Wireless Sensing Overview](/wireless-sensing/wireless-sensing-overview/)
+* [Wireless Sensing at University of Liverpool](/wireless-sensing/wireless-sensing-pub/)
 
 # Research Demonstration
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
