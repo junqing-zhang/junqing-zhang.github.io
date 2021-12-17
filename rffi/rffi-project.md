@@ -19,6 +19,6 @@ This paper summarizes Radio Frequency Fingerprint Identification  research proje
 * Duration: Five years
 
 1. $1.5M Wireless/Machine Learning DARPA Award for Device Fingerprinting 
-* [news](https://coe.northeastern.edu/news/1-5m-wireless-machine-learning-darpa-award-for-device-fingerprinting/){:target="_blank"}
+* Check the [news](https://coe.northeastern.edu/news/1-5m-wireless-machine-learning-darpa-award-for-device-fingerprinting/){:target="_blank"} for this project. This is part of the DARPA [Radio Frequency Machine Learning Systems (RFMLS) Programme](https://www.darpa.mil/program/radio-frequency-machine-learning-systems){:target="_blank"}
 * Partners: Northeastern University, US
 * Funder: DARPA, US
