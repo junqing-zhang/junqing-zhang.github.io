@@ -19,7 +19,9 @@ If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk
 {% include toc %}
 
 # Opening
-* PostDoc Opening: We are recruiting a two-year postdoc for my EPSRC New Investigator Award Project. Please find detailed information at [link](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=033567){:target="_blank"}. The application deadline is 28 September 2021.
+We are accepting PhD applications all year round.
+
+CSC applications are currently open and the deadline is 31 January 2022. Please contact me with your CV if you are interested.
 
 # Requirement for PhD Admissions
 ## Background

@@ -12,6 +12,8 @@ author_profile: true
 * 28 Aug 2021: Our paper, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems'' has been accepted by IEEE Internet of Things Journal. Congratulations Xinwei.
 * PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"} The application deadline is 30 May 2021.
 * 8 July, 2021, Our paper, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals'', has been accepted by IEEE Transactions on Mobile Computing. Please refer to [this link](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/) for a demonstration.
+* 1 July 2021: My EPSRC New Investigator Award is successful. The project's title is [A New Frontier For Internet of Things Security: Far-Flung Key Generation
+](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}. We will recruit a two-year postdoc soon.
 * 21 May 2021: We are organizing IEEE VTC Fall 2021 Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G. Please consider to submit your work to it. Submission deadline: 1 July 2021.
 * 27 May 2021: Our paper, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification'' has been accepted by IEEE Transactions on Information Forensics & Security.
 * 3 May, 2021, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning”, has just been accepted by IEEE JSAC Series on Machine Learning in Communications and Networks. Congratulations to Guanxiong.

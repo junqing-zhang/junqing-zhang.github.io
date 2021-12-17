@@ -8,6 +8,8 @@ toc: true
 
 I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
 
+# PDRA
+* Mr. Chen Chen. Research topic: key generation from wireless channel. Starting in January 2022
 
 # PhD Students
 ## Main Supervisor

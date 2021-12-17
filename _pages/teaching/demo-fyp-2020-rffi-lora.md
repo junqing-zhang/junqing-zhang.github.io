@@ -7,7 +7,7 @@ author_profile: true
 
 Traditional authentication schemes are implemented on the MAC layer for the LoRaWAN network. Radio frequency fingerprint (RFF) is a physical layer feature, originated from hardware imperfection. 
 
-In this demonstration, we will present a CNN-based RFF identification for LoRa. This demo is created by Mr Junzhe Ge as part of this final year project.
+In this demonstration, we will present a CNN-based RFF identification for LoRa. This demo is created by Mr Junzhe Ge as part of this final year project. This work has won the second place of the [RISE Student Competition on hardware & embedded systems security](https://www.ukrise.org/competition/){:target="_blank"} in 2021.
 
 {% include toc %}
 
