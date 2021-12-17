@@ -13,6 +13,9 @@ tags:
 This paper summarizes some important key generation research projects.
 
 # Europe
+1. A New Frontier For Internet of Things Security: Far-Flung Key Generation , £251k, [link](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}
+* Duration: July 2021 to June 2023
+* Funder: EPSRC New Investigator Award
 1. Securing the Internet of Things, Group Key Generation From Wireless Channels (Project Link)
   * Duration: 10/2016 – 09/2017
   * Partners: Queen’s Unviersity Belfast, UK

@@ -12,13 +12,8 @@ tags:
 ---
 
 
-This page introduces the background of Radio Frequency Fingerprinting Identification.
+This page introduces the background of wireless sensing.
 
 # Overview
 
-<br />
-<img align="center" width="1000" src="{{ site.url }}/images/rffi/RFF_identification_procedure.png" alt="...">
-<br />
-
-# Training
-# Classification
+to be updated.
