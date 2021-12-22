@@ -63,11 +63,12 @@ There is an 802.11 reference design implemented for WARP boards, which is compat
 A list of papers using WARP can be found at [here](http://warpproject.org/trac/wiki/PapersandPresentations).
 
 ## Network Interface Cards
-Please note PCI-e interface is required for these NICs.
 
 **Intel 5300 NIC**
 
 There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC. This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [link](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
+
+Please note PCI-e interface is required for these NICs.
 
 **Atheros Chipsets**
 
