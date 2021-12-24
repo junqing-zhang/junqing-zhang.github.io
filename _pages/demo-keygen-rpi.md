@@ -40,21 +40,16 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 <br />
 
 ## Hardware
-* [WARP v3](http://warpproject.org/trac/wiki/GettingStarted/WARPv3). The WARP hardware setup can be found in this [link](http://warpproject.org/trac/wiki/802.11/wlan_exp/GettingStarted){:target="_blank"}.
-* PC
-* 1Gb Ethernet switch
+* Raspberry Pi 4 Model B * 2
+* ALFA Network AWUS036NHA *2 
 
 ## Software
-* [802.11 Reference Design: Experiments Framework](http://warpproject.org/trac/wiki/802.11/wlan_exp){:target="_blank"}
-* GUI and signal processing: Python
+Python is used for the implementation
+* scapy: WiFi 
+* GUI design: Tkinter and matplotlib
 
 # Demo Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=37JyT22elm8&" target="_blank"><img src="{{ site.url }}/images/keygen/keygen_rpi_demo_screenshot.png" alt="Key Generation Demo" width="800" border="10" /></a>
 
 # Acknowledgement
-We would like to thank [Mango Communications](http://mangocomm.com/){:target="_blank"} for their technical support on WARP and  Mr Yan Wang for his hard work on completing this excellent demo. 
-
-
-[comment]: <a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
-
-[comment]: <><iframe width="560" height="315" src="http://www.youtube.com/embed/zcCXj5M2x0k" frameborder="0"> </iframe>
+We would like to thank Miss Jingyu Hu for her hard work on completing this excellent demo as part of her final year project.
