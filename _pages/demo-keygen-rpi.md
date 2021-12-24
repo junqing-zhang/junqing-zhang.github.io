@@ -40,7 +40,7 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 <br />
 
 ## Hardware
-* Raspberry Pi 4 Model B * 2
+* Raspberry Pi 4 Model B + Touchscreen * 2
 * ALFA Network AWUS036NHA *2 
 
 ## Software
