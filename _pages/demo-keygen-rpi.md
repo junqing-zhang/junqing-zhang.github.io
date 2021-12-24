@@ -1,5 +1,5 @@
 ---
-title: "Key Generation Demonstration @ University of Liverpool"
+title: "WiFi Key Generation Demonstration Using Raspberry Pi @ University of Liverpool"
 date: 2021-12-24
 permalink: /demo-keygen-rpi/
 author_profile: true
@@ -26,7 +26,7 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 <br />
 
 * Channel Probing:
-  * using the Data packet and its corresponding ACK packet to serve as the bidirectional probing packets, implemented based on 802.11 Reference Design: Experiments Framework  . The sampling delay between the Data and ACK is in the order of 10 us therefore a high correlated channel measurements can be obtained.
+  * Completed by probe request and probe response.
   * Packet Match: Because the demo is carried out in the office environment, there are many transmissions in the air from other wifi access points. The MAC address is used to filter out the useful packets.
 *  Quantization: Mean and standard deviation-based quantization
 *  Information Reconciliation: [BCH-based](https://github.com/jkent/python-bchlib){:target="_blank"} secure sketch
