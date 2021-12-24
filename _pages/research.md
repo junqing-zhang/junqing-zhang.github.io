@@ -63,6 +63,7 @@ All the components of wireless devices will have slightly different features, e.
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 * [Key Generation Demonstration using WARP](/demo-keygen-warp/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
+* [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/teaching/demo-fyp-2020-rffi-lora/)
 * [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
 
 # Resources and Facilities
