@@ -26,7 +26,7 @@ tags:
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Guyue Li, “On radio frequency fingerprint identification for DSSS systems in low SNR scenarios,”  _IEEE Communications Letters_, vol. 22, no. 11, pp. 2326 -2329, Nov., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8469002){:target="_blank"}
 
 # Conference Paper
-1. Yuxuan Xu, Ming Liu, Linning Peng, **Junqing Zhang**, and Yawen Zheng, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network”, in _Proc. IEEE ICC, 2022
+1. Yuxuan Xu, Ming Liu, Linning Peng, **Junqing Zhang**, and Yawen Zheng, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network”, in _Proc. IEEE ICC_, 2022
 1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021
 1. Yuepei Li, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021, accepted.
 1. Guanxiong Shen, Junqing Zhang, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in Proc. IEEE INFOCOM, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
