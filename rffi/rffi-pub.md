@@ -17,6 +17,8 @@ tags:
 
 
 # Journal Article
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa
+,”, _the IEEE Transactions on Information Forensics & Security_, accepted [link](https://arxiv.org/abs/2107.02867){:target="_blank"}
 1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ accepted. [link](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE JSAC_, 2021, accepted. 
 1. Xintao Huan, Kyeong Soo Kim, and **Junqing Zhang**,“NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks,” _IEEE Transactions on Communications_, accepted, 2021. [link](https://ieeexplore.ieee.org/document/9398669){:target="_blank"}

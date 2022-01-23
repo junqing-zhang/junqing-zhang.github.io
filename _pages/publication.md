@@ -20,10 +20,10 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
 # Preprint
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa
-,” [link](https://arxiv.org/abs/2107.02867){:target="_blank"}
 
 # Journal Article
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa
+,”, _the IEEE Transactions on Information Forensics & Security_, accepted [link](https://arxiv.org/abs/2107.02867){:target="_blank"}
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Kailin Cao, and Aiqun Hu, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments,” _IEEE Communications Letters_, accepted.
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, accepted. [link](https://ieeexplore.ieee.org/document/9526766){:target="_blank"}
 1. **Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, accepted. [link](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
