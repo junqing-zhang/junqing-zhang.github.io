@@ -12,7 +12,7 @@ tags:
   - Python
 ---
 
-This paper summarizes resources for learning machine learning and deep learning for beginners.
+This paper summarizes resources for  machine learning and deep learning for beginners.
 
 {% include toc %}
 
