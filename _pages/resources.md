@@ -29,6 +29,7 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"} *3
 
 # FPGA Platform
+* [Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html){:target="_blank"}
 * [Zedboard](http://zedboard.org/product/zedboard){:target="_blank"}
 * [Pynq board](http://www.pynq.io/){:target="_blank"}
 
