@@ -12,9 +12,12 @@ tags:
 
 This paper summarizes Radio Frequency Fingerprint Identification research datasets that are publicly available. 
 
-# LoRa RFFI Dataset by University of Liverpool:
-
-Please stay tuned. To be updated soon
+# LoRa RFFI Dataset by University of Liverpool
+We have made the dataset and code for our paper open source.
+```
+G. Shen, J. Zhang, A. Marshall, and J. Cavallaro. “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” IEEE Trans. Inf. Forensics Security, 2022.
+```
+The dataset is accessible from [IEEE Dataport](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and the code can be downloaded from [github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
 
 # GENESYS Lab at Northeastern University
 GENESYS Lab at Northeastern University [link](https://genesys-lab.org/mldatasets){:target="_blank"} has made several datasets available.
