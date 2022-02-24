@@ -28,5 +28,10 @@ RFF identification is consisted of two stages, namely the training and classific
 
 
 # Outcome
+## Journal Article
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, accepted [link](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, 2021, accepted. [link](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in _Proc. IEEE INFOCOM_, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
+
+## Dataset
+We have created a LoRa RFFI dataset, which is accessible from [IEEE Dataport](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"}. The source code can be downloaded from [github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
