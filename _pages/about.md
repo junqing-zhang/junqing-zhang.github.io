@@ -22,6 +22,8 @@ Please find more information from his
 
 
 ## [News](/news/)
+* PhD Opening: I have a PhD studentship opening in the area of wireless sensing. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-wireless-sensing/?p142480=){:target="_blank"}. The application deadline is 10 April 2022.
+
 _The Royal Society [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} is open for applications (Deadline: 16 March 2022). Please contact us if you are interested._
 * 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made soon. Please stay tuned.
 * 18 January 2022: Our paper, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network'' has been accepted by IEEE ICC. Congratulations Yuxuan.
