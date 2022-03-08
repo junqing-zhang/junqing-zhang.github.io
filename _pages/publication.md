@@ -63,7 +63,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 # Conference Paper
 1. Yuxuan Xu, Ming Liu, Linning Peng, **Junqing Zhang**, and Yawen Zheng, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network”, in _Proc. IEEE ICC_, 2022
 1. Guyue Li, Haiyu Yang, **Junqing Zhang**, Aiqun Hu, and Hongbo Liu, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments”, in _Proc. IEEE INFOCOM_, 2022
-1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021
+1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021, [arXiv link](https://arxiv.org/abs/2111.14275){:target="_blank"}, [IEEE link](https://ieeexplore.ieee.org/document/9723287){:target="_blank"}
 1. Pengcheng Yin, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu,  “LTE Device Identification Based on RF Fingerprint with Multi-Channel Convolutional Neural Network,” in _Proc. IEEE GLOBECOM_, 2021, accepted.
 1. Yuepei Li, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021, accepted.
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in _Proc. IEEE INFOCOM_, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
