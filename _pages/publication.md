@@ -23,6 +23,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, [arXiv link](https://arxiv.org/abs/2203.02014){:target="_blank"}
 
 # Journal Article
+1. Zijie Ji, Phee Lep Yeoh, Gaojie Chen, **Junqing Zhang**, Yan Zhang, Zunwen He, Hao Yin, and Yonghui Li, “Physical Layer-Based Secure Communications for Static and Low-Latency Industrial Internet of Things,” _IEEE Internet of Things Journal_, accepted
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [link](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Kailin Cao, and Aiqun Hu, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments,” _IEEE Communications Letters_, vol. 26, no. 2, pp. 244 - 248, Feb. 2022. [link](https://ieeexplore.ieee.org/document/9627160){:target="_blank"}.
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, accepted. [link](https://ieeexplore.ieee.org/document/9526766){:target="_blank"}
