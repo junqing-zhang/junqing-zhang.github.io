@@ -19,12 +19,10 @@ If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk
 {% include toc %}
 
 # Opening
-We are accepting PhD applications all year round.
-
-CSC applications are currently open and the deadline is 31 January 2022. Please contact me with your CV if you are interested.
+We are accepting PhD applications all year round. Please contact me with your CV if you are interested.
 
 # Requirement for PhD Admissions
-## Background
+## Academic Background
 * The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. 
 * Relevant experience in one or more of the following will be an advantage: wireless communications and networks, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. 
 * Strong mathematical background and/or programming skills in languages such as MATLAB, Python, C++, R, etc are highly preferred.
@@ -47,7 +45,7 @@ If you are successful in both steps, you will be awarded the full scholarship fr
 For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website. 
 
 
-[//]: CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
+CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
 
 # UK Jiangsu 20+20 Programme for Visiting Researchers
 If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. 
