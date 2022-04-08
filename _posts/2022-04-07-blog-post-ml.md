@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning and Deep Learning for Beginners'
+title: 'Machine Learning for Beginners'
 date: 2022-04-07
 permalink: /posts/2022/04/blog-post-ml/
 categories:
