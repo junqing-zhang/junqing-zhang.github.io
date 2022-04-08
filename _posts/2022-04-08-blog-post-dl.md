@@ -1,27 +1,20 @@
 ---
-title: 'Machine Learning and Deep Learning for Beginners'
-date: 2021-09-14
-permalink: /posts/2021/09/blog-post-ml-dl/
+title: 'Deep Learning for Beginners'
+date: 2022-04-08
+permalink: /posts/2021/09/blog-post-dl/
 categories:
   - Resources
-  - Deep Learning
-  - Machine Learning
+  - Deep Learning  
 tags:
   - Deep Learning
-  - Machine Learning
-  - Python
+  - Machine Learning  
 ---
 
-This paper summarizes resources for  machine learning and deep learning for beginners.
+This paper summarizes resources for deep learning for beginners.
 
 {% include toc %}
 
 # Overview
-
-# Machine Learning
-* [Python Machine Learning Tutorial, Scikit-Learn](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn){:target="_blank"}
-* [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
-
 
 # Deep Learning Tutorials
 * [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
@@ -75,3 +68,10 @@ conda install -c conda-forge tensorflow=1.13
 * CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [link](http://cs231n.stanford.edu/){:target="_blank"}
 * A summary of resources [link](https://towardsdatascience.com/convolutional-neural-network-a-step-by-step-guide-a8b4c88d6943){:target="_blank"}
 * [Book Dive into Deep Learning](http://d2l.ai/index.html){:target="_blank"}
+
+# Matlab Resources
+Matlab has provided lots of useful resources.
+* [Set Up Parameters and Train Convolutional Neural Network](https://www.mathworks.com/help/deeplearning/ug/setting-up-parameters-and-training-of-a-convnet.html){:target="_blank"}
+* [Deep Learning Tips and Tricks](https://www.mathworks.com/help/deeplearning/ug/deep-learning-tips-and-tricks.html){:target="_blank"}
+* [Data Sets for Deep Learning](https://www.mathworks.com/help/deeplearning/ug/data-sets-for-deep-learning.html){:target="_blank"}
+* [Matlab, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
