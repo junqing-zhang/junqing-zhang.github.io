@@ -18,13 +18,13 @@ This paper summarizes resources for Wireless Channel and Radio Propagation.
 # Overview
 
 # Wireless Channel
-* Matlab Technical Report: [A Matlab-based Object-Oriented Approach to Multipath Fading Channel Simulation](https://www.mathworks.com/matlabcentral/fileexchange/18869-a-matlab-based-object-oriented-approach-to-multipath-fading-channel-simulation){:target="_blank"})
+* Matlab Technical Report: [A Matlab-based Object-Oriented Approach to Multipath Fading Channel Simulation](https://www.mathworks.com/matlabcentral/fileexchange/18869-a-matlab-based-object-oriented-approach-to-multipath-fading-channel-simulation){:target="_blank"}
 
 # Antenna
-* Cisco Technical Report: [Omni Antenna vs. Directional Antenna](https://www.cisco.com/c/en/us/support/docs/wireless-mobility/wireless-lan-wlan/82068-omni-vs-direct.html){:target="_blank"})
-
+* Cisco Technical Report: [Omni Antenna vs. Directional Antenna](https://www.cisco.com/c/en/us/support/docs/wireless-mobility/wireless-lan-wlan/82068-omni-vs-direct.html){:target="_blank"}
 
 
 
 # Matlab Resources
 Matlab has provided lots of useful resources.
+* Matlab has modeled the fading channels, which can be found [here](https://www.mathworks.com/help/comm/ug/fading-channels.html){:target="_blank"}
