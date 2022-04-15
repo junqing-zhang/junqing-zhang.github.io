@@ -24,9 +24,9 @@ This paper summarizes resources for Wireless Channel and Radio Propagation.
 
 # Antenna
 * Cisco Technical Report: [Omni Antenna vs. Directional Antenna](https://www.cisco.com/c/en/us/support/docs/wireless-mobility/wireless-lan-wlan/82068-omni-vs-direct.html){:target="_blank"}
-
-
+* Cisco Technical Report: [Antenna Patterns and Their Meaning](https://www.industrialnetworking.com/pdf/Antenna-Patterns.pdf){:target="_blank"}
 
 # Matlab Resources
 Matlab has provided lots of useful resources.
 * Matlab has modeled the fading channels, which can be found [here](https://www.mathworks.com/help/comm/ug/fading-channels.html){:target="_blank"}
+* [Propagation Channel Models for WiFi/IEEE 802.11](https://www.mathworks.com/help/wlan/propagation-channel-models.html){:target="_blank"}
