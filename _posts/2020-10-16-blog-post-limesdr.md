@@ -1,5 +1,5 @@
 ---
-title: 'LimeSDR'
+title: 'Software Defined Radio - LimeSDR'
 date: 2020-10-16
 permalink: /posts/2020/10/blog-post-limesdr/
 categories:

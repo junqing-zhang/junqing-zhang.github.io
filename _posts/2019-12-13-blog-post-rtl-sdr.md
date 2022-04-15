@@ -1,5 +1,5 @@
 ---
-title: 'RTL SDR'
+title: 'Software Defined Radio - RTL SDR'
 date: 2019-12-13
 permalink: /posts/2019/12/blog-post-rtl-sdr/
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'USRP'
+title: 'Software Defined Radio - USRP'
 date: 2019-08-07
 permalink: /posts/2019/08/blog-post-usrp/
 categories:
