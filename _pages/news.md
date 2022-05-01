@@ -4,8 +4,13 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-# 2021
+# 2022
+* PhD Opening: I have a PhD studentship opening in the area of wireless sensing. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-wireless-sensing/?p142480=){:target="_blank"}. The application deadline is 10 April 2022.
 * 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made soon. Please stay tuned.
+
+
+
+# 2021
 * 3 December 2021: Our paper, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments'' has been accepted by IEEE INFOCOM. Congratulations Guyue.
 * 1 December 2021: Our paper, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices'', has been presented at Asilomar 2021. Congratulations Guanxiong. Please visit [link](https://arxiv.org/abs/2111.14275){:target="_blank"} for the preprint.
 * 16 November 2021: Our paper, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments'' has been accepted by IEEE Communications Letters. Congratulations Tianyu.
