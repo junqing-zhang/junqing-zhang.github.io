@@ -25,6 +25,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 
 
 # Journal Article
+1. Lu Yang, Yansong Gao, **Junqing Zhang**, Seyit Camtepe, and Dhammika Jayalath, “A channel perceiving attack and the countermeasure on long-range IoT physical layer key generation,” _Computer Communications,_ [link](https://www.sciencedirect.com/science/article/pii/S0140366422001396?casa_token=7P3ORl9x75kAAAAA:zVcNRy8Fklip49sW0Q46XvKlon871CMhbxcyFZ-dDUo4z_Kh2pNcY3RQm4GHH9IFAkmn9HWhyQ){:target="_blank"}
 1. Henri Ruotsalainen, Guangxion Shen, **Junqing Zhang**, and Radek Fujdiak, “LoRaWAN Physical Layer-Based Attacks and Countermeasures, A Review,” _Sensors_, vol. 22, no. 9,  3127, 2022. [link](https://www.mdpi.com/1424-8220/22/9/3127){:target="_blank"}
 1. Zijie Ji, Phee Lep Yeoh, Gaojie Chen, **Junqing Zhang**, Yan Zhang, Zunwen He, Hao Yin, and Yonghui Li, “Physical Layer-Based Secure Communications for Static and Low-Latency Industrial Internet of Things,” _IEEE Internet of Things Journal_, accepted
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, vol. 9, no. 8, pp. 6081 - 6094, Apr. 2022. [link](https://ieeexplore.ieee.org/document/9526766){:target="_blank"}
