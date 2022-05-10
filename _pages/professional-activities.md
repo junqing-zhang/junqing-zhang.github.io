@@ -42,7 +42,7 @@ toc_max_header: 1
 
 # Editorship
 * Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
-* Review Editor of  IoT and Sensor Networks Section, Frontiers in Communications and Networks (May 2020 to present)
+* Associate Editor of IoT and Sensor Networks Section, Frontiers in Communications and Networks (May 2022 to present)
 
 # Guest Editor
 * Special Section on Antennas and Array Processing for Physical Layer Wireless Security, IEEE Open Journal of Antennas and Propagation
