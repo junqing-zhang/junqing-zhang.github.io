@@ -50,7 +50,8 @@ Some USRP series do not have RF capabilities, e.g., the N210 USRP. A separate RF
 * RF Daughterboard Selection: Not all the USRP is equpped with the RF card, including N and X series. A selection guide is provided at [https://kb.ettus.com/Selecting_an_RF_Daughterboard](https://kb.ettus.com/Selecting_an_RF_Daughterboard){:target="_blank"}
 
 ## AD9361/AD9363/AD9364 Boards
-[Introduction to boards based on the AD9361/AD9363/AD9364](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms2-ebz/introduction){:target="_blank"}
+* [Introduction to boards based on the AD9361/AD9363/AD9364](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms2-ebz/introduction){:target="_blank"}
+* [Difference among AD9361/AD9363/AD9364](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms2-ebz/ad9361){:target="_blank"}
 
 ## [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"}
 
