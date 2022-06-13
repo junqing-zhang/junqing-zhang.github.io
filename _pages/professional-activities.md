@@ -17,8 +17,10 @@ toc_max_header: 1
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
 # Invited Talk
-* Invited by Prof Mark Beach and Dr. Magnus Sandell to give a talk at University of Bristol, 10th January 2022
-* Invited by Prof Huiyu Zhou from the University of Leicester to give a keynote speech at the 2nd Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence, 10th December 2021
+* Invited by Dr. Guyue Li to give a talk at Southeast University, China, 10 June 2022
+* Invited by Dr. Shun Zhang to give a talk at Xidian University, China, 24th May 2022
+* Invited by Prof Mark Beach and Dr. Magnus Sandell to give a talk at University of Bristol, UK, 10th January 2022
+* Invited by Prof Huiyu Zhou from the University of Leicester, UK, to give a keynote speech at the 2nd Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence, 10th December 2021
 * Invited by Prof Yanzhao Xie at Xian Jiaotong University, China, 6th December 2021
 * Invited by Dr. Kyeong Soo Kim at Xian Jiaotong-Liverpool University, China, 2nd Sept., 2019
 * Invited by Prof. Chao Wang at Tianjin University, China, 30th Aug., 2019
