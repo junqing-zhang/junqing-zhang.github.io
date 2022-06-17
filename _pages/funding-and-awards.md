@@ -6,6 +6,7 @@ author_profile: true
 ---
 # Ongoing Project
 * Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £251k, July 2021 to June 2023
+* Principal Investigator, EPSRC 2022 Vacation Bursary Programme project, Deep Learning-based Wireless Device Classification, 2022
 
 
 # Completed Project
