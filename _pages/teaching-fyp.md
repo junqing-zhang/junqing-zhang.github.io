@@ -15,10 +15,16 @@ The final year projects that I am supervising usually
 * Require strong programming skills such as Python, C/C++, Matlab
 * Involve machine learning and deep learning
 
-I am running the following final year projects in the academic year 2021-2022. 
+I am running the following final year projects in the academic year 2022-2023. 
+# 2022
+* Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
+* LoRa-Based Key Generation in Low Power Wide Area Networks
+* Gesture Recognition Using Deep Learning and mmWave Sensor
+* Gesture Recognition Using Deep Learning and WiFi
+
 # 2021
 * Deep Learning and mmWave Sensor-based Gesture Recognition
-* Deep Learning and WiFi-based Gesture Recognition
+* [Deep Learning and WiFi-based Gesture Recognition](https://github.com/Zilliax-Barry/FYP_Deep-Learning-and-WiFi-based-Gesture-Recognition){:target="_blank"}
 * Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint Using SDR
 * Device Authentication for ZigBee based on Deep Learning and Radio Frequency Fingerprint
 * Deep Learning based RFF Identification for LoRa
