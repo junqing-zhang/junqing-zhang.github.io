@@ -36,4 +36,8 @@ In our opinion, WordPress versus github pages is comparable to Word versus LaTex
 * [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/){:target="_blank"}
 
 # Markdown
-Markdown is used to render the github pages. A quick introduction on its syntax can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
+Markdown is used to render the github pages. 
+
+A quick introduction on its syntax can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
+
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){:target="_blank"}
