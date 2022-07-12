@@ -21,7 +21,9 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 
 # Preprint
 1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, [arXiv link](https://arxiv.org/abs/2203.02014){:target="_blank"}
-
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification
+”, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 
 # Journal Article
 1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, accepted
