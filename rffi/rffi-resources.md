@@ -1,7 +1,7 @@
 ---
 title: "Radio Frequency Fingerprint Identification Resources"
 date: 2021-12-17
-permalink: /rffi/rffi-project/
+permalink: /rffi/rffi-resources/
 categories:
   - Research
   - RFFI

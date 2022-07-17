@@ -49,7 +49,7 @@ All the components of wireless devices will have slightly different features, e.
 * [RFFI Overview](/rffi/rffi-overview/)
 * [RFFI Projects](/rffi/rffi-project/)
 * [RFFI Dataset](/rffi/rffi-dataset/)
-* [RFFI Dataset](/rffi/rffi-resources/)
+* [RFFI Resources](/rffi/rffi-resources/)
 * [RFFI at University of Liverpool](/rffi/rffi-pub/)
 
 
