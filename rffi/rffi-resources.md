@@ -1,0 +1,18 @@
+---
+title: "Radio Frequency Fingerprint Identification Resources"
+date: 2021-12-17
+permalink: /rffi/rffi-project/
+categories:
+  - Research
+  - RFFI
+tags:
+  - RFFI
+---
+
+This paper summarizes available resources for Radio Frequency Fingerprint Identification.
+
+
+1. [Design a Deep Neural Network with Simulated Data to Detect WLAN Router Impersonation](https://uk.mathworks.com/help/deeplearning/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
+
+
+1. [Test a Deep Neural Network with Captured Data to Detect WLAN Router Impersonation](https://uk.mathworks.com/help/deeplearning/ug/test-a-deep-neural-network-with-captured-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
