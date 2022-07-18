@@ -11,11 +11,10 @@ tags:
 
 This paper summarizes available resources for Radio Frequency Fingerprint Identification.
 
-1. Matlab Resources
+# Matlab Resources
 * [Design a Deep Neural Network with Simulated Data to Detect WLAN Router Impersonation](https://uk.mathworks.com/help/deeplearning/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
-
 * [Test a Deep Neural Network with Captured Data to Detect WLAN Router Impersonation](https://uk.mathworks.com/help/deeplearning/ug/test-a-deep-neural-network-with-captured-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
 
-1. Youtube Videos
+# Youtube Videos
 * [Deep Convolutional Neural Networks for Device Identification](https://www.youtube.com/watch?v=pqSDpxjyr9E){:target="_blank"}, by Prof Kaushik Chowdhury
 * [Open Set Wireless Transmitter Authorization: Deep Learning Approaches and Practical Considerations](https://www.youtube.com/watch?v=Hrnt_zrQDgI){:target="_blank"}, by Prof Danijela Cabric
