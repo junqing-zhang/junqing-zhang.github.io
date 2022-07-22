@@ -1,5 +1,5 @@
 ---
-title: 'Nexmon CSI'
+title: 'HowTo: Nexmon CSI Tool'
 date: 2022-07-22
 permalink: /posts/blog-post-rpi-nexmon-csi/
 categories:
@@ -15,4 +15,6 @@ This paper summarizes resources for Nexmon CSI.
 {% include toc %}
 
 # Overview
+
+# Installation for Raspberry Pi 4
 
