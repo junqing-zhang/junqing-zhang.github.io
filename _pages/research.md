@@ -75,4 +75,4 @@ We are equipped with abundant wireless devices including software defined radios
 Please visit [Resources and Facilities](/resources/) for detailed information.
 
 # Research and Technical Blogs
-Please visit [Research and Technical Blogs](/research-blogResearch and Technical Blogs/) for detailed information.
+Please visit [Research and Technical Blogs](/research-blog/) for detailed information.
