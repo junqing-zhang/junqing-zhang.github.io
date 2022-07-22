@@ -73,3 +73,6 @@ We are always keen to apply our knowledge to practical applications. Hence we ha
 # Resources and Facilities
 We are equipped with abundant wireless devices including software defined radios, wireless kits, GPU platform etc. 
 Please visit [Resources and Facilities](/resources/) for detailed information.
+
+# Research and Technical Blogs
+Please visit [Research and Technical Blogs](/research-blogResearch and Technical Blogs/) for detailed information.
