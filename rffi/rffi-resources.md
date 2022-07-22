@@ -1,6 +1,6 @@
 ---
 title: "Radio Frequency Fingerprint Identification Resources"
-date: 2021-12-17
+date: 2022-07-18
 permalink: /rffi/rffi-resources/
 categories:
   - Research
