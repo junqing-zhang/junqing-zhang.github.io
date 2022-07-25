@@ -1,7 +1,7 @@
 ---
 title: 'How to Use LaTex'
 date: 2020-01-25
-permalink: /posts/2020/01/blog-post-latex/
+permalink: /posts/blog-post-latex/
 categories:
   - Resources
   - Tool
