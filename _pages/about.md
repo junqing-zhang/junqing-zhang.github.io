@@ -22,7 +22,7 @@ Please find more information from his
 
 
 ## [News](/news/)
-_The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and[code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
+_The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
 * PhD Opening: I have a PhD studentship opening in the area of wireless sensing. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-wireless-sensing/?p142480=){:target="_blank"}. The application deadline is 10 April 2022.
 * 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made soon. Please stay tuned.
 * 18 January 2022: Our paper, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network'' has been accepted by IEEE ICC. Congratulations Yuxuan.
