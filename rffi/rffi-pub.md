@@ -12,7 +12,13 @@ tags:
 ---
 
 
+# Preprint
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification
+”, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
+
 # Survey/Tutorial
+1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, accepted, [link](https://ieeexplore.ieee.org/document/9839648){:target="_blank"}
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, vol. 26, no. 5, pp. 92 - 98, Oct. 2019. [link](https://ieeexplore.ieee.org/document/8715341){:target="_blank"}
 
 
@@ -27,6 +33,7 @@ tags:
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Guyue Li, “On radio frequency fingerprint identification for DSSS systems in low SNR scenarios,”  _IEEE Communications Letters_, vol. 22, no. 11, pp. 2326 -2329, Nov., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8469002){:target="_blank"}
 
 # Conference Paper
+1. Yanjin Qiu, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu, “Signal-independent RFF Identification for LTE Mobile Devices via Ensemble Deep Learning,”, in _Proc. IEEE GLOBECOM_, 2022, accepted
 1. Yuxuan Xu, Ming Liu, Linning Peng, **Junqing Zhang**, and Yawen Zheng, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network”, in _Proc. IEEE ICC_, 2022
 1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021, [arXiv link](https://arxiv.org/abs/2111.14275){:target="_blank"}, [IEEE link](https://ieeexplore.ieee.org/document/9723287){:target="_blank"}
 1. Yuepei Li, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021, accepted.
