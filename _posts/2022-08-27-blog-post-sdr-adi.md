@@ -1,7 +1,7 @@
 ---
-title: 'Software Defined Radio - LimeSDR'
+title: 'Software Defined Radio - Analog Devices SDR'
 date: 2022-08-27
-permalink: /posts/blog-post-limesdr/
+permalink: /posts/blog-post-sdr-adi/
 categories:
   - Resources
   - Wireless  
@@ -10,7 +10,7 @@ tags:
   - ADI 
 ---
 
-This paper summarizes resources for Analog Devices SDR..
+This paper summarizes resources for Analog Devices SDR.
 
 {% include toc %}
 
@@ -28,6 +28,8 @@ This paper summarizes resources for Analog Devices SDR..
 
 
 # Development Tool
-* [Analog Devices, Inc. Transceiver Toolbox for Matlab](https://analogdevicesinc.github.io/TransceiverToolbox/mkdocs/){:target="_blank"}. 
+* [Analog Devices Transceiver Toolbox For MATLAB and Simulink](https://wiki.analog.com/resources/tools-software/transceiver-toolbox){:target="_blank"}
+* [Analog Devices, Inc. Transceiver Toolbox for Matlab](https://analogdevicesinc.github.io/TransceiverToolbox/mkdocs/){:target="_blank"}
 
-
+# Resources
+* [FMComms Math](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms1-ebz/math){:target="_blank"}
