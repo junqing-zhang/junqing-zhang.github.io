@@ -16,8 +16,12 @@ This paper summarizes resources for deep learning for beginners.
 
 # Overview
 
-# Deep Learning Tutorials
-* [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
+# First CNN Example
+MNIST dataset is probably the most popular for create the first CNN example. It consists of 70,000 images of handwritten digits from 0-9.
+
+Depending on your preference of the programming languages, there are Python and Matlab examples available.
+* Python: [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5){:target="_blank"}. If you are using Python, you need to properly install software and configure your environments.
+* Matlab: [Create Simple Deep Learning Network for Classification](https://uk.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html). The Matlab Deep Learning Toolbox needs to be installed before you run the example.
 
 # Convolutional Neural Networks (CNN)
 ## What is Convolutional Neural Networks (CNN)
@@ -25,7 +29,7 @@ This paper summarizes resources for deep learning for beginners.
 * [Matlab, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
 
 ## CNN Examples
-* [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5){:target="_blank"}
+
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/){:target="_blank"}
 * [How to Develop 1D Convolutional Neural Network Models for Human Activity Recognition](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/){:target="_blank"}
 
@@ -43,7 +47,7 @@ This paper summarizes resources for deep learning for beginners.
 
 # Development Tool
 ## Python
-I strongly recommend installing [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"}.
+[Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"} is strongly recommended.
 
 ## Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
@@ -63,6 +67,9 @@ conda list
 ```
 conda install -c conda-forge tensorflow=1.13
 ```
+
+# Deep Learning Tutorials
+* [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
 
 # Online Resources
 * CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [link](http://cs231n.stanford.edu/){:target="_blank"}
