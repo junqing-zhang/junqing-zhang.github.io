@@ -26,6 +26,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 
 # Journal Article
+1. Yuepei Li, Yuan Ding, Junqing Zhang, George Goussetis, and Symon K. Podilchak, “Radio Frequency Fingerprinting Exploiting Non-Linear Memory Effect,” _IEEE Transactions on Cognitive Communications and Networking_, accepted
 1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, accepted, [link](https://ieeexplore.ieee.org/document/9839648){:target="_blank"}
 1. Lu Yang, Yansong Gao, **Junqing Zhang**, Seyit Camtepe, and Dhammika Jayalath, “A channel perceiving attack and the countermeasure on long-range IoT physical layer key generation,” _Computer Communications,_ [link](https://www.sciencedirect.com/science/article/pii/S0140366422001396?casa_token=7P3ORl9x75kAAAAA:zVcNRy8Fklip49sW0Q46XvKlon871CMhbxcyFZ-dDUo4z_Kh2pNcY3RQm4GHH9IFAkmn9HWhyQ){:target="_blank"}
 1. Henri Ruotsalainen, Guangxion Shen, **Junqing Zhang**, and Radek Fujdiak, “LoRaWAN Physical Layer-Based Attacks and Countermeasures, A Review,” _Sensors_, vol. 22, no. 9,  3127, 2022. [link](https://www.mdpi.com/1424-8220/22/9/3127){:target="_blank"}
