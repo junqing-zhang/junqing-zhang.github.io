@@ -20,6 +20,8 @@ For any RFFI systems, it consists of several device under tests (DUTs) and a rec
 
 # Hardware
 ## Transmitter
+Depending on your application, you have lots of choice for choosing different hardware development kits.
+
 ## Receiver
 
 # Training
