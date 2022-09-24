@@ -24,5 +24,6 @@ Depending on your application, you have lots of choice for choosing different ha
 
 ## Receiver
 
-# Training
-# Classification
+# Deep Learning-Based RFFI Protocol
+## Training
+## Classification
