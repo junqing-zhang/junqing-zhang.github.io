@@ -46,7 +46,7 @@ Useful material to learn SDR: https://pysdr.org/index.html
 
 The software is a critical part for SDR applications. Specific to RFFI research, you need to write the signal receiving program to capture the valid wireless packets. Figure below shows the flow chart of a basic signal collection program. 
 <div  align="center">    
- <img src="./imgs/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
+ <img src="{{ site.url }}/images/rffi/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
  </div>
 
 <font color="#dd0000">(The above figure is from the magzine manuscript)</font><br /> 
