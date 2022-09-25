@@ -27,8 +27,6 @@ To facilitate the control of transmitting parameters, we usually use the commerc
 ## Receiver
 Most of COTS gateway/access point/receiver do not provide an interface to the physical layer signals. Therefore, software-defined radio (SDR) devices are usually leveraged as receivers. Most SDR platforms use a flexible analog front-end to tune the desired radio signal to baseband or intermediate frequency, which is then sampled by an ADC and converted to the digital domain (IQ samples). All the rest procedures of the communication system, such as packet detection and decoding, are implemented by software. The SDR-based receiver enables users to access the physical layer IQ samples. 
 
-<font color="#dd0000">(The above paragraph is almost copied from the magzine manuscript)</font><br /> 
-
 Table below summarizes some SDRs avaiable in our lab. You should select an appropriate SDR based on the target communication technology, e.g., Wi-Fi, Zigbee, LoRa. For example, RTL-SDR cannot be used for Wi-Fi research due to its frequency range and bandwidth limitations.
 
 | SDR Name         |Rx Frequency Range|Bandwidth| Development Platform                                    |
@@ -48,8 +46,6 @@ The software is a critical part for SDR applications. Specific to RFFI research,
 <div  align="center">    
  <img src="{{ site.url }}/images/rffi/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
  </div>
-
-<font color="#dd0000">(The above figure is from the magzine manuscript)</font><br /> 
 
 The packet detection, synchronization and carrifer frequency offset (CFO) compensation algorithms can be implemented by MATLAB/Python/C, depending on the demand for real-time performance and collection speed. Note that for some applications, MAC address decoding is also required to ensure that the captured packets are sent from the correct DUT and not from another device. The signals can be saved in any format such as .csv, .hdf5, .mat, .txt, etc., as long as they can be correctly loaded by the deep learning module. 
 
