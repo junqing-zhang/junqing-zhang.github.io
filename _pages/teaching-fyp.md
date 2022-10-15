@@ -18,6 +18,7 @@ The final year projects that I am supervising usually
 I am running the following final year projects in the academic year 2022-2023. 
 # 2022
 * Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for LoRa based on Deep Learning and Radio Frequency Fingerprint
 * LoRa-Based Key Generation in Low Power Wide Area Networks
 * Gesture Recognition Using Deep Learning and mmWave Sensor
 * Gesture Recognition Using Deep Learning and WiFi

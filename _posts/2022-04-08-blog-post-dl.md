@@ -52,6 +52,7 @@ Depending on your preference of the programming languages, there are Python and 
 ## Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
 * [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}
+* [Keras Code examples](https://keras.io/examples/){:target="_blank"}
 
 ## Matlab 
 * [Matlab, Convolutional Neural Networks](https://uk.mathworks.com/solutions/deep-learning/convolutional-neural-network.html){:target="_blank"}
