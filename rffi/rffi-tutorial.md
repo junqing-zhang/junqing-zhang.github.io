@@ -11,10 +11,17 @@ tags:
   - RFFI
 ---
 
-This page provides a tutorial on how to construct an Radio Frequency Fingerprinting Identification (RFFI) system. The implementations vary a lot depending on the wireless technologies, selected transmitter and receiver platforms. This tutorial aims to give some general guideline.
+This page provides a tutorial on how to construct an Radio Frequency Fingerprinting Identification (RFFI) system. The implementations vary a lot depending on the wireless technologies, selected transmitter and receiver platforms. This tutorial aims to provide some general guideline.
 
 # Overview
 An RFFI system consists of several device under tests (DUTs) and a receiver. The goal of the RFFI system is to correctly identify/classify these DUTs by analyzing the physical layer signals captured by the receiver.
+
+<div  align="center">    
+ <img src="{{ site.url }}/images/rffi/RFFI_DL.png" width = "500"  alt="Deep learning-based RFFI" align=center />
+ </div>
+Figure from [https://arxiv.org/pdf/2207.02999.pdf](https://arxiv.org/pdf/2207.02999.pdf){:target="_blank"}
+ 
+ 
 
 # Hardware
 ## Transmitter (DUTs)
@@ -78,6 +85,7 @@ Learning materials:
 2. [Tensorflow, Towards Scalable and Channel-Robust Radio Frequency 
 Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 
+
 # General Procedures
 
 With the above preparations, we can build a basic RFFI system. Please do follow the instructions below step by step:
@@ -86,6 +94,10 @@ With the above preparations, we can build a basic RFFI system. Please do follow 
 3. Collect packets from all the DUTs, saving the IQ samples as the training/test datasets.
 4. Design a neural network and train it with the collected training data.
 5. Test the neural network with the collected test data. The classification problem is usually evaluted by overall accuracy and confusion matrix.
+
+
+# Public Datasets
+There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms. 
 
 
 # Recommended Readings
