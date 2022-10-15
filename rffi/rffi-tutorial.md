@@ -96,7 +96,7 @@ It is not necessary to use the same programming language for the signal collecti
 
 # Wireless Monitoring (Optional)
 Before starting the signal collection programming, you need to make sure there is the required wireless traffic. Wireshark will be an excellent platform for monitoring and detection. You will need another dedicated receiver though.
-* WiFi sniffer
+* WiFi Sniffer
 * [nRF Sniffer for Bluetooth LE](https://infocenter.nordicsemi.com/topic/ug_sniffer_ble/UG/sniffer_ble/intro.html){:target="_blank"}
 * [nRF Sniffer for 802.15.4](https://infocenter.nordicsemi.com/topic/ug_sniffer_802154/UG/sniffer_802154/intro_802154.html){:target="_blank"}
 
@@ -112,7 +112,7 @@ With the above preparations, we can build a basic RFFI system. Please do follow 
 
 
 # Public Datasets
-There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though). 
+There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though :grinning:). 
 
 
 # Recommended Readings
