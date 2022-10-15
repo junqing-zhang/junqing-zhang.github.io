@@ -22,7 +22,8 @@ As shown in the figure below, an RFFI system consists of several device under te
 Figure from [https://arxiv.org/pdf/2207.02999.pdf](https://arxiv.org/pdf/2207.02999.pdf){:target="_blank"}
 
 Regarding the software, RFFI involves signal collection (optional) and deep learning. If you are aiming to collect your own datasets, signal collection algorithms will be required to capture wireless waveforms. Alternatively, you can use public datasets. Deep learning has widely used in RFFI to enhance the classification accuracy. 
- 
+
+
 # Transmitter (DUTs)
 ## Hardware 
 Any wireless devices can be used as DUTs. You can of course build your own device, but using commercial-of-the-shelf (COTS) development boards/kits will save lots of time.
@@ -101,18 +102,18 @@ Before starting the signal collection programming, you need to make sure there i
 * [nRF Sniffer for 802.15.4](https://infocenter.nordicsemi.com/topic/ug_sniffer_802154/UG/sniffer_802154/intro_802154.html){:target="_blank"}
 
 
-# General Procedures
+# Public Datasets
+There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though). 
 
-With the above preparations, we can build a basic RFFI system. Please do follow the instructions below step by step:
-1. Program to make the development board to start transmitting packets. 
+# General Procedures
+1.a Program to make the development board to start transmitting packets. 
+1.b Check the wireless transmission using Wireshark (optional)
 2. Write the signal collection program to capture the packets sent from development boards.
 3. Collect packets from all the DUTs, saving the IQ samples as the training/test datasets.
 4. Design a neural network and train it with the collected training data.
 5. Test the neural network with the collected test data. The classification problem is usually evaluated by overall accuracy and confusion matrix.
 
-
-# Public Datasets
-There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though :grinning:). 
+Steps 1-3 are not required if you are using public datasets.
 
 
 # Recommended Readings
