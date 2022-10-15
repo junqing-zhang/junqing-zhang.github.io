@@ -25,9 +25,12 @@ Regarding the software, RFFI involves signal collection (optional) and deep lear
  
 # Transmitter (DUTs)
 ## Hardware 
-To facilitate the control of transmitting parameters, we usually use the commercial-of-the-shelf (COTS) development boards as the DUTs to be identified. Depending on your application, there are a lot of COTS development boards available to choose from. Different development boards require different development languages/platforms. You need to program the transmitter to send wireless packets, which you can do by modifying the examples provided in the official documentation.
+Any wireless devices can be used as DUTs. You can of course build your own device, but using commercial-of-the-shelf (COTS) development boards/kits will save lots of time.
 
-## Software
+In general, they can be categorized into programmable and non-programmable. Vendors with programmable devices are listed as follows.
+* [Texas Instruments](https://www.ti.com/wireless-connectivity/overview.html){:target="_blank"}: WiFi, Bluetooth, ZigBee
+* [Nordic Semiconductor](https://www.nordicsemi.com/Products){:target="_blank"}: LTE-M, NB-IoT, GPS, Bluetooth, ZigBee
+
 The table below summarizes some LoRa development boards that have been shown to be applicable for RFFI research.
 
 | Board Name      | Platform and Programming Language|Link |
@@ -37,17 +40,17 @@ The table below summarizes some LoRa development boards that have been shown to 
 | Dragino LoRa Shields| Arduino (C) |[Code Examples](https://wiki1.dragino.com/index.php?title=Lora_Shield#Example1_--_Use_with_LMIC_library_for_LoRaWAN_compatible){:target="_blank"}|
 | Semtech LoRa Transceivers | Mbed (C)|Libraries vary with the boards (chips), e.g., [SX1276MB1xAS](https://os.mbed.com/components/SX1276MB1xAS/){:target="_blank"}|
 
+Non-programmable devices can also be used. For example, our smartphones support WiFi and Bluetooth. 
 
-Non-programmable devices can also be used. For example, our smartphones support WiFi and Bluetooth. We can use other tools to create wireless traffic. For example, we can use a WiFi-connected smartphone to watch videos, which will create lots of WiFi traffic. Regarding WiFi-connected laptops, we can use ping command.
+## Software
+Different development boards require different development languages/platforms. You need to program the transmitter to send wireless packets, which you can do by modifying the examples provided in the official documentation. The vendors usually will provide the development software and SDK.
 
-You can confirm this by using Wireshark or using another development board as the receiver. 
+Regarding non-programmable devices, we can use other methods to create wireless traffic. For example, we can use a WiFi-connected smartphone to watch videos, which will create lots of WiFi traffic. Regarding WiFi-connected laptops, we can use ping command.
 
 
 # Receiver
 ## Hardware
 Most of COTS gateway/access point/receiver do not provide an interface to the physical layer signals. Therefore, software-defined radio (SDR) devices are usually leveraged as receivers. Most SDR platforms use a flexible analog front-end to tune the desired radio signal to baseband or intermediate frequency, which is then sampled by an ADC and converted to the digital domain (IQ samples). All the rest procedures of the communication system, such as packet detection and decoding, are implemented by software. The SDR-based receiver enables users to access the physical layer IQ samples. 
-
-<!-- <font color="#dd0000">(The above paragraph is almost copied from the magzine manuscript)</font><br />  -->
 
 Table below summarizes some SDRs available in our lab. You should select an appropriate SDR based on the target communication technology, e.g., Wi-Fi, Zigbee, LoRa. For example, RTL-SDR cannot be used for Wi-Fi research due to its frequency range and bandwidth limitations.
 
@@ -62,8 +65,8 @@ Useful material to learn SDR: [https://pysdr.org/index.html](https://pysdr.org/i
 
 
 ## Software
-### Signal Collection Module
 
+### Signal Collection Module
 The software is a critical part for SDR applications. Specific to RFFI research, you need to write the signal receiving program to capture the valid wireless packets. Figure below shows the flow chart of a basic signal collection program. 
 <div  align="center">    
  <img src="{{ site.url }}/images/rffi/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
@@ -90,6 +93,13 @@ Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target
 
 ### Note
 It is not necessary to use the same programming language for the signal collection and deep learning. You can use the Matlab toolbox for signal collection and save the dataset to the PC. Then you can use Python for deep learning.
+
+# Wireless Monitoring (Optional)
+Before starting the signal collection programming, you need to make sure there is the required wireless traffic. Wireshark will be an excellent platform for monitoring and detection. You will need another dedicated receiver though.
+* WiFi sniffer
+* [nRF Sniffer for Bluetooth LE](https://infocenter.nordicsemi.com/topic/ug_sniffer_ble/UG/sniffer_ble/intro.html){:target="_blank"}
+* [nRF Sniffer for 802.15.4](https://infocenter.nordicsemi.com/topic/ug_sniffer_802154/UG/sniffer_802154/intro_802154.html){:target="_blank"}
+
 
 # General Procedures
 
