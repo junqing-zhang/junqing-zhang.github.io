@@ -14,13 +14,14 @@ tags:
 This page provides a tutorial on how to construct an Radio Frequency Fingerprinting Identification (RFFI) system. The implementations vary a lot depending on the wireless technologies, selected transmitter and receiver platforms. This tutorial aims to provide some general guideline.
 
 # Overview
-An RFFI system consists of several device under tests (DUTs) and a receiver. The goal of the RFFI system is to correctly identify/classify these DUTs by analyzing the physical layer signals captured by the receiver.
+As shown in the figure below, an RFFI system consists of several device under tests (DUTs) and a receiver. The goal of the RFFI system is to correctly identify/classify these DUTs by analyzing the physical layer signals captured by the receiver.
 
 <div  align="center">    
- <img src="{{ site.url }}/images/rffi/RFFI_DL.png" width = "500"  alt="Deep learning-based RFFI" align=center />
+ <img src="{{ site.url }}/images/rffi/RFFI_DL.png" width = "600"  alt="Deep learning-based RFFI" align=center />
  </div>
 Figure from [https://arxiv.org/pdf/2207.02999.pdf](https://arxiv.org/pdf/2207.02999.pdf){:target="_blank"}
- 
+
+Regarding the software, RFFI involves signal collection (optional) and deep learning. If you are aiming to collect your own datasets, signal collection algorithms will be required to capture wireless waveforms. Alternatively, you can use public datasets. Deep learning has widely used in RFFI to enhance the classification accuracy. 
  
 
 # Hardware
@@ -29,12 +30,12 @@ To facilitate the control of transmitting parameters, we usually use the commerc
 
 The table below summerizes some LoRa development boards that have been shown to be applicable for RFFI research.
 
-| Board Name      | Platform and Language                                  |
-| -----------------| -------------------- |
-| Pycom LoPy4     | Micropython (Python)   |
-| Pycom FiPy | Micropython (Python)|
-| Dragino LoRa Shields| Arduino (C) |
-| Semtech LoRa Transceivers | Mbed (C)|
+| Board Name      | Platform and Programming Language|Link |
+| -----------------| -------------------- |-------------------- |
+| Pycom LoPy4     | Micropython (Python)   | [https://docs.pycom.io/firmwareapi/pycom/network/lora/](https://docs.pycom.io/firmwareapi/pycom/network/lora/){:target="_blank"}
+| Pycom FiPy | Micropython (Python)|[https://docs.pycom.io/firmwareapi/pycom/network/lora/](https://docs.pycom.io/firmwareapi/pycom/network/lora/){:target="_blank"}|
+| Dragino LoRa Shields| Arduino (C) |[Code Examples](https://wiki1.dragino.com/index.php?title=Lora_Shield#Example1_--_Use_with_LMIC_library_for_LoRaWAN_compatible){:target="_blank"}|
+| Semtech LoRa Transceivers | Mbed (C)|Libraries vary with the boards (chips), e.g., [SX1276MB1xAS](https://os.mbed.com/components/SX1276MB1xAS/){:target="_blank"}|
 
 
 Non-programmable devices can also be used. For example, our smartphones support WiFi and Bluetooth. We can use other tools to create wireless traffic. For example, we can use a WiFi-connected smartphone to watch videos, which will create lots of WiFi traffic. Regarding WiFi-connected laptops, we can use ping command.
