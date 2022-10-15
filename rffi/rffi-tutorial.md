@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: How to Construct an RFFI System"
 permalink: /rffi/rffi-tutorial/
-date: 2022-09-23
+date: 2022-10-15
 author_profile: true
 toc: true
 categories:
