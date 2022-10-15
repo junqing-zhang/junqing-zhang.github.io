@@ -33,6 +33,8 @@ Any wireless devices can be used as DUTs. You can of course build your own devic
 In general, they can be categorized into programmable and non-programmable. Vendors with programmable devices are listed as follows.
 * [Texas Instruments](https://www.ti.com/wireless-connectivity/overview.html){:target="_blank"}: WiFi, Bluetooth, ZigBee
 * [Nordic Semiconductor](https://www.nordicsemi.com/Products){:target="_blank"}: LTE-M, NB-IoT, GPS, Bluetooth, ZigBee
+* [Pycom boards](https://pycom.io/product-category/shop/development-boards/){:target="_blank"}: WiFi, Bluetooth, LoRa, Sigfox and dual LTE-M (CAT-M1 and NB-IoT).
+* [ESP32](https://www.espressif.com/en/products/socs/esp32){:target="_blank"}: WiFi and Bluetooth
 
 The table below summarizes some LoRa development boards that have been shown to be applicable for RFFI research.
 
