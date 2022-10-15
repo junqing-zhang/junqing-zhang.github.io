@@ -23,12 +23,12 @@ Figure from [https://arxiv.org/pdf/2207.02999.pdf](https://arxiv.org/pdf/2207.02
 
 Regarding the software, RFFI involves signal collection (optional) and deep learning. If you are aiming to collect your own datasets, signal collection algorithms will be required to capture wireless waveforms. Alternatively, you can use public datasets. Deep learning has widely used in RFFI to enhance the classification accuracy. 
  
-
-# Hardware
-## Transmitter (DUTs)
+# Transmitter (DUTs)
+## Hardware 
 To facilitate the control of transmitting parameters, we usually use the commercial-of-the-shelf (COTS) development boards as the DUTs to be identified. Depending on your application, there are a lot of COTS development boards available to choose from. Different development boards require different development languages/platforms. You need to program the transmitter to send wireless packets, which you can do by modifying the examples provided in the official documentation.
 
-The table below summerizes some LoRa development boards that have been shown to be applicable for RFFI research.
+## Software
+The table below summarizes some LoRa development boards that have been shown to be applicable for RFFI research.
 
 | Board Name      | Platform and Programming Language|Link |
 | -----------------| -------------------- |-------------------- |
@@ -40,7 +40,11 @@ The table below summerizes some LoRa development boards that have been shown to 
 
 Non-programmable devices can also be used. For example, our smartphones support WiFi and Bluetooth. We can use other tools to create wireless traffic. For example, we can use a WiFi-connected smartphone to watch videos, which will create lots of WiFi traffic. Regarding WiFi-connected laptops, we can use ping command.
 
-## Receiver
+You can confirm this by using Wireshark or using another development board as the receiver. 
+
+
+# Receiver
+## Hardware
 Most of COTS gateway/access point/receiver do not provide an interface to the physical layer signals. Therefore, software-defined radio (SDR) devices are usually leveraged as receivers. Most SDR platforms use a flexible analog front-end to tune the desired radio signal to baseband or intermediate frequency, which is then sampled by an ADC and converted to the digital domain (IQ samples). All the rest procedures of the communication system, such as packet detection and decoding, are implemented by software. The SDR-based receiver enables users to access the physical layer IQ samples. 
 
 <!-- <font color="#dd0000">(The above paragraph is almost copied from the magzine manuscript)</font><br />  -->
@@ -57,27 +61,25 @@ Table below summarizes some SDRs available in our lab. You should select an appr
 Useful material to learn SDR: [https://pysdr.org/index.html](https://pysdr.org/index.html){:target="_blank"}
 
 
-# Software
-## Signal Collection Module
+## Software
+### Signal Collection Module
 
 The software is a critical part for SDR applications. Specific to RFFI research, you need to write the signal receiving program to capture the valid wireless packets. Figure below shows the flow chart of a basic signal collection program. 
 <div  align="center">    
  <img src="{{ site.url }}/images/rffi/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
  </div>
 
-<!-- <font color="#dd0000">(The above figure is from the magzine manuscript)</font><br />  -->
-
 The packet detection, synchronization and carrifer frequency offset (CFO) compensation algorithms can be implemented by MATLAB/Python/C, depending on the demand for real-time performance and collection speed. Note that for some applications, MAC address decoding is also required to ensure that the captured packets are sent from the correct DUT and not from another device. The signals can be saved in any format such as .csv, .hdf5, .mat, .txt, etc., as long as they can be correctly loaded by the deep learning module. 
 
 MATLAB provides a number of example codes for signal collection, you can find the documentation for your target communication protocol and try to understand every line of the program:
-1. [BLE SDR Reception](https://www.mathworks.com/help/bluetooth/ug/bluetooth-low-energy-receiver.html){:target="_blank"}
-2. [Bluetooth BR/EDR Reception](https://www.mathworks.com/help/bluetooth/ug/bluetooth-br-edr-waveform-reception-by-using-sdr.html){:target="_blank"}
-3. [Wi-Fi Reception (802.11 a/n/ac/ax)](https://www.mathworks.com/help/wlan/ug/recover-and-analyze-packets-in-802-11-waveform.html){:target="_blank"}
+* [BLE SDR Reception](https://www.mathworks.com/help/bluetooth/ug/bluetooth-low-energy-receiver.html){:target="_blank"}
+* [Bluetooth BR/EDR Reception](https://www.mathworks.com/help/bluetooth/ug/bluetooth-br-edr-waveform-reception-by-using-sdr.html){:target="_blank"}
+* [Wi-Fi Reception (802.11 a/n/ac/ax)](https://www.mathworks.com/help/wlan/ug/recover-and-analyze-packets-in-802-11-waveform.html){:target="_blank"}
+* [ZigBee reception](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"}
 
+### Deep Learning Module
 
-## Deep Learning Module
-
-After collecting sufficient signals from the DUTs, you can start to train a deep learning model for classification. The deep learning model can be implemented by numerous libraries/frameworks such as PyTorch, Tensorflow, MATLAB deep learning toolbox, Caffe, etc.. PyTorch and Tensorflow are strongly recommended because of their active community.
+After collecting sufficient signals from the DUTs, you can start to train a deep learning model for classification, such as CNN, LSTM, GRU, transformer, etc. The deep learning model can be implemented by numerous libraries/frameworks such as PyTorch, Tensorflow, MATLAB deep learning toolbox, Caffe, etc.. PyTorch and Tensorflow are strongly recommended because of their active community.
 
 The input to the neural network can be the collected IQ samples, and you can also do some signal processing before that. For example, you can perform a fast Fourier transform (FFT) on the received signals and transform them into frequency domain as neural network inputs.
 
@@ -86,19 +88,21 @@ Learning materials:
 2. [Tensorflow, Towards Scalable and Channel-Robust Radio Frequency 
 Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 
+### Note
+It is not necessary to use the same programming language for the signal collection and deep learning. You can use the Matlab toolbox for signal collection and save the dataset to the PC. Then you can use Python for deep learning.
 
 # General Procedures
 
 With the above preparations, we can build a basic RFFI system. Please do follow the instructions below step by step:
-1. Program to make the development board to start transmitting packets. You can confirm this by using Wireshark or using another development board as the receiver. For Wi-Fi and Bluetooth applications, you can even use your mobile phone.
+1. Program to make the development board to start transmitting packets. 
 2. Write the signal collection program to capture the packets sent from development boards.
 3. Collect packets from all the DUTs, saving the IQ samples as the training/test datasets.
 4. Design a neural network and train it with the collected training data.
-5. Test the neural network with the collected test data. The classification problem is usually evaluted by overall accuracy and confusion matrix.
+5. Test the neural network with the collected test data. The classification problem is usually evaluated by overall accuracy and confusion matrix.
 
 
 # Public Datasets
-There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms. 
+There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though). 
 
 
 # Recommended Readings
