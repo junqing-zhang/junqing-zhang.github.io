@@ -20,12 +20,12 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
 # Preprint
-1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, [arXiv link](https://arxiv.org/abs/2203.02014){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification
 ”, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 
 # Journal Article
+1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, _IEEE Transactions on Mobile Computing_, accepted [arXiv link](https://arxiv.org/abs/2203.02014){:target="_blank"}
 1. Yuepei Li, Yuan Ding, Junqing Zhang, George Goussetis, and Symon K. Podilchak, “Radio Frequency Fingerprinting Exploiting Non-Linear Memory Effect,” _IEEE Transactions on Cognitive Communications and Networking_, accepted
 1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, accepted, [link](https://ieeexplore.ieee.org/document/9839648){:target="_blank"}
 1. Lu Yang, Yansong Gao, **Junqing Zhang**, Seyit Camtepe, and Dhammika Jayalath, “A channel perceiving attack and the countermeasure on long-range IoT physical layer key generation,” _Computer Communications,_ [link](https://www.sciencedirect.com/science/article/pii/S0140366422001396?casa_token=7P3ORl9x75kAAAAA:zVcNRy8Fklip49sW0Q46XvKlon871CMhbxcyFZ-dDUo4z_Kh2pNcY3RQm4GHH9IFAkmn9HWhyQ){:target="_blank"}
