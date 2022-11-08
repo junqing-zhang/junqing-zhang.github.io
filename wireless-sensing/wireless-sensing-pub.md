@@ -1,7 +1,7 @@
 ---
 title: "Publication - Wireless Sensing @ University of Liverpool"
 permalink: /wireless-sensing/wireless-sensing-pub/
-date: 2021-12-17
+date: 2022-11-08
 author_profile: true
 toc: true
 categories:
