@@ -56,6 +56,8 @@ toc_max_header: 1
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
 
 # Workshop Co-Chair
+* IEEE INFOCOM 2023 DeepWireless: Deep Learning for Wireless Communications, Sensing, and
+Security
 * [IEEE VTC 2022 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2022-fall/conference-sessions/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
 * IEEE VTC 2021 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G  
 * IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
