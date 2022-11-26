@@ -1,5 +1,5 @@
 ---
-title: 'TI mmWave Radar Sensors'
+title: 'TI mmWave Radar Sensors - IWR6843AOPEVM'
 date: 2022-11-26
 permalink: /posts/2022/11/blog-post-ti-mmwave-sensors-iwr6843/
 categories:
@@ -10,6 +10,8 @@ tags:
   - mmWave Radar
   -IWR6843
 ---
+
+This page explains how to use IWR6843AOPEVM.
 
 # Hardware 
 | Device                                                                  | Description                                                                                                                                     |
