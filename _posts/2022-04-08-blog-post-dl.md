@@ -47,7 +47,7 @@ Depending on your preference of the programming languages, there are Python and 
 
 # Development Tool
 ## Python
-[Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"} is strongly recommended.
+* [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"} 
 
 ## Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
