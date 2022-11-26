@@ -38,16 +38,18 @@ Features of IWR6843AOPEVM
 * [Silicon Labs CP210x USB to UART Bridge VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads){:target="_blank"}, Please download “CP210x VCP Windows”.
 
 # Physical Setup
-This procedure can be done by following the [online tutorial](https://training.ti.com/hardware-setup-iwr6843aop?context=1128486-1139154-1147566){:target="_blank"}. If you are working on different functions, please flash the board with corresponding binary file (.bin).
+This procedure can be done by following the [online tutorial](https://training.ti.com/hardware-setup-iwr6843aop?context=1128486-1139154-1147566){:target="_blank"}. 
 
-Notice: 
-* Different binary file provides different functions. Sometimes there are not compatible with each other. 
+Flash the board with the corresponding binary file (.bin) for the specific function.
+
+Note 
+* Different binary file provides different functions. Sometimes they are not compatible with each other. 
 * [Gesture with Machine Learning Demo](https://dev.ti.com/tirex/explore/node?node=A__AB3P8Iq.cVgCtrFYFhvt7Q__com.ti.mmwave_industrial_toolbox__VLyFKFf__LATEST){:target="_blank"} requires `gesture_ML_6443_AOP.bin` file in the address: `MMWAVE_TOOLBOX_INSTALL_DIR>\labs\gesture_recognition\Gesture_with_Machine_Learning\prebuilt_binaries\`
 
-# Cooperation with the pymmWave library
-[pymmWave](https://pymmwave.readthedocs.io/en/latest/){:target="_blank"} is an asynchronous TI mmWave library to expedite mmWave development. 
+# pymmWave Library
+[pymmWave](https://pymmwave.readthedocs.io/en/latest/){:target="_blank"} is an asynchronous TI mmWave library to expedite the  development mmWave sensor. 
 
-Please flash the sensor with binary file `out_of_box_6843_aop.bin` with the address: 
+Please flash the sensor with the binary file `out_of_box_6843_aop.bin` with the address: 
 `<INDUSTRIAL_TOOLBOX_INSTALL_DIR>\mmwave_industrial_toolbox_<VER>\ labs\Out_Of_Box_Demo\prebuilt_binaries\`
 
 Note: The address above is wrong in the user guide in [MMWAVE SDK Demo - Lab User's Guide](https://dev.ti.com/tirex/explore/node?node=A__AP7mJp0Kf9nxqL6UHFfY1g__com.ti.mmwave_industrial_toolbox__VLyFKFf__LATEST){:target="_blank"}. Please follow the address here. 
