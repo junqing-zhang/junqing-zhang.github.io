@@ -10,7 +10,7 @@ tags:
   - mmWave Radar
 ---
 
-This paper summarizes resources for Wireless Channel and Radio Propagation.
+This paper summarizes resources for TI mmwave sensors.
 
 {% include toc %}
 
