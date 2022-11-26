@@ -11,14 +11,22 @@ tags:
   - IWR6843
 ---
 
-This page explains how to use IWR6843AOPEVM.
+This page explains how to use IWR6843AOPEVM. 
+
+Features of IWR6843AOPEVM
+> * 60-GHz to 64-GHz mmWave sensor
+> * 4 receive (RX) 3 transmit (TX) antenna with 120° azimuth field of view (FoV) and 120° elevation FoV
+> * Direct interface with MMWAVEICBOOST and DCA1000
+> * Supports 60-pin high-speed interface for host-controlling interface
+> * Onboard capability for power-consumption monitoring
 
 # Hardware 
 
-| Device                                                                  | Description                                                                                                                                     |
+| Device                                                                  | Description |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | [IWR6843AOPEVM](http://www.ti.com/tool/IWR6843AOPEVM){:target="_blank"}                   |                                                                                                                                                 |
-| [Industrial mmWave Carrier Board](http://www.ti.com/tool/MMWAVEICBOOST){:target="_blank"} | Optional, for CCS based debugging.                                                                                                              |
+| [MMWAVEICBOOST](http://www.ti.com/tool/MMWAVEICBOOST){:target="_blank"}, mmWave sensors carrier card platform | Optional, for CCS based debugging|
+|[DCA1000](https://www.ti.com/tool/DCA1000EVM){:target="_blank"}| Optional|
 | Computer                                                                | Windows 7 or 10 PC with Google Chrome Browser and TI Cloud Agent Extension installed.                                                           |
 | Micro USB Cable                                                         |                                                                                                                                                 |
 | Power Supply                                                            | 5V, 3A with 2.1-mm barrel jack (center positive). The power supply can be wall adapter style or a battery pack with a USB to barrel jack cable. |
