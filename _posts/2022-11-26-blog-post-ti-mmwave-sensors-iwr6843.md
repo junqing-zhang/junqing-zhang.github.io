@@ -14,6 +14,7 @@ tags:
 This page explains how to use IWR6843AOPEVM.
 
 # Hardware 
+
 | Device                                                                  | Description                                                                                                                                     |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | [IWR6843AOPEVM](http://www.ti.com/tool/IWR6843AOPEVM){:target="_blank"}                   |                                                                                                                                                 |
@@ -33,7 +34,7 @@ This procedure can be done by following the [online tutorial](https://training.t
 
 Notice: 
 * Different binary file provides different functions. Sometimes there are not compatible with each other. 
-* [Gesture with Machine Learning Demo](https://dev.ti.com/tirex/explore/node?node=A__AB3P8Iq.cVgCtrFYFhvt7Q__com.ti.mmwave_industrial_toolbox__VLyFKFf__LATEST){:target="_blank"} requires “gesture_ML_6443_AOP.bin” file in the address: <MMWAVE_TOOLBOX_INSTALL_DIR>\labs\gesture_recognition\Gesture_with_Machine_Learning\prebuilt_binaries\
+* [Gesture with Machine Learning Demo](https://dev.ti.com/tirex/explore/node?node=A__AB3P8Iq.cVgCtrFYFhvt7Q__com.ti.mmwave_industrial_toolbox__VLyFKFf__LATEST){:target="_blank"} requires `gesture_ML_6443_AOP.bin` file in the address: `MMWAVE_TOOLBOX_INSTALL_DIR>\labs\gesture_recognition\Gesture_with_Machine_Learning\prebuilt_binaries\`
 
 # Cooperation with the pymmWave library
 [pymmWave](https://pymmwave.readthedocs.io/en/latest/){:target="_blank"} is an asynchronous TI mmWave library to expedite mmWave development. 
