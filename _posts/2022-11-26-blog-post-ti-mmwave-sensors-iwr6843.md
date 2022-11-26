@@ -39,7 +39,7 @@ Notice:
 # Cooperation with the pymmWave library
 [pymmWave](https://pymmwave.readthedocs.io/en/latest/){:target="_blank"} is an asynchronous TI mmWave library to expedite mmWave development. 
 
-Please flash the sensor with binary file “out_of_box_6843_aop.bin” with the address: 
-<INDUSTRIAL_TOOLBOX_INSTALL_DIR>\mmwave_industrial_toolbox_<VER>\ labs\Out_Of_Box_Demo\prebuilt_binaries\
+Please flash the sensor with binary file `out_of_box_6843_aop.bin` with the address: 
+`<INDUSTRIAL_TOOLBOX_INSTALL_DIR>\mmwave_industrial_toolbox_<VER>\ labs\Out_Of_Box_Demo\prebuilt_binaries\`
 
 Note: The address above is wrong in the user guide in [MMWAVE SDK Demo - Lab User's Guide](https://dev.ti.com/tirex/explore/node?node=A__AP7mJp0Kf9nxqL6UHFfY1g__com.ti.mmwave_industrial_toolbox__VLyFKFf__LATEST){:target="_blank"}. Please follow the address here. 
