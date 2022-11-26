@@ -8,7 +8,7 @@ categories:
 tags:
   - TI
   - mmWave Radar
-  -IWR6843
+  - IWR6843
 ---
 
 This page explains how to use IWR6843AOPEVM.
