@@ -26,6 +26,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 
 # Journal Article
+1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Xianbin Wang, “Design of A Channel Robust Radio Frequency Fingerprint Identification Scheme,” _IEEE Internet of Things Journal_, vol. x, no. x, pp. x - x, x. 2022. accepted [link](xxx){:target="_blank"}
 1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, _IEEE Transactions on Mobile Computing_, accepted [arXiv link](https://arxiv.org/abs/2203.02014){:target="_blank"},[IEEE](https://ieeexplore.ieee.org/document/9947336){:target="_blank"}
 1. Yuepei Li, Yuan Ding, Junqing Zhang, George Goussetis, and Symon K. Podilchak, “Radio Frequency Fingerprinting Exploiting Non-Linear Memory Effect,” _IEEE Transactions on Cognitive Communications and Networking_, accepted
 1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, accepted, [link](https://ieeexplore.ieee.org/document/9839648){:target="_blank"}
