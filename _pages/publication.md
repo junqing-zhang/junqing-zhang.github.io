@@ -73,6 +73,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 
 # Conference Paper
 1. Yanjin Qiu, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu, “Signal-independent RFF Identification for LTE Mobile Devices via Ensemble Deep Learning,”, in _Proc. IEEE GLOBECOM_, 2022, accepted 
+1. Zhenni Wu, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, Aiqun Hu, “Authorized and Rogue LTE Terminal Identification Using Wavelet Coefficient Graph with Auto-encoder”, in _Proc. IEEE VTC Fall_, 2022 
 1. Yuxuan Xu, Ming Liu, Linning Peng, **Junqing Zhang**, and Yawen Zheng, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network”, in _Proc. IEEE ICC_, 2022
 1. Guyue Li, Haiyu Yang, **Junqing Zhang**, Aiqun Hu, and Hongbo Liu, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments”, in _Proc. IEEE INFOCOM_, 2022
 1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021, [arXiv link](https://arxiv.org/abs/2111.14275){:target="_blank"}, [IEEE link](https://ieeexplore.ieee.org/document/9723287){:target="_blank"}
