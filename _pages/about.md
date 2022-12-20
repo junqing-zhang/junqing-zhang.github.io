@@ -20,7 +20,8 @@ Please find more information from his
 * [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile
 
 
-
+[Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
+ 
 ## [News](/news/)
 _The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
 * 7 November 2022: Our paper, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning'' has been accepted by IEEE Transactions on Mobile Computing. Congratulations Guolin. The code will be made available soon. Please stay tuned.
