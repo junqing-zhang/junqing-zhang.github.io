@@ -101,6 +101,8 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Computers
+* IEEE Transactions on Network Science and Engineering
+* IEEE Transactions on Machine Learning in Communications and Networking
 * IEEE Internet of Things Journal
 * IEEE Access
 * IEEE Communications Letters
