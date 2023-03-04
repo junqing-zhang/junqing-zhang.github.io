@@ -78,7 +78,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 
 # Conference Paper
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Trung Duong, “Reconfigurable Intelligent Surface-Assisted Key Generation for Millimeter Wave Communications”, in _Proc. IEEE WCNC Workshop_, 2023
-1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Machine Learning-Based Secret Key Generation for IRS-assisted Multi-antenna Systems”, in _Proc. IEEE ICC_, 2023
+1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Machine Learning-Based Secret Key Generation for IRS-assisted Multi-antenna Systems”, in _Proc. IEEE ICC_, 2023. [link](https://arxiv.org/abs/2301.08179){:target="_blank"}
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang, “White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification”, in _Proc. IEEE ICC_, 2023
 1. Hongyi Luo, Guyue Li, Yuexiu Xing, **Junqing Zhang**, Aiqun Hu, and Xianbin Wang, “RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios”, in _Proc. IEEE ICC_, 2023
 1. Yanjin Qiu, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu, “Signal-independent RFF Identification for LTE Mobile Devices via Ensemble Deep Learning,”, in _Proc. IEEE GLOBECOM_, 2022, accepted 
