@@ -24,6 +24,7 @@ Please find more information from his
  
 ## [News](/news/)
 _The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
+* 9 March 2023: Our paper, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study'' has been accepted by IEEE Communications Magazine. Congratulations Guanxiong. The code of the paper can be found at [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
 * 7 November 2022: Our paper, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning'' has been accepted by IEEE Transactions on Mobile Computing. Congratulations Guolin. The code will be made available soon. Please stay tuned.
 * 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made available soon. Please stay tuned.
 * 18 January 2022: Our paper, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network'' has been accepted by IEEE ICC. Congratulations Yuxuan.
