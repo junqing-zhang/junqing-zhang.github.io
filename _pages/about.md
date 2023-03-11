@@ -17,7 +17,7 @@ Please find more information from his
 * [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
 * [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
 * [IEEE](https://ieeexplore.ieee.org/author/37085438201){:target="_blank"} publication list
-* [Publons](https://publons.com/researcher/3021376/junqing-zhang/){:target="_blank"} profile
+* [Web of Science](https://www.webofscience.com/wos/author/record/T-8966-2019){:target="_blank"} profile
 
 
 [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
