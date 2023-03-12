@@ -27,7 +27,7 @@ If you have not used Latex before, I suggest to use the online platform, namely 
 * Online Latex editor. Free features are sufficient for basic use. 
 * Suitable for collaboration.
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"} 
-* You don't have to worry the packages. 
+* You don't have to worry the package installations. 
 
 ## Offline Software 
 There are many Latex editors available and many of them are free to use. If you are using LaTex with Windows, I strongly suggest to use the combination of Miktex+TeXnicCenter+Sumatra PDF viewer. They are very handy to use.
