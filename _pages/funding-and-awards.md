@@ -6,11 +6,11 @@ author_profile: true
 ---
 # Ongoing Project
 * Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £251k, July 2021 to June 2023
-* Principal Investigator, EPSRC 2022 Vacation Bursary Programme project, Deep Learning-based Wireless Device Classification, 2022
 
 
 # Completed Project
 * Principal Investigator, Royal Society Research Grants, [Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning](/project-rffi-lora/), £19k, March 2019 to March 2020
+* Principal Investigator, EPSRC 2022 Vacation Bursary Programme project, Deep Learning-based Wireless Device Classification, 2022
 
 # Travel Grants
 * [UK-China University Consortium on Engineering Education and Research (UKCEER)](http://www.ukchinaengineering.com/){:target="_blank"} Mobility Grant for Early Career Researchers, Host: Professor Aiqun Hu in Southeast University, China, Aug., 2019, £3,000
