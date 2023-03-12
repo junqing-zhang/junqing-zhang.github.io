@@ -69,6 +69,16 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 ## Choose vector figure over bitmap 
 It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
 
+## Use PPT to Prepare Block Diagram
+PowerPoint can produce quite good look diagrams. There are lots of icons. Save the slides to pdf file.
+
+It is usually quite difficult if you want to add annotation into the Matlab figure. This can be achieved via PowerPoint (with a few steps). 
+1. Generate the Matlab figure
+2. Click Edit-> Copy Figure 
+3. Paste the figure in the PowerPoint. 
+4. Add texts as you wish. 
+5. Save the slide to a pdf file.
+
 ## Matlab Export Figure
 When using Matlab to save figures to to pdf or eps, there will usually be margins. Use the [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig){:target="_blank"} to save Matlab figures without margin.
 
