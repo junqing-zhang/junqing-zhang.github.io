@@ -8,7 +8,7 @@ author_profile: true
 
 # Overview
 * Funder: Royal Society Research Grants
-* Duaration: March 2019 to March 2020
+* Duration: March 2019 to March 2020
 * Amount: £19k
 
 # Introduction
