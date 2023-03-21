@@ -16,4 +16,11 @@ This page introduces the background of wireless sensing.
 
 # Overview
 
-to be updated.
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
+<br />
+Figure from [https://arxiv.org/pdf/2203.02014.pdf](https://arxiv.org/pdf/2203.02014.pdf){:target="_blank"}
+
+
+Please check this [link](https://github.com/Marsrocky/Awesome-WiFi-CSI-Sensing){:target="_blank"} for useful resources of WiFi sensing, including papers, platforms, datasets, libraries & codes. 
+
