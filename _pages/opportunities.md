@@ -10,7 +10,7 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 I am always looking for excellent and highly-motivated PhD students, post-doc, and visiting researchers. All our research involves exploiting the wireless channels for innovative applications. The three topics that I am particularly interested are
 * [Key generation from wireless channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
 * [Radio frequency fingerprinting identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}
-* Device free wireless sensing
+* [Device free wireless sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
 
 I am also very keen to explore new areas.
 
