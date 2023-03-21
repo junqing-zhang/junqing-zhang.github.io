@@ -28,6 +28,8 @@ RFF identification is consisted of two stages, namely the training and classific
 
 
 # Outcome
+Supported by this Research Grants, our group has equipped with LoRa devices from different vendors (Pycom FiPy and LoPy4, Semtech kits) and software defined radio (SDR) platforms (including USRP N210, PlutoSDR, RTLSDR, etc). We have built LoRa-RFFI testbed and achieved fruitful outcomes.
+
 ## Journal Article
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [link](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, 2021, accepted. [link](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}
