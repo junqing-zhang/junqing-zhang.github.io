@@ -5,10 +5,10 @@ collection: research-area
 
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 
-<br/><img src='/images/keygen/keygen_model.png'>"
+<br/><img src='/images/keygen/keygen_model.png'>
 
 
-* [Key Generation Overview]({{ site.url }}/posts/2019/04/blog-post-keygen_main/)
-* [Key Generation Publication at University of Liverpool](/publication-keygen/)
+* [Key Generation Overview](/keygen/keygen-overview/)
+* [Key Generation Publication at University of Liverpool](/keygen/keygen-pub/)
 
 

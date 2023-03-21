@@ -1,10 +1,12 @@
 ---
-title: "Radio Frequency Fingerprint (RFF) Identification"
-excerpt: "All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.<br/><img src='/images/rffi/RFF_identification_procedure.png'>"
+title: "Wireless Sensing"
 collection: research-area
 ---
 
-All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
+<br />
+Figure from [https://arxiv.org/pdf/2203.02014.pdf](https://arxiv.org/pdf/2203.02014.pdfhttps://arxiv.org/pdf/2203.02014.pdf){:target="_blank"}
 
-* [RFF Identification Overview]({{ site.url }}/posts/2019/04/blog-post-rffi_main/)
-* [RFF Identification at University of Liverpool](/publication-rffi/)
+* [Wireless Sensing Overview]({{ site.url }}/posts/2019/04/blog-post-keygen_main/)
+* [Wireless Sensing Publication at University of Liverpool](/keygen/keygen-pub/)
