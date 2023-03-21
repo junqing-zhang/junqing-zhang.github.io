@@ -63,6 +63,11 @@ All the components of wireless devices will have slightly different features, e.
 * [Wireless Sensing Dataset](/wireless-sensing/wireless-sensing-dataset/)
 * [Wireless Sensing at University of Liverpool](/wireless-sensing/wireless-sensing-pub/)
 
+<br />
+<img align="center" width="1000" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
+<br />
+
+
 # Research Demonstration
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 * [WiFi Key Generation Demonstration using WARP](/demo-keygen-warp/)
