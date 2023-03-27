@@ -28,11 +28,10 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 # Preprint
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**<sup>*</sup>, Chen Chen, and Aiqun Hu, “Joint Precoding and Phase Shift Design in Reconfigurable Intelligent Surfaces-Assisted Secret Key Generation”, [arXiv link](https://arxiv.org/abs/2208.00218){:target="_blank"}
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification
-”, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 
 # Journal Article
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, accepted, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency
 Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, accepted
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Xianbin Wang, “Design of A Channel Robust Radio Frequency Fingerprint Identification Scheme,” _IEEE Internet of Things Journal_, vol. x, no. x, pp. x - x, x. 2022. accepted [link](https://ieeexplore.ieee.org/document/9979789){:target="_blank"}
