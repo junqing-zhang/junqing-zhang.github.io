@@ -64,7 +64,7 @@ All the components of wireless devices will have slightly different features, e.
 * [Wireless Sensing at University of Liverpool](/wireless-sensing/wireless-sensing-pub/)
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
+<img align="center" width="800" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
 <br />
 
 

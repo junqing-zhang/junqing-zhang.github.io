@@ -4,9 +4,12 @@ title: "Funding And Awards"
 permalink: /funding-and-awards/
 author_profile: true
 ---
+
+£396.8k research income secured as Principle Investigator
+
 # Ongoing Project
-* Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £251k, July 2021 to June 2023
-* Principal Investigator, Royal Society Research Grants, [Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints], £55.8k, March 2023 to March 2024
+* Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £310k, July 2021 to June 2023
+* Principal Investigator, Royal Society Research Grants, [Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints](/project-rs-uav-rffi/), £55.8k, March 2023 to March 2024
 * Principal Investigator, Royal Society International Exchanges 2022 Cost Share (NSFC), [Lattice-based physical layer authentication](/project-rs-pla/), £12k, March 2023 to March 2025
 
 # Completed Project
