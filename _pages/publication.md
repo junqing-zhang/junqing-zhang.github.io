@@ -21,7 +21,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. [Dataset: LoRa RFFI](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"}
 > Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"}
 1. [Dataset: LoRa RFFI with Different Spreading Factors](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors){:target="_blank"}
-> Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xx - xx, 2023.  [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+> Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xx - xx, 2023.  [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 
 
 # Code
@@ -29,7 +29,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. [Code: LoRa RFFI](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 > Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"}
 1. [Code: LoRa RFFI with Different Spreading Factors](https://github.com/gxhen/lengthVersatileRFFI){:target="_blank"}
-> Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xx - xx, 2023.  [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+> Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xx - xx, 2023.  [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 
 # Book Chapter
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
@@ -40,7 +40,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 
 # Journal Article
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, accepted, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, accepted, [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency
 Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, accepted
 1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, _IEEE Transactions on Mobile Computing_, accepted [arXiv link](https://arxiv.org/abs/2203.02014){:target="_blank"},[IEEE](https://ieeexplore.ieee.org/document/9947336){:target="_blank"}, [code at github](https://github.com/Guolin-Yin/FewSense){:target="_blank"}
