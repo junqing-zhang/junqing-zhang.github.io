@@ -85,7 +85,7 @@ toc_max_header: 1
 **Journal**
 
 Please check my review record at [Publons](https://publons.com/researcher/3021376/junqing-zhang/peer-review/){:target="_blank"}.
-
+* Nature Communications
 * The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 * IEEE Journal on Selected Areas in Communications
 * IEEE Wireless Communications Magazine
