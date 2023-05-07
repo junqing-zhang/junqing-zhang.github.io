@@ -86,29 +86,28 @@ toc_max_header: 1
 
 Please check my review record at [Publons](https://publons.com/researcher/3021376/junqing-zhang/peer-review/){:target="_blank"}.
 * Nature Communications
-* The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-* IEEE Journal on Selected Areas in Communications
-* IEEE Wireless Communications Magazine
 * IEEE Communications Magazine
 * IEEE Network Magazine
 * IEEE Vehicular Technology Magazine
+* IEEE Wireless Communications Magazine
 * IEEE Journal on Selected Areas in Communications
 * IEEE Transactions on Communications
-* IEEE Transactions on Wireless Communications
+* IEEE Transactions on Computers
+* IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Information Forensics and Security
+* IEEE Transactions on Machine Learning in Communications and Networking
+* IEEE Transactions on Mobile Computing
+* IEEE Transactions on Network Science and Engineering
 * IEEE Transactions on Signal Processing
 * IEEE Transactions on Vehicular Technology
-* IEEE Transactions on Mobile Computing
-* IEEE Transactions on Dependable and Secure Computing
-* IEEE Transactions on Computers
-* IEEE Transactions on Network Science and Engineering
-* IEEE Transactions on Machine Learning in Communications and Networking
+* IEEE Transactions on Wireless Communications
 * IEEE Internet of Things Journal
 * IEEE Access
 * IEEE Communications Letters
-* IEEE Wireless Communications Letters
 * IEEE Signal Processing Letters
+* IEEE Wireless Communications Letters
 * ACM Transactions on Embedded Computing Systems
+* The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 * IET Communications
 * IET Electronics Letters
 * China Communications
