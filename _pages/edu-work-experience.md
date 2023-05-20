@@ -11,8 +11,13 @@ author_profile: true
 
 
 # Work Experience
+## Senior Lecturer (Associate Professor)
+* Oct. 2022 to present
+* Institution: Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics, University of Liverpool, UK
+
+
 ## Lecturer (Assistant Professor)
-* June 2020 to present
+* June 2020 to Sept 2022
 * Institution: Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics, University of Liverpool, UK
 
 ## Tenure Track Fellow (Assistant Professor)
