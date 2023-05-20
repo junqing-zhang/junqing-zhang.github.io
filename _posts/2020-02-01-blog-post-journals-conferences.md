@@ -83,8 +83,9 @@ An differentiation between tutorial and survey can be found at the [information 
 * IPSN: ACM/IEEE Conference on Information Processing in Sensor Networks
 
 **IEEE**
-* IEEE INFOCOM (double blind review)
+* IEEE INFOCOM: IEEE International Conference on Computer Communications (double blind review)
 * IEEE SECON: IEEE International Conference on Sensing, Communication and Networking (double blind review)
+* IEEE CNS: IEEE Conference on Communications and Network Security (double blind review)
 * IEEE GLOBECOM
 * IEEE ICC
 * IEEE ICASSP
