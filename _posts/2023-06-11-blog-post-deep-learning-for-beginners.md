@@ -127,7 +127,7 @@ Python is currently the most popular programming language for AI researchers.
 #### 3.1.1 TensorFlow and PyTorch
 
 Two of the most popular deep learning frameworks, Tensorflow and PyTorch, are developed by Google and Facebook respectively. The best way to learn them is to follow the official tutorials, the links to which are listed below:
-- TensorFlow: [Tutorials  |  TensorFlow Core](https://www.tensorflow.org/tutorials)
+- TensorFlow: [Tutorials TensorFlow Core](https://www.tensorflow.org/tutorials)
 - PyTorch: [Welcome to PyTorch Tutorials — PyTorch Tutorials 2.0.1+cu117 documentation](https://pytorch.org/tutorials/)
 
 A special note is the TensorFlow has integrated Keras as a high-level API (they exist separately in the past). Keras offers a high level of encapsulation, making it especially suitable for beginners with limited knowledge in deep learning.
