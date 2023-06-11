@@ -132,17 +132,17 @@ Two of the most popular deep learning frameworks, Tensorflow and PyTorch, are de
 
 A special note is the TensorFlow has integrated Keras as a high-level API (they exist separately in the past). Keras offers a high level of encapsulation, making it especially suitable for beginners with limited knowledge in deep learning.
 
-#### 3.1.3 NumPy
+#### 3.1.2 NumPy
 
 NumPy is another popular Python package used for scientific/numerical computing. It is often used to preprocess data before using Tensorflow/PyTorch to build and train a neural network. Beginners with experience in MATLAB should become familiar with NumPy quickly.
 - NumPy: [NumPy user guide — NumPy v1.24 Manual](https://numpy.org/doc/1.24/user/index.html#user)
 
-#### 3.1.4 Anaconda
+#### 3.1.3 Anaconda
 
 Anaconda simplified the package management process in Python. In short, the packages such as Tensorflow/PyTorch/NumPy can be installed using the anaconda platform. Anaconda can help create isolated environments and check the version of the package to be installed to avoid conflicts between different library versions. 
-- Download Anaconda: [Free Download | Anaconda](https://www.anaconda.com/download/)
+- Download Anaconda: [Free Download Anaconda](https://www.anaconda.com/download/)
 
-#### 3.1.5 IDE (Integrated Development Environment)
+#### 3.1.4 IDE (Integrated Development Environment)
 
 PyCharm and VS Code are highly recommended IDEs for Python. MATLAB-familiar users can also try Spyder. 
 
