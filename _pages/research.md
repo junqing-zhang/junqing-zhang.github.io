@@ -56,7 +56,7 @@ All the components of wireless devices will have slightly different features, e.
 
 
 <br />
-<img align="center" width="800" src="{{ site.url }}/images/rffi/RFF_identification_procedure.png" alt="...">
+<img align="center" width="800" src="{{ site.url }}/images/rffi/RFFI_DL.png" alt="...">
 <br />
 
 ## [Wireless Sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
