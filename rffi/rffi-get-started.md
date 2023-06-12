@@ -117,7 +117,7 @@ There are also several public datasets made available for RFFI research. Check [
 1. Design a neural network and train it with the collected training data.
 1. Test the neural network with the collected test data. The classification problem is usually evaluated by overall accuracy and confusion matrix.
 
-Steps 1-3 are not required if you are using public datasets.
+Steps 1-4 are not required if you are using public datasets.
 
 
 # Recommended Readings
