@@ -11,6 +11,8 @@ tags:
 
 This page provides a short deep learning tutorial for beginners in this area.
 
+{% include toc %}
+
 ## 1 Introduction to Deep Learning
 
 Deep learning is a branch of machine learning techniques that utilizes artificial neural networks to approximate a desired function based on the provided training data. It is particularly suitable for complicated tasks such as natural language processing (NLP), computer vision (CV), autonomous driving because the algorithms for these applications are difficult to design by hand. Deep learning can automatically learn algorithms from extensive number of real-world training data, making it an ideal approach for tackling such difficult tasks.
