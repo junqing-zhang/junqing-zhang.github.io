@@ -15,7 +15,15 @@ The final year projects that I am supervising usually
 * Require strong programming skills such as Python, C/C++, Matlab
 * Involve machine learning and deep learning
 
-I am running the following final year projects in the academic year 2022-2023.
+I am running the following final year projects in the academic year 2023-2024.
+ 
+# 2023
+* Device Authentication for Bluetooth based on Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for ZigBee based on Deep Learning and Radio Frequency Fingerprint
+* Gesture Recognition Using Deep Learning and mmWave Sensor
+* Gesture Recognition Using Deep Learning and WiFi
+
  
 # 2022
 * Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
