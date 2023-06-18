@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning Tutorial for Beginners'
 date: 2023-06-11
-permalink: /posts/2023/06/2023-06-11-blog-post-deep-learning-for-beginners/
+permalink: /posts/2023/06/blog-post-deep-learning-for-beginners/
 categories:
   - Resources
   - Deep Learning  

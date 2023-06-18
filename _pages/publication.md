@@ -37,6 +37,8 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 # Preprint
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
+1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach”, [arXiv link](https://arxiv.org/abs/2305.00043){:target="_blank"}
+
 
 # Journal Article
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Aiqun Hu, “Joint Precoding and Phase Shift Design in Reconfigurable Intelligent Surfaces-Assisted Secret Key Generation”, _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 3251-3266, Jun. 2023. [IEEE](https://ieeexplore.ieee.org/document/10106070){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2208.00218){:target="_blank"}
@@ -89,7 +91,7 @@ Fingerprint Identification: Methodology and Case Study,” _IEEE Communications 
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
-1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Trung Duong, “Reconfigurable Intelligent Surface-Assisted Key Generation for Millimeter Wave Communications”, in _Proc. IEEE WCNC Workshop_, 2023
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Trung Duong, “Reconfigurable Intelligent Surface-Assisted Key Generation for Millimeter Wave Communications”, in _Proc. IEEE WCNC Workshop_, 2023. [link](https://ieeexplore.ieee.org/document/10119128){:target="_blank"}
 1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Machine Learning-Based Secret Key Generation for IRS-assisted Multi-antenna Systems”, in _Proc. IEEE ICC_, 2023. [link](https://arxiv.org/abs/2301.08179){:target="_blank"}
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang, “White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification”, in _Proc. IEEE ICC_, 2023
 1. Hongyi Luo, Guyue Li, Yuexiu Xing, **Junqing Zhang**, Aiqun Hu, and Xianbin Wang, “RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios”, in _Proc. IEEE ICC_, 2023
