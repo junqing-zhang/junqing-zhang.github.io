@@ -91,6 +91,8 @@ Fingerprint Identification: Methodology and Case Study,” _IEEE Communications 
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
+1. Chuanting Zhang, Shuping Dang, **Junqing Zhang**, Haixia Zhang, and Mark A. Beach, “Federated Radio Frequency Fingerprinting with Model Transfer and Adaptation”, in _Proc. IEEE INFOCOM Workshop_, 2023. [link](https://arxiv.org/abs/2302.11418){:target="_blank"}
+1. Yuexiu Xing, Xiaoxing Chen, **Junqing Zhang**, Aiqun Hu, and Dengyin Zhang, “A Noise-Robust Radio Frequency Fingerprint Identification Scheme for Internet of Things Devices”, in _Proc. IEEE INFOCOM Workshop_, 2023. 
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Trung Duong, “Reconfigurable Intelligent Surface-Assisted Key Generation for Millimeter Wave Communications”, in _Proc. IEEE WCNC Workshop_, 2023. [link](https://ieeexplore.ieee.org/document/10119128){:target="_blank"}
 1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Machine Learning-Based Secret Key Generation for IRS-assisted Multi-antenna Systems”, in _Proc. IEEE ICC_, 2023. [link](https://arxiv.org/abs/2301.08179){:target="_blank"}
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang, “White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification”, in _Proc. IEEE ICC_, 2023
