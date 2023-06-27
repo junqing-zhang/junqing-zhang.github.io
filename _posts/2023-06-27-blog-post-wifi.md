@@ -1,7 +1,7 @@
 ---
 title: 'Resources for WiFi'
-date: 2020-10-15
-permalink: /posts/2020/10/blog-post-wifi/
+date: 2023-06-27
+permalink: /posts/blog-post-wifi/
 categories:
   - Resources
   - Wireless  
@@ -62,22 +62,28 @@ There is an 802.11 reference design implemented for WARP boards, which is compat
 
 A list of papers using WARP can be found at [here](http://warpproject.org/trac/wiki/PapersandPresentations).
 
-## Network Interface Cards
+# Network Interface Cards CSI Extraction
 
-**Intel 5300 NIC**
+## Intel 5300 NIC
 
 There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC. This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [link](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
 
 Please note PCI-e interface is required for these NICs.
 
-**Atheros Chipsets**
+## Atheros Chipsets
 
 There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
 
-**Braodcom WiFi Chipsets**
+## Braodcom WiFi Chipsets
 * [nexmon](https://github.com/seemoo-lab/nexmon){:target="_blank"}
 * [nexmon csi](https://github.com/seemoo-lab/nexmon_csi){:target="_blank"}
+* [WiFiEye - an Interactive Real-Time Workflow for WiFi-Based Sensing
+](https://github.com/pkindt/WiFiEye){:target="_blank"}
 * [Reverse-engineering Broadcom wireless chipsets](https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html){:target="_blank"} 
+
+## ESP32 CSI Toolkit
+* [ESP32 CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/){:target="_blank"}
+
 
 # Software Tool
 ## Matlab WLAN Toolbox

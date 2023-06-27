@@ -22,7 +22,7 @@ I am running the following final year projects in the academic year 2023-2024.
 * Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
 * Device Authentication for ZigBee based on Deep Learning and Radio Frequency Fingerprint
 * Gesture Recognition Using Deep Learning and mmWave Sensor
-* Gesture Recognition Using Deep Learning and WiFi
+* [Gesture Recognition Using Deep Learning and WiFi](https://github.com/Z-Yannn/FYP-Gesture-Recognition-Using-Deep-Learning-and-Wi-Fi){:target="_blank"}
 
  
 # 2022
