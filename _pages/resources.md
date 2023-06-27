@@ -17,8 +17,9 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
-* [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladerf-xa9/){:target="_blank"}
-* [antSDR](https://www.crowdsupply.com/microphase-technology/antsdr-e200){:target="_blank"}
+* [bladeRF 2.0 micro xA9](https://greatscottgadgets.com/hackrf/one/){:target="_blank"}
+* [HackRF One](https://www.nuand.com/product/bladerf-xa9/){:target="_blank"}
+* [antSDR](https://www.crowdsupply.com/microphase-technology/antsdr-e200){:target="_blank"}*2
 * [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*3
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*5
 
