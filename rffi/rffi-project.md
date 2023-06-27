@@ -22,3 +22,8 @@ This paper summarizes Radio Frequency Fingerprint Identification  research proje
 * Check the [news](https://coe.northeastern.edu/news/1-5m-wireless-machine-learning-darpa-award-for-device-fingerprinting/){:target="_blank"} for this project. This is part of the DARPA [Radio Frequency Machine Learning Systems (RFMLS) Programme](https://www.darpa.mil/program/radio-frequency-machine-learning-systems){:target="_blank"}
 * Partners: Northeastern University, US
 * Funder: DARPA, US
+
+1. Collaborative Research: SaTC: CORE: Small: Towards Robust, Scalable, and Resilient Radio Fingerprinting [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2225160){:target="_blank"}
+* Partners: University of Cincinnati, USA
+* Funder: US NSF
+* Duration: Three years
