@@ -14,9 +14,17 @@ This paper summarizes Radio Frequency Fingerprint Identification research datase
 
 # LoRa RFFI Dataset by University of Liverpool
 We have made the dataset and code for our paper open source.
->G. Shen, J. Zhang, A. Marshall, and J. Cavallaro. “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” IEEE Trans. Inf. Forensics Security, 2022.
+
+LoRa RFFI Dataset 1
+>Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"}
 
 The dataset is accessible from [IEEE Dataport](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and the code can be downloaded from [github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
+
+LoRa RFFI Dataset 2 
+> Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 2355 - 2367, Apr. 2023. [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+
+The dataset is accessible from [IEEE Dataport](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors){:target="_blank"} and the code can be downloaded from [github](https://github.com/gxhen/lengthVersatileRFFI){:target="_blank"}.
+
 
 # GENESYS Lab at Northeastern University
 GENESYS Lab at Northeastern University [link](https://genesys-lab.org/mldatasets){:target="_blank"} has made several datasets available.
