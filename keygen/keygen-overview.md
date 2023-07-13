@@ -45,3 +45,6 @@ A full key generation protocol has been implemented and a demo is developed at A
 Please refer to the following references for a detail introduction and survey.
 * Junqing Zhang, Trung Q. Duong, Roger Woods, and Alan Marshall, “Securing wireless communications of the Internet of Things from the physical layer, An overview”, Entropy, vol. 19, no. 8, 420, 2017. (Invited Paper) [link](https://www.mdpi.com/1099-4300/19/8/420)
 * Junqing Zhang, Trung Q. Duong, Alan Marshall, and Roger Woods, “Key generation from wireless channels: A review,” IEEE Access, vol. 4, pp. 614- 626, Mar. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7393435)
+
+
+Return to the Main Page of [Key generation from wireless channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}.
