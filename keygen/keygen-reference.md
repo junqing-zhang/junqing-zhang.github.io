@@ -24,3 +24,7 @@ This paper summarizes some important key generation references.
 
 # Tool
 * NIST SP 800-22: A Statistical Test Suite for the Validation of Random Number Generators and Pseudo Random Number.[Link] C code available for download. Python implementation can be downloaded from here.
+
+
+
+Return to the Main Page of [Key Generation From Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}.

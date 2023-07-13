@@ -47,4 +47,4 @@ Please refer to the following references for a detail introduction and survey.
 * Junqing Zhang, Trung Q. Duong, Alan Marshall, and Roger Woods, “Key generation from wireless channels: A review,” IEEE Access, vol. 4, pp. 614- 626, Mar. 2016. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7393435)
 
 
-Return to the Main Page of [Key generation from wireless channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}.
+Return to the Main Page of [Key Generation From Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}.

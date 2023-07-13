@@ -29,3 +29,5 @@ San Francisco, CA, USA, Sep. 2008, pp. 128–139.
 * H. Ruotsalainen  and  S.  Grebeniuk,  “Towards  wireless  secret  key  agree-ment with LoRa physical layer,” in _Proc. Int. Conf. Availability, Reliabilityand Security_, Hamburg, Germany, Aug. 2018, p. 23.
 * J. Zhang,  A.  Marshall,  and  L.  Hanzo,  “Channel-envelope  differencingeliminates secret key correlation: LoRa-based key generation in low powerwide  area  networks,” _IEEE  Trans.  Veh.  Technol._,  vol.  67,  no.  12,  pp.12 462–12 466, 2018.
 * W. Xu, S. Jha, and W. Hu, “Lora-key: Secure key generation system for LoRa-based network,” _IEEE Internet Things J._, 2018.
+
+Return to the Main Page of [Key Generation From Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}.

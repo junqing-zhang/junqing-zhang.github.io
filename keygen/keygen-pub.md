@@ -55,3 +55,6 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 1. Guyue Li, Aiqun Hu, **Junqing Zhang**, Linning Peng, Chen Sun, and Daming Cao, “High-agreement uncorrelated secret key generation based on principal component analysis preprocessing,” _IEEE Transactions on Communications_, vol. 66, no. 7, pp. 3022 – 3034, Jul. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8314118)
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Retrodirective assisted secure wireless key establishment,” _IEEE Transactions on Communications_, vol. 65, no. 1, pp. 320 – 334, Jan. 2017. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7588176)
 > This paper designed key generation with retrodirective array, which acts as the relay node. Simulation study
+
+
+Return to the Main Page of [Key Generation From Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}.
