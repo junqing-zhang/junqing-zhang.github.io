@@ -1,5 +1,5 @@
 ---
-title: "RFFi Tutorial Papers"
+title: "RFFI Tutorial Papers"
 permalink: /rffi/rffi-tutorial/
 date: 2023-06-12
 author_profile: true
@@ -23,3 +23,6 @@ Fingerprint Identification: Methodology and Case Study,” _IEEE Communications 
 
 # Tutorial Papers from Other Groups
 1. Shamnaz Riyaz, Kunal Sankhe, Stratis Ioannidis, and Kaushik Chowdhury, “Deep Learning Convolutional Neural Networks for Radio Identification,” _IEEE Communications Magazine_, 2018
+
+
+Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.

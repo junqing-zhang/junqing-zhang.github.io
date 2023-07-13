@@ -1,5 +1,5 @@
 ---
-title: "Radio Frequency Fingerprinting Identification"
+title: "Radio Frequency Fingerprint Identification"
 permalink: /rffi/rffi-overview/
 date: 2020-10-22
 author_profile: true
@@ -23,3 +23,6 @@ This page introduces the background of Radio Frequency Fingerprinting Identifica
 
 # Training
 # Classification
+
+
+Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.

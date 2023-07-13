@@ -34,3 +34,6 @@ This paper summarizes Radio Frequency Fingerprint Identification  research proje
 * Funder: US NSF
 * Duration: Three years
 * Status: Ongoing
+
+
+Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.

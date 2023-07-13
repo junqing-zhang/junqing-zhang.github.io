@@ -8,8 +8,8 @@ toc: true
 I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
 
 I am always looking for excellent and highly-motivated PhD students, post-doc, and visiting researchers. All our research involves exploiting the wireless channels for innovative applications. The three topics that I am particularly interested are
-* [Key generation from wireless channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
-* [Radio frequency fingerprinting identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}
+* [Key Generation From Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
+* [Radio frequency fingerprint identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}
 * [Device free wireless sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
 
 I am also very keen to explore new areas.

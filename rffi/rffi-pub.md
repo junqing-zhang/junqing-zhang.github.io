@@ -1,5 +1,5 @@
 ---
-title: "Publication - Radio Frequency Fingerprinting Identification @ University of Liverpool"
+title: "Publication - Radio Frequency Fingerprint Identification @ University of Liverpool"
 permalink: /rffi/rffi-pub/
 date: 2021-5-5
 author_profile: true
@@ -38,3 +38,6 @@ tags:
 1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021, [arXiv link](https://arxiv.org/abs/2111.14275){:target="_blank"}, [IEEE link](https://ieeexplore.ieee.org/document/9723287){:target="_blank"}
 1. Yuepei Li, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021, accepted.
 1. Guanxiong Shen, Junqing Zhang, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in Proc. IEEE INFOCOM, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
+
+
+Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.
