@@ -22,18 +22,10 @@ Please find more information from his
 
 [//]: [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
  
-## [News](/news/)
+## Highlights
 _The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
-* 9 March 2023: Our paper, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study'' has been accepted by IEEE Communications Magazine. Congratulations Guanxiong. The code of the paper can be found at [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
-* 7 November 2022: Our paper, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning'' has been accepted by IEEE Transactions on Mobile Computing. Congratulations Guolin. The code will be made available soon. Please stay tuned.
-* 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made available soon. Please stay tuned.
-* 18 January 2022: Our paper, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network'' has been accepted by IEEE ICC. Congratulations Yuxuan.
-* 3 December 2021: Our paper, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments'' has been accepted by IEEE INFOCOM. Congratulations Guyue.
-* 1 December 2021: Our paper, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices'', has been presented at Asilomar 2021. Congratulations Guanxiong. Please visit [link](https://arxiv.org/abs/2111.14275){:target="_blank"} for the preprint.
-* 16 November 2021: Our paper, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments'' has been accepted by IEEE Communications Letters. Congratulations Tianyu.
-* 1 September 2021: We are recruiting a two-year postdoc for my EPSRC New Investigator Award Project. Please find detailed information at [link](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=033567){:target="_blank"}. The application deadline is 28 September 2021.
-* 28 Aug 2021: Our paper, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems'' has been accepted by IEEE Internet of Things Journal. Congratulations Xinwei.
 
+[//]: ## [News](/news/)
 Please visit [News](/news/) for all the news.
 
 
