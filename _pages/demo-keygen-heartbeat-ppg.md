@@ -58,5 +58,8 @@ Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_
 Click the image below to watch the video.
 <a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
 
+# Reference
+**Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, vol. 22, no. 2, pp. 923 - 934, Feb. 2023. [link](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
+
 # Acknowledgement
 We would like to thank Mr Yushi Zheng for his hard work on completing this excellent demo. 
