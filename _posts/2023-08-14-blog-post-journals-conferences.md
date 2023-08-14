@@ -28,6 +28,8 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Communications Magazine
 * IEEE Wireless Communications
 * IEEE Network
+* IEEE Vehicular Technology Magazine
+
 
 **Security**
 * IEEE Security & Privacy
@@ -43,26 +45,30 @@ An differentiation between tutorial and survey can be found at the [information 
 # Technical Contributions
 ## Regular Paper
 **Communications and Networking**
-* IEEE Transactions on Wireless Communications
-* IEEE Transactions on Communications
-* IEEE Transactions on Vehicular Technology
-* IEEE/ACM Transactions on Networking
+* IEEE Transactions on Wireless Communications (TWC)
+* IEEE Transactions on Communications (TCOM)
+* IEEE Transactions on Vehicular Technology (TVT)
+* IEEE/ACM Transactions on Networking 
 * IEEE Transactions on Cognitive Communications and Networking (TCCN)
 * IEEE Open Journal of the Communications Society (Open Access)
 * IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
 
 **Signal Processing**
-* IEEE Transactions on Signal Processing
+* IEEE Transactions on Signal Processing (TSP)
 
 **Computing**
-* IEEE Transactions on Mobile Computing
+* IEEE Transactions on Mobile Computing (TMC)
 
 **Security**
-* IEEE Transactions on Information Forensics and Security
-* IEEE Transactions on Dependable and Secure Computing
+* IEEE Transactions on Information Forensics and Security (TIFS)
+* IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 **Internet of Things**
-* IEEE Internet of Things Journal
+* IEEE Internet of Things Journal (IoTJ)
+
+**Sensing**
+* Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+
 
 **Others**
 * IEEE Access (open access)
@@ -70,7 +76,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Systems Journal
 
 ## Letters/Correspondence
-* IEEE Communications Letters (double blind review)
+* IEEE Communications Letters
 * IEEE Wireless Communications Letters
 * IEEE Networking Letters
 * IEEE Transactions on Vehicular Technology Correspondence
