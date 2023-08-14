@@ -45,6 +45,7 @@ An differentiation between tutorial and survey can be found at the [information 
 # Technical Contributions
 ## Regular Paper
 **Communications and Networking**
+* IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE Transactions on Wireless Communications (TWC)
 * IEEE Transactions on Communications (TCOM)
 * IEEE Transactions on Vehicular Technology (TVT)
@@ -54,6 +55,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
 
 **Signal Processing**
+* IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 * IEEE Transactions on Signal Processing (TSP)
 
 **Computing**
@@ -103,9 +105,11 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE VTC Spring
 * IEEE VTC Fall
 * IEEE SPAWC
+* IEEE Asilomar
+* IEEE GlobalSIP
 
 **Best Conferences of the Information Security**
-* IEEE Symposium on Security and Privacy
+* Oakland Conference: IEEE Symposium on Security and Privacy
 * CCS: ACM Conference on Computer and Communications Security
 * USENIX Security
 * Network and Distributed System Security Symposium (NDSS)
