@@ -1,7 +1,7 @@
 ---
 title: 'Journals and Conferences of Communications, Networking, Computing and Security'
-date: 2020-02-01
-permalink: /posts/2020/02/blog-post-journals-conferences/
+date: 2023-08-14
+permalink: /posts/blog-post-journals-conferences/
 categories:
   - Resources  
 tags:
@@ -47,6 +47,9 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Transactions on Communications
 * IEEE Transactions on Vehicular Technology
 * IEEE/ACM Transactions on Networking
+* IEEE Transactions on Cognitive Communications and Networking (TCCN)
+* IEEE Open Journal of the Communications Society (Open Access)
+* IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
 
 **Signal Processing**
 * IEEE Transactions on Signal Processing
