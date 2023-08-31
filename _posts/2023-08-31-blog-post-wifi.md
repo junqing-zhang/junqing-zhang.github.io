@@ -1,6 +1,6 @@
 ---
 title: 'Resources for WiFi'
-date: 2023-06-27
+date: 2023-08-31
 permalink: /posts/blog-post-wifi/
 categories:
   - Resources
@@ -27,6 +27,7 @@ OFDM Basics
 
 IEEE 802.11 OFDM Receiver Design
 * Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
+* Check [OpenOFDM](https://openofdm.readthedocs.io/en/latest/overview.html){:target="_blank"} about the receiver algorithms.
 
 ## MAC Layer
 WiFi use CSMA/CA as the MAC layer protocol.
