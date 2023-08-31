@@ -47,7 +47,7 @@ Frame Types
 # Testbed and Implementations
 
 ## [USRP Software Defined Radio (USRP)](https://www.ettus.com/products/)
-* https://www.wime-project.net/
+* [https://www.wime-project.net/](https://www.wime-project.net/){:target="_blank"}
 * [IEEE 802.11 a/g/p transceiver for GNU Radio](https://github.com/bastibl/gr-ieee802-11){:target="_blank"}
 
 ## Openwifi
