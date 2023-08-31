@@ -62,6 +62,8 @@ There is an 802.11 reference design implemented for WARP boards, which is compat
 
 A list of papers using WARP can be found at [here](http://warpproject.org/trac/wiki/PapersandPresentations).
 
+PLEASE NOTE WARP IS DISCONTINUED.
+
 # Network Interface Cards CSI Extraction
 
 The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. 
@@ -112,12 +114,14 @@ Code Examples:
 # Network Monitoring
 * [Building your own Network Monitor with PyShark](https://linuxhint.com/building-your-own-network-monitor-with-pyshark/){:target="_blank"}
 
-# Misc Resources
 ## Wireshark
 * [Download Link](https://www.wireshark.org/){:target="_blank"}
 * [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/index.html){:target="_blank"}
 >Wireshark is a network packet analyzer. A network packet analyzer presents captured packet data in as much detail as possible.
 >You could think of a network packet analyzer as a measuring device for examining what’s happening inside a network cable, just like an electrician uses a voltmeter for examining what’s happening inside an electric cable (but at a higher level, of course).
+
+
+# Misc Resources
 
 ## WiFi Modes
 [iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
