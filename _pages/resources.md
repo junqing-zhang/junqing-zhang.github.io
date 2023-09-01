@@ -13,7 +13,9 @@ Thanks to the generous financial support from Royal Society and the Department o
 
 
 # Software Defined Radio (SDR)
-* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} *3
+* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} *3
+* [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [UBX 160 USRP Daughterboard](https://www.ettus.com/all-products/ubx160/){:target="_blank"} *1
+* [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} *1
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
@@ -22,6 +24,7 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [antSDR](https://www.crowdsupply.com/microphase-technology/antsdr-e200){:target="_blank"}*2
 * [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*3
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*5
+
 
 # Wireless Kit
 * [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} *10 (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
