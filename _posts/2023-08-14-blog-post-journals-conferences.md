@@ -36,10 +36,10 @@ An differentiation between tutorial and survey can be found at the [information 
 
 **Internet of Things**
 * IEEE Internet of Things Magazine
+* IEEE Internet of Things Journal (accept both survey/tutorial and technical papers)
 
 **Other**
 * Proceedings of IEEE
-* IEEE Internet of Things Journal (accept both survey/tutorial and technical papers)
 * IEEE Access (accept both survey/tutorial and technical papers)
 
 # Technical Contributions
@@ -52,7 +52,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE/ACM Transactions on Networking 
 * IEEE Transactions on Cognitive Communications and Networking (TCCN)
 * IEEE Open Journal of the Communications Society (Open Access)
-* IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
+* IEEE Transactions on Machine Learning in Communications and Networking (TMLCN) (Open Access)
 
 **Signal Processing**
 * IEEE Journal of Selected Topics in Signal Processing (JSTSP)
