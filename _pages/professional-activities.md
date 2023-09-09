@@ -56,10 +56,11 @@ toc_max_header: 1
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
 
 # Workshop Co-Chair
+* [IEEE VTC 2023 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2023-fall/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-bg5-and-6g/){:target="_blank"}
 * [ACM Workshop on Wireless Security and Machine Learning (WiseML 2023)](https://wisec2023.surrey.ac.uk/wiseml2023/){:target="_blank"}
 * [IEEE INFOCOM 2023 DeepWireless: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
 * [IEEE VTC 2022 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2022-fall/conference-sessions/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
-* IEEE VTC 2021 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G  
+* [IEEE VTC 2021 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2021-fall/conference-sessions/call-for-workshops/w8-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
 * IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
 
 # Session Chair
