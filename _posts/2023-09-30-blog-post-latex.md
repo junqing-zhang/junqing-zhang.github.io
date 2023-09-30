@@ -216,6 +216,8 @@ bibtex entry for Conference
 }
 ```
 
+**How to add references correctly in IEEE journals and conferences:**
+
 Step 1: Create a file named `mybibfile.bib`. 
 
 Step 2: at the end of the tex file, put
