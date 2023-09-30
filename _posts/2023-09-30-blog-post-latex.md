@@ -14,13 +14,13 @@ Different from Word, LaTex may look complicated and difficult to learn in the be
 
 {% include toc %}
 
-# Overview
+# 1. Overview
 The most fascinate feature of Latex is that it allows you to focus on the content and frees you from worrying the format. It is very good at writing equations. It is excellent in managing the cross reference of figures and tables, and also the references. 
 Please refer to the [tutorial at Overleaf](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"} to start.
 
 For any report and document, the basic elements include the text, figures, tables, equations, references, etc. You will then have to take care of the referencing of the figures, tables and equations. You may have to worry about the places of the figures and tables. Don't worry, LaTex will sort out all of them.
 
-# Software
+# 2. Software
 If you have not used Latex before, I suggest to use the online platform, namely overleaf, first to get yourself familiar with Latex syntax. It may be a little complicated to install and setup Latex software. Overleaf will take care of the packages automatically and you can focus on learning Latex. However, since overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with Latex, I still recommend to use offline software.
 
 ## LaTex Online Tool - Overleaf
@@ -42,7 +42,7 @@ The above features will allow you switch between the tex and pdf quickly.
 
 When use MikTex, you will need the admin right to install all the required packages.
 
-# Template
+# 3. Template
 ## IEEE Latex Template
 Different publishers and journals may have different LaTex templates. Please download from the publisher's website. In particular, most of the IEEE journals and transactions use the same [IEEE LaTex templates](https://www.duboku.net/voddetail-1168.html){:target="_blank"} . There are some exceptions, e.g., [IEEE Access](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-ieee-access/){:target="_blank"}.
 
@@ -57,7 +57,7 @@ IEEE has special requirements on the bibliography. Bibtex is suggested to organi
 * [Download Link](https://www.sharelatex.com/templates/other/template-for-epsrc-grant-proposals){:target="_blank"}
 * I have made some adjustment to the template, by making  the bibliography part suitable to the IEEE requirement. Feel free to contact me if you need it.
 
-# Table
+# 4. Table
 It is very difficult and unfriendly to generate a table from scratch in Latex. There are many tools available to make this tedious work much easier.
 * There are also many online table generators for LaTex. 
 * Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"}. 
@@ -65,7 +65,7 @@ It is very difficult and unfriendly to generate a table from scratch in Latex. T
 Excel2LATEX is recommended over online table generators. It allows you to save the table in an Excel file and you can edit the table and regenerate the Latex source code whenever you want.
 
 
-# Figure
+# 5. Figure
 ## Choose vector figure over bitmap 
 It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
 
@@ -135,36 +135,25 @@ Use the following code to include two subfigures
 
 ```
 
-# Equation
+# 6. Equation
 * [CSE 312: Mathematical Typesetting in Word and LaTeX](https://courses.cs.washington.edu/courses/cse312/20wi/typesetting/hw_typesetting.pdf){:target="_blank"}
 
-# Cross Referencing
+# 7. Cross Referencing
 When using figures, tables, and equations, I strongly suggest to use cross referencing. Please refer to [this link](https://www.overleaf.com/learn/latex/Cross_referencing_sections_and_equations){:target="_blank"} for a detailed tutorial.
 
 It includes two step. First, include the label during the definition. Prefix is recommended to distinguish them, e.g., \label{fig:fig1}, \label{tab:tab1}, and \label{eq:eq1}. This is extremely helpful when your report has many of them. Then, refer to it in the main text, e.g., \ ref{fig:fig1} (without space between \ and ref).
 
 
-# Latex Track Change
+# 8. Latex Track Change
 One attractive that Word has is the track change, which allows different people to edit the same document and see the changes that each other has made. 
 
 Unfortunately the Latex itself does not support track change, but there is an amazing utility named [latexdiff](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents){:target="_blank"} to do something similar. It can compare two latex tex files and mark the changes between them. Please follow the [latexdiff](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents){:target="_blank"} for instruction.
 
-Alternatively, if you are using overleaf, there is track changes feature. Read [this link](https://www.overleaf.com/learn/how-to/Track_Changes_in_Overleaf){:target="_blank"} for details.
+Alternatively, if you are using Overleaf, there is track changes feature. Read [this link](https://www.overleaf.com/learn/how-to/Track_Changes_in_Overleaf){:target="_blank"} for details.
 
-# Misc
-## Color
-Define in the preamble
-```
-\usepackage{color,xcolor,colortbl}
-\newcommand{\blue}[1]{ {\color{blue}#1}}
-\newcommand{\red}[1]{ {\color{red}#1}}
-```
-Use it in the main text as follows.
-```
-use it like \blue{I want this sentence to be highlighted in blue}.
-```
 
-# Bibliographies 
+
+# 9. Bibliographies 
 Bibtex is strongly recommended to organize reference in Latex. While it is very easy and efficient to use, there are a number of pitfalls. Please refer to this [tutorial](https://serialmentor.com/blog/2015/10/2/Bibtex){:target="_blank"} for details.
 
 ## Bibtex entries
@@ -236,7 +225,17 @@ Step 3: Download the bibtex entry from Google Scholar. Check the following field
 ## Multiple Bibliographies
 If you need to create multiple bibliographies in the same document, [multibib](https://ctan.org/pkg/multibib?lang=en) can help you with this. Check [here](https://www.overleaf.com/learn/latex/multibib) for an introduction and an example.
 
-# Conclusion
+# 10. Misc
+## Color
+Define in the preamble
+```
+\usepackage{color,xcolor,colortbl}
+\newcommand{\blue}[1]{ {\color{blue}#1}}
+\newcommand{\red}[1]{ {\color{red}#1}}
+```
+Use it in the main text as follows as `\blue{I want this sentence to be highlighted in blue.}`
+
+# 11. Conclusion
 Latex is powerful and fun, but it requires time to learn. If you experience any difficulties using it, feel free to contact me. I may have had the same awkward learning processing before and I will be happy to share.
 
 
