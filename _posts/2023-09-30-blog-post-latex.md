@@ -1,6 +1,6 @@
 ---
 title: 'How to Use LaTex'
-date: 2020-01-25
+date: 2023-09-30
 permalink: /posts/blog-post-latex/
 categories:
   - Resources
@@ -185,6 +185,10 @@ For example, a bibtex entry downloaded from Google Scholar is shown below
 }
 ```
 As for IEEE journals, there are two errors in this entry. The journal field should be {IEEE Access} and the publisher field is not required.
+
+## IEEE Requirement for References
+Please check [How to Use the IEEEtran BIBTEX Style](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEtran_bst_HOWTO.pdf){:target="_blank"}
+* The conference should starting with Proc. e.g., `booktitle={Proc. IEEE ICC}`
 
 ## Multiple Bibliographies
 If you need to create multiple bibliographies in the same document, [multibib](https://ctan.org/pkg/multibib?lang=en) can help you with this. Check [here](https://www.overleaf.com/learn/latex/multibib) for an introduction and an example.
