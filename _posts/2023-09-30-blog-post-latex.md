@@ -189,7 +189,8 @@ As for IEEE journals, there are two errors in this entry. The journal field shou
 ## IEEE Requirement for References
 Please check [How to Use the IEEEtran BIBTEX Style](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEtran_bst_HOWTO.pdf){:target="_blank"}
 * The conference should starting with Proc. e.g., `booktitle={Proc. IEEE ICC}`
-* The journal title should use abbreviation. Check [IEEEabrv.bib](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEabrv.bib){:target="_blank"} for the mapping.
+* The journal name should use abbreviation. Check [IEEEabrv.bib](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEabrv.bib){:target="_blank"} for the mapping.
+* Title: add brackets around the words whose letters need to be capitcal, e.g., `{OFDM}`, and `{LoRa}`.
 
 ## Multiple Bibliographies
 If you need to create multiple bibliographies in the same document, [multibib](https://ctan.org/pkg/multibib?lang=en) can help you with this. Check [here](https://www.overleaf.com/learn/latex/multibib) for an introduction and an example.
