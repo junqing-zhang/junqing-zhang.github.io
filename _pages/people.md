@@ -19,7 +19,8 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 * Mr Senhao Gao, co-supervision with Prof Xiaowei Huang (September 2022 to present). Research topic: Wireless sensing
 * Mr Ningze Yuan, co-supervision with Prof Xiaowei Huang (December 2022 to present). Research topic: radio frequency fingerprint identification
 
-
 # Alumni
-* Dr. [Guanxiong Shen](https://gxhen.github.io/){:target="_blank"}, co-supervision with Prof Alan Marshall (Nov., 2019 to July 2023). Research topic: Radio frequency fingerprint identification for LoRa.
+* Dr. [Guanxiong Shen](https://gxhen.github.io/){:target="_blank"}, co-supervision with Prof Alan Marshall (Nov., 2019 to July 2023). Thesis title: Deep Learning Enhanced Radio Frequency Fingerprint Identification for LoRa [Download Link](https://livrepository.liverpool.ac.uk/3170842/
+){:target="_blank"}
+
 
