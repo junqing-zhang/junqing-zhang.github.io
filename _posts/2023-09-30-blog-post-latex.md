@@ -192,6 +192,32 @@ Please check [How to Use the IEEEtran BIBTEX Style](https://mirror.apps.cam.ac.u
 * The journal name should use abbreviation. Check [IEEEabrv.bib](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEabrv.bib){:target="_blank"} for the mapping.
 * Title: add brackets around the words whose letters need to be capitcal, e.g., `{OFDM}`, and `{LoRa}`.
 
+Journal and conference papers are the two widely used reference types. Examples are given below.
+Journal:
+```
+@article{shen2021towards,
+  title={Towards scalable and channel-robust radio frequency fingerprint identification for {LoRa}},
+  author={Shen, Guanxiong and Zhang, Junqing and Marshall, Alan and Cavallaro, Joseph R},
+  journal=IEEE_J_IFS,
+  volume={17},
+  pages={774--787},
+  year={2022},
+}
+```
+and 
+```
+@inproceedings{shen2021infocom,
+	author={Shen, Guanxiong and Zhang, Junqing and Marshall, Alan and Peng, Linning and Wang, Xianbin},
+	title={Radio Frequency Fingerprint Identification for {LoRa}
+	Using Spectrogram and {CNN}},
+	booktitle={Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)},
+	pages={1--10},
+	address={Virtual Conference},
+	month=may,
+	year={2021},
+}
+```
+
 ## Multiple Bibliographies
 If you need to create multiple bibliographies in the same document, [multibib](https://ctan.org/pkg/multibib?lang=en) can help you with this. Check [here](https://www.overleaf.com/learn/latex/multibib) for an introduction and an example.
 
