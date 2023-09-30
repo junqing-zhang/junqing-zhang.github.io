@@ -193,6 +193,7 @@ Please check [How to Use the IEEEtran BIBTEX Style](https://mirror.apps.cam.ac.u
 * Title: add brackets around the words whose letters need to be capitcal, e.g., `{OFDM}`, and `{LoRa}`.
 
 Journal and conference papers are the two widely used reference types. Examples are given below.
+
 Journal:
 ```
 @article{shen2021towards,
@@ -204,7 +205,7 @@ Journal:
   year={2022},
 }
 ```
-and 
+and Conference
 ```
 @inproceedings{shen2021infocom,
 	author={Shen, Guanxiong and Zhang, Junqing and Marshall, Alan and Peng, Linning and Wang, Xianbin},
