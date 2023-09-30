@@ -187,14 +187,11 @@ For example, a bibtex entry downloaded from Google Scholar is shown below
 As for IEEE journals, there are two errors in this entry. The journal field should be {IEEE Access} and the publisher field is not required.
 
 ## IEEE Requirement for References
-Please check [How to Use the IEEEtran BIBTEX Style](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEtran_bst_HOWTO.pdf){:target="_blank"}
-* The conference should starting with Proc. e.g., `booktitle={Proc. IEEE ICC}`
-* The journal name should use abbreviation. Check [IEEEabrv.bib](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEabrv.bib){:target="_blank"} for the mapping.
-* Title: add brackets around the words whose letters need to be capitcal, e.g., `{OFDM}`, and `{LoRa}`.
+Please check [How to Use the IEEEtran BIBTEX Style](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEtran_bst_HOWTO.pdf){:target="_blank"}.
 
 Journal and conference papers are the two widely used reference types. Examples are given below.
 
-Journal:
+bibtex entry for Journal:
 ```
 @article{shen2021towards,
   title={Towards scalable and channel-robust radio frequency fingerprint identification for {LoRa}},
@@ -205,7 +202,7 @@ Journal:
   year={2022},
 }
 ```
-and Conference
+bibtex entry for Conference
 ```
 @inproceedings{shen2021infocom,
 	author={Shen, Guanxiong and Zhang, Junqing and Marshall, Alan and Peng, Linning and Wang, Xianbin},
@@ -218,6 +215,21 @@ and Conference
 	year={2021},
 }
 ```
+
+Step 1: Create a file named `mybibfile.bib`. 
+
+Step 2: at the end of the tex file, put
+```
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,mybibfile}
+```
+before `\end{document}`
+
+Step 3: Download the bibtex entry from Google Scholar. Check the following fields and make the relevant changes.
+* The conference should starting with Proc. e.g., `booktitle={Proc. IEEE ICC}`
+* The journal name should use abbreviation. Check [IEEEabrv.bib](https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEabrv.bib){:target="_blank"} for the abbreviations.
+* Title: add brackets around the words whose letters need to be capital, e.g., `{OFDM}`, and `{LoRa}`.
+
 
 ## Multiple Bibliographies
 If you need to create multiple bibliographies in the same document, [multibib](https://ctan.org/pkg/multibib?lang=en) can help you with this. Check [here](https://www.overleaf.com/learn/latex/multibib) for an introduction and an example.
