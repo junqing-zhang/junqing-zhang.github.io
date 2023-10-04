@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learning for Beginners'
 date: 2022-04-07
-permalink: /posts/2022/04/blog-post-ml/
+permalink: /posts/blog-post-ml/
 categories:
   - Resources  
   - Machine Learning
@@ -18,3 +18,5 @@ This paper summarizes resources for  machine learning for beginners.
 # Machine Learning
 * [Python Machine Learning Tutorial, Scikit-Learn](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn){:target="_blank"}
 * [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
+* [DBSCAN Clustering Algorithm in Machine Learning](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html){:target="_blank"}
+* [XGBoost](https://www.nvidia.com/en-us/glossary/data-science/xgboost/){:target="_blank"}
