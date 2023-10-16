@@ -9,7 +9,7 @@ author_profile: true
 # Overview
 * Funder: EPSRC
 * Duration: Jan. 2022 to Dec. 2023
-* Amount: £251k
+* Amount: £310k
 
 please visit the [link](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"} for more information.
 

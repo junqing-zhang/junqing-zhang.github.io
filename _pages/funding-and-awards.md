@@ -8,7 +8,7 @@ author_profile: true
 £396.8k research income secured as Principle Investigator
 
 # Ongoing Project
-* Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £310k, July 2021 to June 2023
+* Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £310k, Jan. 2022 to Dec. 2023
 * Principal Investigator, Royal Society Research Grants, [Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints](/project-rs-uav-rffi/), £55.8k, March 2023 to March 2024
 
 # Completed Project
