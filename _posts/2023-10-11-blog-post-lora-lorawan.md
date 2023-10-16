@@ -1,7 +1,7 @@
 ---
 title: 'Resources for LoRa and LoRaWAN'
-date: 2019-12-15
-permalink: /posts/2019/12/blog-post-lora-lorawan/
+date: 2023-10-11
+permalink: /posts/blog-post-lora-lorawan/
 categories:
   - Resources
   - Wireless  
