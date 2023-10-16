@@ -17,6 +17,9 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 
 {% include toc %}
 
+* denotes corresponding author.
+
+
 # Key Generation Survey
 1. **Junqing Zhang**, Guyue Li, Alan Marshall, Aiqun Hu, and Lajos Hanzo, “A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels,” _IEEE Access_, vol. 8, pp. 138406 - 138446, 2020. [link](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
 1. Guyue Li, Chen Sun, **Junqing Zhang**, Eduard Jorswieck, Bin Xiao, Aiqun Hu, “Physical Layer Key Generation in 5G and Beyond Wireless Communications: Challenges and Opportunities,” _Entropy_, 2019
