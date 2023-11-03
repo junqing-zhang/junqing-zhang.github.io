@@ -37,10 +37,10 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 # Preprint
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
-1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach”, [arXiv link](https://arxiv.org/abs/2305.00043){:target="_blank"}
 
 
 # Journal Article
+1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach”, _IEEE Transactions on Information Forensics and Security_, [arXiv link](https://arxiv.org/abs/2305.00043){:target="_blank"}
 1. **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, Walid Saad, and Kaushik Chowdhury, “Radio Frequency Fingerprint Identification for Device Authentication in the Internet of Things,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10184988){:target="_blank"}
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Aiqun Hu, “Joint Precoding and Phase Shift Design in Reconfigurable Intelligent Surfaces-Assisted Secret Key Generation”, _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 3251-3266, Jun. 2023. [IEEE](https://ieeexplore.ieee.org/document/10106070){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2208.00218){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, vol. 61, no. 9, pp. 170 - 176, Sept. 2023. [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
