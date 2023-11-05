@@ -4,6 +4,12 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
+# 2023
+* 5 November 2023: [Call for paper] We are organizing DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security in conjunction with IEEE INFOCOM 2024. The submission deadline is 19 December 2023. 
+* 5 November 2023: [Call for paper] We are organizing Workshop on Machine Learning and Deep Learning for Wireless Security in conjunction with IEEE ICC 2024. The submission deadline is 20 January 2024. Please visit the [workshop website](https://sites.google.com/view/ml-dl-wireless-sec){:target="_blank"} for more information.
+* 3 November 2023: Our paper, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach'', has been IEEE Transactions on Information Forensics and Security. Congratulations Chen. Please visit [link](https://arxiv.org/abs/2305.00043){:target="_blank"} for the preprint.
+
 # 2022
 * PhD Opening: I have a PhD studentship opening in the area of wireless sensing. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-wireless-sensing/?p142480=){:target="_blank"}. The application deadline is 10 April 2022.
 * 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made soon. Please stay tuned.
