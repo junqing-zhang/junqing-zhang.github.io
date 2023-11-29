@@ -19,6 +19,15 @@ tags:
 1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, vol. 36, no. 6, pp. 68 - 75, Nov./Dec. 2022. [link](https://ieeexplore.ieee.org/document/9839648){:target="_blank"}
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, vol. 26, no. 5, pp. 92 - 98, Oct. 2019. [link](https://ieeexplore.ieee.org/document/8715341){:target="_blank"}
 
+# Technical Papers from Our Group
+## LoRa RFFI
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 2355 - 2367, Apr. 2023. [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"}, [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"}, [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, vol. 39, no. 8, pp. 2604 - 2616, Aug. 2021. [link](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}
+
+## Modelling
+1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ vol. 16, pp. 3974 - 3987, 2021. [link](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
 
 # Tutorial Papers from Other Groups
 1. Shamnaz Riyaz, Kunal Sankhe, Stratis Ioannidis, and Kaushik Chowdhury, “Deep Learning Convolutional Neural Networks for Radio Identification,” _IEEE Communications Magazine_, 2018
