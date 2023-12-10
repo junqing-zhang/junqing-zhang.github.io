@@ -17,6 +17,7 @@ toc_max_header: 1
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
 # Invited Talk
+* Invited by Dr. Weitao Xu to give a talk at City University of Hong Kong, 8 December 2023
 * Invited by Prof. Stefano Tomasin to give a talk at University of Padova, Italy, 9 November 2023
 * Invited by Prof. Eduard  Jorswieck to give a talk at Technische Universität Braunschweig, Germany, 7 November 2023
 * Invited by Dr. Chongyan Gu to give a talk at Queen's University Belfast, 22 August 2023
