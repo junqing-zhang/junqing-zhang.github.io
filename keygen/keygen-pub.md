@@ -1,5 +1,5 @@
 ---
-date: 2020-10-22
+date: 2023-12-12
 title: "Publication - Key Generation @ University of Liverpool"
 permalink: /keygen/keygen-pub/
 author_profile: true
@@ -43,8 +43,8 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 > This paper studies the key generation application in OFDM systems. The temporal and frequency correlation is modelled. The channel reciprocity of subcarrier response is also modelled. Simulation study
 
 # Key Generation Application
-1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Kailin Cao, and Aiqun Hu, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments,” _IEEE Communications Letters_, accepted.
-1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, accepted.
+1. Lu Yang, Yansong Gao, **Junqing Zhang**, Seyit Camtepe, and Dhammika Jayalath, “A channel perceiving attack and the countermeasure on long-range IoT physical layer key generation,” _Computer Communications,_  vol. 191, pp. 108-118, Jul. 2022 [link](https://www.sciencedirect.com/science/article/pii/S0140366422001396?casa_token=7P3ORl9x75kAAAAA:zVcNRy8Fklip49sW0Q46XvKlon871CMhbxcyFZ-dDUo4z_Kh2pNcY3RQm4GHH9IFAkmn9HWhyQ){:target="_blank"}
+1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, vol. 9, no. 8, pp. 6081 - 6094, Apr. 2022. [link](https://ieeexplore.ieee.org/document/9526766){:target="_blank"}
 1. Guyue Li, Chen Sun, Eduard Jorswieck, **Junqing Zhang**, Aiqun Hu, and You Chen, “Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks,” _IEEE Transactions on Information Forensics and Security_, vol. 16, pp. 968 - 982, 2020. [link](https://ieeexplore.ieee.org/document/9205612){:target="_blank"} 
 1. Guyue Li, Zheying Zhang, **Junqing Zhang**, and Aiqun Hu, “Encrypting Wireless Communications On the Fly Using OneTime Pad and Key Generation,” _IEEE Internet of Things Journal_, accepted.  [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
 1. Henri Ruotsalainen, **Junqing Zhang**, and Stepan Grebeniuk, “Experimental Investigation on Wireless Key Generation for Low Power Wide Area Networks,” _IEEE Internet of Things Journal_, vol. 7, no. 3, pp. 1745 - 1755, Mar. 2020. [link](https://ieeexplore.ieee.org/document/8865100){:target="_blank"}
@@ -58,6 +58,12 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 1. Guyue Li, Aiqun Hu, **Junqing Zhang**, Linning Peng, Chen Sun, and Daming Cao, “High-agreement uncorrelated secret key generation based on principal component analysis preprocessing,” _IEEE Transactions on Communications_, vol. 66, no. 7, pp. 3022 – 3034, Jul. 2018. [link](https://ieeexplore.ieee.org/abstract/document/8314118)
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Retrodirective assisted secure wireless key establishment,” _IEEE Transactions on Communications_, vol. 65, no. 1, pp. 320 – 334, Jan. 2017. Open Access. [link](https://ieeexplore.ieee.org/abstract/document/7588176)
 > This paper designed key generation with retrodirective array, which acts as the relay node. Simulation study
+
+# Key Generation with RIS
+1. Chen Chen, **Junqing Zhang**<sup>*</sup>, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach”, _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 1086 - 1098, 2024. [IEEE link](https://ieeexplore.ieee.org/document/10315046){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2305.00043){:target="_blank"}
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Aiqun Hu, “Joint Precoding and Phase Shift Design in Reconfigurable Intelligent Surfaces-Assisted Secret Key Generation”, _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 3251-3266, Jun. 2023. [IEEE](https://ieeexplore.ieee.org/document/10106070){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2208.00218){:target="_blank"}
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Kailin Cao, and Aiqun Hu, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments,” _IEEE Communications Letters_, vol. 26, no. 2, pp. 244 - 248, Feb. 2022. [link](https://ieeexplore.ieee.org/document/9627160){:target="_blank"}.
+
 
 
 Return to the Main Page of [Key Generation From Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}.
