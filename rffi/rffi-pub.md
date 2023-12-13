@@ -33,6 +33,7 @@ tags:
 # Preprint
 
 # Survey/Tutorial
+1. Lingnan Xie, Linning Pleng, **Junqing Zhang** and Aiqun Hu, “Radio frequency fingerprint identification for Internet of Things: A survey”, _Security and Safety_, vol. 3, article number. 2023022. [link](https://sands.edpsciences.org/articles/sands/abs/2024/01/sands20230017/sands20230017.html){:target="_blank"}
 1. **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, Walid Saad, and Kaushik Chowdhury, “Radio Frequency Fingerprint Identification for Device Authentication in the Internet of Things,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10184988){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
 1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, accepted, [link](https://ieeexplore.ieee.org/document/9839648){:target="_blank"}
@@ -41,6 +42,7 @@ tags:
 
 # Journal Article
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
+1. Guanxiong Shen, and **Junqing Zhang**<sup>*</sup>, “Exploration of transferable deep learning-aided radio frequency fingerprint identification systems”, _Security and Safety_, vol. 3, article number. 2023019. [link](https://sands.edpsciences.org/articles/sands/abs/2024/01/sands20230020/sands20230020.html){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 2355 - 2367, Apr. 2023. [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Xianbin Wang, “Design of A Channel Robust Radio Frequency Fingerprint Identification Scheme,” _IEEE Internet of Things Journal_, vol. 10, no. 8, pp. 6946-6959, Apr. 2023. accepted [link](https://ieeexplore.ieee.org/document/9979789){:target="_blank"}
 1. Yuepei Li, Yuan Ding, Junqing Zhang, George Goussetis, and Symon K. Podilchak, “Radio Frequency Fingerprinting Exploiting Non-Linear Memory Effect,” _IEEE Transactions on Cognitive Communications and Networking_, vol. 8, no. 4, pp. 1618 - 1631, Dec. 2022. [link](https://ieeexplore.ieee.org/document/9913208/){:target="_blank"}
