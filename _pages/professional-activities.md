@@ -17,6 +17,11 @@ toc_max_header: 1
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
 # Invited Talk
+* Invited by Dr. Weitao Xu to give a talk at City University of Hong Kong, 8 December 2023
+* Invited by Prof. Stefano Tomasin to give a talk at University of Padova, Italy, 9 November 2023
+* Invited by Prof. Eduard  Jorswieck to give a talk at Technische Universität Braunschweig, Germany, 7 November 2023
+* Invited by Dr. Chongyan Gu to give a talk at Queen's University Belfast, 22 August 2023
+* Invited by Prof. Mark Beach to give a talk at University of Bristol, 6 March 2023
 * Invited by Dr. Guyue Li to give a talk at Southeast University, China, 10 June 2022
 * Invited by Dr. Shun Zhang to give a talk at Xidian University, China, 24th May 2022
 * Invited by Prof Mark Beach and Dr. Magnus Sandell to give a talk at University of Bristol, UK, 10th January 2022
@@ -56,6 +61,8 @@ toc_max_header: 1
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
 
 # Workshop Co-Chair
+* [IEEE INFOCOM 2024 second DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
+* [IEEE ICC 2024 Workshop on Machine Learning and Deep Learning for Wireless Security](https://icc2024.ieee-icc.org/workshop/ws-18-ieee-icc-2024-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 * [IEEE VTC 2023 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2023-fall/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-bg5-and-6g/){:target="_blank"}
 * [IEEE WCNC 2023 WS-03: Trusted Communications with Physical Layer Security](https://wcnc2023.ieee-wcnc.org/workshop/ws-03-trusted-communications-physical-layer-security){:target="_blank"}
 * [ACM Workshop on Wireless Security and Machine Learning (WiseML 2023)](https://wisec2023.surrey.ac.uk/wiseml2023/){:target="_blank"}
