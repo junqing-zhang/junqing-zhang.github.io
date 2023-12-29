@@ -69,6 +69,8 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 ## Choose vector figure over bitmap 
 It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
 
+It is fine to use png, jpg for photos.
+
 ## Use PPT to Prepare Block Diagram
 PowerPoint can produce quite good look diagrams. There are lots of icons. Save the slides to pdf file.
 
