@@ -1,5 +1,5 @@
 ---
-title: "RFFI Tutorial Papers"
+title: "RFFI Recommended Reading List"
 permalink: /rffi/rffi-recommended-reading/
 date: 2023-11-06
 author_profile: true
