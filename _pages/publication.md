@@ -96,6 +96,8 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Tianya Zhao, Xuyu Wang, **Junqing Zhang**, and Shiwen Mao, “Explanation-Guided Backdoor Attacks on Model-Agnostic RF Fingerprinting,” in _Proc. IEEE INFOCOM_, 2024.
 1. Chen Chen, and **Junqing Zhang**, “Machine Learning Enhanced Near-Field Secret Key Generation for Extremely Large-Scale MIMO,” in _Proc. IEEE  International Conference on Machine Learning for Communication and Networking_, 2024.
 1. Yijia Guo, **Junqing Zhang**, and Y.-W. Peter Hong, “Deep Learning-Enhanced Physical Layer Authentication for Mobile Devices,” in _Proc. IEEE GLOBECOM_, 2023. 
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, Trung Q. Duong, and Michail Matthaiou, “Precoding Design for Key Generation in Near-Field
+Extremely Large-Scale MIMO Communications,” in _Proc. IEEE GLOBECOM Workshop_, 2023. 
 1. Chuanting Zhang, Shuping Dang, **Junqing Zhang**, Haixia Zhang, and Mark A. Beach, “Federated Radio Frequency Fingerprinting with Model Transfer and Adaptation”, in _Proc. IEEE INFOCOM Workshop_, 2023. [link](https://arxiv.org/abs/2302.11418){:target="_blank"}
 1. Yuexiu Xing, Xiaoxing Chen, **Junqing Zhang**, Aiqun Hu, and Dengyin Zhang, “A Noise-Robust Radio Frequency Fingerprint Identification Scheme for Internet of Things Devices”, in _Proc. IEEE INFOCOM Workshop_, 2023. 
 1. Chen Chen, **Junqing Zhang**, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Machine Learning-Based Secret Key Generation for IRS-assisted Multi-antenna Systems”, in _Proc. IEEE ICC_, 2023. [link](https://arxiv.org/abs/2301.08179){:target="_blank"}
