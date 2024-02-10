@@ -35,10 +35,8 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
 
-
-
 # Journal Article
-1. Guyue Li, Yiyun Ma, Wenhao Wang, **Junqing Zhang** and Hongyi Luo, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting,” _IEEE Internet of Things Journal_,
+1. Guyue Li, Yiyun Ma, Wenhao Wang, **Junqing Zhang** and Hongyi Luo, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting,” _IEEE Internet of Things Journal_, 2024
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Linning Peng, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, _IEEE Transactions on Vehicular Technology_, 2024. [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 1. Lingnan Xie, Linning Pleng, **Junqing Zhang** and Aiqun Hu, “Radio frequency fingerprint identification for Internet of Things: A survey”, _Security and Safety_, vol. 3, article number. 2023022. [link](https://sands.edpsciences.org/articles/sands/abs/2024/01/sands20230017/sands20230017.html){:target="_blank"}
