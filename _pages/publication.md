@@ -35,6 +35,8 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
 # Preprint
+1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
+
 
 # Journal Article
 1. Guyue Li, Yiyun Ma, Wenhao Wang, **Junqing Zhang** and Hongyi Luo, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting,” _IEEE Internet of Things Journal_, 2024
