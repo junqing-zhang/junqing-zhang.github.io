@@ -25,10 +25,6 @@ Please find more information from his
 ## Highlights
 _The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
 
-
-* Call for paper: We are organizing DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security in conjunction with IEEE INFOCOM 2024. The submission deadline is 19 December 2023. 
-* Call for paper: We are organizing Workshop on Machine Learning and Deep Learning for Wireless Security in conjunction with IEEE ICC 2024. The submission deadline is 20 January 2024. Please visit the [workshop website](https://sites.google.com/view/ml-dl-wireless-sec){:target="_blank"} for more information.
-
 [//]: ## [News](/news/)
 Please visit [News](/news/) for all the news.
 
