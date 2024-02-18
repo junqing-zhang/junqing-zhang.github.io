@@ -38,7 +38,6 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
 
 
-
 # Journal Article
 1. Guyue Li, Yiyun Ma, Wenhao Wang, **Junqing Zhang** and Hongyi Luo, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting,” _IEEE Internet of Things Journal_, 2024
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Linning Peng, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, _IEEE Transactions on Vehicular Technology_, 2024. [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
