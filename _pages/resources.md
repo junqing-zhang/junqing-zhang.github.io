@@ -13,8 +13,9 @@ Thanks to the generous financial support from Royal Society and the Department o
 
 
 # Software Defined Radio (SDR)
-* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} *3
 * [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [UBX 160 USRP Daughterboard](https://www.ettus.com/all-products/ubx160/){:target="_blank"} *1
+* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} *3
+* [USRP B210](https://www.ettus.com/all-products/ub210-kit/){:target="_blank"} *2
 * [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} *1
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
