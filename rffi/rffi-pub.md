@@ -56,6 +56,9 @@ tags:
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Guyue Li, “On radio frequency fingerprint identification for DSSS systems in low SNR scenarios,”  _IEEE Communications Letters_, vol. 22, no. 11, pp. 2326 -2329, Nov., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8469002){:target="_blank"}
 
 # Conference Paper
+1. Min Wang, Linning Peng, Lingnan Xie, **Junqing Zhang**, Ming Liu, and Hua Fu, “Design of Noise Robust Open-Set Radio Frequency Fingerprint Identification Method”, in _Proc. IEEE INFOCOM Workshop_, 2024.
+1. Tianya Zhao, Xuyu Wang, **Junqing Zhang**, and Shiwen Mao, “Explanation-Guided Backdoor Attacks on Model-Agnostic RF Fingerprinting,” in _Proc. IEEE INFOCOM_, 2024.
+1. Chen Chen, and **Junqing Zhang**, “Machine Learning Enhanced Near-Field Secret Key Generation for Extremely Large-Scale MIMO,” in _Proc. IEEE  International Conference on Machine Learning for Communication and Networking_, 2024.
 1. Chuanting Zhang, Shuping Dang, **Junqing Zhang**, Haixia Zhang, and Mark A. Beach, “Federated Radio Frequency Fingerprinting with Model Transfer and Adaptation”, in _Proc. IEEE INFOCOM Workshop_, 2023. [link](https://arxiv.org/abs/2302.11418){:target="_blank"}
 1. Yuexiu Xing, Xiaoxing Chen, **Junqing Zhang**, Aiqun Hu, and Dengyin Zhang, “A Noise-Robust Radio Frequency Fingerprint Identification Scheme for Internet of Things Devices”, in _Proc. IEEE INFOCOM Workshop_, 2023. 
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang, “White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification”, in _Proc. IEEE ICC_, 2023
