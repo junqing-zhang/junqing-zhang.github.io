@@ -61,6 +61,7 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 > This paper investigates key generation applied in long range communications, by taking LoRa as a case study. Experimental study
 
 # Key Generation with FDD
+1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Linning Peng, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, _IEEE Transactions on Vehicular Technology_, 2024. [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**, Aiqun Hu, Zongyue Zou and Bin Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems,” _IEEE Internet of Things Journal_, vol. 9, no. 8, pp. 6081 - 6094, Apr. 2022. [link](https://ieeexplore.ieee.org/document/9526766){:target="_blank"}
 1. Lining Peng, Guyue Li, **Junqing Zhang**, Roger Woods, Ming Liu, and Aiqun Hu, “An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation,” _IEEE Transactions on Mobile Computing_, vol. 18, no. 3, pp. 507 – 519, Mar. 2019. [link](https://ieeexplore.ieee.org/abstract/document/8370120)
 1. Guyue Li, Aiqun Hu, Chen Sun and **Junqing Zhang**, “Constructing reciprocal channel coefficients for secret key generation in FDD systems,”  _IEEE Communications Letters_,  vol. 22, no. 12, pp. 2487 – 2490, Dec., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8490674)
