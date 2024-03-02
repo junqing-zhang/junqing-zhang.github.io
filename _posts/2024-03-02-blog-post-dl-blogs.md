@@ -19,3 +19,4 @@ This paper summarizes blogs for deep learning.
 * [What is self-supervised learning?](https://www.ibm.com/topics/self-supervised-learning){:target="_blank"} (IBM blog, 2023)
 * [The Beginner’s Guide to Contrastive Learning](https://www.v7labs.com/blog/contrastive-learning-guide){:target="_blank"} (V7labs, 2022)
 * [Autoencoders in Deep Learning: Tutorial & Use Cases [2023]](https://www.v7labs.com/blog/autoencoders-guide){:target="_blank"} (V7labs, 2023)
+* [Contractive Autoencoders: An Insight into Enhanced Feature Learning](https://medium.com/aimonks/contractive-autoencoders-an-insight-into-enhanced-feature-learning-d3d3bd103d88){:target="_blank"} (Medium, 2023)
