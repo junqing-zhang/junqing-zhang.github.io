@@ -23,6 +23,7 @@ A complete LoRaWAN application requires end devices, gateway, network server, an
 
 **Tutorial**
 * [An Introduction of Long Range and LoRaWAN Technology](https://www.seeedstudio.com/blog/2020/08/03/lorapedia-an-introduction-of-lora-and-lorawan-technology/){:target="_blank"}
+* [The Arduino Guide to LoRa® and LoRaWAN®](https://docs.arduino.cc/learn/communication/lorawan-101/){:target="_blank"}
 * [LoRaWAN Overview by TTN](https://www.thethingsnetwork.org/docs/lorawan/){:target="_blank"}
 * mbed tutorial: Building a private LoRa network [link](https://os.mbed.com/docs/mbed-os/v5.12/tutorials/LoRa-tutorial.html){:target="_blank"}
 * LoRaWAN network architecture [link](https://os.mbed.com/docs/mbed-os/v5.12/reference/lora-tech.html){:target="_blank"}
@@ -44,6 +45,10 @@ LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://ww
 
 * LoRa modem with LimeSDR [Link](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
 * Understanding LoRa RF modulation [link](https://revspace.nl/DecodingLora){:target="_blank"}
+
+**Arduino LoRa Driver**
+
+*  [Arduino LoRa](https://github.com/sandeepmistry/arduino-LoRa){:target="_blank"}
 
 ## LoRaWAN
 LoRaWAN is a media access control (MAC) protocol for wide area networks. It is defined by [LoRa Alliance](https://lora-alliance.org/){:target="_blank"}.
