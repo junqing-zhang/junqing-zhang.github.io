@@ -5,6 +5,7 @@ permalink: /posts/blog-post-bluetooth/
 categories:
   - Resources
   - Wireless  
+  - Internet of Things
 tags:  
   - Bluetooth
 ---

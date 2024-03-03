@@ -5,6 +5,7 @@ permalink: /posts/blog-post-lora-lorawan/
 categories:
   - Resources
   - Wireless  
+  - Internet of Things
 tags:  
   - LoRaWAN
 ---

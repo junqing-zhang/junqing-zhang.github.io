@@ -6,6 +6,7 @@ toc: true
 categories:
   - Resources
   - Wireless  
+  - Internet of Things
 tags:  
   - ZigBee
   - IEEE 802.15.4

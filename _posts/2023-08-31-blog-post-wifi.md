@@ -5,6 +5,7 @@ permalink: /posts/blog-post-wifi/
 categories:
   - Resources
   - Wireless  
+  - Internet of Things
 tags:
   - WiFi
 ---
