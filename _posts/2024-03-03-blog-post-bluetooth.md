@@ -1,7 +1,7 @@
 ---
 title: 'Resources for Bluetooth Low Energy'
-date: 2020-11-07
-permalink: /posts/2020/11/blog-post-bluetooth/
+date: 2024-03-03
+permalink: /posts/blog-post-bluetooth/
 categories:
   - Resources
   - Wireless  
@@ -19,6 +19,9 @@ There is some confusion about the Bluetooth. Generally speaking, Bluetooth 1.0 -
 New features of Bluetooth 5 can be found [here](https://www.bluetooth.com/bluetooth-resources/bluetooth-5-go-faster-go-further/){:target="_blank"}. The full and latest specification, v5.2 (released in 2019) can be downloaded [here](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}.
 
 Unless otherwise highlighted, the following descriptions apply to BLE, which might not be correct for classic Bluetooth.
+
+# Tutorial
+* [Arduino Bluetooth](https://docs.arduino.cc/learn/communication/bluetooth/){:target="_blank"}
 
 # Network Architecture
 * Point-to-Point and Point-to-Multipoint Connection Topology (Both Bluetooth classic and BLE)
