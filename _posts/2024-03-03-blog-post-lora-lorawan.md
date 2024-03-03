@@ -1,6 +1,6 @@
 ---
 title: 'Resources for LoRa and LoRaWAN'
-date: 2023-10-11
+date: 2024-03-03
 permalink: /posts/blog-post-lora-lorawan/
 categories:
   - Resources
@@ -22,6 +22,7 @@ A complete LoRaWAN application requires end devices, gateway, network server, an
 
 
 **Tutorial**
+* [An Introduction of Long Range and LoRaWAN Technology](https://www.seeedstudio.com/blog/2020/08/03/lorapedia-an-introduction-of-lora-and-lorawan-technology/){:target="_blank"}
 * [LoRaWAN Overview by TTN](https://www.thethingsnetwork.org/docs/lorawan/){:target="_blank"}
 * mbed tutorial: Building a private LoRa network [link](https://os.mbed.com/docs/mbed-os/v5.12/tutorials/LoRa-tutorial.html){:target="_blank"}
 * LoRaWAN network architecture [link](https://os.mbed.com/docs/mbed-os/v5.12/reference/lora-tech.html){:target="_blank"}
