@@ -8,5 +8,7 @@ collection: research-area
 <br />
 Figure from [https://arxiv.org/pdf/2203.02014.pdf](https://arxiv.org/pdf/2203.02014.pdfhttps://arxiv.org/pdf/2203.02014.pdf){:target="_blank"}
 
-* [Wireless Sensing Overview](/wireless-sensing/wireless-sensing-overview/)
-* [Wireless Sensing Publication at University of Liverpool](/wireless-sensing/wireless-sensing-pub/)
+
+WiFi Sensing
+* [WiFi Sensing Overview](/wireless-sensing/wifi-sensing-overview/)
+* [WiFi Sensing Publication at University of Liverpool](/wireless-sensing/wi-sensing-pub/)
