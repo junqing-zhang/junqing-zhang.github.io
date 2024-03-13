@@ -39,6 +39,7 @@ Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/sear
 1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
 
 # Journal Article
+1. Linning Peng, Zhenni Wu, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu, “Hybrid RFF Identification for LTE Using Wavelet Coefficient Graph and Differential Spectrum,” _IEEE Transactions on Vehicular Technology_, 2024
 1. Guyue Li, Yiyun Ma, Wenhao Wang, **Junqing Zhang** and Hongyi Luo, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting,” _IEEE Internet of Things Journal_, 2024
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Linning Peng, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, _IEEE Transactions on Vehicular Technology_, 2024. [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
