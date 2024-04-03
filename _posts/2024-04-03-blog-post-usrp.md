@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - USRP'
-date: 2019-08-07
-permalink: /posts/2019/08/blog-post-usrp/
+date: 2024-04-03
+permalink: /posts/blog-post-usrp/
 categories:
   - Resources
   - Wireless  
@@ -29,7 +29,7 @@ Other methods can be found as follows.
 
 
 # Matlab Support
-Matlab has a good support for Ettus USRP which allows fast test and prototype. Please visit * [Communications Toolbox Support Package for USRP Radio](https://uk.mathworks.com/help/supportpkg/usrpradio/index.html){:target="_blank"} for more information.
+Matlab has a good support for Ettus USRP which allows fast test and prototype. Please visit [Communications Toolbox Support Package for USRP Radio](https://uk.mathworks.com/help/supportpkg/usrpradio/index.html){:target="_blank"} for more information.
 
 
 # Resources
