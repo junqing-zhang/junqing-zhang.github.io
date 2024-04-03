@@ -28,6 +28,7 @@ Other methods can be found as follows.
 * [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on OS X](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_OS_X){:target="_blank"}
 
 # USRP Models
+* [USRP B200/B210/B200mini/B205mini](https://kb.ettus.com/B200/B210/B200mini/B205mini){:target="_blank"}
 * [USRP N200/N210](https://kb.ettus.com/N200/N210){:target="_blank"}
 * [USRP X300/X310](https://kb.ettus.com/X300/X310){:target="_blank"}
 
