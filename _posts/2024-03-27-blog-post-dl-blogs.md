@@ -24,3 +24,4 @@ This paper summarizes blogs for deep learning.
 
 # Code Examples
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html){:target="_blank"}
+* [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html){:target="_blank"}
