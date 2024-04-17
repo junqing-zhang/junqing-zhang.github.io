@@ -40,7 +40,7 @@ Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/sear
 
 # Journal Article
 1. Pengcheng Yin, Linning Peng, Guanxiong Shen, **Junqing Zhang**, Ming Liu, Hua Fu, Aiqun Hu, and Xianbin Wang, “Multi-Channel CNN-Based Open-Set RF Fingerprint Identification for LTE Devices,” _IEEE Transactions on Cognitive Communications and Networking_, 2024. 
-1. Yuepei Li, Kai Xu, **Junqing Zhang**, Chongyan Gu, Yuan Ding, George Goussetis, and Symon K. Podilchak, “PUF-Assisted Radio Frequency Fingerprinting Exploiting Power Amplifier Active Load-pulling”, _IEEE Transactions on Information Forensics and Security_, 2024
+1. Yuepei Li, Kai Xu, **Junqing Zhang**, Chongyan Gu, Yuan Ding, George Goussetis, and Symon K. Podilchak, “PUF-Assisted Radio Frequency Fingerprinting Exploiting Power Amplifier Active Load-pulling”, _IEEE Transactions on Information Forensics and Security_, 2024. [link](https://ieeexplore.ieee.org/document/10500472){:target="_blank"}
 1. Linning Peng, Zhenni Wu, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu, “Hybrid RFF Identification for LTE Using Wavelet Coefficient Graph and Differential Spectrum,” _IEEE Transactions on Vehicular Technology_, 2024
 1. Guyue Li, Yiyun Ma, Wenhao Wang, **Junqing Zhang** and Hongyi Luo, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting,” _IEEE Internet of Things Journal_, 2024
 1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Linning Peng, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, _IEEE Transactions on Vehicular Technology_, 2024. [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
