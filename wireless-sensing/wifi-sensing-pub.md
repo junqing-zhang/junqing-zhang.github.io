@@ -1,14 +1,16 @@
 ---
-title: "Publication - Wireless Sensing @ University of Liverpool"
-permalink: /wireless-sensing/wireless-sensing-pub/
+title: "Publication - WiFi Sensing @ University of Liverpool"
+permalink: /wireless-sensing/wifi-sensing-pub/
 date: 2022-11-08
 author_profile: true
 toc: true
 categories:
   - Research
   - Wireless Sensing
+  - WiFi Sensing
 tags:
   - Wireless Sensing
+  - WiFi Sensing
 ---
 
 * denotes corresponding author.

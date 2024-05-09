@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - USRP'
-date: 2019-08-07
-permalink: /posts/2019/08/blog-post-usrp/
+date: 2024-04-03
+permalink: /posts/blog-post-usrp/
 categories:
   - Resources
   - Wireless  
@@ -27,9 +27,13 @@ Other methods can be found as follows.
 * [Building and Installing the USRP Open Source Toolchain (UHD and GNU Radio) on Windows](https://kb.ettus.com/Building_and_Installing_the_USRP_Open_Source_Toolchain_(UHD_and_GNU_Radio)_on_Windows){:target="_blank"}
 * [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on OS X](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_OS_X){:target="_blank"}
 
+# USRP Models
+* [USRP B200/B210/B200mini/B205mini](https://kb.ettus.com/B200/B210/B200mini/B205mini){:target="_blank"}
+* [USRP N200/N210](https://kb.ettus.com/N200/N210){:target="_blank"}
+* [USRP X300/X310](https://kb.ettus.com/X300/X310){:target="_blank"}
 
 # Matlab Support
-Matlab has a good support for Ettus USRP which allows fast test and prototype. Please visit * [Communications Toolbox Support Package for USRP Radio](https://uk.mathworks.com/help/supportpkg/usrpradio/index.html){:target="_blank"} for more information.
+Matlab has a good support for Ettus USRP which allows fast test and prototype. Please visit [Communications Toolbox Support Package for USRP Radio](https://uk.mathworks.com/help/supportpkg/usrpradio/index.html){:target="_blank"} for more information.
 
 
 # Resources
