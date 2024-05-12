@@ -81,6 +81,9 @@ A full list of the [mbed LoRa device](https://os.mbed.com/cookbook/LoRa){:target
 
 For example, if you are using Pycom devices, you can connect the end device by using [Authentication By Personalisation (ABP)](https://docs.pycom.io/tutorials/lora/lorawan-abp/){:target="_blank"} or [Over The Air Authentication (OTAA)](https://docs.pycom.io/tutorials/lora/lorawan-otaa/){:target="_blank"}. 
 
+
+[LoRaWAN® Transceivers](https://www.thethingsnetwork.org/docs/lorawan/transceivers/){:target="_blank"}
+
 # Gateway
 You may have experience setting up a WiFi router (access point) at home or office. Users will need password to access the router for internet, which can be referred as a private router. In LoRaWAN, it is a different story. You do not need a password to connect to a gateway. As long as there is a gateway nearby, your end devices will connect to the gateway and eventually to the network server. In this case, the gateway is public. A detailed introduction on the gateway can be found at [here](https://www.thethingsnetwork.org/docs/gateways/){:target="_blank"}, where you can find a list of recommended hardware.
 
