@@ -69,13 +69,13 @@ toc_max_header: 1
 ## Wireless Security Workshop
 * [IEEE GLOBECOM 2025 Second Workshop on Machine Learning and Deep Learning for Wireless Security](){:target="_blank"}
 * [IEEE ICC 2024 First Workshop on Machine Learning and Deep Learning for Wireless Security](https://icc2024.ieee-icc.org/workshop/ws-18-ieee-icc-2024-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
+* [ACM Workshop on Wireless Security and Machine Learning (WiseML 2023)](https://wisec2023.surrey.ac.uk/wiseml2023/){:target="_blank"}
 
 ## Physical Layer Security Workshop
 * [IEEE VTC 2023 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2023-fall/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-bg5-and-6g/){:target="_blank"}
 * [IEEE VTC 2022 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2022-fall/conference-sessions/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
 * [IEEE VTC 2021 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2021-fall/conference-sessions/call-for-workshops/w8-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
 * [IEEE WCNC 2023 WS-03: Trusted Communications with Physical Layer Security](https://wcnc2023.ieee-wcnc.org/workshop/ws-03-trusted-communications-physical-layer-security){:target="_blank"}
-* [ACM Workshop on Wireless Security and Machine Learning (WiseML 2023)](https://wisec2023.surrey.ac.uk/wiseml2023/){:target="_blank"}
 * IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
 
 # Session Chair
