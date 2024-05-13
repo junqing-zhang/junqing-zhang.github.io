@@ -56,6 +56,7 @@ toc_max_header: 1
 * Special Issue on Security Threats to Artificial Intelligence-Driven Wireless Communication Systems, Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
 
 # Technical Conference Co-Chair
+* Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN)Symposium at [International Conference on Computing, Networking and Communications (ICNC 2025)](http://www.conf-icnc.org/2025/){:target="_blank"}
 * Co-Chairs of Signal Processing for Communications Symposium at IEEE International Conference on Communications (ICC) 2023
 * Co-Chairs of Wireless Networking and Multimedia Symposium at IEEE/CIC International Conference on Communications in China 2022
 * Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
