@@ -12,6 +12,7 @@ tags:
 
 This page summarizes information for Universal Software Radio Peripheral (USRP).
 
+{% include toc %}
 
 # Introduction
 USRP has different series, including network series, bus series, embedded series. A selection guide is given in [https://kb.ettus.com/Selecting_an_USRP_Device](https://kb.ettus.com/Selecting_an_USRP_Device){:target="_blank"}

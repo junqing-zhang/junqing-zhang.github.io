@@ -8,7 +8,6 @@ tags:
   - Resources 
 ---
 
-This page summarizes information for Universal Software Radio Peripheral (USRP).
 
 
 # Internet of Things
