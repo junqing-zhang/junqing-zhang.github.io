@@ -1,7 +1,7 @@
 ---
 title: 'Wireless Channel and Radio Propagation'
-date: 2022-04-15
-permalink: /posts/2022/04/blog-post-wireless-channel-radio-propagation/
+date: 2024-05-21
+permalink: /posts/blog-post-wireless-channel-radio-propagation/
 categories:
   - Resources
   - Wireless
