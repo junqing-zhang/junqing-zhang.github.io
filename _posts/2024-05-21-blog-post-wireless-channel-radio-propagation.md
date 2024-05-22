@@ -20,6 +20,8 @@ This paper summarizes resources for Wireless Channel and Radio Propagation.
 # Wireless Channel
 * The channel effect includes large scale fading (path loss and shadowing) and small scale fading (multipath). Please refer to the communication textbook by Professor Andrea Goldsmith: [Wireless Communications](http://web.stanford.edu/class/ee359/doc/WirelessComm_Chp1-16_March32020.pdf){:target="_blank"}, for more details (Chapter 2 and Chapter 3). 
 
+* Chapters 1-3 of [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}. Matlab codes are available.
+
 * Matlab Technical Report: [A Matlab-based Object-Oriented Approach to Multipath Fading Channel Simulation](https://www.mathworks.com/matlabcentral/fileexchange/18869-a-matlab-based-object-oriented-approach-to-multipath-fading-channel-simulation){:target="_blank"}
 
 # Antenna
