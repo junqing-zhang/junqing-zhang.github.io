@@ -58,7 +58,8 @@ All the components of wireless devices will have slightly different features, e.
 <img align="center" width="800" src="{{ site.url }}/images/rffi/RFFI_DL.png" alt="...">
 <br />
 
-## [2 WiFi Sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
+## Wireless Sensing
+### [2.1 WiFi Sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
 * [WiFi Sensing Overview](/wireless-sensing/wifi-sensing-overview/)
 * [WiFi Sensing Dataset](/wireless-sensing/wifi-sensing-dataset/)
 * [WiFi Sensing Resources](/wireless-sensing/wifi-sensing-resources/)
@@ -69,6 +70,8 @@ All the components of wireless devices will have slightly different features, e.
 <img align="center" width="800" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
 <br />
 
+### 2.2 mmWave Radar Sensing
+To be updated
 
 # [Research Demonstration](https://junqing-zhang.github.io/research-area/research-demo/){:target="_blank"}
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
