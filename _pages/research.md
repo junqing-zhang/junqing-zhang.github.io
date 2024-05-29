@@ -19,7 +19,7 @@ I have developed a strong research potential in innovative physical layer securi
 # Research Topics
 My research aims to exploit the wireless channel for security and sensing. 
 
-## Wireless Security
+## 1. Wireless Security
 Secure communication will be achieved by using key generation and device authentication. 
 
 <br />
@@ -28,7 +28,7 @@ Secure communication will be achieved by using key generation and device authent
 
 
 
-### [Key Generation from Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
+### 1.1 [Key Generation from Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 * [Key Generation Overview](/keygen/keygen-overview/)
 * [Key Generation Publication at University of Liverpool](/keygen/keygen-pub/)
@@ -43,7 +43,7 @@ Key generation is an emerging technique to establish cryptographic keys between 
 <br />
 
 
-### [Radio Frequency Fingerprint Identification (RFFI)](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"} 
+### 1.2 [Radio Frequency Fingerprint Identification (RFFI)](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"} 
 All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
 
 * [RFFI Overview](/rffi/rffi-overview/)
@@ -58,7 +58,7 @@ All the components of wireless devices will have slightly different features, e.
 <img align="center" width="800" src="{{ site.url }}/images/rffi/RFFI_DL.png" alt="...">
 <br />
 
-## [WiFi Sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
+## [2 WiFi Sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
 * [WiFi Sensing Overview](/wireless-sensing/wifi-sensing-overview/)
 * [WiFi Sensing Dataset](/wireless-sensing/wifi-sensing-dataset/)
 * [WiFi Sensing Resources](/wireless-sensing/wifi-sensing-resources/)
