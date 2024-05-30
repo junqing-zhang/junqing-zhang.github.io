@@ -34,7 +34,12 @@ Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/sear
 1. [Code: LoRa RFFI with Different Spreading Factors](https://github.com/gxhen/lengthVersatileRFFI){:target="_blank"}
 > Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 2355 - 2367, Apr. 2023. [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
 
+# Book
+1. Trung Q. Duong, **Junqing Zhang**, Nan Yang, Xiangyun Zhou, and Vishal Sharma, "Physical Layer Security for 6G Networks,"  Eds, Stevenage, UK: Institute of Engineering and Technology, 2024. [link](https://digital-library.theiet.org/content/books/te/pbte107e){:target="_blank"} 
+
+
 # Book Chapter
+1. Guanxiong Shen, **Junqing Zhang**, and Alan Marshall, “Deep learning-enhanced radio frequency fingerprint identification” in  _Physical Layer Security for 6G Networks_, Trung Q. Duong, **Junqing Zhang**, Nan Yang, Xiangyun Zhou, and Vishal Sharma, Eds, Stevenage, UK: Institute of Engineering and Technology, 2024
 1. **Junqing Zhang**, Trung Q. Duong, Roger Woods, and Alan Marshall, “Key generation from wireless channels: A survey and practical implementation” in _Trusted Communications with Physical Layer Security for 5G and Beyond_, Trung Q. Duong, Xiangyun Zhou, and Vincent Poor, Eds, Stevenage, UK: Institute of Engineering and Technology, 2017
 
 # Preprint
