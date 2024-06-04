@@ -69,8 +69,7 @@ conda list
 conda install -c conda-forge tensorflow=1.13
 ```
 
-# Deep Learning Tutorials
-* [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
+
 
 # Online Resources
 * CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [link](http://cs231n.stanford.edu/){:target="_blank"}

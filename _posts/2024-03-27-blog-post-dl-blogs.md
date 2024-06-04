@@ -14,6 +14,12 @@ This paper summarizes blogs for deep learning.
 
 {% include toc %}
 
+# Basic Knowledge
+* [What’s the Difference Between Deep Learning Training and Inference?
+](https://blogs.nvidia.com/blog/difference-deep-learning-training-inference-ai/){:target="_blank"}
+* [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
+
+
 # Blogs
 * [Deep learning architectures](https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/){:target="_blank"} (IBM blog, 2017)
 * [Representation Learning Breakthroughs Every ML Engineer Should Know: What is Representation Learning?](https://medium.com/radix-ai-blog/representation-learning-breakthroughs-what-is-representation-learning-5dda2e2fed2e){:target="_blank"} (Medium, 2023)
