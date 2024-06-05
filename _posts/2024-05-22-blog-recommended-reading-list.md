@@ -8,7 +8,7 @@ tags:
   - Resources 
 ---
 
-
+This page summarizes recommended reading list.
 
 # Internet of Things
 * [IoT Book (in Chinese)](https://iot-book.github.io/){:target="_blank"}
