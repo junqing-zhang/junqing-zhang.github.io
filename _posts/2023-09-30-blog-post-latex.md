@@ -81,6 +81,9 @@ It is usually quite difficult if you want to add annotation into the Matlab figu
 4. Add texts as you wish. 
 5. Save the slide to a pdf file.
 
+## Matlab Function - Save Plot as Image or Vector Graphics File
+Use [https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html](https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html){:target="_blank"} to save figures.
+
 ## Matlab Export Figure
 When using Matlab to save figures to to pdf or eps, there will usually be margins. Use the [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig){:target="_blank"} to save Matlab figures without margin.
 
