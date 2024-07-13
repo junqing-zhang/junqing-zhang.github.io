@@ -8,48 +8,10 @@ toc_max_header: 1
 ---
 {% include toc h_min = 1%}
 
-# Public Engagement
-## STEM for BRITAIN 2017
-* **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
-* STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
-# Tutorial
-* Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
-
-# Invited Talk
-* Invited by Dr. Weitao Xu to give a talk at City University of Hong Kong, 8 December 2023
-* Invited by Prof. Stefano Tomasin to give a talk at University of Padova, Italy, 9 November 2023
-* Invited by Prof. Eduard  Jorswieck to give a talk at Technische Universität Braunschweig, Germany, 7 November 2023
-* Invited by Dr. Chongyan Gu to give a talk at Queen's University Belfast, 22 August 2023
-* Invited by Prof. Mark Beach to give a talk at University of Bristol, 6 March 2023
-* Invited by Dr. Guyue Li to give a talk at Southeast University, China, 10 June 2022
-* Invited by Dr. Shun Zhang to give a talk at Xidian University, China, 24th May 2022
-* Invited by Prof Mark Beach and Dr. Magnus Sandell to give a talk at University of Bristol, UK, 10th January 2022
-* Invited by Prof Huiyu Zhou from the University of Leicester, UK, to give a keynote speech at the 2nd Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence, 10th December 2021
-* Invited by Prof Yanzhao Xie at Xian Jiaotong University, China, 6th December 2021
-* Invited by Dr. Kyeong Soo Kim at Xian Jiaotong-Liverpool University, China, 2nd Sept., 2019
-* Invited by Prof. Chao Wang at Tianjin University, China, 30th Aug., 2019
-* Invited by Prof. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug., 2019
-* Invited by Dr. Linning Peng at Southeast University, China, 22nd Aug., 2019
-* Invited talk at Zhijiang Lab, China, 16th Aug., 2019
-* Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19th July, 2019
-* Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
-* Invited talk at Joint Workshop of University of Liverpool-Xian Jiaotong University at University of Liverpool, UK, 24th June, 2019
-* Invited by Dr. An Liu at Zhejiang University, China, 4th Sept., 2018
-* IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
-* Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
-* Invited by Prof. Jie Xu at Guangdong University of Technology, China, 22nd Dec., 2017
-* Invited by Dr. Caijun Zhong at Zhejiang University, China, 28th Apr., 2017
-* Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec., 2016
-* Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec., 2016
-
-# Poster Presentation
-* Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019
-* Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept., 2017
 
 # Editorship
-* Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
-* Associate Editor of IoT and Sensor Networks Section, Frontiers in Communications and Networks (May 2022 to present)
+* Associate Editor of IEEE Transactions on Information Forensics and Security (July 2024 to present)
 
 # Guest Editor
 * Special Section on Antennas and Array Processing for Physical Layer Wireless Security, IEEE Open Journal of Antennas and Propagation
@@ -82,6 +44,7 @@ toc_max_header: 1
 * IEEE GLOBECOM 2016 Signal Processing for Communications Symposium, Security and Secrecy Track
 
 # TPC Member
+* IEEE INFOCOM 2025
 * IEEE International Conference on Communications (ICC): Communication and Information Systems Security Symposium, 2019 - 2022
 * IEEE International Conference on Communications (ICC): Wireless Communications Symposium, 2019 - 2022
 * IEEE GLOBECOM: Signal Processing for Communications Symposium, 2016 - 2021
@@ -150,3 +113,43 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 * International Conference on Computing, Networking and Communications 2018
 * IEEE Workshop on Signal Processing Systems 2018
 * European Conference on Networks and Communications (EuCNC) 2019
+
+
+# Public Engagement
+## STEM for BRITAIN 2017
+* **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
+* STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
+
+# Tutorial
+* Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
+
+# Invited Talk
+* Invited by Dr. Weitao Xu to give a talk at City University of Hong Kong, 8 December 2023
+* Invited by Prof. Stefano Tomasin to give a talk at University of Padova, Italy, 9 November 2023
+* Invited by Prof. Eduard  Jorswieck to give a talk at Technische Universität Braunschweig, Germany, 7 November 2023
+* Invited by Dr. Chongyan Gu to give a talk at Queen's University Belfast, 22 August 2023
+* Invited by Prof. Mark Beach to give a talk at University of Bristol, 6 March 2023
+* Invited by Dr. Guyue Li to give a talk at Southeast University, China, 10 June 2022
+* Invited by Dr. Shun Zhang to give a talk at Xidian University, China, 24th May 2022
+* Invited by Prof Mark Beach and Dr. Magnus Sandell to give a talk at University of Bristol, UK, 10th January 2022
+* Invited by Prof Huiyu Zhou from the University of Leicester, UK, to give a keynote speech at the 2nd Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence, 10th December 2021
+* Invited by Prof Yanzhao Xie at Xian Jiaotong University, China, 6th December 2021
+* Invited by Dr. Kyeong Soo Kim at Xian Jiaotong-Liverpool University, China, 2nd Sept., 2019
+* Invited by Prof. Chao Wang at Tianjin University, China, 30th Aug., 2019
+* Invited by Prof. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug., 2019
+* Invited by Dr. Linning Peng at Southeast University, China, 22nd Aug., 2019
+* Invited talk at Zhijiang Lab, China, 16th Aug., 2019
+* Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19th July, 2019
+* Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
+* Invited talk at Joint Workshop of University of Liverpool-Xian Jiaotong University at University of Liverpool, UK, 24th June, 2019
+* Invited by Dr. An Liu at Zhejiang University, China, 4th Sept., 2018
+* IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
+* Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
+* Invited by Prof. Jie Xu at Guangdong University of Technology, China, 22nd Dec., 2017
+* Invited by Dr. Caijun Zhong at Zhejiang University, China, 28th Apr., 2017
+* Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec., 2016
+* Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec., 2016
+
+# Poster Presentation
+* Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019
+* Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept., 2017
