@@ -11,7 +11,7 @@ toc_max_header: 1
 
 
 # Editorship
-* Associate Editor of IEEE Transactions on Information Forensics and Security (July 2024 to present)
+* Senior Area Editor of IEEE Transactions on Information Forensics and Security (July 2024 to present)
 
 # Guest Editor
 * Special Section on Antennas and Array Processing for Physical Layer Wireless Security, IEEE Open Journal of Antennas and Propagation
