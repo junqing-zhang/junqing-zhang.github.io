@@ -1,7 +1,7 @@
 ---
 title: 'How to Write a (Good) Paper'
 date: 2020-08-28
-permalink: /posts/2020/02/blog-post-writing/
+permalink: /posts/blog-post-writing/
 categories:
   - Resources  
   - Tool
