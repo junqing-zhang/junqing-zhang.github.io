@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-Junqing Zhang is a Senior Lecturer (Associate Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has also been exploring novel wireless sensing using WiFi and mmwave radars. He has been investigating wireless security and sensing solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, Bluetooth, ZigBee, etc, with a focus on the physical and MAC layers.
+Junqing Zhang is a Senior Lecturer (Associate Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. He is a Senior Area Editor of IEEE Transactions on Information Forensics and Security. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has also been exploring novel wireless sensing using WiFi and mmwave radars. He has been investigating wireless security and sensing solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, Bluetooth, ZigBee, etc, with a focus on the physical and MAC layers.
 
 He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
