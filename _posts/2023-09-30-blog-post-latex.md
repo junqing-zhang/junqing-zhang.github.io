@@ -81,7 +81,12 @@ It is usually quite difficult if you want to add annotation into the Matlab figu
 4. Add texts as you wish. 
 5. Save the slide to a pdf file.
 
-## Matlab Function - Save Plot as Image or Vector Graphics File
+## Figure Preparation
+In IEEE papers, the text size in the figures should be similar to the size of texts in the main body or caption. When using Matlab to prepare the results figures, DO NOT manually change any of the format of the text, including the legend, labels, etc. In addition, DO NOT change the thickness of the lines. Then save the figures into pdf files. In LaTex, set the figure width as 3.4in. In this way, the text size in the figure will meet the requirement.
+
+Sometime we may need to put two figures side by side in one column. In that case, resize the original Matlab plotted figure to half of the original width. When these two resized figures are loaded to LaTex, their text size will meet the requirement.
+
+## Matlab Function - Save Plot as Image or Vector Graphics File (Recommended)
 Use [https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html](https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html){:target="_blank"} to save figures.
 
 ## Matlab Export Figure
