@@ -66,6 +66,8 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 
 
 # 5. Figure
+* [IEEE guideline](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-graphics-for-your-article/){:target="_blank"}
+
 ## Choose vector figure over bitmap 
 It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
 
