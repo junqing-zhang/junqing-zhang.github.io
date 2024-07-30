@@ -29,7 +29,7 @@ toc_max_header: 1
 * [IEEE INFOCOM 2023 First DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
 
 ## Wireless Security Workshop
-* [IEEE GLOBECOM 2025 Second Workshop on Machine Learning and Deep Learning for Wireless Security](){:target="_blank"}
+* [IEEE GLOBECOM 2025 Second Workshop on Machine Learning and Deep Learning for Wireless Security](https://globecom2024.ieee-globecom.org/workshop/ws-17-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 * [IEEE ICC 2024 First Workshop on Machine Learning and Deep Learning for Wireless Security](https://icc2024.ieee-icc.org/workshop/ws-18-ieee-icc-2024-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 * [ACM Workshop on Wireless Security and Machine Learning (WiseML 2023)](https://wisec2023.surrey.ac.uk/wiseml2023/){:target="_blank"}
 
