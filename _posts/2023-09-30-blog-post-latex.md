@@ -153,7 +153,7 @@ Use the following code to include two subfigures
 # 7. Cross Referencing
 When using figures, tables, and equations, I strongly suggest to use cross referencing. Please refer to [this link](https://www.overleaf.com/learn/latex/Cross_referencing_sections_and_equations){:target="_blank"} for a detailed tutorial.
 
-It includes two step. First, include the label during the definition. Prefix is recommended to distinguish them, e.g., \label{fig:fig1}, \label{tab:tab1}, and \label{eq:eq1}. This is extremely helpful when your report has many of them. Then, refer to it in the main text, e.g., \ ref{fig:fig1} (without space between \ and ref).
+It includes two step. First, include the label during the definition. Prefix is recommended to distinguish them, e.g., \label{fig:system_model}, \label{tab:results}, and \label{eq:snr}. This is extremely helpful when your report has many of them. Then, refer to it in the main text, e.g., `\ref{fig:system_model}` (without space between \ and ref).
 
 
 # 8. Latex Track Change
