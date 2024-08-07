@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Dataset and Code"
-permalink: /dataset_code/
+permalink: /dataset-code/
 author_profile: true
 toc: true
 ---
