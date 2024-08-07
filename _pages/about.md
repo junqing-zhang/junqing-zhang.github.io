@@ -25,8 +25,7 @@ Please find more information from his
 ## Highlights
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
-[//]: ## [News](/news/)
-Please visit [News](/news/) for all the news.
+[//]: ## [News](/news/) Please visit [News](/news/) for all the news.
 
 
 [//]: * PhD Opening: I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 31 January, 2020.
@@ -38,12 +37,14 @@ Please visit [News](/news/) for all the news.
 
 ## Research Area
 * Internet of Things
-* Wireless security
+Wireless security
 * Physical layer security
 * Key generation
 * Device authentication
 * Radio frequency fingerprint identification
-* Device free wireless sensing
+Wireless sensing
+* WiFi sensing
+* mmWave radar sensing
 
 ## Research Expertise
 * Wireless communication techniques, such as OFDM, spread spectrum, etc
