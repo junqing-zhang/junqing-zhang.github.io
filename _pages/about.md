@@ -36,12 +36,14 @@ We have made some datasets and codes publicly available. Please visit [this link
 
 
 ## Research Area
-* Internet of Things
+Internet of Things
+
 Wireless security
 * Physical layer security
 * Key generation
 * Device authentication
 * Radio frequency fingerprint identification
+
 Wireless sensing
 * WiFi sensing
 * mmWave radar sensing
