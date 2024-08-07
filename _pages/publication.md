@@ -18,7 +18,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of
 {% include toc %}
 
 # Dataset and Code
-We have made some datasets and codes publicly available. Please visit [this link](dataset_code) for the details.
+We have made some datasets and codes publicly available. Please visit [this link](./dataset_code) for the details.
 
 # Dataset 
 Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/search/node/Junqing%20Zhang%20Liverpool){:target="_blank"}
