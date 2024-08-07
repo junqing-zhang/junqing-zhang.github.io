@@ -40,9 +40,10 @@ Internet of Things
 
 Wireless security
 * Physical layer security
-* Key generation
+* Key generation from wireless channel
 * Device authentication
 * Radio frequency fingerprint identification
+* Physical layer CSI authentication
 
 Wireless sensing
 * WiFi sensing
