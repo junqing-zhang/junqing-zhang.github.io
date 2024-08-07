@@ -23,7 +23,7 @@ Please find more information from his
 [//]: [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
  
 ## Highlights
-_The dataset and code of our paper entitled “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' have been made available. Download from: [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}._
+We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
 [//]: ## [News](/news/)
 Please visit [News](/news/) for all the news.
