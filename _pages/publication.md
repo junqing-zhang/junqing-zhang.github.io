@@ -92,6 +92,7 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
+1. To Truong An, Simon L. Cotton, **Junqing Zhang**, Yuan Ding and Trung Q. Duong, “LoRa Radio Frequency Fingerprinting Using a Hybrid Quantum-Classical Neural Network”, in _Proc. IEEE VTC Fall_, 2024.
 1. Min Wang, Linning Peng, Lingnan Xie, **Junqing Zhang**, Ming Liu, and Hua Fu, “Design of Noise Robust Open-Set Radio Frequency Fingerprint Identification Method”, in _Proc. IEEE INFOCOM Workshop_, 2024.
 1. Tianya Zhao, Xuyu Wang, **Junqing Zhang**, and Shiwen Mao, “Explanation-Guided Backdoor Attacks on Model-Agnostic RF Fingerprinting,” in _Proc. IEEE INFOCOM_, 2024.
 1. Chen Chen, and **Junqing Zhang**, “Machine Learning Enhanced Near-Field Secret Key Generation for Extremely Large-Scale MIMO,” in _Proc. IEEE  International Conference on Machine Learning for Communication and Networking_, 2024.
