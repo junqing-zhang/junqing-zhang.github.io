@@ -68,13 +68,19 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 * [IEEE guideline](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-graphics-for-your-article/){:target="_blank"}
 
 ## Choose vector figure over bitmap 
-It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. Generate pdf or eps because they are vector figures.
+It is strongly recommended to use vector figures for academic publication because of their good resolution. [Here](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures. 
 
-It is fine to use png, jpg for photos.
+Generate **pdf** or **eps** because they are vector figures.
+
+It is fine to use **png** or **jpg** for photos.
 
 ## Use PPT to Prepare Block Diagram
-PowerPoint can produce quite good look diagrams. There are lots of icons. Save the slides to pdf file.
+PowerPoint can produce quite good look diagrams. There are lots of icons. Save the slides to pdf file. 
 
+It is recommended to create a dedicated ppt file for each block diagram. In the PowerPoint, go to *Design -> Slide Size -> Customize Slide Size*, you make adjust the size of the slides to fit the diagram. In this way, you don't have to crop the pdf file saved from the ppt slide.
+
+
+## Use PPT to Annotate Matlab Figure
 It is usually quite difficult if you want to add annotation into the Matlab figure. This can be achieved via PowerPoint (with a few steps). 
 1. Generate the Matlab figure
 2. Click Edit-> Copy Figure 
