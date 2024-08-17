@@ -94,7 +94,7 @@ In IEEE papers, the text size in the figures should be similar to the size of te
 Sometime we may need to put two figures side by side in one column. In that case, resize the original Matlab plotted figure to half of the original width. When these two resized figures are loaded to LaTex, their text size will meet the requirement.
 
 ## Matlab Function - Save Plot as Image or Vector Graphics File (Recommended)
-Use [https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html](https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html){:target="_blank"} to save figures.
+Check  [https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html](https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html){:target="_blank"} to save figures.
 
 ## Matlab Export Figure
 When using Matlab to save figures to to pdf or eps, there will usually be margins. Use the [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig){:target="_blank"} to save Matlab figures without margin.
@@ -118,19 +118,22 @@ end
 ```
 
 ## Code Snippet
-* One figure
+### One figure
 ```
+The system overview is shown in Fig.~\ref{fig:sys_overview}.
 \begin{figure}[!t]
 	\centering
-		\includegraphics[width=3.4in]{fig1.pdf}
-	\caption{Caption.}
-	\label{fig:fig1}
+		\includegraphics[width=3.4in]{sys_overview.pdf}
+	\caption{System overview.}
+	\label{fig:sys_overview}
 \end{figure}
 ```
+Note: IEEE recommends option `[!t]`. In addition, place the codes below the paragraph where the figure is cited.
 
-* Subfigures
 
-In order to include subfigures, IEEE template recommends to use subfig.sty. Declare subfig package in the preamble:
+### Subfigures
+
+In order to include subfigures, IEEE template recommends to use **subfig.sty**. Declare subfig package in the preamble:
 ```
 \ifCLASSOPTIONcompsoc
 \usepackage[caption=false,font=normalsize,labelfont=sf,textfont=sf]{subfig}
