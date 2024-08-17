@@ -37,8 +37,7 @@ There are many Latex editors available and many of them are free to use. If you 
 Some tips to use the above combinations:
 * Create a project with your .tex file and then you will have the Outline view
 * When you are editing the tex file, press F5 will take you to the corresponding part in the pdf file (Sumatra PDF viewer)
-* When you are viewing your pdf file (Sumatra PDF viewer), double click the pdf file will take you to the corresponding part in the tex file.
-The above features will allow you switch between the tex and pdf quickly.
+* When you are viewing your pdf file (Sumatra PDF viewer), double click the pdf file will take you to the corresponding part in the tex file. The above features will allow you switch between the tex and pdf quickly. (You need to configure it properly. In the Sumatra, go to *Setting -> Options*, in the *Set inverse search commad-line*, select TeXnicCenter.)
 
 When use MikTex, you will need the admin right to install all the required packages.
 
