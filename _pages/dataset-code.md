@@ -34,3 +34,5 @@ Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/sear
 ## Code
 1. [Code: FewSense paper](https://github.com/Guolin-Yin/FewSense){:target="_blank"}. 
 > Guolin Yin, **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, and Yingying Chen, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning”, _IEEE Transactions on Mobile Computing_, vol. 23, no. 1, pp. 453 - 468, Jan. 2024. [arXiv link](https://arxiv.org/abs/2203.02014){:target="_blank"},[IEEE](https://ieeexplore.ieee.org/document/9947336){:target="_blank"}
+
+We used public datasets in this paper. Please read the paper for details.
