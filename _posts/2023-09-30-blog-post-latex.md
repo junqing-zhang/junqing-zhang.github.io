@@ -65,7 +65,9 @@ Excel2LATEX is recommended over online table generators. It allows you to save t
 
 
 # 5. Figure
-## [IEEE guideline](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-graphics-for-your-article/){:target="_blank"}
+Create a high quality diagram/figure is not an easy task.
+## Graphics for IEEE Publications
+Check [IEEE guideline](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-graphics-for-your-article/){:target="_blank"}
 
 IEEE recommends the following fonts in the graphics-for-your-article/
 * Helvetica
