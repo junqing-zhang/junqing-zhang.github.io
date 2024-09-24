@@ -19,11 +19,12 @@ This paper summarizes resources for deep learning for beginners.
 ](https://blogs.nvidia.com/blog/difference-deep-learning-training-inference-ai/){:target="_blank"}
 * [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
 
-# First Convolutional Neural Networks (CNN) Example
-MNIST dataset is probably the most popular for create the first CNN example. It consists of 70,000 images of handwritten digits from 0-9.
+# Your First Experience
+## MNIST Example
+MNIST dataset is probably the most popular for creating the first CNN example. It consists of 70,000 images of handwritten digits from 0-9.
 
 Depending on your preference of the programming languages, there are Python and Matlab examples available.
-* Python: [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5){:target="_blank"}. If you are using Python, you need to properly install software and configure your environments.
+* Python: [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5){:target="_blank"}. Pleaes also check [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}. You need to properly install software and configure your environments.
 * Matlab: [Create Simple Deep Learning Network for Classification](https://uk.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html). The Matlab Deep Learning Toolbox needs to be installed before you run the example.
  
 ## What is Convolutional Neural Networks (CNN)
@@ -33,6 +34,9 @@ Depending on your preference of the programming languages, there are Python and 
 
 # Deep Learning Architectures
 * [Deep learning architectures](https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/){:target="_blank"} (IBM blog, 2017)
+> This article classifies deep learning architectures into supervised and unsupervised learning and introduces several popular deep learning architectures: convolutional neural networks, recurrent neural networks (RNNs), long short-term memory/gated recurrent unit (GRU), self-organizing map (SOM), autoencoders (AE) and restricted Boltzman machine (RBM). It also gives an overview of deep belief networks (DBN) and deep stacking networks (DSNs)
+
+
 * [Illustrated: 10 CNN Architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#e276){:target="_blank"}: LeNet-5, AlexNet, VGG-16, Inception-v1, Inception-v3,  ResNet-50, Xception, Inception-v4, Inception-ResNets, ResNeXt-50
 * [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
 
