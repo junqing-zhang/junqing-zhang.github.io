@@ -12,22 +12,22 @@ Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/sear
 
 {% include toc %}
 
-# Radio Frequency Fingerprint Identification (RFFI)
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"}
-* [Dataset: LoRa RFFI](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"}
-* [Code: LoRa RFFI](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
-
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 2355 - 2367, Apr. 2023. [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
-* [Dataset: LoRa RFFI with Different Spreading Factors](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors){:target="_blank"}
-* [Code: LoRa RFFI with Different Spreading Factors](https://github.com/gxhen/lengthVersatileRFFI){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, 2024.
+* [Dataset: LoRa Federated RFFI](https://ieee-dataport.org/documents/lorafederatedrffidataset){:target="_blank"}
+* [LoRa Federated RFFI](https://github.com/gxhen/federatedRFFI){:target="_blank"}
 
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 * [Dataset: Radio Frequency Fingerprint LoRa Dataset Multiple Receivers](https://ieee-dataport.org/documents/radio-frequency-fingerprint-lora-dataset-multiple-receivers){:target="_blank"}
 * [Code: Radio Frequency Fingerprint LoRa Dataset Multiple Receivers](https://github.com/gxhen/receiverAgnosticRFFI){:target="_blank"}
 
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, 2024.
-* [Dataset: LoRa Federated RFFI](https://ieee-dataport.org/documents/lorafederatedrffidataset){:target="_blank"}
-* [LoRa Federated RFFI](https://github.com/gxhen/federatedRFFI){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 2355 - 2367, Apr. 2023. [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
+* [Dataset: LoRa RFFI with Different Spreading Factors](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors){:target="_blank"}
+* [Code: LoRa RFFI with Different Spreading Factors](https://github.com/gxhen/lengthVersatileRFFI){:target="_blank"}
+
+# Radio Frequency Fingerprint Identification (RFFI)
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}, [arXiv](https://arxiv.org/abs/2107.02867){:target="_blank"}
+* [Dataset: LoRa RFFI](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"}
+* [Code: LoRa RFFI](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 
 
 # WiFi Sensing
