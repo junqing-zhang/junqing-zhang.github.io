@@ -10,7 +10,7 @@ tags:
   - Dataset
 ---
 
-This paper summarizes Radio Frequency Fingerprint Identification research datasets that are publicly available. 
+This paper summarizes Radio Frequency Fingerprint Identification research datasets (and code, if available) that are publicly available. 
 
 {% include toc %}
 
