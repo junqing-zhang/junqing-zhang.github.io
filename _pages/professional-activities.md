@@ -12,6 +12,7 @@ toc_max_header: 1
 
 # Editorship
 * Senior Area Editor of IEEE Transactions on Information Forensics and Security (July 2024 to present)
+* Associate Editor of IEEE Transactions on Mobile Computing (October 2024 to present)
 
 # Technical Conference Co-Chair
 * Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN)Symposium at [International Conference on Computing, Networking and Communications (ICNC 2025)](http://www.conf-icnc.org/2025/){:target="_blank"}
