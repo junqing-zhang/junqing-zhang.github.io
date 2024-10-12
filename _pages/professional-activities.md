@@ -21,15 +21,18 @@ toc_max_header: 1
 
 # Workshop Co-Chair
 ## DeepWireless Workshop
+* [IEEE INFOCOM 2025 Third DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](){:target="_blank"}
 * [IEEE INFOCOM 2024 Second DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
 * [IEEE INFOCOM 2023 First DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
 
 ## Wireless Security Workshop
+* [IEEE ICC 2025 Third Workshop on Machine Learning and Deep Learning for Wireless Security](){:target="_blank"}
 * [IEEE GLOBECOM 2024 Second Workshop on Machine Learning and Deep Learning for Wireless Security](https://globecom2024.ieee-globecom.org/workshop/ws-17-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 * [IEEE ICC 2024 First Workshop on Machine Learning and Deep Learning for Wireless Security](https://icc2024.ieee-icc.org/workshop/ws-18-ieee-icc-2024-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 * [ACM Workshop on Wireless Security and Machine Learning (WiseML 2023)](https://wisec2023.surrey.ac.uk/wiseml2023/){:target="_blank"}
 
 ## Physical Layer Security Workshop
+* [IEEE WCNC 2025: Physical Layer Security for Wireless Communications](){:target="_blank"}
 * [IEEE VTC 2023 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2023-fall/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-bg5-and-6g/){:target="_blank"}
 * [IEEE VTC 2022 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2022-fall/conference-sessions/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
 * [IEEE VTC 2021 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2021-fall/conference-sessions/call-for-workshops/w8-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
@@ -50,10 +53,6 @@ toc_max_header: 1
 * IEEE Vehicular Technology Conference (VTC) 2017 Spring Recent Results and Workshops - W1: High Mobility Wireless Communications (HMWC)
 * IEEE Vehicular Technology Conference (VTC) 2017 Spring Recent Results and Workshops - W5: Wireless Access Technologies and Architectures for Internet of Things (IoT) Applications
 * IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security, 2016, 2017
-
-# Session Chair
-* IEEE GLOBECOM 2016 Signal Processing for Communications Symposium, Security and Secrecy Track
-
 
 # Technical Reviewer
 **Proposal**
