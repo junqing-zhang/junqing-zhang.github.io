@@ -25,6 +25,11 @@ Please find more information from his
 ## Highlights
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
+Please consider submit your papers to the following workshops.
+* IEEE WCNC 2025 Workshop on Physical Layer Security for Wireless Communications. Submission deadline: 1 December 2024. Please vist this [link](https://wcnc2025.ieee-wcnc.org/workshop/ws06-ieee-wcnc-workshop-physical-layer-security-wireless-communications){:target="_blank"} for more information. 
+* IEEE ICC Wireless Security Workshop. Submission deadline: 25 January 2025. Please vist this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
+* INFOCOM 2025 DeepWireless Workshop
+
 [//]: ## [News](/news/) Please visit [News](/news/) for all the news.
 
 
