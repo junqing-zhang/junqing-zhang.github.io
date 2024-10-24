@@ -33,10 +33,10 @@ toc_max_header: 1
 
 ## Physical Layer Security Workshop
 * [IEEE WCNC 2025: Physical Layer Security for Wireless Communications](https://wcnc2025.ieee-wcnc.org/workshop/ws06-ieee-wcnc-workshop-physical-layer-security-wireless-communications){:target="_blank"}
+* [IEEE WCNC 2023 WS-03: Trusted Communications with Physical Layer Security](https://wcnc2023.ieee-wcnc.org/workshop/ws-03-trusted-communications-physical-layer-security){:target="_blank"}
 * [IEEE VTC 2023 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2023-fall/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-bg5-and-6g/){:target="_blank"}
 * [IEEE VTC 2022 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2022-fall/conference-sessions/workshops/w5-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
 * [IEEE VTC 2021 Fall Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G](https://events.vtsociety.org/vtc2021-fall/conference-sessions/call-for-workshops/w8-emerging-physical-layer-security-technologies-and-applications-for-b5g-and-6g/){:target="_blank"}
-* [IEEE WCNC 2023 WS-03: Trusted Communications with Physical Layer Security](https://wcnc2023.ieee-wcnc.org/workshop/ws-03-trusted-communications-physical-layer-security){:target="_blank"}
 * IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
 
 
