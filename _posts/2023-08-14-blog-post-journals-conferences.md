@@ -97,6 +97,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE INFOCOM: IEEE International Conference on Computer Communications (double blind review)
 * IEEE SECON: IEEE International Conference on Sensing, Communication and Networking (double blind review)
 * IEEE CNS: IEEE Conference on Communications and Network Security (double blind review)
+* IEEE International Symposium on Spectrum Innovation (DySPAN) 
 * IEEE GLOBECOM
 * IEEE ICC
 * IEEE ICASSP
