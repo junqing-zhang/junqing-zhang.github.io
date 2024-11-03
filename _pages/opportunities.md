@@ -5,7 +5,7 @@ permalink: /opportunities/
 author_profile: true
 toc: true
 ---
-I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
+I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has five academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
 
 I am always looking for excellent and highly-motivated PhD students, post-doc, and visiting researchers. All our research involves exploiting the wireless channels for innovative applications. The three topics that I am particularly interested are
 * [Key Generation From Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
@@ -47,16 +47,10 @@ For more information please check [our university website](https://www.liverpool
 
 CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
 
-# UK Jiangsu 20+20 Programme for Visiting Researchers
-If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. 
-
-Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} or contact me for further information. 
-
-
 # Fellowships
 The School of Electrical Engineering, Electronics and Computer Science hosts numerous staff members awarded prestigious personal fellowships and is strongly committed to attracting and retaining more fellows in the future.   
 
 Please visit this [link](https://www.liverpool.ac.uk/electrical-engineering-electronics-and-computer-science/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
 
 ## Newton International Fellowships for Post-Doc
-The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2021. Please contact us if you are interested.
+The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and opens in March. Please contact us if you are interested.
