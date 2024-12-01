@@ -48,6 +48,8 @@ Thanks to the generous financial support from Royal Society and the Department o
 # Single Board Computer
 * [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
+* Raspberry Pi 5
+* Intel NUC mini PC
 
 # mmWave Radar
 * [IWR6843AOPEVM](https://www.ti.com/tool/IWR6843AOPEVM){:target="_blank"}: IWR6843AOP evaluation module for integrated antenna-on-package (AoP) intelligent mmWave sensor
