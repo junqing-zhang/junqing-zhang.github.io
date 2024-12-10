@@ -13,8 +13,9 @@ Thanks to the generous financial support from Royal Society and the Department o
 
 
 # Software Defined Radio (SDR)
-* [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [UBX 160 USRP Daughterboard](https://www.ettus.com/all-products/ubx160/){:target="_blank"} *2
-* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} *3
+* [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [UBX 160 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx160/){:target="_blank"} *2
+* [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [TwinRX RF Daughterboard](https://www.ettus.com/all-products/twinrx/){:target="_blank"} *1
+* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} *3
 * [USRP B210](https://www.ettus.com/all-products/ub210-kit/){:target="_blank"} *3
 * [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} *1
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
@@ -47,6 +48,8 @@ Thanks to the generous financial support from Royal Society and the Department o
 # Single Board Computer
 * [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
+* Raspberry Pi 5
+* Intel NUC mini PC
 
 # mmWave Radar
 * [IWR6843AOPEVM](https://www.ti.com/tool/IWR6843AOPEVM){:target="_blank"}: IWR6843AOP evaluation module for integrated antenna-on-package (AoP) intelligent mmWave sensor
