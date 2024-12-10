@@ -9,7 +9,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 * Our publication in the area of key generation from wireless channels is summarized at [here](/keygen/keygen-pub/)
 * Our publication in the area of radio frequency fingerprinting identification is summarized at [here](/rffi/rffi-pub/)
-* Our publication in the area of wireless sensing is summarized at [here](/wireless-sensing/wireless-sensing-pub/)
+* Our publication in the area of wireless sensing is summarized at [here](/wireless-sensing/wifi-sensing-pub/)
 
 Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of the paper.
 
