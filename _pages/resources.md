@@ -17,11 +17,11 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [TwinRX RF Daughterboard](https://www.ettus.com/all-products/twinrx/){:target="_blank"} *1
 * [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} *3
 * [USRP B210](https://www.ettus.com/all-products/ub210-kit/){:target="_blank"} *3
-* [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} *1
+* [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} *3
 * [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
-* [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"}
+* [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"} *2
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/){:target="_blank"} *2
 * [antSDR](https://www.crowdsupply.com/microphase-technology/antsdr-e200){:target="_blank"}*2
 * [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*3
