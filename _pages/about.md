@@ -30,8 +30,7 @@ The CSC scholarship is open and will close on 17 January 2025. If you want to do
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
 Please consider submit your papers to the following workshops.
-* IEEE WCNC 2025 Workshop on Physical Layer Security for Wireless Communications. Submission deadline: 1 December 2024. Please visit this [link](https://wcnc2025.ieee-wcnc.org/workshop/ws06-ieee-wcnc-workshop-physical-layer-security-wireless-communications){:target="_blank"} for more information. 
-* INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information.
+* INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information. Deadline extended to 10 January 2025.
 * IEEE ICC Wireless Security Workshop. Submission deadline: 25 January 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
 
 
