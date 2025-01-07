@@ -37,10 +37,11 @@ Please note this requirement is applicable to both full PhD students and visitin
 # China Scholarship Council for PhD Students 
 We are proud to be the partner of the CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the international tuition fee and CSC will provide the living allowance.
 
-The application will open every year around October. Please note this is a two-step application. 
-* Step 1: You should submit a full application (in English) to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. 
-* Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May.
-If you are successful in both steps, you will be awarded the full scholarship from our University and CSC.
+The application will open every year around October. Please note this is a three-step application. 
+* Step 1: Potential applicants should first apply for a University of Liverpool PhD in the normal way. Visit our Applying page for instructions on how to apply. Please state clearly on the PhD application form that you wish to apply for ‘Liverpool CSC scholarship’ funding.
+* Step 2: You can apply as soon as you get your student ID (this will be a number beginning '201').  To apply, please complete the CSC application form (54.7KB, DOCX) and send that along with an academic CV and a 500 word research proposal, outlining your plans to the address on the form.  Please do not apply if you do not have the student ID.
+* Step 3: We aim to notify applicants by email as soon as possible after the closing date to confirm the outcome of the application and nomination to CSC. We will also notify the China Scholarship Council of the outcome. Applicants should then submit an application to the China Scholarship Council before their deadline.
+Please note that the University will not issue a letter offering a tuition fee award only. We will issue a letter if and once you are awarded the entire scholarship.
 
 For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website. 
 
