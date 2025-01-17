@@ -18,7 +18,7 @@ This page introduces the background of Radio Frequency Fingerprinting Identifica
 # Overview
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/rffi/RFFI_DL.png.png" alt="...">
+<img align="center" width="800" src="{{ site.url }}/images/rffi/RFFI_DL.png" alt="...">
 <br />
 
 # Training
