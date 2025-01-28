@@ -17,13 +17,20 @@ The final year projects that I am supervising usually
 
 I am running the following final year projects in the academic year 2023-2024.
  
-# 2023
+# 2024
 * Device Authentication for Bluetooth based on Deep Learning and Radio Frequency Fingerprint
-* Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
-* Device Authentication for ZigBee based on Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for LoRa based on Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for WiFi Using Deep Learning and Radio Frequency Fingerprint
 * Gesture Recognition Using Deep Learning and mmWave Sensor
-* [Gesture Recognition Using Deep Learning and WiFi](https://github.com/Z-Yannn/FYP-Gesture-Recognition-Using-Deep-Learning-and-Wi-Fi){:target="_blank"}
+* Gesture Recognition Using Deep Learning and WiFi
 
+# 2023
+* Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
+* Drone Detection and Classification Using RF Signals and Deep Learning
+* Gesture Recognition Using Deep Learning and mmWave Sensor
+* Gesture Recognition Using Deep Learning and WiFi
+* LoRa-Based Key Generation in Low Power Wide Area Networks
+* NFC Device Identification Using Deep Learning and Radio Frequency Fingerprint
  
 # 2022
 * Device Authentication for WiFi based on Deep Learning and Radio Frequency Fingerprint
