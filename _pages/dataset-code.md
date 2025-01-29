@@ -18,7 +18,7 @@ Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/sear
 * [Dataset: LoRa Federated RFFI](https://ieee-dataport.org/documents/lorafederatedrffidataset){:target="_blank"}
 * [LoRa Federated RFFI](https://github.com/gxhen/federatedRFFI){:target="_blank"}
 
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, vol. 23, no. 7, pp. 7618 - 7634, Jul. 2024. [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 * [Dataset: Radio Frequency Fingerprint LoRa Dataset Multiple Receivers](https://ieee-dataport.org/documents/radio-frequency-fingerprint-lora-dataset-multiple-receivers){:target="_blank"}
 * [Code: Radio Frequency Fingerprint LoRa Dataset Multiple Receivers](https://github.com/gxhen/receiverAgnosticRFFI){:target="_blank"}
 
