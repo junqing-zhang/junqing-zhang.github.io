@@ -1,7 +1,7 @@
 ---
 title: "Publication - Radio Frequency Fingerprint Identification @ University of Liverpool"
 permalink: /rffi/rffi-pub/
-date: 2021-5-5
+date: 2025-2-8
 author_profile: true
 toc: true
 categories:
@@ -14,6 +14,7 @@ tags:
 {% include toc %}
 
 * denotes corresponding author.
+
 
 
 
