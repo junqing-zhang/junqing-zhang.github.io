@@ -126,6 +126,7 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
 # Invited Talk
+* Invited by Prof Marco Gomes to give a talk to IEEE ComSoc and IEEE VTS Portugal Chapter,  23 October 2024 [link](https://events.vtools.ieee.org/m/440638){:target="_blank"}.
 * Invited by Dr. Weitao Xu to give a talk at City University of Hong Kong, 8 December 2023
 * Invited by Prof. Stefano Tomasin to give a talk at University of Padova, Italy, 9 November 2023
 * Invited by Prof. Eduard  Jorswieck to give a talk at Technische Universität Braunschweig, Germany, 7 November 2023
