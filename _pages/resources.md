@@ -54,10 +54,10 @@ Thanks to the generous financial support from Royal Society and the Department o
 # mmWave Radar
 * [IWR6843AOPEVM](https://www.ti.com/tool/IWR6843AOPEVM){:target="_blank"}: IWR6843AOP evaluation module for integrated antenna-on-package (AoP) intelligent mmWave sensor
 * [IWR6843ISK](https://www.ti.com/tool/IWR6843ISK){:target="_blank"}: IWR6843 evaluation module for single-chip 60GHz long-range antenna mmWave sensor.
-* [MMWAVEICBOOST](https://www.ti.com/tool/MMWAVEICBOOST){:target="_blank"}: mmWave sensors carrier card platform
 * [IWR1843BOOST](https://www.ti.com/tool/IWR1843BOOST){:target="_blank"}: IWR1843 single-chip 76-GHz to 81-GHz industrial radar sensor evaluation module
 * [DCA1000EVM
 ](https://www.ti.com/tool/DCA1000EVM){:target="_blank"}: Real-time data-capture adapter for radar sensing evaluation module
+* [MMWAVEICBOOST](https://www.ti.com/tool/MMWAVEICBOOST){:target="_blank"}: mmWave sensors carrier card platform
 
 
 # Facilities
