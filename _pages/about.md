@@ -24,25 +24,18 @@ Please find more information from his
 
  
 ## Highlights
-The CSC scholarship is open and will close on 17 January 2025. If you want to do a PhD with us in the area of wireless security and wireless sensing,  please drop me an email with your CV. Pleaes visit [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} for more information.
+[//]: The CSC scholarship is open and will close on 17 January 2025. If you want to do a PhD with us in the area of wireless security and wireless sensing,  please drop me an email with your CV. Pleaes visit [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} for more information.
 
 
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
-Please consider submit your papers to the following workshops.
-* INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information. Deadline extended to 10 January 2025.
-* IEEE ICC Wireless Security Workshop. Submission deadline: 25 January 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
+[//]: Please consider submit your papers to the following workshops.
+[//]: * INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information. Deadline extended to 10 January 2025.
+[//]: * IEEE ICC Wireless Security Workshop. Submission deadline: 25 January 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
 
 
 
 [//]: ## [News](/news/) Please visit [News](/news/) for all the news.
-
-
-[//]: * PhD Opening: I have an opening in the area of Safeguarding Autonomous Systems, Key Generation for Mobile Ad Hoc Networks. Please find more information at [link](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/key-generation-for-mobile-ad-hoc-networks/){:target="_blank"} The application deadline is 31 January, 2020.
-
-
-
-[//]: # * Newton International Fellowships: The Newton International Fellowships is open for application now. The submission deadline is 3pm on Thursday 26 March 2020. The application guideline can be found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"}. Please email me with your CV if you are interested in applying this Fellowship.
 
 
 ## Research Area
