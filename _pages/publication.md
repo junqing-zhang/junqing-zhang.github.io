@@ -97,7 +97,7 @@ We have made some datasets and codes publicly available. Please visit [this link
 # Conference Paper
 1. Tianya Zhao, Ningning Wang, **Junqing Zhang**, and Xuyu Wang, “Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting”, in _Proc. IEEE INFOCOM_, 2025.
 1. Lingnan Xie, Linning Peng, and **Junqing Zhang**, “Towards Robust RF Fingerprint Identification Using Spectral Regrowth and Carrier Frequency Offset”, in _Proc. IEEE INFOCOM_, 2025.
-1. Lingnan Xie, Linning Peng, **Junqing Zhang**, and Hua Fu, “An Investigation of Power Amplifier Feature for Deep Learning Based RF Fingerprint Identification”, in _Proc. IEEE INFOCOM DeepWireless Workshop_, 2025.
+1. Wentao Jing, Linning Peng, **Junqing Zhang**, and Hua Fu, “An Investigation of Power Amplifier Feature for Deep Learning Based RF Fingerprint Identification”, in _Proc. IEEE INFOCOM DeepWireless Workshop_, 2025.
 1. Guolin Yin, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model”, in _Proc. IEEE WCNC Workshop_, 2025.
 1. Jie Ma, **Junqing Zhang**, Guanxiong, Shen, Linning Peng and Alan Marshall, “Towards Channel-Robust Radio Frequency Fingerprint Identification Using Contrastive Learning”, in _Proc. IEEE WCNC_, 2025.
 1. Ningze Yuan, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Robust Radio Frequency Fingerprint Identification for Bluetooth Low Energy Under Low SNR and Channel Variations”, in _Proc. IEEE WCNC_, 2025.
