@@ -8,7 +8,7 @@ author_profile: true
 £524.8k research income secured as Principle Investigator
 
 # Ongoing Project
-* Principal Investigator, [EPSRC Federated Telecoms Hub 6G Research Partnership Funds (THRPF)](https://www.federated-telecoms-hubs.org/), Securing Spectrum Connectivity: Over-the-Air Authentication Using Radio Frequency Fingerprinting, £128k, July 2024 to March 2025. Partner: Heriot Watt University and Queen’s University Belfast. The total awarded amount is £331k.
+* Principal Investigator, [EPSRC Federated Telecoms Hub 6G Research Partnership Funds (THRPF)](https://www.federated-telecoms-hubs.org/), [Securing Spectrum Connectivity: Over-the-Air Authentication Using Radio Frequency Fingerprinting](/project-epsrc-2024-rffi/), £128k, July 2024 to March 2025. Partner: Heriot Watt University and Queen’s University Belfast. The total awarded amount is £331k.
 * Principal Investigator, Royal Society Research Grants, [Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints](/project-rs-uav-rffi/), £55.8k, March 2023 to March 2025
 
 # Completed Project
