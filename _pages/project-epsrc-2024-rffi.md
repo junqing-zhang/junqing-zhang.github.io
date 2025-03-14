@@ -22,7 +22,7 @@ to be updated
 To be updated
 
 # Outcome
-1. Guolin Yin, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model”, in _Proc. IEEE WCNC Workshop_, 2025.
+1. Guolin Yin, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model”, in _Proc. IEEE WCNC Workshop_, 2025. [arXiv link](https://arxiv.org/abs/2503.05514){:target="_blank"} 
 1. Jie Ma, **Junqing Zhang**, Guanxiong, Shen, Linning Peng and Alan Marshall, “Towards Channel-Robust Radio Frequency Fingerprint Identification Using Contrastive Learning”, in _Proc. IEEE WCNC_, 2025.
 1. Ningze Yuan, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Robust Radio Frequency Fingerprint Identification for Bluetooth Low Energy Under Low SNR and Channel Variations”, in _Proc. IEEE WCNC_, 2025.
 1. To Truong An, Simon L. Cotton, **Junqing Zhang**, Yuan Ding and Trung Q. Duong, “LoRa Radio Frequency Fingerprinting Using a Hybrid Quantum-Classical Neural Network”, in _Proc. IEEE VTC Fall_, 2024.
