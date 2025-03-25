@@ -32,6 +32,7 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
 
 # Journal Article
+1. Guolin Yin, **Junqing Zhang**, Xinping Yi, and Xuyu Wang, “Evasion Attacks and Countermeasures in Deep Learning-Based Wi-Fi Gesture Recognition,” _IEEE Transactions on Mobile Computing_, 2025.
 1. Zhuangkun Wei, Wenxiu Hu, **Junqing Zhang**, Weisi Guo, and Julie McCann “Explainable Adversarial Learning Framework on Physical Layer Key Generation Combating Malicious Reconfigurable Intelligent Surface,” _IEEE Transactions on Wireless Communications_, 2025.
 1. Tianya Zhao, **Junqing Zhang**, Shiwen Mao, and Xuyu Wang, “Explanation-Guided Backdoor Attacks Against Model-Agnostic RF Fingerprinting Systems,” _IEEE Transactions on Mobile Computing_, 2024.
 1. Guanxiong Shen, **Junqing Zhang**, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 9204-9215, 2024. [link](https://ieeexplore.ieee.org/document/10697226){:target="_blank"}
