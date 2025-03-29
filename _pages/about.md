@@ -29,6 +29,9 @@ Please find more information from his
 
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
+Please consider submit your papers to the following workshops.
+* IEEE PIMRC Second Workshop on Physical Layer Security for Wireless Communications. Submission deadline: April 26, 2025. Please visit this [link](https://sites.google.com/view/pls-workshop){:target="_blank"} for more information. 
+
 [//]: Please consider submit your papers to the following workshops.
 [//]: * INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information. Deadline extended to 10 January 2025.
 [//]: * IEEE ICC Wireless Security Workshop. Submission deadline: 25 January 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
