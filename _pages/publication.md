@@ -32,6 +32,7 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
 
 # Journal Article
+1. Yuepei Li, Symon K. Podilchak, **Junqing Zhang**, Simon L. Cotton, Tharmalingam Ratnarajah, and Yuan Ding, “RFFI Protocols Using Antenna Mutual Coupling and Power Amplifier Nonlinear Memory Effects,” _IEEE Communications Letters_, 2025.
 1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Xinping Yi, and Xuyu Wang, “Evasion Attacks and Countermeasures in Deep Learning-Based Wi-Fi Gesture Recognition,” _IEEE Transactions on Mobile Computing_, 2025.
 1. Zhuangkun Wei, Wenxiu Hu, **Junqing Zhang**, Weisi Guo, and Julie McCann “Explainable Adversarial Learning Framework on Physical Layer Key Generation Combating Malicious Reconfigurable Intelligent Surface,” _IEEE Transactions on Wireless Communications_, 2025.
 1. Tianya Zhao, **Junqing Zhang**, Shiwen Mao, and Xuyu Wang, “Explanation-Guided Backdoor Attacks Against Model-Agnostic RF Fingerprinting Systems,” _IEEE Transactions on Mobile Computing_, 2024.
@@ -99,7 +100,7 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Tianya Zhao, Ningning Wang, **Junqing Zhang**, and Xuyu Wang, “Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting”, in _Proc. IEEE INFOCOM_, 2025.
 1. Lingnan Xie, Linning Peng, and **Junqing Zhang**, “Towards Robust RF Fingerprint Identification Using Spectral Regrowth and Carrier Frequency Offset”, in _Proc. IEEE INFOCOM_, 2025.
 1. Wentao Jing, Linning Peng, **Junqing Zhang**, and Hua Fu, “An Investigation of Power Amplifier Feature for Deep Learning Based RF Fingerprint Identification”, in _Proc. IEEE INFOCOM DeepWireless Workshop_, 2025.
-1. Guolin Yin, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model”, in _Proc. IEEE WCNC Workshop_, 2025. [arXiv link](https://arxiv.org/abs/2503.05514){:target="_blank"} 
+1. Guolin Yin, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model”, in _Proc. IEEE WCNC Workshop_, 2025. [arXiv link](https://arxiv.org/abs/2503.05514){:target="_blank"}. This paper won the Best Workshop Paper Award from IEEE WCNC 2025 [link](https://wcnc2025.ieee-wcnc.org/program-0/program-glance/best-paper-awards){:target="_blank"}. 
 1. Jie Ma, **Junqing Zhang**, Guanxiong, Shen, Linning Peng and Alan Marshall, “Towards Channel-Robust Radio Frequency Fingerprint Identification Using Contrastive Learning”, in _Proc. IEEE WCNC_, 2025.
 1. Ningze Yuan, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Robust Radio Frequency Fingerprint Identification for Bluetooth Low Energy Under Low SNR and Channel Variations”, in _Proc. IEEE WCNC_, 2025.
 1. To Truong An, Simon L. Cotton, **Junqing Zhang**, Yuan Ding and Trung Q. Duong, “LoRa Radio Frequency Fingerprinting Using a Hybrid Quantum-Classical Neural Network”, in _Proc. IEEE VTC Fall_, 2024.
