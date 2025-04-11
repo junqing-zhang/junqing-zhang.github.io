@@ -34,6 +34,7 @@ The following figure shows the setup.
 * Monitor: Laptop + USRP N210
 <br />
 <br /><img src='/images/rffi/wifi_rffi_hardware.png' width="800" title="WiFi RFFI Demo Testbed" alt="WiFi RFFI Demo Testbed">
+WiFi RFFI Demo Testbed
 <br />
 
 ## Software
