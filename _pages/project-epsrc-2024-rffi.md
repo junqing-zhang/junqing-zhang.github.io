@@ -43,10 +43,6 @@ Radio frequency fingerprinting identification (RFFI) is an emerging non-cryptogr
   <figcaption>WiFi RFFI Demo GUI</figcaption>
 </figure>
 
-<br />
-<br/><img src='/images/rffi/wifi_rffi_ui.png'>
-<br />
-
 ## Demo video
 Click the image below to watch the video.
 <a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/rffi/wifi_rffi_demo_frontpage.png" alt="WiFI RFFI Demo" width="800" border="10" /></a>
