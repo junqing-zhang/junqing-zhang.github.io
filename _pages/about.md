@@ -64,6 +64,7 @@ Wireless sensing
 
 ## Research Demonstration
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
+* [WiFi RFFI Demonstration](/demo-wifi-rffi/)
 * [WiFi Key Generation Demonstration using WARP](/demo-keygen-warp/)
 * [WiFi Key Generation Demonstration using Raspberry Pi](/demo-keygen-rpi/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
