@@ -25,7 +25,7 @@ The following figure shows the setup.
 <figure>
 <img src='/images/rffi/RFFI_WiFI_demo_setup.png'>
 <figcaption>WiFi RFFI Demo Setup</figcaption>
-<figure>
+</figure>
 <br/>
 
 ## Hardware
@@ -35,7 +35,7 @@ The following figure shows the setup.
 <figure>
 <img src='/images/rffi/wifi_rffi_hardware.png'>
 <figcaption>WiFi RFFI Demo Testbed</figcaption>
-<figure>
+</figure>
 
 
 ## Software
