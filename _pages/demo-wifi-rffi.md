@@ -19,7 +19,6 @@ A WiFi RFFI demonstration has been developed.
 # Overview
 WiFi RFFI 
 
-# Demo
 The following figure shows the setup.
 <br />
 <br /><img src='/images/rffi/RFFI_WiFI_demo_setup.png' width="800" title="Setup" alt="Setup">
@@ -27,7 +26,7 @@ The following figure shows the setup.
 
 
 
-## Hardware
+# Hardware
 * Device Under Test (DUT), a laptop with a Wi-Fi dongle
 * Access Point (AP): a TP-Link Wi-Fi router
 * Monitor: Laptop + USRP N210
@@ -37,7 +36,7 @@ The following figure shows the setup.
 WiFi RFFI Demo Testbed
 
 
-## Software
+# Software
 * DUT (dongle): running ping
 * AP: running in a normal AP mode
 * Monitor: The laptop running [PicoScenes](https://ps.zpj.io/){:target="_blank"}  to access WiFi signals. Deep learning is powered by Pytorch.
@@ -45,9 +44,10 @@ WiFi RFFI Demo Testbed
 <br />  <img src="{{site.url}}/images/rffi/wifi_rffi_ui.png" alt="WiFi RFFI Demo GUI" title="WiFi RFFI Demo GUI" width="800"/>
 <br />
 
-## Demo video
+# Video
 Click the image below to watch the video.
 <a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/rffi/wifi_rffi_demo_frontpage.png" alt="WiFI RFFI Demo" width="800" border="10" /></a>
 
 # Acknowledgement
-ack
+This project was awarded under [EPSRC Federated Telecoms Hub 6G Research Partnership Funds (THRPF)](https://www.federated-telecoms-hubs.org/), as a collaborative project with [HASC: Future
+Communications Hub in All-Spectrum Connectivity](https://allspectrumhub.org/). 
