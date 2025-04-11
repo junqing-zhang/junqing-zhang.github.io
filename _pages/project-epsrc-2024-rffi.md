@@ -22,11 +22,11 @@ Radio frequency fingerprinting identification (RFFI) is an emerging non-cryptogr
 
 # Demo
 The following figure shows the setup.
-<figure>
-<img src='/images/rffi/RFFI_WiFI_demo_setup.png'>
-<figcaption>WiFi RFFI Demo Setup</figcaption>
-</figure>
-<br/>
+<br />
+<br /><img src='/images/rffi/RFFI_WiFI_demo_setup.png' width="800" title="Setup" alt="Setup">
+<br />
+
+
 
 ## Hardware
 * Device Under Test (DUT), a laptop with a Wi-Fi dongle
