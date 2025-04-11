@@ -32,20 +32,17 @@ The following figure shows the setup.
 * Device Under Test (DUT), a laptop with a Wi-Fi dongle
 * Access Point (AP): a TP-Link Wi-Fi router
 * Monitor: Laptop + USRP N210
-<figure>
-<img src='/images/rffi/wifi_rffi_hardware.png'>
-<figcaption>WiFi RFFI Demo Testbed</figcaption>
-</figure>
-
+<br />
+<br /><img src='/images/rffi/wifi_rffi_hardware.png' width="800" title="WiFi RFFI Demo Testbed" alt="WiFi RFFI Demo Testbed">
+<br />
 
 ## Software
 * DUT (dongle): running ping
 * AP: running in a normal AP mode
 * Monitor: The laptop running [PicoScenes](https://ps.zpj.io/){:target="_blank"}  to access WiFi signals. Deep learning is powered by Pytorch.
-<figure>
-  <img src="{{site.url}}/images/rffi/wifi_rffi_ui.png" alt="WiFi RFFI Demo GUI" width="800"/>
-  <figcaption>WiFi RFFI Demo GUI</figcaption>
-</figure>
+<br />
+<br />  <img src="{{site.url}}/images/rffi/wifi_rffi_ui.png" alt="WiFi RFFI Demo GUI" title="WiFi RFFI Demo GUI" width="800"/>
+<br />
 
 ## Demo video
 Click the image below to watch the video.
