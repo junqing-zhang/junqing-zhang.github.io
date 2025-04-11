@@ -39,7 +39,7 @@ Radio frequency fingerprinting identification (RFFI) is an emerging non-cryptogr
 * AP: running in a normal AP mode
 * Monitor: The laptop running [PicoScenes](https://ps.zpj.io/){:target="_blank"}  to access WiFi signals. Deep learning is powered by Pytorch.
 <figure>
-  <img src="{{site.url}}/images/rffi/wifi_rffi_ui.png" alt="WiFi RFFI Demo GUI" width="800" border="10"/>
+  <img src="{{site.url}}/images/rffi/wifi_rffi_ui.png" alt="WiFi RFFI Demo GUI" width="800"/>
   <figcaption>WiFi RFFI Demo GUI</figcaption>
 </figure>
 
