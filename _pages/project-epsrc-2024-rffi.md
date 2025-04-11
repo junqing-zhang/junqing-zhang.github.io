@@ -29,11 +29,23 @@ Radio frequency fingerprinting identification (RFFI) is an emerging non-cryptogr
 * Device Under Test (DUT), a laptop with a Wi-Fi dongle
 * Access Point (AP): a TP-Link Wi-Fi router
 * Monitor: Laptop + USRP N210
+<br />
+<br/><img src='/images/rffi/wifi_rffi_hardware.png'>
+<br />
+
 
 ## Software
 * DUT (dongle): running ping
 * AP: running in a normal AP mode
 * Monitor: The laptop running [PicoScenes](https://ps.zpj.io/){:target="_blank"}  to access WiFi signals. Deep learning is powered by Pytorch.
+<figure>
+  <img src="{{site.url}}/images/rffi/wifi_rffi_ui.png" alt="WiFi RFFI Demo GUI"/>
+  <figcaption>WiFi RFFI Demo GUI</figcaption>
+</figure>
+
+<br />
+<br/><img src='/images/rffi/wifi_rffi_ui.png'>
+<br />
 
 ## Demo video
 Click the image below to watch the video.
