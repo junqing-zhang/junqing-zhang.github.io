@@ -12,12 +12,11 @@ tags:
 ---
 
 
-A WiFi RFFI demonstration has been developed. 
+A WiFi Radio Frequency Fingerprint Identification (RFFI) demonstration has been developed at University of Liverpool, UK. 
 
 {% include toc %}
 
 # Overview
-WiFi RFFI 
 
 The following figure shows the setup.
 <br />
