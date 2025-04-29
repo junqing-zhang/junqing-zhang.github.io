@@ -45,7 +45,7 @@ WiFi RFFI Demo Testbed
 
 # Video
 Click the image below to watch the video.
-<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/rffi/wifi_rffi_demo_frontpage.png" alt="WiFI RFFI Demo" width="800" border="10" /></a>
+<a href="https://youtu.be/jQuvRcBXh8I" target="_blank"><img src="{{ site.url }}/images/rffi/wifi_rffi_demo_frontpage.png" alt="WiFI RFFI Demo" width="800" border="10" /></a>
 
 # Acknowledgement
 This project was awarded under [EPSRC Federated Telecoms Hub 6G Research Partnership Funds (THRPF)](https://www.federated-telecoms-hubs.org/), as a collaborative project with [HASC: Future
