@@ -47,6 +47,7 @@ toc_max_header: 1
 
 # TPC Member
 * IEEE INFOCOM 2025
+* IEEE MASS 2025
 * IEEE International Conference on Communications (ICC): Communication and Information Systems Security Symposium, 2019 - 2022
 * IEEE International Conference on Communications (ICC): Wireless Communications Symposium, 2019 - 2022
 * IEEE GLOBECOM: Signal Processing for Communications Symposium, 2016 - 2021
