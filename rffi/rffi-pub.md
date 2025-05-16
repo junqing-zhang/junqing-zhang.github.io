@@ -39,6 +39,7 @@ tags:
 # Preprint
 
 # Survey/Tutorial
+1. **Junqing Zhang**<sup>*</sup>, Francesco Ardizzon, Mattia Piana, Guanxiong Shen, and Stefano Tomasin, “Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice,” _IEEE Transactions on Information Forensics and Security_, 2025. [IEEE](https://ieeexplore.ieee.org/document/11003929){:target="_blank"}
 1. Lingnan Xie, Linning Pleng, **Junqing Zhang** and Aiqun Hu, “Radio frequency fingerprint identification for Internet of Things: A survey”, _Security and Safety_, vol. 3, article number. 2023022. [link](https://sands.edpsciences.org/articles/sands/abs/2024/01/sands20230017/sands20230017.html){:target="_blank"}
 1. **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, Walid Saad, and Kaushik Chowdhury, “Radio Frequency Fingerprint Identification for Device Authentication in the Internet of Things,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10184988){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
