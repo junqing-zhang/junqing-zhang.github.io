@@ -22,10 +22,13 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 * Mr Shuo Wang from University of Padova, Italy (April 2025 to August 2025). Supervised by Prof Mauro Conti. 
 
 # Alumni
-* Dr. Guolin Yin, PDRA (July 2024 to April 2025). Research topic: RFFI with WiFi. Now a postdoc with Queen's University Belfast.
+## PhD
 * Dr. Guolin Yin, PhD co-supervised with Dr. Xinping Yi and Prof Alan Marshall (September 2020 to July 2024). Research topic: WiFi sensing. Now a postdoc with University of Liverpool.
 * Dr. [Guanxiong Shen](https://gxhen.github.io/){:target="_blank"}, PhD co-supervised with Prof Alan Marshall (Nov., 2019 to July 2023). Thesis title: Deep Learning Enhanced Radio Frequency Fingerprint Identification for LoRa [Download Link](https://livrepository.liverpool.ac.uk/3170842/
 ){:target="_blank"}. Now an Associate Professor with Southeast University, China.
+
+## PDRA
+* Dr. Guolin Yin, PDRA (July 2024 to April 2025). Research topic: RFFI with WiFi. Now a postdoc with Queen's University Belfast.
 * Dr. Chen Chen. Postdoc from January 2022 to December 2023. Research topic: key generation from wireless channel. Now a postdoc with KTH, Sweden.
 
 
