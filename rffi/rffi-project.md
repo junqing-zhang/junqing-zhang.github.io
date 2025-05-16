@@ -13,7 +13,7 @@ tags:
 This paper summarizes Radio Frequency Fingerprint Identification  research projects.
 
 1. Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning [link](https://junqing-zhang.github.io/project-rffi-lora/){:target="_blank"}
-* Partners: University of Cincinnati, USA
+* Partners: University of Liverpool, UK
 * Funder: UK Royal Society Research Grants
 * Duration: One year
 * Status: Completed
