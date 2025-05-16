@@ -11,7 +11,9 @@ toc: true
 
 Junqing Zhang is a Senior Lecturer (Associate Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has also been exploring novel wireless sensing using WiFi and mmwave radars. He has been investigating wireless security and sensing solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, Bluetooth, ZigBee, etc, with a focus on the physical and MAC layers.
 
-He was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
+Dr Zhang was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
+
+Dr Zhang is a Senior Area Editor of IEEE Transactions on Information Forensics and Security and an Associate Editor of IEEE Transactions on Mobile Computing. He was the TPC symposium co-chair of ICNC 2025 and ICC 2023. He was also the TPC co-chair of  IEEE INFOCOM 2023-2025 DeepWireless Workshops, IEEE  GLOBECOM/ICC 2024-2025 Wireless Security Workshop, and IEEE WCNC 2025 Physical Layer Security Workshop. He was a co-recipient of Best Workshop Paper Award from IEEE WCNC 2025.
 
 Please find more information from his 
 * [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
@@ -30,7 +32,7 @@ Please find more information from his
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
 Please consider submit your papers to the following workshops.
-* IEEE PIMRC Second Workshop on Physical Layer Security for Wireless Communications. Submission deadline: April 26, 2025. Please visit this [link](https://sites.google.com/view/pls-workshop){:target="_blank"} for more information. 
+* IEEE PIMRC Second Workshop on Physical Layer Security for Wireless Communications. Submission deadline: June 15, 2025. Please visit this [link](https://sites.google.com/view/pls-workshop){:target="_blank"} for more information. 
 
 [//]: Please consider submit your papers to the following workshops.
 [//]: * INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information. Deadline extended to 10 January 2025.
