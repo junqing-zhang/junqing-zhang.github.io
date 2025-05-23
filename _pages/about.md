@@ -32,7 +32,7 @@ Please find more information from his
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
 Please consider submit your papers to the following workshops.
-* * IEEE GLOBECOM Wireless Security Workshop. Submission deadline: 15 July 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
+* IEEE GLOBECOM Wireless Security Workshop. Submission deadline: 15 July 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
 * IEEE PIMRC Second Workshop on Physical Layer Security for Wireless Communications. Submission deadline: June 15, 2025. Please visit this [link](https://sites.google.com/view/pls-workshop){:target="_blank"} for more information. 
 
 [//]: Please consider submit your papers to the following workshops.
