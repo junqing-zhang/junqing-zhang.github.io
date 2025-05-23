@@ -129,6 +129,7 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 # Invited Talk
 * Invited by Prof Maire O’Neill to give a talk to CSIT DTP Spring School at Queen’s University
 Belfast, 9 April 2025 [link](https://www.qub.ac.uk/research-centres/csit/innovation-and-partnerships/cyber-ai-hub/csit-dtp/springschool/#agenda-day-1-wednesday-9th-april-2025-3529288-1){:target="_blank"}.
+* Invited by Prof Xianbin Wang to give a talk to IEEE ComSoc Canada London and Toronto Sections,  3 March 2025 [link](https://events.vtools.ieee.org/m/469987){:target="_blank"}.
 * Invited by Prof Marco Gomes to give a talk to IEEE ComSoc and IEEE VTS Portugal Chapter,  23 October 2024 [link](https://events.vtools.ieee.org/m/440638){:target="_blank"}.
 * Invited by Dr. Weitao Xu to give a talk at City University of Hong Kong, 8 December 2023
 * Invited by Prof. Stefano Tomasin to give a talk at University of Padova, Italy, 9 November 2023
