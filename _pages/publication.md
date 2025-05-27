@@ -32,8 +32,8 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
 
 # Journal Article
+1. Lingnan Xie, Linning Peng, **Junqing Zhang**, Ang Gao, Hua Fu, and Junxian Shi, “Channel2Channel: Towards robust radio frequency fingerprint extraction and identification,” _IEEE Journal on Selected Areas in Communications_, 2025
 1. **Junqing Zhang**<sup>*</sup>, Francesco Ardizzon, Mattia Piana, Guanxiong Shen, and Stefano Tomasin, “Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice,” _IEEE Transactions on Information Forensics and Security_, 2025. [IEEE](https://ieeexplore.ieee.org/document/11003929){:target="_blank"}
-
 1. Yuepei Li, Symon K. Podilchak, **Junqing Zhang**, Simon L. Cotton, Tharmalingam Ratnarajah, and Yuan Ding, “RFFI Protocols Using Antenna Mutual Coupling and Power Amplifier Nonlinear Memory Effects,” _IEEE Communications Letters_, 2025. [IEEE](https://ieeexplore.ieee.org/document/10955860){:target="_blank"}
 1. Guolin Yin, **Junqing Zhang**<sup>*</sup>, Xinping Yi, and Xuyu Wang, “Evasion Attacks and Countermeasures in Deep Learning-Based Wi-Fi Gesture Recognition,” _IEEE Transactions on Mobile Computing_, 2025. [IEEE](https://ieeexplore.ieee.org/abstract/document/10948311){:target="_blank"}
 1. Zhuangkun Wei, Wenxiu Hu, **Junqing Zhang**, Weisi Guo, and Julie McCann “Explainable Adversarial Learning Framework on Physical Layer Key Generation Combating Malicious Reconfigurable Intelligent Surface,” _IEEE Transactions on Wireless Communications_, vol. 24, no. 4, pp. 3529 - 3545, Apr. 2025. [IEEE](https://ieeexplore.ieee.org/abstract/document/10856736){:target="_blank"}
