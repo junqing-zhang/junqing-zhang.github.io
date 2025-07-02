@@ -11,7 +11,7 @@ author_profile: true
 * Duration: Jan. 2022 to Dec. 2023
 * Amount: £310k
 
-please visit the [link](https://gtr.ukri.org/projects?ref=EP%2FV027697%2F1){:target="_blank"} for more information.
+please visit the [link](https://gtr.ukri.org/projects?ref=EP%2FV027697%2F1#/tabOverview){:target="_blank"} for more information.
 
 # Summary
 The Internet of Things (IoT) has digitally transformed our everyday life with exciting applications such as smart home, connected healthcare, smart cities, manufacturing automation, relying on billions of devices that have become connected over the past decade. Ofcom estimated that the number of IoT devices in the UK will soar from 13 million in 2016 to 156 million in 2024. Low power wide area networks (LPWANs) are new IoT systems with features of low power and wide coverage (over several kilometres). LPWAN accounts one-fourth of the number of IoT devices and the market. Digital Catapult is building the national LPWAN to improve the qualities of our lives and boost the UK economy using LoRaWAN, NB-IoT, and SigFox technologies. Vodafone and Three UK are piloting NB-IoT for a nationwide cellular-based LPWAN.
