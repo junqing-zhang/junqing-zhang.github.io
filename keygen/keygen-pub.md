@@ -17,7 +17,7 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 
 {% include toc %}
 
-* denotes corresponding author.
+<sup>*</sup> denotes corresponding author.
 
 
 # Key Generation Survey

@@ -13,7 +13,7 @@ tags:
 
 {% include toc %}
 
-* denotes corresponding author.
+<sup>*</sup> denotes corresponding author.
 
 
 

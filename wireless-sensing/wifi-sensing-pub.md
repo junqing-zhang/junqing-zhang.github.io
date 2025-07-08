@@ -13,7 +13,7 @@ tags:
   - WiFi Sensing
 ---
 
-* denotes corresponding author.
+<sup>*</sup> denotes corresponding author.
 
 
 
