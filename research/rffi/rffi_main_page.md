@@ -8,9 +8,9 @@ All the components of wireless devices will have slightly different features, e.
 <br/><img src='/images/rffi/RFFI_DL.png'>
 
 * [RFFI Overview](/research/rffi/rffi-overview/)
-* [RFFI Projects](/research/rffi/rffi-project/)
+* [RFFI Recommended Reading List](/research/rffi/rffi-recommended-reading/)
 * [RFFI Dataset](/research/rffi/rffi-dataset/)
 * [RFFI Resources](/research/rffi/rffi-resources/)
 * [RFFI at University of Liverpool](/research/rffi/rffi-pub/)
 * [How to Construct an RFFI System](/research/rffi/rffi-get-started/)
-* [RFFI Recommended Reading List](/research/rffi/rffi-recommended-reading/)
+* [RFFI Projects](/research/rffi/rffi-project/)

@@ -31,10 +31,10 @@ Secure communication will be achieved by using key generation and device authent
 ###  [1.1 Key Generation from Wireless Channels](/research/keygen/keygen_main_page/){:target="_blank"}
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 * [Key Generation Overview](/research/keygen/keygen-overview/)
+* [Key Generation Recommended Reading](/research/keygen/keygen-recommended-reading/)
 * [Key Generation Publication at University of Liverpool](/research/keygen/keygen-pub/)
 * [Key Generation Applications](/research/keygen/keygen-application/)
 * [Key Generation Projects](/research/keygen/keygen-project/)
-* [Key Generation References](/research/keygen/keygen-reference/)
 * [Key Generation Demonstration using WARP](/demo-keygen-warp/)
 
 
@@ -47,12 +47,12 @@ Key generation is an emerging technique to establish cryptographic keys between 
 All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
 
 * [RFFI Overview](/research/rffi/rffi-overview/)
-* [RFFI Projects](/research/rffi/rffi-project/)
+* [RFFI Recommended Reading List](/research/rffi/rffi-recommended-reading/)
 * [RFFI Dataset](/research/rffi/rffi-dataset/)
 * [RFFI Resources](/research/rffi/rffi-resources/)
 * [RFFI at University of Liverpool](/research/rffi/rffi-pub/)
 * [How to Construct an RFFI System](/research/rffi/rffi-get-started/)
-* [RFFI Recommended Reading List](/research/rffi/rffi-recommended-reading/)
+* [RFFI Projects](/research/rffi/rffi-project/)
 
 <br />
 <img align="center" width="800" src="{{ site.url }}/images/rffi/RFFI_DL.png" alt="...">
@@ -61,9 +61,9 @@ All the components of wireless devices will have slightly different features, e.
 ## 2. Wireless Sensing
 ### [2.1 WiFi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}
 * [WiFi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
+* [WiFi Sensing Recommended Reading List](/research/wifi-sensing/wifi-sensing-recommended-reading/)
 * [WiFi Sensing Dataset](/research/wifi-sensing/wifi-sensing-dataset/)
 * [WiFi Sensing Resources](/research/wifi-sensing/wifi-sensing-resources/)
-* [WiFi Sensing Recommended Reading List](/research/wifi-sensing/wifi-sensing-recommended-reading/)
 * [WiFi Sensing at University of Liverpool](/research/wifi-sensing/wifi-sensing-pub/)
 
 <br />
