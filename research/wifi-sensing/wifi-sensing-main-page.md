@@ -11,7 +11,7 @@ Figure from [https://arxiv.org/pdf/2203.02014.pdf](https://arxiv.org/pdf/2203.02
 
 WiFi Sensing
 * [WiFi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
-* [WiFi Sensing Dataset](/research/wifi-sensingwifi-sensing-dataset/)
-* [WiFi Sensing Resources](/research/wifi-sensingwifi-sensing-resources/)
-* [WiFi Sensing Recommended Reading List](/research/wifi-sensingwifi-sensing-recommended-reading/)
-* [WiFi Sensing at University of Liverpool](/research/wifi-sensingwifi-sensing-pub/)
+* [WiFi Sensing Dataset](/research/wifi-sensing/wifi-sensing-dataset/)
+* [WiFi Sensing Resources](/research/wifi-sensing/wifi-sensing-resources/)
+* [WiFi Sensing Recommended Reading List](/research/wifi-sensing/wifi-sensing-recommended-reading/)
+* [WiFi Sensing at University of Liverpool](/research/wifi-sensing/wifi-sensing-pub/)
