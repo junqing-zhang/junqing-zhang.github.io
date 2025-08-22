@@ -1,7 +1,7 @@
 ---
 title: "Radio Frequency Fingerprint Identification Project"
 date: 2021-12-17
-permalink: /rffi/rffi-project/
+permalink: /research/rffi/rffi-project/
 categories:
   - Research
   - RFFI
@@ -36,4 +36,4 @@ This paper summarizes Radio Frequency Fingerprint Identification  research proje
 * Status: Ongoing
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: "How to Construct an RFFI System"
-permalink: /rffi/rffi-get-started/
+permalink: /research/rffi/rffi-get-started/
 date: 2022-10-15
 author_profile: true
 toc: true
@@ -139,4 +139,4 @@ Steps 1-4 are not required if you are using public datasets.
 
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.

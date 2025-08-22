@@ -1,7 +1,7 @@
 ---
 title: "Radio Frequency Fingerprint Identification Dataset"
 date: 2022-01-30
-permalink: /rffi/rffi-dataset/
+permalink: /research/rffi/rffi-dataset/
 categories:
   - Research
   - RFFI
@@ -65,4 +65,4 @@ Yongxin Liu, Jian Wang, Jianqiang Li, Shuteng Niu, and Houbing Song, "Class-Incr
 GENESYS Lab at Northeastern University [link](https://genesys-lab.org/mldatasets){:target="_blank"} has made several datasets available.
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.

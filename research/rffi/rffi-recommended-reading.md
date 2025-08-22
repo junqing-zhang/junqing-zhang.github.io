@@ -1,6 +1,6 @@
 ---
 title: "RFFI Recommended Reading List"
-permalink: /rffi/rffi-recommended-reading/
+permalink: /research/rffi/rffi-recommended-reading/
 date: 2023-11-06
 author_profile: true
 toc: true
@@ -36,4 +36,4 @@ Some of the above works have made their datasets and codes available. Please vis
 1. Shamnaz Riyaz, Kunal Sankhe, Stratis Ioannidis, and Kaushik Chowdhury, “Deep Learning Convolutional Neural Networks for Radio Identification,” _IEEE Communications Magazine_, 2018
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.
