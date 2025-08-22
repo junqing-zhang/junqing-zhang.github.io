@@ -13,7 +13,7 @@ author_profile: true
 
 # Completed Project
 * Principal Investigator, EPSRC New Investigator Award, [_A New Frontier For Internet of Things Security: Far-Flung Key Generation_](/project-epsrc-nia-keygen/) , £310k, Jan. 2022 to Jun. 2024
-* Principal Investigator, Royal Society Research Grants, [_Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning_](/project-rffi-lora/), £19k, March 2019 to March 2020
+* Principal Investigator, Royal Society Research Grants, [_Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning_](./project-rffi-lora/), £19k, March 2019 to March 2020
 
 # Awards
 * Best Workshop Paper Award from IEEE WCNC 2025 [link](https://wcnc2025.ieee-wcnc.org/program-0/program-glance/best-paper-awards){:target="_blank"}. _Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model_, Guolin Yin, Junqing Zhang, Yuan Ding, and Simon Cotton. [arXiv link](https://arxiv.org/abs/2503.05514){:target="_blank"}
