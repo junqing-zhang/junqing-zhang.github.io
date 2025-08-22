@@ -1,6 +1,6 @@
 ---
 title: "Key Generation from Wireless Channel"
-permalink: /research/keygen/
+permalink: /research/keygen/keygen_main_page/
 ---
 
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
@@ -8,11 +8,11 @@ Key generation is an emerging technique to establish cryptographic keys between 
 <br/><img src='/images/keygen/keygen_model.png'>
 
 
-* [Key Generation Overview](./keygen-overview/)
-* [Key Generation Publication at University of Liverpool](./keygen-pub/)
-* [Key Generation Applications](./keygen-application/)
-* [Key Generation Projects](./keygen-project/)
-* [Key Generation References](./keygen-reference/)
+* [Key Generation Overview](/research/keygen/keygen-overview/)
+* [Key Generation Publication at University of Liverpool](/research/keygen/keygen-pub/)
+* [Key Generation Applications](/research/keygen/keygen-application/)
+* [Key Generation Projects](/research/keygen/keygen-project/)
+* [Key Generation References](/research/keygen/keygen-reference/)
 * [Key Generation Demonstration using WARP](/demo-keygen-warp/)
 
 
