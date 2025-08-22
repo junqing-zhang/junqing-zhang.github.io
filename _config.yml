@@ -192,6 +192,9 @@ collections:
   research-area:
     output: true
     permalink: /:collection/:path/
+  funding-and-awards:
+    output: true
+    permalink: /:collection/:path/  
 
 # Defaults
 defaults:
