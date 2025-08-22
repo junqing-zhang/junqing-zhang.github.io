@@ -31,9 +31,9 @@ Please find more information from his
 
 We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
-Please consider submit your papers to the following workshops.
-* IEEE GLOBECOM Wireless Security Workshop. Submission deadline: 15 July 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
-* IEEE PIMRC Second Workshop on Physical Layer Security for Wireless Communications. Submission deadline: June 15, 2025. Please visit this [link](https://sites.google.com/view/pls-workshop){:target="_blank"} for more information. 
+[//]:Please consider submit your papers to the following workshops.
+[//]:* IEEE GLOBECOM Wireless Security Workshop. Submission deadline: 15 July 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
+[//]:* IEEE PIMRC Second Workshop on Physical Layer Security for Wireless Communications. Submission deadline: June 15, 2025. Please visit this [link](https://sites.google.com/view/pls-workshop){:target="_blank"} for more information. 
 
 [//]: Please consider submit your papers to the following workshops.
 [//]: * INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information. Deadline extended to 10 January 2025.
@@ -65,20 +65,20 @@ Wireless sensing
 * Software defined radios including USRP, Zedboard + FMCOMMS2, and WARP
 * Machine learning and deep learning applications in the wireless communications, sensing and security
 
-## Research Demonstration
+##  [Research Demonstration](/research-demo/research-demo-main-page/){:target="_blank"}
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 
 Radio Frequency Fingerprint Identification
-* [WiFi RFFI Demonstration](/demo-wifi-rffi/)
-* [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/teaching/demo-fyp-2020-rffi-lora/)
+* [WiFi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
+* [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
 Key Generation
-* [WiFi Key Generation Demonstration using WARP](/demo-keygen-warp/)
-* [WiFi Key Generation Demonstration using Raspberry Pi](/demo-keygen-rpi/)
-* [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
+* [WiFi Key Generation Demonstration using WARP](/research-demo/demo-keygen-warp/)
+* [WiFi Key Generation Demonstration using Raspberry Pi](/research-demo/demo-keygen-rpi/)
+* [Heartbeat Key Generation Demonstration Using PPG Sensors](/research-demo/demo-keygen-heartbeat-ppg/)
 
 Internet of Things (IoT)
-* [LoRaWAN Demonstration using Pycom FiPy](/demo-lorawan-fipy/)
+* [LoRaWAN Demonstration using Pycom FiPy](/research-demo/demo-lorawan-fipy/)
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
