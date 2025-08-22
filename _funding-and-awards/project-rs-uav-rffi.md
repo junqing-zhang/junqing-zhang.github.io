@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints"
-permalink: /project-rs-uav-rffi/
+collection: funding-and-awards
 author_profile: true
 ---
 {% include toc %} 
