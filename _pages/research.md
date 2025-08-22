@@ -30,11 +30,11 @@ Secure communication will be achieved by using key generation and device authent
 
 ###  [1.1 Key Generation from Wireless Channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
-* [Key Generation Overview](/keygen/keygen-overview/)
-* [Key Generation Publication at University of Liverpool](/keygen/keygen-pub/)
-* [Key Generation Applications](/keygen/keygen-application/)
-* [Key Generation Projects](/keygen/keygen-project/)
-* [Key Generation References](/keygen/keygen-reference/)
+* [Key Generation Overview](/research/keygen/keygen-overview/)
+* [Key Generation Publication at University of Liverpool](/research/keygen/keygen-pub/)
+* [Key Generation Applications](/research/keygen/keygen-application/)
+* [Key Generation Projects](/research/keygen/keygen-project/)
+* [Key Generation References](/research/keygen/keygen-reference/)
 * [Key Generation Demonstration using WARP](/demo-keygen-warp/)
 
 

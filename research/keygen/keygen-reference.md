@@ -1,7 +1,7 @@
 ---
 title: "Key Generation Reference"
 date: 2020-12-22
-permalink: /keygen/keygen-reference/
+permalink: /research/keygen/keygen-reference/
 categories:
   - Research
   - Key Generation
