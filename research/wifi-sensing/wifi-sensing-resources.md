@@ -1,7 +1,7 @@
 ---
 title: "WiFi Sensing Resources"
 date: 2024-03-10
-permalink: /wireless-sensing/wifi-sensing-resources/
+permalink: /research/wifi-sensing/wifi-sensing-resources/
 categories:
   - Research
   - WiFi Sensing
@@ -17,4 +17,5 @@ This paper summarizes available resources for WiFi Sensing.
 # Youtube Videos
 * [MobiSys 2020 - Sensing with WIFI](https://www.youtube.com/watch?v=sUDf-XT1f2M){:target="_blank"}, by Prof Mo Li
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}.
+Return to the Main Page of [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}.
+

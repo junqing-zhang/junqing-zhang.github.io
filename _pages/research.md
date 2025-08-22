@@ -59,12 +59,12 @@ All the components of wireless devices will have slightly different features, e.
 <br />
 
 ## 2. Wireless Sensing
-### [2.1 WiFi Sensing](https://junqing-zhang.github.io/research-area/wireless-sensing/){:target="_blank"}
-* [WiFi Sensing Overview](/wireless-sensing/wifi-sensing-overview/)
-* [WiFi Sensing Dataset](/wireless-sensing/wifi-sensing-dataset/)
-* [WiFi Sensing Resources](/wireless-sensing/wifi-sensing-resources/)
-* [WiFi Sensing Recommended Reading List](/wireless-sensing/wifi-sensing-recommended-reading/)
-* [WiFi Sensing at University of Liverpool](/wireless-sensing/wifi-sensing-pub/)
+### [2.1 WiFi Sensing](/research/wifi-sensing/wifi-sensing-dataset/){:target="_blank"}
+* [WiFi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
+* [WiFi Sensing Dataset](/research/wifi-sensing/wifi-sensing-dataset/)
+* [WiFi Sensing Resources](/research/wifi-sensing/wifi-sensing-resources/)
+* [WiFi Sensing Recommended Reading List](/research/wifi-sensing/wifi-sensing-recommended-reading/)
+* [WiFi Sensing at University of Liverpool](/research/wifi-sensing/wifi-sensing-pub/)
 
 <br />
 <img align="center" width="800" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">

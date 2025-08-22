@@ -1,6 +1,6 @@
 ---
 title: "Recommended Reading List"
-permalink: /wireless-sensing/wifi-sensing-recommended-reading/
+permalink: /research/wifi-sensing/wifi-sensing-recommended-reading/
 date: 2023-11-08
 author_profile: true
 toc: true
@@ -50,3 +50,5 @@ tags:
 
 12.  Yang, Zheng, Yi Zhang, Guoxuan Chi, and Guidong Zhang. "Hands-on wireless sensing with wi-fi: A tutorial." arXiv preprint arXiv:2206.09532 (2022).[[ARXIV]](https://arxiv.org/abs/2206.09532)
 > Wireless Sensing with Wi-Fi: This tutorial introduces wireless sensing using Wi-Fi, covering theoretical principles and practical code implementation. It highlights deep learning models for wireless sensing applications in various fields, including health care, smart homes, and security surveillance​​.
+
+Return to the Main Page of [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}.
