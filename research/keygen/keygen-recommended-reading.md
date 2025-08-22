@@ -1,7 +1,7 @@
 ---
-title: "Key Generation Reference"
+title: "Key Generation Recommended Reading"
 date: 2020-12-22
-permalink: /research/keygen/keygen-reference/
+permalink: /research/keygen/keygen-recommended-reading/
 categories:
   - Research
   - Key Generation

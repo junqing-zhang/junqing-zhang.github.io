@@ -9,10 +9,10 @@ Key generation is an emerging technique to establish cryptographic keys between 
 
 
 * [Key Generation Overview](/research/keygen/keygen-overview/)
+* [Key Generation References](/research/keygen/keygen-recommended-reading/)
 * [Key Generation Publication at University of Liverpool](/research/keygen/keygen-pub/)
 * [Key Generation Applications](/research/keygen/keygen-application/)
 * [Key Generation Projects](/research/keygen/keygen-project/)
-* [Key Generation References](/research/keygen/keygen-reference/)
 * [Key Generation Demonstration using WARP](/demo-keygen-warp/)
 
 

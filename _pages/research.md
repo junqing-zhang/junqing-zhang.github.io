@@ -59,7 +59,7 @@ All the components of wireless devices will have slightly different features, e.
 <br />
 
 ## 2. Wireless Sensing
-### [2.1 WiFi Sensing](/research/wifi-sensing/wifi-sensing-dataset/){:target="_blank"}
+### [2.1 WiFi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}
 * [WiFi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
 * [WiFi Sensing Dataset](/research/wifi-sensing/wifi-sensing-dataset/)
 * [WiFi Sensing Resources](/research/wifi-sensing/wifi-sensing-resources/)
