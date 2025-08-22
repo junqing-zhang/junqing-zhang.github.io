@@ -1,6 +1,6 @@
 ---
 title: "Key Generation from Wireless Channel"
-permalink: /research/keygen/keygen_main_page/
+permalink: /research/keygen/
 ---
 
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
