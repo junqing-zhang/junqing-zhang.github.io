@@ -1,7 +1,7 @@
 ---
 date: 2023-12-12
 title: "Publication - Key Generation @ University of Liverpool"
-permalink: /keygen/keygen-pub/
+permalink: /research/keygen/keygen-pub/
 author_profile: true
 toc: true
 categories:

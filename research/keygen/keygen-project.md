@@ -1,7 +1,7 @@
 ---
 title: "Key Generation Project"
 date: 2021-12-17
-permalink: /keygen/keygen-project/
+permalink: /research/keygen/keygen-project/
 categories:
   - Research
   - Key Generation
