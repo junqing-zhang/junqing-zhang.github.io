@@ -17,4 +17,4 @@ This paper summarizes WiFi sensing research datasets that are publicly available
 To be updated.
 
 
-Return to the Main Page of [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}.
+Return to the Main Page of [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/).

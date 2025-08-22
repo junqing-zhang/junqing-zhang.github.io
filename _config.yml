@@ -189,7 +189,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  research-area:
+  research-demo:
     output: true
     permalink: /:collection/:path/
   funding-and-awards:

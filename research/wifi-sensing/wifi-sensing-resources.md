@@ -17,5 +17,5 @@ This paper summarizes available resources for WiFi Sensing.
 # Youtube Videos
 * [MobiSys 2020 - Sensing with WIFI](https://www.youtube.com/watch?v=sUDf-XT1f2M){:target="_blank"}, by Prof Mo Li
 
-Return to the Main Page of [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}.
+Return to the Main Page of [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/).
 

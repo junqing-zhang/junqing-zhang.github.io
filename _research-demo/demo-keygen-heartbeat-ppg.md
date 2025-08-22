@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Heartbeat Key Generation Demonstration"
-permalink: /demo-keygen-heartbeat-ppg/
+collection: research-demo
 author_profile: true
 ---
 

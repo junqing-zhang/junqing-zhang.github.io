@@ -1,7 +1,7 @@
 ---
 title: "WiFi Key Generation Demonstration Using Raspberry Pi @ University of Liverpool"
 date: 2021-12-24
-permalink: /demo-keygen-rpi/
+collection: research-demo
 author_profile: true
 categories:
   - Research

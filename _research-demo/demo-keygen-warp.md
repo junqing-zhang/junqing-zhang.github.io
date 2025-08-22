@@ -1,7 +1,7 @@
 ---
 title: "WiFi Key Generation Demonstration Using WARP @ University of Liverpool"
 date: 2020-10-22
-permalink: /demo-keygen-warp/
+collection: research-demo
 author_profile: true
 categories:
   - Research

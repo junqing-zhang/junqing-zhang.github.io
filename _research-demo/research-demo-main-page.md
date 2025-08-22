@@ -1,6 +1,6 @@
 ---
 title: "Research Demonstration"
-collection: research-area
+collection: research-demo
 ---
 
 
