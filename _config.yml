@@ -188,10 +188,7 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
-  research-demo:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/  
   funding-and-awards:
     output: true
     permalink: /:collection/:path/  
