@@ -13,6 +13,8 @@ tags:
 
 This paper summarizes key generation research datasets that are publicly available. 
 
-To be updated.
+* Bidirectional CSI measurement for V2X Communications
+[Dataset Download Link](https://ieee-dataport.org/documents/bidirectional-csi-measurement-v2x-communications){:target="_blank"}
+
 
 Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/).  
