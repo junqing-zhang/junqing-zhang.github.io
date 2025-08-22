@@ -1,7 +1,7 @@
 ---
 title: "WiFi RFFI @ University of Liverpool"
 date: 2025-04-11
-collection: research-demo
+permalink: /research-demo/demo-wifi-rffi/
 author_profile: true
 categories:
   - Research

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "LoRaWAN Demonstration"
-collection: research-demo
+permalink: /research-demo/demo-lorawan-fipy/
 author_profile: true
 ---
 
