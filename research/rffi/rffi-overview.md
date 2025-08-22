@@ -25,4 +25,4 @@ This page introduces the background of Radio Frequency Fingerprinting Identifica
 # Classification
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).

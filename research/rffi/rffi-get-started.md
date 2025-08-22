@@ -139,4 +139,4 @@ Steps 1-4 are not required if you are using public datasets.
 
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).

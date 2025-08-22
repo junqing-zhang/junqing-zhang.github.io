@@ -89,4 +89,4 @@ tags:
 1. Guanxiong Shen, Junqing Zhang, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in Proc. IEEE INFOCOM, 2021. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).

@@ -73,4 +73,4 @@ This paper summarizes key generation research projects.
 1. Network Engineering Techniques for Wireless Security (Project Link)
   * Partner: Singapore University of Technology and Design
   
-Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/){:target="_blank"}.  
+Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/).  

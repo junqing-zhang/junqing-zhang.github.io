@@ -20,4 +20,4 @@ This paper summarizes available resources for Radio Frequency Fingerprint Identi
 * [Open Set Wireless Transmitter Authorization: Deep Learning Approaches and Practical Considerations](https://www.youtube.com/watch?v=Hrnt_zrQDgI){:target="_blank"}, by Prof Danijela Cabric
 
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/){:target="_blank"}.
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).

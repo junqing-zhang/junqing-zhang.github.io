@@ -27,4 +27,4 @@ This paper summarizes some important key generation references.
 
 
 
-Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/){:target="_blank"}.  
+Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/).  

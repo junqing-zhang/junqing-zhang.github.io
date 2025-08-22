@@ -74,4 +74,4 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 
 
 
-Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/){:target="_blank"}.  
+Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/).  
