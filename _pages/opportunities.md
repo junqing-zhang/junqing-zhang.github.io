@@ -54,4 +54,4 @@ The School of Electrical Engineering, Electronics and Computer Science hosts num
 Please visit this [link](https://www.liverpool.ac.uk/electrical-engineering-electronics-and-computer-science/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
 
 ## Newton International Fellowships for Post-Doc
-The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and opens in March. Please contact us if you are interested.
+The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and closes in March. Please contact us if you are interested.
