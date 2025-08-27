@@ -39,7 +39,7 @@ Key generation is an emerging technique to establish cryptographic keys between 
 
 
 <br />
-<img align="center" width="800" src="{{ site.url }}/images/keygen/keygen_model.png" alt="...">
+<img align="center" width="800" src="/research/keygen/images/keygen_model.png" alt="...">
 <br />
 
 
@@ -55,7 +55,7 @@ All the components of wireless devices will have slightly different features, e.
 * [RFFI Projects](/research/rffi/rffi-project/)
 
 <br />
-<img align="center" width="800" src="{{ site.url }}/images/rffi/RFFI_DL.png" alt="...">
+<img align="center" width="800" src="/research/rffi/images/RFFI_DL.png" alt="...">
 <br />
 
 
@@ -76,7 +76,7 @@ All the components of wireless devices will have slightly different features, e.
 * [WiFi Sensing at University of Liverpool](/research/wifi-sensing/wifi-sensing-pub/)
 
 <br />
-<img align="center" width="800" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
+<img align="center" width="800" src="/research/wifi-sensing/images/WirelessSensingSystemModel.png" alt="...">
 <br />
 
 ### 2.2 mmWave Radar Sensing
