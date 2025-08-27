@@ -19,9 +19,7 @@ RFF identification is an emerging technology and it can be used for authenticati
 <img align="center" width="1000" src="./demo-fyp-2020-rffi-lora-overview.png" alt="...">
 <br />
 
-## Signal Generation
-Any board that can generate LoRa signal without higher layers will work, e.g., Lopy4, Fipy. This demonstration uses ten Lopy4 boards as example. 
- 
+
 ## Signal Reception and Processing
 * Synchronization: Detect the exact starting point of the preamble. 
 * CFO Estimation and Compensation: Estimate the CFO of the received signal and compensate it with the estimated CFO.
