@@ -58,6 +58,15 @@ All the components of wireless devices will have slightly different features, e.
 <img align="center" width="800" src="{{ site.url }}/images/rffi/RFFI_DL.png" alt="...">
 <br />
 
+
+### [1.3 Physical Layer Authentication](/research/phy-auth/phy-auth-main-page/){:target="_blank"}
+* [Physical Layer Authentication Overview](/research/phy-auth/phy-auth-overview/)
+* [Physical Layer Authentication Recommended Reading List](/research/phy-auth/phy-auth-recommended-reading/)
+* [Physical Layer Authentication Dataset](/research/phy-auth/phy-auth-dataset/)
+* [Physical Layer Authentication Resources](/research/phy-auth/phy-auth-resources/)
+* [Physical Layer Authentication at University of Liverpool](/research/phy-auth/phy-auth-pub/)
+
+
 ## 2. Wireless Sensing
 ### [2.1 WiFi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}
 * [WiFi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
