@@ -15,4 +15,4 @@ This paper summarizes Physical Layer Authentication research datasets that are p
 To be updated.
 
 
-Return to the Main Page of [Wi-Fi Sensing](/research/phy-auth/phy-auth-main-page/).
+Return to the Main Page of [Physical Layer Authentication](/research/phy-auth/phy-auth-main-page/).

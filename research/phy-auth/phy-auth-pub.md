@@ -1,16 +1,14 @@
 ---
 title: "Publication - Physical Layer Authentication @ University of Liverpool"
 permalink: /research/phy-auth/phy-auth-pub/
-date: 2025-05-02
+date: 2025-08-27
 author_profile: true
 toc: true
 categories:
   - Research
-  - Wireless Sensing
-  - WiFi Sensing
+  - Physical Layer Authentication
 tags:
-  - Wireless Sensing
-  - WiFi Sensing
+  - Physical Layer Authentication
 ---
 
 <sup>*</sup> denotes corresponding author.
