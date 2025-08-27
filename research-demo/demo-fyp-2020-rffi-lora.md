@@ -12,7 +12,7 @@ In this demonstration, we will present a CNN-based RFF identification for LoRa. 
 {% include toc %}
 
 # Overview
-RFF identification is an emerging technology and it can be used for authentication of the Internet of Things with low power consumption. This demonstration uses Lopy4 to transmit LoRa signals and RTL-SDR for reception. The signal processing and CNN training have been implemented by Python. 
+RFF identification is an emerging technology and it can be used for authentication of the Internet of Things with low power consumption. This demonstration uses LoPy4 to transmit LoRa signals and RTL-SDR for reception. The signal processing and CNN training have been implemented by Python. 
 
 # System Overview
 <br />
