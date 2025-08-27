@@ -17,7 +17,7 @@ This page introduces the background of wireless sensing.
 # Overview
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images\wireless-sensing\WirelessSensingSystemModel.png" alt="...">
+<img align="center" width="1000" src="/research/wifi-sensing/images/WirelessSensingSystemModel.png" alt="...">
 <br />
 Figure from [https://arxiv.org/pdf/2203.02014.pdf](https://arxiv.org/pdf/2203.02014.pdfhttps://arxiv.org/pdf/2203.02014.pdf){:target="_blank"}
 

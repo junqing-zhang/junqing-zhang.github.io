@@ -5,7 +5,7 @@ permalink: /research/keygen/keygen_main_page/
 
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 
-<br/><img src='/images/keygen/keygen_model.png'>
+<br/><img src='/research/keygen/images/keygen_model.png'>
 
 
 * [Key Generation Overview](/research/keygen/keygen-overview/)

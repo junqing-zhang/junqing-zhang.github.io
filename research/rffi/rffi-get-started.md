@@ -19,7 +19,7 @@ This page provides a tutorial on how to construct an Radio Frequency Fingerprint
 As shown in the figure below, an RFFI system consists of several device under tests (DUTs) and a receiver. The goal of the RFFI system is to correctly identify/classify these DUTs by analyzing the physical layer signals captured by the receiver.
 
 <div  align="center">    
- <img src="{{ site.url }}/images/rffi/RFFI_DL.png" width = "600"  alt="Deep learning-based RFFI" align=center />
+ <img src="/research/rffi/images/RFFI_DL.png" width = "600"  alt="Deep learning-based RFFI" align=center />
  </div>
 Figure from [https://arxiv.org/pdf/2207.02999.pdf](https://arxiv.org/pdf/2207.02999.pdf){:target="_blank"}
 
@@ -74,7 +74,7 @@ Useful material to learn SDR: [https://pysdr.org/index.html](https://pysdr.org/i
 ### Signal Collection Module
 The software is a critical part for SDR applications. Specific to RFFI research, you need to write the signal receiving program to capture the valid wireless packets. Figure below shows the flow chart of a basic signal collection program. 
 <div  align="center">    
- <img src="{{ site.url }}/images/rffi/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
+ <img src="/research/rffi/images/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
  </div>
 
 The packet detection, synchronization and carrifer frequency offset (CFO) compensation algorithms can be implemented by MATLAB/Python/C, depending on the demand for real-time performance and collection speed. Note that for some applications, MAC address decoding is also required to ensure that the captured packets are sent from the correct DUT and not from another device. The signals can be saved in any format such as .csv, .hdf5, .mat, .txt, etc., as long as they can be correctly loaded by the deep learning module. 

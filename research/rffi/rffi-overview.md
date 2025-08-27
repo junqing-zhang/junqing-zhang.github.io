@@ -18,7 +18,7 @@ This page introduces the background of Radio Frequency Fingerprinting Identifica
 # Overview
 
 <br />
-<br/><img src='/images/rffi/RFFI_DL.png'>
+<br/><img src='/research/rffi/images/RFFI_DL.png'>
 <br />
 
 # Training
