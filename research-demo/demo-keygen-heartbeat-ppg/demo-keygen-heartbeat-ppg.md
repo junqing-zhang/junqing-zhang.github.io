@@ -16,7 +16,7 @@ This demonstration uses PPG sensors to collect heartbeat signals and extract cry
 
 # Key Generation Protocol
 <br />
-<img align="center" width="700" src="{{ site.url }}/images/keygen/heartbeat_keygen_protocol_with_encryption.png" alt="...">
+<img align="center" width="700" src="./heartbeat_keygen_protocol_with_encryption.png" alt="...">
 <br />
 
 ## Heartbeat Measurement
@@ -35,11 +35,11 @@ Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG senso
 # Setup
 
 <br />
-<img align="center" width="400" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_diagram.png" alt="...">
+<img align="center" width="400" src="./heartbeat_keygen_setup_diagram.png" alt="...">
 <br />
 
 <br />
-<img align="center" width="500" src="{{ site.url }}/images/keygen/heartbeat_keygen_setup_photo.png" alt="...">
+<img align="center" width="500" src="./heartbeat_keygen_setup_photo.png" alt="...">
 <br />
 
 Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_Pi/blob/master/PulseSensor_Arduino_Pi/PulseSensor_Arduino_Pi.md){:target="_blank"} for the hardware and software setup.
@@ -56,7 +56,7 @@ Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_
 
 # Demo Video
 Click the image below to watch the video.
-<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/keygen/heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
+<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="./heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
 
 # Reference
 **Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, vol. 22, no. 2, pp. 923 - 934, Feb. 2023. [link](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
