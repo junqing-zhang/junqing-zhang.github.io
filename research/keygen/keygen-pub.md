@@ -19,6 +19,10 @@ Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_b
 
 <sup>*</sup> denotes corresponding author.
 
+# Demonstration
+* [WiFi Key Generation Demonstration using WARP](/research-demo/demo-keygen-warp/)
+* [WiFi Key Generation Demonstration using Raspberry Pi](/research-demo/demo-keygen-rpi/)
+* [Heartbeat Key Generation Demonstration Using PPG Sensors](/research-demo/demo-keygen-heartbeat-ppg/)
 
 # Key Generation Survey
 1. **Junqing Zhang**, Guyue Li, Alan Marshall, Aiqun Hu, and Lajos Hanzo, “A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels,” _IEEE Access_, vol. 8, pp. 138406 - 138446, 2020. [link](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}

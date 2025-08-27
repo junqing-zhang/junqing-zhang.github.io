@@ -15,7 +15,9 @@ tags:
 
 <sup>*</sup> denotes corresponding author.
 
-
+# Demonstration
+* [WiFi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
+* [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
 
 # Dataset and Code
