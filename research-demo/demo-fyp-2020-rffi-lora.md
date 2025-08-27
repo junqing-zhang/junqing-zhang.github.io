@@ -7,7 +7,7 @@ author_profile: true
 
 Traditional authentication schemes are implemented on the MAC layer for the LoRaWAN network. Radio frequency fingerprint (RFF) is a physical layer feature, originated from hardware imperfection. 
 
-In this demonstration, we will present a CNN-based RFF identification for LoRa. This demo is created by Mr Junzhe Ge as part of this final year project. This work has won the second place of the [RISE Student Competition on hardware & embedded systems security](https://www.ukrise.org/competition/){:target="_blank"} in 2021.
+In this demonstration, we will present a CNN-based RFF identification for LoRa. This demo is created by Mr Junzhe Ge as part of his final year project. This work won the second place of the [RISE Student Competition on hardware & embedded systems security](https://www.ukrise.org/competition/){:target="_blank"} in 2021.
 
 {% include toc %}
 
@@ -20,7 +20,7 @@ RFF identification is an emerging technology and it can be used for authenticati
 <br />
 
 ## Signal Generation
-Any board that can generate LoRa signal without higher layers will work, e.g., Lopy4, Fipy. This demonstration uses eight Lopy4 boards as example. 
+Any board that can generate LoRa signal without higher layers will work, e.g., Lopy4, Fipy. This demonstration uses ten Lopy4 boards as example. 
  
 ## Signal Reception and Processing
 * Synchronization: Detect the exact starting point of the preamble. 
@@ -39,7 +39,7 @@ Any board that can generate LoRa signal without higher layers will work, e.g., L
 
 
 ## Hardware
-* Lopy4 x10
+* LoPy4 x10
 * RTL-SDR x1
 * Jetson TX2 Developer Kit x1
 
