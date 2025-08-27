@@ -1,6 +1,6 @@
 ---
 title: "Physical Layer Authentication Dataset"
-date: 2022-01-30
+date: 2025-08-27
 permalink: /research/phy-auth/phy-auth-dataset/
 categories:
   - Research
