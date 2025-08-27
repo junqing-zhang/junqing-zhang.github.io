@@ -22,7 +22,7 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 
 # Key Generation Protocol
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/keygen/keygen_protocol.png" alt="...">
+<img align="center" width="600" src="./keygen_protocol.png" alt="...">
 <br />
 
 * Channel Probing:
@@ -36,7 +36,7 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 # Setup
 
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/keygen/keygen_rpi_setup_photo.png" alt="...">
+<img align="center" width="600" src="./keygen_rpi_setup_photo.png" alt="...">
 <br />
 
 ## Hardware
@@ -49,7 +49,10 @@ Python is used for the implementation
 * GUI design: Tkinter and matplotlib
 
 # Demo Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=37JyT22elm8&" target="_blank"><img src="{{ site.url }}/images/keygen/keygen_rpi_demo_screenshot.png" alt="Key Generation Demo" width="800" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=37JyT22elm8&" target="_blank"><img src="./keygen_rpi_demo_screenshot.png" alt="Key Generation Demo" width="800" border="10" /></a>
 
 # Acknowledgement
 We would like to thank Miss Jingyu Hu for her hard work on completing this excellent demo as part of her final year project.
+
+
+Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/) or the Main Page of [Research Demonstration](/research-demo/research-demo-main-page/).

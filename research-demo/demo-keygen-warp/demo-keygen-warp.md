@@ -22,7 +22,7 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 
 # Key Generation Protocol
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/keygen/keygen_protocol.png" alt="...">
+<img align="center" width="600" src="./keygen_protocol.png" alt="...">
 <br />
 
 * Channel Probing:
@@ -36,7 +36,7 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 # Setup
 
 <br />
-<img align="center" width="600" src="{{ site.url }}/images/keygen/setup.jpg" alt="...">
+<img align="center" width="600" src="./demo-keygen-warp-setup.jpg" alt="...">
 <br />
 
 ## Hardware
@@ -49,12 +49,15 @@ Our wireless communications are protected by the symmetric encryption, e.g., WiF
 * GUI and signal processing: Python
 
 # Demo Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QXeVH1ViXXw&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="800" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QXeVH1ViXXw&" target="_blank"><img src="./demo-keygen-warp-screenshot.png" alt="Key Generation Demo" width="800" border="10" /></a>
 
 # Acknowledgement
 We would like to thank [Mango Communications](http://mangocomm.com/){:target="_blank"} for their technical support on WARP and  Mr Yan Wang for his hard work on completing this excellent demo. 
 
 
-[comment]: <a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="{{ site.url }}/images/keygen/keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
+[comment]: <a href="http://www.youtube.com/watch?feature=player_embedded&v=zcCXj5M2x0k&" target="_blank"><img src="./keygendemo_screenshot.png" alt="Key Generation Demo" width="1000" border="10" /></a>
 
 [comment]: <><iframe width="560" height="315" src="http://www.youtube.com/embed/zcCXj5M2x0k" frameborder="0"> </iframe>
+
+
+Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/) or the Main Page of [Research Demonstration](/research-demo/research-demo-main-page/).
