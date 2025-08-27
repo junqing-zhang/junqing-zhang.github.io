@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Deep Learning Based RFF Identification for LoRa"
+title: "Deep Learning-Based RFF Identification for LoRa"
 permalink: /research-demo/demo-fyp-2020-rffi-lora/
 author_profile: true
 ---
