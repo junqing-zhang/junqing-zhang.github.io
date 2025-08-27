@@ -13,7 +13,7 @@ I have developed a strong research potential in innovative physical layer securi
 # Research Keywords
 
 <br />
-<img align="center" width="800" src="{{ site.url }}/images/WordCloudResearch.png" alt="...">
+<img align="center" width="800" src="./images/WordCloudResearch.png" alt="...">
 <br />
 
 # Research Topics
@@ -23,7 +23,7 @@ My research aims to exploit the wireless channel for security and sensing.
 Secure communication will be achieved by using key generation and device authentication. 
 
 <br />
-<img align="center" width="800" src="{{ site.url }}/images/system_overview.png" alt="...">
+<img align="center" width="800" src="./images/system_overview.png" alt="...">
 <br />
 
 
