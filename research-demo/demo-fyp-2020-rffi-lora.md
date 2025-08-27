@@ -16,7 +16,7 @@ RFF identification is an emerging technology and it can be used for authenticati
 
 # System Overview
 <br />
-<img align="center" width="1000" src="./images/demo-fyp-2020-rffi-lora-overview.png" alt="...">
+<img align="center" width="1000" src="images/demo-fyp-2020-rffi-lora-overview.png" alt="...">
 <br />
 
 ## Signal Generation
