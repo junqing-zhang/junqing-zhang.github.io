@@ -22,7 +22,7 @@ A light sensing and control IoT system is created as a case study. The LoRa end 
 # Setup
   
 <br />
-<img align="center" width="1000" src="./demo-lorawan-fipy-setup" alt="...">
+<img align="center" width="1000" src="./demo-lorawan-fipy-setup.jpg" alt="...">
 <br />
 
 ## Hardware
@@ -35,7 +35,7 @@ A light sensing and control IoT system is created as a case study. The LoRa end 
 * Micropython for the FiPy
 
 # Demo Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DrxtVFzTsQk&" target="_blank"><img src="./demo-lorawan-fipy-gui" alt="LoRaWAN Demo" width="1000" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DrxtVFzTsQk&" target="_blank"><img src="./demo-lorawan-fipy-gui.png" alt="LoRaWAN Demo" width="1000" border="10" /></a>
 
 
 # Acknowledgement
