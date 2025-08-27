@@ -21,7 +21,7 @@ Key generation from the wireless channel has emerged as a promising technique to
 The wireless channel is intrinsic to the environment. The multipath is determined by the direct line-of-sight, reflections, and scatterings, which is affected by the layout, scatter distribution and materials, movement of users or scatterers, etc. Therefore, the features and characteristics of wireless channels are unique and unpredictable. The common randomness residing in the wireless environment between any two users can be leveraged to generate cryptographic keys for the secure communications.
 
 <br />
-<img align="center" width="1000" src="./keygen_wireless_channel.png" alt="...">
+<img align="center" width="1000" src="/research/keygen/images/keygen_wireless_channel.png" alt="...">
 <br />
 
 # Key Generation Principles
@@ -31,14 +31,14 @@ Key generation is mainly based on three principles.
 * Spatial decorrelation indicates that there is randomness residing in the dynamic channel, which ensures the extracted keys are random. A random key will make the cryptographic applications robust against attacks such as brute force.
 * Temporal variation implies that when located a half-wavelength away from the legitimate users, the eavesdropper experiences an uncorrelated channel compared to that between Alice or Bob, guaranteeing the security of the key generation. When the system works at 2.4 GHz, a half-wavelength is about 6 cm, which is quite short.
 <br />
-<img align="center" width="1000" src="./keygen_principles.png" alt="...">
+<img align="center" width="1000" src="/research/keygen/images/keygen_principles.png" alt="...">
 <br />
 
 # Key Generation Protocol
 
 A full key generation protocol has been implemented and a demo is developed at Advanced Networks Research Group (ANRG), University of Liverpool. Please refer to the link for detailed information.
 <br />
-<img align="center" width="1000" src="./keygen_protocol.png" alt="...">
+<img align="center" width="1000" src="/research/keygen/images/keygen_protocol.png" alt="...">
 <br />
 
 # Reference
