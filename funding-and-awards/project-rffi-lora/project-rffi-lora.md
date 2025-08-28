@@ -37,9 +37,9 @@ Supported by this Research Grants, our group has equipped with LoRa devices from
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, vol. 39, no. 8, pp. 2604 - 2616, Aug. 2021. [link](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in _Proc. IEEE INFOCOM_, 2021, accepted. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
 
-The datasets and codes of the following papers are publicly available.
 
 ## Datasets and Codes
+The datasets and codes of the following papers are publicly available.
 
 1. Guanxiong Shen, **Junqing Zhang**, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 9204-9215, 2024. [link](https://ieeexplore.ieee.org/document/10697226){:target="_blank"}
 * [Dataset: LoRa Federated RFFI](https://ieee-dataport.org/documents/lorafederatedrffidataset){:target="_blank"}
