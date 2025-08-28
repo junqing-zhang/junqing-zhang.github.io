@@ -54,12 +54,12 @@ For more information please check [our university website](https://www.liverpool
 
 CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
 
-# Fellowships
+# Fellowships for Post-Doc
 The School of Electrical Engineering, Electronics and Computer Science hosts numerous staff members awarded prestigious personal fellowships and is strongly committed to attracting and retaining more fellows in the future.   
 
 Please visit this [link](https://www.liverpool.ac.uk/electrical-engineering-electronics-and-computer-science/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
 
-## Newton International Fellowships for Post-Doc
+## Newton International Fellowships 
 The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and closes in March. Please contact us if you are interested.
 
 ## Marie Skłodowska-Curie Postdoctoral Fellowship
