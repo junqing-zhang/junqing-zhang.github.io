@@ -14,7 +14,7 @@ Please download our datasets from [IEEE Dataport](https://ieee-dataport.org/sear
 
 # Radio Frequency Fingerprint Identification (RFFI)
 
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, 2024.
+1. Guanxiong Shen, **Junqing Zhang**, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 9204-9215, 2024. [link](https://ieeexplore.ieee.org/document/10697226){:target="_blank"}
 * [Dataset: LoRa Federated RFFI](https://ieee-dataport.org/documents/lorafederatedrffidataset){:target="_blank"}
 * [LoRa Federated RFFI](https://github.com/gxhen/federatedRFFI){:target="_blank"}
 
