@@ -24,7 +24,7 @@ Radio frequency fingerprinting identification (RFFI) is an emerging non-cryptogr
 Please visit [WiFi RFFI @ University of Liverpool](https://junqing-zhang.github.io/demo-wifi-rffi/) for a detailed introduction of our demo.
 
 Click the image below to watch the demo video.
-<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="{{ site.url }}/images/rffi/wifi_rffi_demo_frontpage.png" alt="WiFI RFFI Demo" width="800" border="10" /></a>
+<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="./wifi_rffi_demo_frontpage.png" alt="WiFI RFFI Demo" width="800" border="10" /></a>
 
 
 # Outcome
