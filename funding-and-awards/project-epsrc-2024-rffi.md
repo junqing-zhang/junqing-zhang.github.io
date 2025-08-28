@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Securing Spectrum Connectivity: Over-the-Air Authentication Using Radio Frequency Fingerprinting"
-collection: funding-and-awards
+permalink: /funding-and-awards/project-epsrc-2024-rffi/
 author_profile: true
 ---
 {% include toc %} 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning"
-collection: funding-and-awards
+permalink: /funding-and-awards/project-rffi-lora/
 author_profile: true
 ---
 {% include toc %} 
@@ -22,7 +22,7 @@ This project aims to design a robust device authentication scheme by exploiting 
 RFF identification is consisted of two stages, namely the training and classification.
  
 <figure>
-  <img src="{{site.url}}/images/rffi/rffi_lora.png" alt="RFFI for LoRa">
+  <img src="./rffi_lora.png" alt="RFFI for LoRa">
   <figcaption>RFF identification for LoRa </figcaption>
 </figure>
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "A New Frontier For Internet of Things Security: Far-Flung Key Generation"
-collection: funding-and-awards
+permalink: /funding-and-awards/project-epsrc-nia-keygen/
 author_profile: true
 ---
 {% include toc %} 
