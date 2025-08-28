@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-Junqing Zhang is a Senior Lecturer (Associate Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has also been exploring novel wireless sensing using WiFi and mmwave radars. He has been investigating wireless security and sensing solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, Bluetooth, ZigBee, etc, with a focus on the physical and MAC layers.
+Junqing Zhang is a Senior Lecturer (Associate Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has also been exploring novel wireless sensing using Wi-Fi and mmwave radars. He has been investigating wireless security and sensing solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, Bluetooth, ZigBee, etc, with a focus on the physical and MAC layers.
 
 Dr Zhang was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
@@ -47,34 +47,33 @@ We have made some datasets and codes publicly available. Please visit [this link
 ## Research Area
 Internet of Things
 
-Wireless security
-* Physical layer security
-* Key generation from wireless channel
-* Device authentication
-* Radio frequency fingerprint identification
-* Physical layer CSI authentication
+Wireless Security
+* Physical Layer Security
+* [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/)
+* [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/)
+* [Physical Layer Authentication](/research/phy-auth/phy-auth-main-page/)
 
 Wireless sensing
-* WiFi sensing
-* mmWave radar sensing
+* [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/)
+* mmWave Radar Sensing
 
 ## Research Expertise
 * Wireless communication techniques, such as OFDM, spread spectrum, etc
 * Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, Bluetooth, etc, in particular physical and MAC layers
 * Wireless channel modelling
-* Software defined radios including USRP, Zedboard + FMCOMMS2, and WARP
+* Software defined radios
 * Machine learning and deep learning applications in the wireless communications, sensing and security
 
 ##  [Research Demonstration](/research-demo/research-demo-main-page/){:target="_blank"}
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 
 Radio Frequency Fingerprint Identification
-* [WiFi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
+* [Wi-Fi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
 Key Generation
-* [WiFi Key Generation Demonstration using WARP](/research-demo/demo-keygen-warp/)
-* [WiFi Key Generation Demonstration using Raspberry Pi](/research-demo/demo-keygen-rpi/)
+* [Wi-Fi Key Generation Demonstration using WARP](/research-demo/demo-keygen-warp/)
+* [Wi-Fi Key Generation Demonstration using Raspberry Pi](/research-demo/demo-keygen-rpi/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/research-demo/demo-keygen-heartbeat-ppg/)
 
 Internet of Things (IoT)
