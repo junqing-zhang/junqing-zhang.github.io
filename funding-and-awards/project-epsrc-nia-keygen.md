@@ -22,10 +22,22 @@ Indeed, conceiving secure yet low-complexity key distribution for low-cost IoT d
 
 This project will be the first systematic study for LPWAN-based key generation. A synergistic approach will be adopted which involves theoretical modelling, algorithm design and experimental validation. The core aspects of this project will include novel mathematical channel correlation models and channel decomposition algorithms as well as new key generation protocols tuned and optimised for LPWAN. Extensive field-measurements will be carried out to evaluate our algorithms. A unique feature of this project will be the creation of viable security solutions for IoT validated by extensive measurements and proof-of-concept prototypes.
 
-# Introduction
-to be updated
-
-
-
 # Outcome
-to be updated
+
+## Journal
+1. Yijia Guo, **Junqing Zhang**<sup>*</sup>, and Y.-W. Peter Hong, “Practical Physical Layer Authentication for Mobile Scenarios Using a Synthetic Dataset Enhanced Deep Learning Approach,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xxx, 2025. [IEEE](https://ieeexplore.ieee.org/document/11141653){:target="_blank"}
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Trung Q. Duong, “Reconfigurable Intelligent Surface-Assisted Key Generation for Millimetre-Wave Multi-User Systems,” _IEEE Transactions on Information Forensics and Security_,  vol. 19, pp. 5373 - 5388, 2024. [link](https://ieeexplore.ieee.org/document/10520332){:target="_blank"}
+1. Yuepei Li, Kai Xu, **Junqing Zhang**, Chongyan Gu, Yuan Ding, George Goussetis, and Symon K. Podilchak, “PUF-Assisted Radio Frequency Fingerprinting Exploiting Power Amplifier Active Load-pulling”, _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 5015 - 5029, 2024. [link](https://ieeexplore.ieee.org/document/10500472){:target="_blank"}
+1. Chen Chen, **Junqing Zhang**<sup>*</sup>, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach”, _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 1086 - 1098, 2024. [IEEE link](https://ieeexplore.ieee.org/document/10315046){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2305.00043){:target="_blank"}
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Aiqun Hu, “Joint Precoding and Phase Shift Design in Reconfigurable Intelligent Surfaces-Assisted Secret Key Generation”, _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 3251-3266, Jun. 2023. [IEEE](https://ieeexplore.ieee.org/document/10106070){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2208.00218){:target="_blank"}
+1. Xinwei Zhang, Guyue Li, **Junqing Zhang**<sup>*</sup>, Linning Peng, Aiqun Hu and Xianbin Wang, “Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments”, _IEEE Transactions on Vehicular Technology_, 2024. [arXiv link](https://arxiv.org/abs/2211.03065){:target="_blank"}
+
+
+## Conference
+1. Yijia Guo, **Junqing Zhang**, and Y.-W. Peter Hong, “Deep Learning-Enhanced Physical Layer Authentication for Mobile Devices,” in _Proc. IEEE GLOBECOM_, 2023. 
+1. Chen Chen, **Junqing Zhang**<sup>*</sup>, Tianyu Lu, Magnus Sandell, and Liquan Chen, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach”, _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 1086 - 1098, 2024. [IEEE link](https://ieeexplore.ieee.org/document/10315046){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2305.00043){:target="_blank"}
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, Trung Q. Duong, and Michail Matthaiou, “Precoding Design for Key Generation in Near-Field Extremely Large-Scale MIMO Communications,” in _Proc. IEEE GLOBECOM Workshop_, 2023. 
+1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Chen Chen, and Trung Duong, “Reconfigurable Intelligent Surface-Assisted Key Generation for Millimeter Wave Communications”, in _Proc. IEEE WCNC Workshop_, 2023. [link](https://ieeexplore.ieee.org/document/10119128){:target="_blank"}
+1. Hongyi Luo, Guyue Li, Yuexiu Xing, **Junqing Zhang**, Aiqun Hu, and Xianbin Wang, “RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios”, in _Proc. IEEE ICC_, 2023.
+1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang, “White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification”, in _Proc. IEEE ICC_, 2023.
+
