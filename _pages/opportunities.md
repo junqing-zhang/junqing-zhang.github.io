@@ -61,3 +61,6 @@ Please visit this [link](https://www.liverpool.ac.uk/electrical-engineering-elec
 
 ## Newton International Fellowships for Post-Doc
 The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and closes in March. Please contact us if you are interested.
+
+## Marie Skłodowska-Curie Postdoctoral Fellowship
+The [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will close on 10 September 2025.
