@@ -16,7 +16,7 @@ We have made some datasets and codes publicly available.
 
 1. Guanxiong Shen, **Junqing Zhang**, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 9204-9215, 2024. [link](https://ieeexplore.ieee.org/document/10697226){:target="_blank"}
 * [Dataset: LoRa Federated RFFI](https://ieee-dataport.org/documents/lorafederatedrffidataset){:target="_blank"}
-* [LoRa Federated RFFI](https://github.com/gxhen/federatedRFFI){:target="_blank"}
+* [Code: LoRa Federated RFFI](https://github.com/gxhen/federatedRFFI){:target="_blank"}
 
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, vol. 23, no. 7, pp. 7618 - 7634, Jul. 2024. [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
 * [Dataset: Radio Frequency Fingerprint LoRa Dataset Multiple Receivers](https://ieee-dataport.org/documents/radio-frequency-fingerprint-lora-dataset-multiple-receivers){:target="_blank"}
