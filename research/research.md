@@ -68,12 +68,12 @@ All the components of wireless devices will have slightly different features, e.
 
 
 ## 2. Wireless Sensing
-### [2.1 WiFi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}
-* [WiFi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
-* [WiFi Sensing Recommended Reading List](/research/wifi-sensing/wifi-sensing-recommended-reading/)
-* [WiFi Sensing Dataset](/research/wifi-sensing/wifi-sensing-dataset/)
-* [WiFi Sensing Resources](/research/wifi-sensing/wifi-sensing-resources/)
-* [WiFi Sensing at University of Liverpool](/research/wifi-sensing/wifi-sensing-pub/)
+### [2.1 Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/){:target="_blank"}
+* [Wi-Fi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
+* [Wi-Fi Sensing Recommended Reading List](/research/wifi-sensing/wifi-sensing-recommended-reading/)
+* [Wi-Fi Sensing Dataset](/research/wifi-sensing/wifi-sensing-dataset/)
+* [Wi-Fi Sensing Resources](/research/wifi-sensing/wifi-sensing-resources/)
+* [Wi-Fi Sensing at University of Liverpool](/research/wifi-sensing/wifi-sensing-pub/)
 
 <br />
 <img align="center" width="800" src="/research/wifi-sensing/images/WirelessSensingSystemModel.png" alt="...">
@@ -85,12 +85,12 @@ To be updated
 # [Research Demonstration](/research-demo/research-demo-main-page/){:target="_blank"}
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 ## Radio Frequency Fingerprint Identification
-* [WiFi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
+* [Wi-Fi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
 ## Key Generation
-* [WiFi Key Generation Demonstration using WARP](/research-demo/demo-keygen-warp/)
-* [WiFi Key Generation Demonstration using Raspberry Pi](/research-demo/demo-keygen-rpi/)
+* [Wi-Fi Key Generation Demonstration using WARP](/research-demo/demo-keygen-warp/)
+* [Wi-Fi Key Generation Demonstration using Raspberry Pi](/research-demo/demo-keygen-rpi/)
 * [Heartbeat Key Generation Demonstration Using PPG Sensors](/research-demo/demo-keygen-heartbeat-ppg/)
 
 ## Internet of Things (IoT)
