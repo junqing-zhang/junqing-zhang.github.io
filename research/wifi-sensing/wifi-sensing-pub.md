@@ -1,5 +1,5 @@
 ---
-title: "Publication - WiFi Sensing @ University of Liverpool"
+title: "Publication - Wi-Fi Sensing @ University of Liverpool"
 permalink: /research/wifi-sensing/wifi-sensing-pub/
 date: 2025-05-02
 author_profile: true
@@ -7,10 +7,10 @@ toc: true
 categories:
   - Research
   - Wireless Sensing
-  - WiFi Sensing
+  - Wi-Fi Sensing
 tags:
   - Wireless Sensing
-  - WiFi Sensing
+  - Wi-Fi Sensing
 ---
 
 <sup>*</sup> denotes corresponding author.

@@ -1,5 +1,5 @@
 ---
-title: "WiFi Sensing @ University of Liverpool"
+title: "WiFi Sensing"
 permalink: /research/wifi-sensing/wifi-sensing-overview/
 date: 2021-12-17
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-title: "WiFi Sensing Resources"
+title: "Wi-Fi Sensing Resources"
 date: 2024-03-10
 permalink: /research/wifi-sensing/wifi-sensing-resources/
 categories:

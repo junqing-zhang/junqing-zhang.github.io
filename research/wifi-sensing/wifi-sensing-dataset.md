@@ -1,18 +1,18 @@
 ---
-title: "WiFi Sensing Dataset"
+title: "Wi-Fi Sensing Dataset"
 date: 2022-01-30
 permalink: /research/wifi-sensing/wifi-sensing-dataset/
 categories:
   - Research
   - Wireless Sensing
-  - WiFi Sensing
+  - Wi-Fi Sensing
 tags:
   - Wireless Sensing
-  - WiFi Sensing
+  - Wi-Fi Sensing
   - Dataset
 ---
 
-This paper summarizes WiFi sensing research datasets that are publicly available. 
+This paper summarizes Wi-Fi sensing research datasets that are publicly available. 
 
 To be updated.
 
