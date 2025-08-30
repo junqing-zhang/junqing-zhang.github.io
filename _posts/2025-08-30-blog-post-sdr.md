@@ -73,6 +73,6 @@ Strictly speaking, WARP is not an SDR platform, because it uses a WiFi chipset M
 
 
 # Resources
-## [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}
+* [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}
 
 
