@@ -41,11 +41,6 @@ A comparison between different SDR is produced by LimeSDR and quoted here. Sourc
 | Transmit Power           | -10 dBm+ (15 dBm @ 2.4 GHz) | 10 dBm+             | 10 dBm+             | 6 dBm               | N/A              | max 10 dBm (depending on freq.)   | max 10 dBm (depending on freq.)     |
 | Price                    | $299                        | $686                | $1,119              | $420                | ~$10             | $299                              | $159                                |
 
-
-## AD9361/AD9363/AD9364 Boards
-* [Introduction to boards based on the AD9361/AD9363/AD9364](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms2-ebz/introduction){:target="_blank"}
-* [Difference among AD9361/AD9363/AD9364](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms2-ebz/ad9361){:target="_blank"}
-
 # Development Tool
 
 ## GNU Radio
@@ -63,10 +58,7 @@ Some SDR also supports Python.
 
 # SDR Platforms
 * [Universal Software Radio Peripheral (USRP)](https://junqing-zhang.github.io/posts/blog-post-usrp/)
+* [Analog Devices SDR](https://junqing-zhang.github.io/posts/blog-post-sdr-adi/)
 * [LimeSDR](/posts/blog-post-limesdr/){:target="_blank"}
 * [RTL-SDR](/posts/blog-post-rtl-sdr/){:target="_blank"}
 
-## [Wireless Open Access Research Platform (WARP)](http://warpproject.org/trac){:target="_blank"}
-Strictly speaking, WARP is not an SDR platform, because it uses a WiFi chipset MAX2829. There are two reference designs, namely 802.11 reference design and WARPLab reference design. The driver has been developed for both designs and the users can simply focus on developing their applications and prototypes.
-* WARP 802.11 reference design is compatible with the commercial WiFi standard. The PHY and MAC codes are running at the FPGA. An experimental framework has been developed with two WARP boards connecting to a PC via a Ethernet switch. Python has been used. A more detailed introduction can be found at link
-* WARPLab reference design is very suitable for fast prototype of physical layer algorithm. Two or more WARP boards are connected to a PC via a Ethernet switch.  The signal is modulated at the Matlab, then transferred to WARP transmitter via Ethernet cable. The data is triggered for transmission through the real wireless channel. The WARP receiver captures the signal and transfer it to the PC/Matlab via Ethernet cable for further processing.
