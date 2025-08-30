@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - Analog Devices SDR'
-date: 2022-08-27
-permalink: /posts/blog-post-sdr-adi/
+date: 2025-08-30
+permalink: /resources/sdr-adi/
 categories:
   - Resources
   - Wireless  

@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio'
 date: 2025-08-30
-permalink: /posts/blog-post-sdr/
+permalink: /resources/sdr/
 categories:
   - Resources
   - Wireless  
@@ -13,6 +13,13 @@ tags:
 This page summarizes information for software defined radio (SDR).
 
 {% include toc %}
+
+# SDR Platforms
+* [Universal Software Radio Peripheral (USRP)](/resources/usrp/)
+* [Analog Devices SDR](/resources/sdr-adi/)
+* [LimeSDR](/resources/limesdr/)
+* [RTL-SDR](/resources/rtl-sdr/)
+
 
 # Overview
 *Radio components such as modulators, demodulators and tuners are traditionally implemented in hardware components. The advent of modern computing and analogue to digital converters allows most of these traditionally hardware based components to be implemented into software instead. Hence, the term software defined radio. This enables easy signal processing and thus cheap wide band scanner radios to be produced.* (quoted from [https://www.rtl-sdr.com/about-rtl-sdr/](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"})
@@ -58,11 +65,6 @@ A comparison between different SDR is produced by LimeSDR and quoted here. Sourc
 Some SDR also supports Python. Check Chapters 5-9 in the Book [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}.
 
 
-# SDR Platforms
-* [Universal Software Radio Peripheral (USRP)](https://junqing-zhang.github.io/posts/blog-post-usrp/)
-* [Analog Devices SDR](https://junqing-zhang.github.io/posts/blog-post-sdr-adi/)
-* [LimeSDR](/posts/blog-post-limesdr/){:target="_blank"}
-* [RTL-SDR](/posts/blog-post-rtl-sdr/){:target="_blank"}
 
 # Resources
 ## Books

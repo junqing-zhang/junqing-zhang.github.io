@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - RTL SDR'
-date: 2019-12-13
-permalink: /posts/blog-post-rtl-sdr/
+date: 2025-08-30
+permalink: /resources/rtl-sdr/
 categories:
   - Resources
   - Wireless  
