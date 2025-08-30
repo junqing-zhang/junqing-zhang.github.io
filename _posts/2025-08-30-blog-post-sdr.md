@@ -48,17 +48,21 @@ A comparison between different SDR is produced by LimeSDR and quoted here. Sourc
 
 ## Matlab
 * Supported Devices: USRP, Zynq SDR, RTL-SDR, and Adalm PlutoSDR
-* [Link](https://uk.mathworks.com/discovery/sdr.html){:target="_blank"}
+* [Matlab Link](https://uk.mathworks.com/discovery/sdr.html){:target="_blank"}
 
 ## Python
-Some SDR also supports Python.
+Some SDR also supports Python. Check Chapters 5-9 in the Book [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}.
 
-# Resources
-* [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}
 
 # SDR Platforms
 * [Universal Software Radio Peripheral (USRP)](https://junqing-zhang.github.io/posts/blog-post-usrp/)
 * [Analog Devices SDR](https://junqing-zhang.github.io/posts/blog-post-sdr-adi/)
 * [LimeSDR](/posts/blog-post-limesdr/){:target="_blank"}
 * [RTL-SDR](/posts/blog-post-rtl-sdr/){:target="_blank"}
+
+# Resources
+## Books
+* [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}
+* [Software Defined Radio with Zynq UltraScale+ RFSoC](https://www.rfsocbook.com/){:target="_blank"}
+
 
