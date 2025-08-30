@@ -46,6 +46,10 @@ A comparison between different SDR is produced by LimeSDR and quoted here. Sourc
 ## GNU Radio
 [Tutorial](https://wiki.gnuradio.org/index.php/Tutorials){:target="_blank"}
 
+* [IEEE 802.11 a/g/p transceiver for GNU Radio](https://github.com/bastibl/gr-ieee802-11){:target="_blank"}
+* [LoRa PHY based on GNU Radio](https://www.epfl.ch/labs/tcl/resources-and-sw/lora-phy/){:target="_blank"}
+
+
 ## Matlab
 * Supported Devices: USRP, Zynq SDR, RTL-SDR, and Adalm PlutoSDR
 * [Matlab Link](https://uk.mathworks.com/discovery/sdr.html){:target="_blank"}
