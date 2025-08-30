@@ -1,7 +1,7 @@
 ---
 title: 'Resources for ZigBee and IEEE 802.15.4'
 date: 2020-11-03
-permalink: /posts/2020/11/blog-post-zigbee/
+permalink: /resources/wireless/zigbee/
 toc: true
 categories:
   - Resources

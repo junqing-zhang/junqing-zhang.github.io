@@ -1,14 +1,18 @@
 ---
-title: 'Internet of Things'
+title: 'Wireless Communication Technologies'
 date: 2020-01-15
-permalink: /posts/2020/01/blog-post-iot/
+permalink: /resources/wireless/
 categories:
   - Internet of Things
+  - Wireless
 tags:
   - Internet of Things
 ---
 
-What is IoT?
+* [Wi-Fi/IEEE 802.11](/resources/wireless/wifi/)
+* [ZigBee/IEEEE 802.15.4](/resources/wireless/zigbee/)
+* [LoRa, LoRaWAN](/resources/wireless/lora-lorawan/)
+* [Bluetooth](/resources/wireless/bluetooth/)
 
 {% include toc %}
 

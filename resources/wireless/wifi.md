@@ -1,7 +1,7 @@
 ---
 title: 'Resources for WiFi'
 date: 2023-08-31
-permalink: /posts/blog-post-wifi/
+permalink: /resources/wireless/wifi/
 categories:
   - Resources
   - Wireless  
