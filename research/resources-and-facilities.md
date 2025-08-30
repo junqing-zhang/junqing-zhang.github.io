@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resources and Facilities"
-permalink: /resources-and-facilities/
+permalink: /research/resources-and-facilities/
 author_profile: true
 toc: true
 ---
