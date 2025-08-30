@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - LimeSDR'
 date: 2020-10-16
-permalink: /posts/2020/10/blog-post-limesdr/
+permalink: /posts/blog-post-limesdr/
 categories:
   - Resources
   - Wireless  
