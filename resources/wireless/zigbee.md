@@ -18,6 +18,8 @@ This page summarizes resources for ZigBee and IEEE 802.15.4. It is still under a
 
 # Overview
 IEEE 802.15.4 defines the physical and MAC layers. ZigBee is based on IEEE 802.15.4 but also defines higher layer protocols.
+* [What's The Difference Between IEEE 802.15.4 And ZigBee Wireless?](https://www.electronicdesign.com/unused/article/21796046/whats-the-difference-between-ieee-802154-and-zigbee-wireless){:target="_blank"}
+* [802.15.4 vs ZigBee](http://www.libelium.com/802-15-4-vs-zigbee/){:target="_blank"}
 
 IEEE 802.15.4 is also adopted by 6LoWPAN, WirelessHART, THREAD, etc.
 
@@ -64,3 +66,5 @@ MAC Type
 # Tutorial
 Check the first chapter of [IEEE 802.15.4 Stack User Guide](https://www.nxp.com/docs/en/user-guide/JN-UG-3024.pdf){:target="_blank"} for a brief introduction of IEEE 802.15.4.
 
+
+Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
