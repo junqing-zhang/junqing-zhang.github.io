@@ -41,7 +41,7 @@ Matlab has a good support for Ettus USRP which allows fast test and prototype. P
 * [What Is the Difference between NI and Ettus Research USRP Devices?](https://www.ni.com/en-gb/innovations/white-papers/19/what-is-the-difference-between-ni-and-ettus-usrps.html){:target="_blank"}
 
 
-
+Return to the Main Page of [Software Defined Radio](/resources/sdr/).
 
 
 

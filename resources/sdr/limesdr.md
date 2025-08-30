@@ -31,3 +31,4 @@ This completes the hardware and software setup.
 * [LimeSDR Made Simple](https://wiki.myriadrf.org/LimeSDR_Made_Simple){:target="_blank"}. The webpage does not give a full list of the tutorial series, google search "LimeSDR Made Simple"
 
 
+Return to the Main Page of [Software Defined Radio](/resources/sdr/).
