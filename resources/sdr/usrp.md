@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - USRP'
 date: 2025-08-30
-permalink: /resources/usrp/
+permalink: /resources/sdr/usrp/
 categories:
   - Resources
   - Wireless  

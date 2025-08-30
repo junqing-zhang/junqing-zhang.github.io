@@ -15,10 +15,10 @@ This page summarizes information for software defined radio (SDR).
 {% include toc %}
 
 # SDR Platforms
-* [Universal Software Radio Peripheral (USRP)](/resources/usrp/)
-* [Analog Devices SDR](/resources/sdr-adi/)
-* [LimeSDR](/resources/limesdr/)
-* [RTL-SDR](/resources/rtl-sdr/)
+* [Universal Software Radio Peripheral (USRP)](/resources/sdr/usrp/)
+* [Analog Devices SDR](/resources/sdr/sdr-adi/)
+* [LimeSDR](/resources/sdr/limesdr/)
+* [RTL-SDR](/resources/sdr/rtl-sdr/)
 
 
 # Overview

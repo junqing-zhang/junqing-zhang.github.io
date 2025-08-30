@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - RTL SDR'
 date: 2025-08-30
-permalink: /resources/rtl-sdr/
+permalink: /resources/sdr/rtl-sdr/
 categories:
   - Resources
   - Wireless  
@@ -17,7 +17,7 @@ This paper summarizes resources for RTL SDR.
 # Overview
 RTL SDR is a low cost SDR. Check [here](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"} for detailed information.
 <figure>
-  <img src="{{site.url}}/images/sdr/rtl-sdr.jpg" alt="RTL SDR"/>
+  <img src="/resources/sdr/images/rtl-sdr.jpg" alt="RTL SDR"/>
   <figcaption>RTL SDR</figcaption>
 </figure>
 

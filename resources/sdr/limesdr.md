@@ -1,7 +1,7 @@
 ---
 title: 'Software Defined Radio - LimeSDR'
 date: 2025-08-30
-permalink: /resources/limesdr/
+permalink: /resources/sdr/limesdr/
 categories:
   - Resources
   - Wireless  
