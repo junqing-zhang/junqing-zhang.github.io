@@ -3,7 +3,7 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Publication"
+  - title: "Publications"
     url: /publication/
 
   - title: "People"
@@ -16,12 +16,12 @@ main:
   - title: "Funding & Award"
     url: /funding-and-awards/
 
-  - title: "Professional Activity"
+  - title: "Activities"
     url: /professional-activities/
 
 #  - title: "CV"
 #    url: /cv/
-  - title: "Resource"
+  - title: "Resources"
     url: /resources/
     
   - title: "Teaching"
