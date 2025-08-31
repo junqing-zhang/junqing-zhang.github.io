@@ -30,7 +30,7 @@ Some popular themes for github pages:
 
 An experience of using github pages can be found at [https://jponttuset.cat/building-an-academic-website/](https://jponttuset.cat/building-an-academic-website/).
 
-In our opinion, WordPress versus github pages is comparable to Word versus LaTex. If you are fimilar with LaTex, you will not find difficulty using github pages. It uses markdown to render the format. While the syntax of markdown is different from LaTex, the methodology is the same.
+In our opinion, WordPress versus github pages is comparable to Word versus LaTex. If you are fimiliar with LaTex, you will not find difficulty using github pages. It uses markdown to render the format. While the syntax of markdown is different from LaTex, the methodology is the same.
 
 # Tutorials
 * [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/){:target="_blank"}
