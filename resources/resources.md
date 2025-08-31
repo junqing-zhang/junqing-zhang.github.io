@@ -13,5 +13,5 @@ Please vist [Software Defined Radio](/resources/sdr/)
 # Wireless Communication Technologies
 Please vist [Wireless Communication Technologies](/resources/wireless/)
 
-# Wireless Communication Technologies
+# Deep Learning and Machine Learning
 Please vist [Deep Learning and Machine Learning](/resources/deep-learning/)
