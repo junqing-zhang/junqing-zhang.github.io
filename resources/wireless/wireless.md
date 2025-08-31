@@ -9,13 +9,9 @@ tags:
   - Internet of Things
 ---
 
-
+This page summarizes resources related to wireless communications, involving fundametal knowledge, wireless standards, useful tools, and online resources.
 
 {% include toc %}
-
-# Overview
-A good white paper explaining 
-[Key Priorities for Sub-GHz Wireless Deployment]([https://www.silabs.com/documents/public/white-papers/Key-Priorities-for-Sub-GHz-Wireless-Deployments.pdf){:target="_blank"}
 
 # Fundamental
 * [Wireless Channel and Radio Propagation](/resources/wireless/wireless-channel-radio-propagation/)
@@ -33,5 +29,6 @@ A good white paper explaining
 
 # Resources
 * [IoT Book (in Chinese)](https://iot-book.github.io/){:target="_blank"}
+* A good white paper explaining [Key Priorities for Sub-GHz Wireless Deployment](https://www.silabs.com/documents/public/white-papers/Key-Priorities-for-Sub-GHz-Wireless-Deployments.pdf){:target="_blank"}
 
 
