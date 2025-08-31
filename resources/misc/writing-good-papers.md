@@ -36,7 +36,7 @@ For example, the policy of IEEE Transactions on Wireless Communications can be f
 * [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html){:target="_blank"} 
 * [Top-10 tips for writing a paper](http://conferences.sigcomm.org/co-next/2006/files/pres/10tipsforwritingapaper.pdf){:target="_blank"} by Jim Kurose, University of Massachusetts
 * [Tips about writing systems papers](http://www.linzhong.org/opinions/writing.html){:target="_blank"} by Prof Lin Zhong, Yale University
-* [How to write for Technical Periodicals & conferences](http://ieeeauthorcenter.ieee.org/wp-content/uploads/How-to-Write-for-Technical-Periodicals-and-Conferences-1.pdf){:target="_blank"} by IEEE
+* [How to write for Technical Periodicals & conferences](https://eps.ieee.org/images/files/mc-ieee_author_guide_interactive.pdf){:target="_blank"} by IEEE
 > Making Your Article interesting to Read
 > * Write in paragraphs, not long blocks of text [12]. every paragraph should have a topic sentence, supporting sentences that build on that key message, and a summary sentence. Vary the length of your paragraphs to make your article easier to read. Think about the transition from one paragraph to the next. is there a logical progression?
 > * Write clear, simple sentences in the form of noun-verb-object. Varying sentence length can make an article more engaging. compound sentences add variety and are useful for comparing ideas [12]. every word in a sentence should contribute something; eliminate unnecessary words.

@@ -8,13 +8,13 @@ toc: true
 
 
 # Software Defined Radio
-Please vist [Software Defined Radio](/resources/sdr/)
+Please visit [Software Defined Radio](/resources/sdr/)
 
 # Wireless Communication Technologies
-Please vist [Wireless Communication Technologies](/resources/wireless/)
+Please visit [Wireless Communication Technologies](/resources/wireless/)
 
 # Deep Learning and Machine Learning
-Please vist [Deep Learning and Machine Learning](/resources/deep-learning/)
+Please visit [Deep Learning and Machine Learning](/resources/deep-learning/)
 
 # Miscellaneous
 Please visit [Miscellaneous](/resources/misc/)

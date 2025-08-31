@@ -21,6 +21,9 @@ The only exceptions to use bitmap in academic publication are the photos of expe
 
 Below are some tools to prepare good-looking vector figures.
 
+## Matlab Function - Save Plot as Image or Vector Graphics File (Recommended)
+Check  [https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html](https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html){:target="_blank"} to save figures.
+
 ## Matlab Export Figure
 * Save Matlab figures to vector figures (pdf, eps), without margin
 * Link: [https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig){:target="_blank"}  
@@ -29,17 +32,17 @@ Below are some tools to prepare good-looking vector figures.
 * Plot zoomed 2D graphics of images on the same figure
 * Link: [https://uk.mathworks.com/matlabcentral/fileexchange/26007-on-figure-magnifier](https://uk.mathworks.com/matlabcentral/fileexchange/26007-on-figure-magnifier){:target="_blank"}  
 
-## Drawing Diagrams - Draw.io
-* A free online diagram and flowchart maker
-* Link: [https://www.draw.io/](https://www.draw.io/){:target="_blank"}  
+## Powerpoint
+Microsoft PowerPoint is great to prepare diagrams. There are lots of icons under Insert->Icons.
 
 ## Visio
 If you have the license for Visio, this is a great tool to create flowcharts and diagrams.
 
+
 # Video  
 
 ## Activepresenter
-* A very good tool to create demonstration video. The layout is very similar to Powerpoint so it is very easy to use. Free version available.
+* A very good tool to create demonstration video. The layout is very similar to Microsoft PowerPoint so it is very easy to use. Free version available.
 * Link: [https://atomisystems.com/activepresenter/](https://atomisystems.com/activepresenter/){:target="_blank"}  
  
 
