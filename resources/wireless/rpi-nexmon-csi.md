@@ -1,7 +1,7 @@
 ---
 title: 'HowTo: Nexmon CSI Tool'
 date: 2022-07-22
-permalink: /posts/blog-post-rpi-nexmon-csi/
+permalink: /resources/wireless/rpi-nexmon-csi/
 categories:
   - Resources
   - Raspberry Pi

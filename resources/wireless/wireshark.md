@@ -1,7 +1,7 @@
 ---
 title: 'Wireshark'
 date: 2022-01-25
-permalink: /posts/2022/01/blog-post-wireshark
+permalink: /resources/wireless/wireshark
 categories:
   - Resources
   - Wireshark

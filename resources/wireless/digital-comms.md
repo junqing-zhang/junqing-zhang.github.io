@@ -1,7 +1,7 @@
 ---
 title: 'Digital Communications'
 date: 2020-10-16
-permalink: /posts/2020/10/blog-post-digital-comms/
+permalink: /resources/wireless/digital-comms/
 categories:
   - Resources
   - Wireless  
