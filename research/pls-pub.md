@@ -1,7 +1,7 @@
 ---
 title: "Physical Layer Security"
 date: 2019-04-17
-permalink: /posts/2019/04/blog-post-pls-pub/
+permalink: /research/pls-pub/
 categories:
   - Physical Layer Security
 tags:

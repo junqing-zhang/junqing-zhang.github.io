@@ -20,7 +20,7 @@ I have developed a strong research potential in innovative physical layer securi
 My research aims to exploit the wireless channel for security and sensing. 
 
 ## 1. Wireless Security
-Secure communication will be achieved by using key generation and device authentication. 
+Secure communication will be achieved by using key generation and device authentication. They are key techniques for physical layer security. Please visit [Physical Layer Security](/research/pls-pub/) for a recommended reading list.
 
 <br />
 <img align="center" width="800" src="./images/system_overview.png" alt="...">
