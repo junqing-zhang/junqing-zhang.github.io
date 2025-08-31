@@ -1,7 +1,7 @@
 ---
 title: 'TI mmWave Radar Sensors'
 date: 2022-05-16
-permalink: /posts/2022/05/blog-post-ti-mmwave-sensors/
+permalink: /resources/wireless/mmwave-sensors-ti/
 categories:
   - Resources
   - mmWave Radar

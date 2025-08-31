@@ -23,6 +23,10 @@ This page summarizes resources related to wireless communications, involving fun
 * [LoRa, LoRaWAN](/resources/wireless/lora-lorawan/)
 * [Bluetooth](/resources/wireless/bluetooth/)
 
+# mmWave Radar
+* [TI mmWave Radar Sensors](/resources/wireless/mmwave-sensors-ti/)
+* [TI mmWave Radar Sensors - IWR6843AOPEVM](/resources/wireless/mmwave-sensors-ti-iwr6843/)
+
 # Tools
 * [Wireshark](/resources/wireless/wireshark)
 * [Nexmon CSI Tool for Raspberry Pi](/resources/wireless/rpi-nexmon-csi/)
