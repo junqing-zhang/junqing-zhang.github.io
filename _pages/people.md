@@ -31,3 +31,6 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 
 ## Visiting PhD students
 * Mr Shuo Wang from University of Padova, Italy (April 2025 to August 2025). Supervised by Prof Mauro Conti. 
+
+# To Prospective Students
+I am always looking for excellent and highly-motivated PhD students, post-doc, and visiting researchers. Please visit [Opportunities](/opportunities/) for more information.
