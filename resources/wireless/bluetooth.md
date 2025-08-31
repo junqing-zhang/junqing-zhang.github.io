@@ -29,14 +29,14 @@ Unless otherwise highlighted, the following descriptions apply to BLE, which mig
 * Broadcast Connection Topology (BLE only)
 * Mesh Connection Topology (BLE only)
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/bluetooth_topologies.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/bluetooth_topologies.png" alt="...">
 <br />
 Figure from [https://uk.mathworks.com/help/comm/ug/bluetooth-mesh-networking.html](https://uk.mathworks.com/help/comm/ug/bluetooth-mesh-networking.html){:target="_blank"}.
 
 # Protocol Overview
 Visit [MATLAB Bluetooth Protocol Stack](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"} for a detailed introduction about the Bluetooth and BLE protocol, and a mapping between them and the OSI model.
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-blutooth-protocol.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/ble-blutooth-protocol.png" alt="...">
 <br />
 Figure from [https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"}.
 
@@ -46,7 +46,7 @@ Some brief introduction of the protocol can be found at the [Microchip Developer
 * Application
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-protocol-stack.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/ble-protocol-stack.png" alt="...">
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
@@ -61,7 +61,7 @@ $f_{n+1} = (f_n + hop)$ mod 37,
 where hop ranges from 5-16.
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-phy-channel-assignment.png" alt="..." title="title">
+<img align="center" width="1000" src="/resources/wireless/images/ble-phy-channel-assignment.png" alt="..." title="title">
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
@@ -94,7 +94,7 @@ The same packet format for both
 * Data channel packets
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-packet-format-top-level.png" alt="BLE Packet Type." title="BLE Packet Type.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-packet-format-top-level.png" alt="BLE Packet Type." title="BLE Packet Type.">
 <br />
 BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
 
@@ -104,18 +104,18 @@ BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-l
 * Scan window: 25 ms
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-advertising-and-scanning.png" alt="Advertising and Scanning." title="Advertising and Scanning.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-advertising-and-scanning.png" alt="Advertising and Scanning." title="Advertising and Scanning.">
 <br />
 Advertising and Scanning. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-discovery](https://microchipdeveloper.com/wireless:ble-link-layer-discovery){:target="_blank"}
 
 ## Connection Process
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-connecting-phase.png" alt="Connection establishment." title="Connection establishment.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-connecting-phase.png" alt="Connection establishment." title="Connection establishment.">
 <br />
 Connection establishment. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
 
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/bluetooth/ble-connected-phase.png" alt="ble-connected-phase." title="ble-connected-phase.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-connected-phase.png" alt="ble-connected-phase." title="ble-connected-phase.">
 <br />
 Connected phase. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
 

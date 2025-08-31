@@ -33,7 +33,7 @@ Frequency Band
 
 OQPSK PHY
 <br />
-<img align="center" width="1000" src="{{ site.url }}/images/zigbee/lrwpanOQPSK.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/lrwpanOQPSK.png" alt="...">
 <br />
 Figure from [https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"}.
 

@@ -17,7 +17,7 @@ LoRa/LoRaWAN is a new IoT technique which is very suitable for energy efficient 
 # Overview
 A complete LoRaWAN application requires end devices, gateway, network server, and an application.
 <figure>
-  <img src="{{site.url}}/images/lorawan/lorawan_architecture.png" alt="LoRaWAN Architecture"/>
+  <img src="/resources/wireless/images/lorawan_architecture.png" alt="LoRaWAN Architecture"/>
   <figcaption>LoRaWAN Architecture. Source: Page 8 of the white paper  <a href="https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf" title="A technical overview of LoRa® and LoRaWAN™">A technical overview of LoRa® and LoRaWAN™"</a> </figcaption>
 </figure>
 
