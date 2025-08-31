@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning for Beginners'
 date: 2024-06-05
-permalink: /posts/blog-post-dl/
+permalink: /resources/deep-learning/dl/
 categories:
   - Resources
   - Deep Learning  

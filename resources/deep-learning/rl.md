@@ -1,7 +1,7 @@
 ---
 title: 'Reinforcement Learning'
 date: 2022-11-26
-permalink: /posts/2022/11/blog-post-rl/
+permalink: /resources/deep-learning/rl/
 categories:
   - Resources
   - Reinforcement Learning

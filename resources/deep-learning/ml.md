@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learning for Beginners'
 date: 2022-04-07
-permalink: /posts/blog-post-ml/
+permalink: /resources/deep-learning//ml/
 categories:
   - Resources  
   - Machine Learning

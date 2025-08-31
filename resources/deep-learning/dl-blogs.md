@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning Blogs'
 date: 2024-03-27
-permalink: /posts/blog-post-dl-blogs/
+permalink: /resources/deep-learning/dl-blogs/
 categories:
   - Resources
   - Deep Learning  
