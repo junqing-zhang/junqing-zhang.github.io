@@ -1,7 +1,7 @@
 ---
 title: 'Journals and Conferences of Communications, Networking, Computing and Security'
 date: 2023-08-14
-permalink: /posts/blog-post-journals-conferences/
+permalink: /resources/misc/journals-conferences/
 categories:
   - Resources  
 tags:

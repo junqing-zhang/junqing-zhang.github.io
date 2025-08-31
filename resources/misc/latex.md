@@ -1,7 +1,7 @@
 ---
 title: 'How to Use LaTex'
 date: 2023-09-30
-permalink: /posts/blog-post-latex/
+permalink: /resources/misc/latex/
 categories:
   - Resources
   - Tool

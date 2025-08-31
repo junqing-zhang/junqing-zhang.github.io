@@ -1,7 +1,7 @@
 ---
 title: 'Linux For Beginners'
 date: 2020-10-17
-permalink: /posts/2020/10/blog-post-linux/
+permalink: /resources/misc/linux/
 categories:
   - Resources
 tags: 

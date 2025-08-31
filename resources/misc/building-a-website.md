@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Personal Website"
 date: 2019-05-15
-permalink: /posts/2019/05/blog-post-building-a-website/
+permalink: /resources/misc/building-a-website/
 categories:
   - Resources
 tag:

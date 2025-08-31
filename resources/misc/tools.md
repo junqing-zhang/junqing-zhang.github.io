@@ -1,7 +1,7 @@
 ---
 title: 'Tools, Not Just For Research'
 date: 2020-01-23
-permalink: /posts/2020/01/blog-post-tools/
+permalink: /resources/misc/tools/
 categories:
   - Resources
   - Tool

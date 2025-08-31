@@ -15,3 +15,6 @@ Please vist [Wireless Communication Technologies](/resources/wireless/)
 
 # Deep Learning and Machine Learning
 Please vist [Deep Learning and Machine Learning](/resources/deep-learning/)
+
+# Miscellaneous
+Please vist [Miscellaneous](/resources/misc/)
