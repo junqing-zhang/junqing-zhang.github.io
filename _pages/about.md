@@ -9,11 +9,10 @@ redirect_from:
 toc: true
 ---
 
-Junqing Zhang is a Senior Lecturer (Associate Professor) at the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His work mainly involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has also been exploring novel wireless sensing using Wi-Fi and mmwave radars. He has been investigating wireless security and sensing solutions for a number of Internet of Things techniques, including IEEE 802.11a/g/ax, LoRa/LoRaWAN, Bluetooth, ZigBee, etc, with a focus on the physical and MAC layers.
+Junqing Zhang is a Senior Lecturer (Associate Professor) at the School of Computer Science and Informatics, the University of Liverpool, UK. His research areas include wireless security, physical layer security, key generation, radio frequency fingerprint identification, and wireless sensing. He has authored and co-authored over 100 peer-reviewed publications including over 60 joural articles. His work involves designing innovative and practical physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. He has also been exploring novel wireless sensing using Wi-Fi and mmwave radars. His research involves a number of Internet of Things techniques, including IEEE 802.11a/g/n/ac/ax, LoRa/LoRaWAN, Bluetooth, IEEE 802.15.4/ZigBee, etc, with a focus on the physical and MAC layers. He was a co-recipient of Best Workshop Paper Award from IEEE WCNC 2025. Dr Zhang is a Senior Area Editor of IEEE Transactions on Information Forensics and Security and an Associate Editor of IEEE Transactions on Mobile Computing. He was the TPC symposium co-chair of ICNC 2025, 2026 and ICC 2023. He has also been actively serving the TPC co-chair for several workshops, including IEEE INFOCOM 2023-2025 DeepWireless Workshops, IEEE  GLOBECOM/ICC 2024-2025 Wireless Security Workshop, and IEEE WCNC/PIMRC 2025 Physical Layer Security Workshop. 
 
 Dr Zhang was a Postdoc Research Fellow at Queen’s University Belfast, UK from Feb. 2016 to Jan. 2018. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
-Dr Zhang is a Senior Area Editor of IEEE Transactions on Information Forensics and Security and an Associate Editor of IEEE Transactions on Mobile Computing. He was the TPC symposium co-chair of ICNC 2025 and ICC 2023. He was also the TPC co-chair of  IEEE INFOCOM 2023-2025 DeepWireless Workshops, IEEE  GLOBECOM/ICC 2024-2025 Wireless Security Workshop, and IEEE WCNC 2025 Physical Layer Security Workshop. He was a co-recipient of Best Workshop Paper Award from IEEE WCNC 2025.
 
 Please find more information from his 
 * [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
@@ -81,10 +80,9 @@ Internet of Things (IoT)
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
-Web: [https://www.liverpool.ac.uk/people/junqing-zhang](https://www.liverpool.ac.uk/people/junqing-zhang){:target="_blank"}
+Web: [https://www.liverpool.ac.uk/people/junqing-zhang](https://www.liverpool.ac.uk/people/junqing-zhang){:target="_blank"} 
 Tel: 0151 79 57790  
-Department of Electrical Engineering and Electronics  
+[School of Computer Science and Informatics](https://www.liverpool.ac.uk/computer-science-and-informatics/about-us/){:target="_blank"} 
 University of Liverpool  
-Brownlow Hill  
 Liverpool L69 3GJ  
 United Kingdom
