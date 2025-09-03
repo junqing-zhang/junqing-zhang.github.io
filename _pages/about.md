@@ -80,9 +80,9 @@ Internet of Things (IoT)
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  
-Web: [https://www.liverpool.ac.uk/people/junqing-zhang](https://www.liverpool.ac.uk/people/junqing-zhang){:target="_blank"} 
+Web: [https://www.liverpool.ac.uk/people/junqing-zhang](https://www.liverpool.ac.uk/people/junqing-zhang){:target="_blank"} <br>
 Tel: 0151 79 57790  
-[School of Computer Science and Informatics](https://www.liverpool.ac.uk/computer-science-and-informatics/about-us/){:target="_blank"} 
+[School of Computer Science and Informatics](https://www.liverpool.ac.uk/computer-science-and-informatics/about-us/){:target="_blank"} <br>
 University of Liverpool  
 Liverpool L69 3GJ  
 United Kingdom
