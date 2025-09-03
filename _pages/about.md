@@ -16,7 +16,7 @@ His work focuses on developing innovative and practical physical layer security 
 Dr. Zhang was a co-recipient of the Best Workshop Paper Award at IEEE WCNC 2025. He serves as a Senior Area Editor for IEEE Transactions on Information Forensics and Security and an Associate Editor for IEEE Transactions on Mobile Computing. He has also taken on key leadership roles, including TPC Symposium Co-Chair of ICNC 2025, ICNC 2026, and ICC 2023. In addition, he has served as TPC Co-Chair for several specialized workshops, such as the IEEE INFOCOM 2023–2025 DeepWireless Workshops, the IEEE GLOBECOM/ICC 2024–2025 Wireless Security Workshops, and the IEEE WCNC/PIMRC 2025 Physical Layer Security Workshop.
 
 Please find more information from his 
-* [Education and Work](/edu-work-experience/).
+* [Education and Work](/edu-work-experience/)
 * [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
 * [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
 * [IEEE](https://ieeexplore.ieee.org/author/37085438201){:target="_blank"} publication list
