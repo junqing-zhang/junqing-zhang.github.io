@@ -11,7 +11,7 @@ Please find a list of the final year projects that I am supervising or have supe
 The final year projects that I am supervising usually 
 * Use embedded systems such as Raspberry Pi, Arduino, FPGA, and [software defined radio platforms](/resources/sdr/) 
 * Build wireless applications, such as IoT, security, and sensing
-* Involve wireless technologies including [WiFi](resources/wireless/wifi/), [LoRa/LoRaWAN](/resources/wireless/lora-lorawan/), [ZigBee](/resources/wireless/zigbee/), and [Bluetooth](/resources/wireless/bluetooth/);
+* Involve wireless technologies including [WiFi](/resources/wireless/wifi/), [LoRa/LoRaWAN](/resources/wireless/lora-lorawan/), [ZigBee](/resources/wireless/zigbee/), and [Bluetooth](/resources/wireless/bluetooth/);
 * Require strong programming skills such as Python, C/C++, Matlab
 * Involve machine learning and deep learning
 
