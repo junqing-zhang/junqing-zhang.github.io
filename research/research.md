@@ -100,5 +100,5 @@ We are always keen to apply our knowledge to practical applications. Hence we ha
 We are equipped with abundant wireless devices including software defined radios, wireless kits, GPU platform etc. 
 Please visit [Resources and Facilities](/research/resources-and-facilities/) for detailed information.
 
-# Research and Technical Blogs
-Please visit [Research and Technical Blogs](/research-blog/) for detailed information.
+# Research and Technical Resources
+Please visit [Research and Technical Resources](/resources/) for detailed information.
