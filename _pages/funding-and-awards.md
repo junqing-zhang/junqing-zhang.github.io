@@ -8,7 +8,7 @@ author_profile: true
 £1.18 million research income secured as Principle Investigator
 
 # Ongoing Project
-* Principal Investigator, EPSRC Lead Agency Agreement with the NSF, [_NSF ECCS-EPSRC: SecureID: Towards Secure Device Identification Using Radio Frequency Fingerprints_](./project-epsrc-2025-secure-id/), £656.7k
+* Principal Investigator, EPSRC Lead Agency Agreement with the NSF, [_NSF ECCS-EPSRC: SecureID: Towards Secure Device Identification Using Radio Frequency Fingerprints_](./project-epsrc-2025-secure-id/), £656k
 * Principal Investigator, [EPSRC Federated Telecoms Hub 6G Research Partnership Funds (THRPF)](https://www.federated-telecoms-hubs.org/), [_Securing Spectrum Connectivity: Over-the-Air Authentication Using Radio Frequency Fingerprinting_](./project-epsrc-2024-rffi/), £128k, July 2024 to March 2025. Partner: Heriot Watt University and Queen’s University Belfast. The total awarded amount is £331k.
 * Principal Investigator, Royal Society Research Grants, [_Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints_](./project-rs-uav-rffi/), £55.8k, March 2023 to March 2025
 
