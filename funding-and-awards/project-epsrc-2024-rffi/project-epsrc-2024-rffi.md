@@ -1,8 +1,9 @@
 ---
-layout: archive
+date: 2025-09-10
 title: "Securing Spectrum Connectivity: Over-the-Air Authentication Using Radio Frequency Fingerprinting"
 permalink: /funding-and-awards/project-epsrc-2024-rffi/
 author_profile: true
+toc: true
 ---
 {% include toc %} 
 
