@@ -1,5 +1,5 @@
 ---
-date:2025-09-10
+date: 2025-09-10
 title: "Publication"
 permalink: /publication/
 author_profile: true
