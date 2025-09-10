@@ -1,5 +1,6 @@
 ---
 layout: archive
+date: 2025-09-10
 title: "Publication"
 permalink: /publication/
 author_profile: true
