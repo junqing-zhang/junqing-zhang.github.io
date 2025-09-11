@@ -5,7 +5,7 @@ permalink: /funding-and-awards/
 author_profile: true
 ---
 
->£1.2 million research income secured as Principle Investigator
+£1.2 million research income secured as Principle Investigator
 
 # Ongoing Project
 * Principal Investigator, EPSRC Lead Agency Agreement with the NSF, [_NSF ECCS-EPSRC: SecureID: Towards Secure Device Identification Using Radio Frequency Fingerprints_](./project-epsrc-2025-secure-id/), £656k
