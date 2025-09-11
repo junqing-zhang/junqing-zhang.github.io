@@ -12,7 +12,11 @@ author_profile: true
 
 # Work Experience
 ## Senior Lecturer (Associate Professor)
-* Oct. 2022 to present
+* Sept. 2025 to present
+* Institution: Trustworthy computing, School of Computer Science and Informatics, University of Liverpool, UK
+
+## Senior Lecturer (Associate Professor)
+* Oct. 2022 to Aug. 2025
 * Institution: Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics, University of Liverpool, UK
 
 
