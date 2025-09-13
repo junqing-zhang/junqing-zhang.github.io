@@ -39,6 +39,8 @@ Thanks to the generous financial support from Royal Society and the Department o
 
 
 # GPU Platform
+* Work station with RTX 4090
+* Work station with RTX 3060
 * [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"} *3
 
 # FPGA Platform
