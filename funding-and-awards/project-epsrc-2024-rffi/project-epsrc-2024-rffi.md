@@ -22,7 +22,7 @@ Wireless communications have brought revolutionary transformation to our everyda
 Radio frequency fingerprinting identification (RFFI) is an emerging non-cryptographic and physical-layer security technique to secure existing and future telecommunication infrastructure. It exploits unique and intrinsic hardware fingerprints of RF components for device identification, which does not rely on cryptography. Its implementation does not require any change to the transmitters and can be readily applied to existing and future radio communication systems. 
 
 # Demo
-Please visit [WiFi RFFI @ University of Liverpool](https://junqing-zhang.github.io/demo-wifi-rffi/) for a detailed introduction of our demo.
+Please visit [WiFi RFFI @ University of Liverpool](/research-demo/demo-wifi-rffi/) for a detailed introduction of our demo.
 
 Click the image below to watch the demo video.
 <a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="./wifi_rffi_demo_frontpage.png" alt="WiFI RFFI Demo" width="800" border="10" /></a>
