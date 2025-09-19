@@ -14,7 +14,8 @@ toc_max_header: 1
 * Senior Area Editor of IEEE Transactions on Information Forensics and Security (July 2024 to present)
 * Associate Editor of IEEE Transactions on Mobile Computing (October 2024 to present)
 
-# COST Action [CA22168 - Physical layer security for trustworthy and resilient 6G systems (6G-PHYSEC)](https://6gphysec.org/){:target="_blank"}
+# COST Action 6G-PHYSEC
+[CA22168 - Physical layer security for trustworthy and resilient 6G systems (6G-PHYSEC)](https://6gphysec.org/){:target="_blank"}
 * Co-leader of Working Group 5 - Experiments and demonstrations
 * Delivered three tutorials on physical layer security for the second Training School
 
