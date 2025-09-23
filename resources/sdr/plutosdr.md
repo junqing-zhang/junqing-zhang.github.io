@@ -15,6 +15,7 @@ This paper summarizes resources for PlutoSDR.
 {% include toc %}
 
 # Overview
+Check [Analog Device ADALM-PLUTO](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}
 
 # Hardware Parameter
 
