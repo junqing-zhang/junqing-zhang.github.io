@@ -19,6 +19,7 @@ This page summarizes information for software defined radio (SDR).
 * [Analog Devices SDR](/resources/sdr/sdr-adi/)
 * [LimeSDR](/resources/sdr/limesdr/)
 * [RTL-SDR](/resources/sdr/rtl-sdr/)
+* [PlutoSDR](/resources/sdr/plutosdr/)
 
 
 # Overview
@@ -70,5 +71,5 @@ Some SDR also supports Python. Check Chapters 5-9 in the Book [PySDR: A Guide to
 ## Books
 * [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}
 * [Software Defined Radio with Zynq UltraScale+ RFSoC](https://www.rfsocbook.com/){:target="_blank"}
-
+* [Software-Defined Radio for Engineers, 2018](https://www.analog.com/en/resources/technical-books/software-defined-radio-for-engineers.html){:target="_blank"}
 
