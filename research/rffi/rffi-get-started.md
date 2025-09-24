@@ -92,8 +92,8 @@ After collecting sufficient signals from the DUTs, you can start to train a deep
 The input to the neural network can be the collected IQ samples, and you can also do some signal processing before that. For example, you can perform a fast Fourier transform (FFT) on the received signals and transform them into frequency domain as neural network inputs.
 
 If you are new to deep learning, there are lots of useful resources online. Some of the materials are summarized below.
-* [Deep Learning Tutorial for Beginners, Get Started](https://junqing-zhang.github.io/posts/blog-post-deep-learning-for-beginners/){:target="_blank"}
-* [Deep Learning for Beginners](https://junqing-zhang.github.io/posts/blog-post-dl/){:target="_blank"}
+* [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/){:target="_blank"}
+* [Deep Learning for Beginners](/resources/deep-learning/dl/){:target="_blank"}
 
 The following two examples are codes available for RFFI.
 1. [MATLAB, Detect WLAN Router Impersonation](https://www.mathworks.com/help/comm/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
