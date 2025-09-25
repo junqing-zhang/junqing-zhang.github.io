@@ -8,6 +8,7 @@ author_profile: true
 
 # Overview
 * Funder: EPSRC
+* Scheme: EPSRC New Investigator Award
 * Duration: Jan. 2022 to Dec. 2023
 * Amount: £310k
 
