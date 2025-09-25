@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: "Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning"
-permalink: /funding-and-awards/project-rffi-lora/
+permalink: /funding-and-awards/project-rs-2019-rffi-lora/
 author_profile: true
 ---
 {% include toc %} 
 
 # Overview
-* Funder: Royal Society Research Grants
+* Funder: Royal Society
+* Scheme: Royal Society Research Grants
 * Duration: March 2019 to March 2020
 * Amount: £19k
 
