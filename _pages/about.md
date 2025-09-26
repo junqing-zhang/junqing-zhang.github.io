@@ -23,6 +23,8 @@ Please find more information from his
 * [Web of Science](https://www.webofscience.com/wos/author/record/T-8966-2019){:target="_blank"} profile
 
 
+Openining: We have a three-year PDRA position available. Please visit [this link](https://www.jobs.ac.uk/job/DOV562/postdoctoral-research-associate-in-wi-fi-device-fingerprinting-grade-7){:target="_blank"} for more information. Application deadline: 17 October 2025.
+
 [//]: [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
 
  
