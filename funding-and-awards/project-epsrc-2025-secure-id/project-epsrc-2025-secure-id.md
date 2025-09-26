@@ -8,7 +8,7 @@ author_profile: true
 
 # Overview
 * Funder: EPSRC
-* Scheme: [EPSRC Lead agency opportunity with the NSF](https://www.ukri.org/who-we-are/epsrc/relationships/international-agreements/lead-agency-opportunity-with-the-nsf/). 
+* Scheme: [EPSRC Lead agency opportunity with the NSF](https://www.ukri.org/who-we-are/epsrc/relationships/international-agreements/lead-agency-opportunity-with-the-nsf/)
 * Duration: 36 months
 * Amount: £656k
 * Partner: Rice University, USA
