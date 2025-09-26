@@ -17,6 +17,15 @@ The final year projects that I am supervising usually
 
 I am running the following final year projects in the academic year 2025-2026.
  
+# 2025
+* Device Authentication for Bluetooth Using Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for LoRa Using Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for UWB Using Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for Wi-Fi Using Deep Learning and Channel State Information
+* Device Authentication for WiFi Using Deep Learning and Radio Frequency Fingerprint
+* Device Authentication for ZigBee Using Deep Learning and Radio Frequency Fingerprint
+* LoRa-Based Key Generation in Low Power Wide Area Networks
+
 # 2024
 * Device Authentication for Bluetooth based on Deep Learning and Radio Frequency Fingerprint
 * Device Authentication for LoRa based on Deep Learning and Radio Frequency Fingerprint
