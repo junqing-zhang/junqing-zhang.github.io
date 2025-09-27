@@ -1,4 +1,5 @@
 ---
+layout: archive
 date: 2025-09-27
 title: "Funding And Awards"
 permalink: /funding-and-awards/
