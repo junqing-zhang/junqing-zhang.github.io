@@ -1,7 +1,7 @@
 ---
 title: "How to Construct an RFFI System"
 permalink: /research/rffi/rffi-get-started/
-date: 2022-10-15
+date: 2025-09-27
 author_profile: true
 toc: true
 categories:
@@ -31,10 +31,10 @@ Regarding the software, RFFI involves signal collection (optional) and deep lear
 Any wireless devices can be used as DUTs. You can of course build your own device, but using commercial-of-the-shelf (COTS) development boards/kits will save lots of time.
 
 In general, they can be categorized into programmable and non-programmable. Vendors with programmable devices are listed as follows.
-* [Texas Instruments](https://www.ti.com/wireless-connectivity/overview.html){:target="_blank"}: WiFi, Bluetooth, ZigBee
+* [Texas Instruments](https://www.ti.com/wireless-connectivity/overview.html){:target="_blank"}: Wi-Fi, Bluetooth, ZigBee
 * [Nordic Semiconductor](https://www.nordicsemi.com/Products){:target="_blank"}: LTE-M, NB-IoT, GPS, Bluetooth, ZigBee
-* [Pycom boards](https://pycom.io/product-category/shop/development-boards/){:target="_blank"}: WiFi, Bluetooth, LoRa, Sigfox and dual LTE-M (CAT-M1 and NB-IoT).
-* [ESP32](https://www.espressif.com/en/products/socs/esp32){:target="_blank"}: WiFi and Bluetooth
+* [Pycom boards](https://pycom.io/product-category/shop/development-boards/){:target="_blank"}: Wi-Fi, Bluetooth, LoRa, Sigfox and dual LTE-M (CAT-M1 and NB-IoT). (Discontinued)
+* [ESP32](https://www.espressif.com/en/products/socs/esp32){:target="_blank"}: Wi-Fi and Bluetooth
 
 The table below summarizes some LoRa development boards that have been shown to be applicable for RFFI research.
 
@@ -45,12 +45,12 @@ The table below summarizes some LoRa development boards that have been shown to 
 | Dragino LoRa Shields| Arduino (C) |[Code Examples](https://wiki1.dragino.com/index.php?title=Lora_Shield#Example1_--_Use_with_LMIC_library_for_LoRaWAN_compatible){:target="_blank"}|
 | Semtech LoRa Transceivers | Mbed (C)|Libraries vary with the boards (chips), e.g., [SX1276MB1xAS](https://os.mbed.com/components/SX1276MB1xAS/){:target="_blank"}|
 
-Non-programmable devices can also be used. For example, our smartphones support WiFi and Bluetooth. 
+Non-programmable devices can also be used. For example, our smartphones support Wi-Fi and Bluetooth. 
 
 ## Software
 Different development boards require different development languages/platforms. You need to program the transmitter to send wireless packets, which you can do by modifying the examples provided in the official documentation. The vendors usually will provide the development software and SDK.
 
-Regarding non-programmable devices, we can use other methods to create wireless traffic. For example, we can use a WiFi-connected smartphone to watch videos, which will create lots of WiFi traffic. Regarding WiFi-connected laptops, we can use ping command.
+Regarding non-programmable devices, we can use other methods to create wireless traffic. For example, we can use a Wi-Fi-connected smartphone to watch videos, which will create lots of Wi-Fi traffic. Regarding Wi-Fi-connected laptops, we can use ping command.
 
 
 # Receiver
@@ -105,7 +105,7 @@ It is not necessary to use the same programming language for the signal collecti
 
 # Wireless Monitoring (Optional)
 Before starting the signal collection programming, you need to make sure there is the required wireless traffic. Wireshark will be an excellent platform for monitoring and detection. You will need another dedicated receiver though.
-* WiFi Sniffer
+* Wi-Fi Sniffer
 * [nRF Sniffer for Bluetooth LE](https://infocenter.nordicsemi.com/topic/ug_sniffer_ble/UG/sniffer_ble/intro.html){:target="_blank"}
 * [nRF Sniffer for 802.15.4](https://infocenter.nordicsemi.com/topic/ug_sniffer_802154/UG/sniffer_802154/intro_802154.html){:target="_blank"}
 

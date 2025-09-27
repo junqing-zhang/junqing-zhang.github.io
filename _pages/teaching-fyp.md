@@ -15,6 +15,8 @@ The final year projects that I am supervising usually
 * Require strong programming skills such as Python, C/C++, Matlab
 * Involve machine learning and deep learning
 
+If your project is in the area of Radio Frequency Fingerprinting Identification (RFFI), read this [post](https://junqing-zhang.github.io/research/rffi/rffi-get-started/).
+
 I am running the following final year projects in the academic year 2025-2026.
  
 # 2025
