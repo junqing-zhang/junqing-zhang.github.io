@@ -19,7 +19,7 @@ University of Liverpool
 # ELEC340 Final Year Project
 * 2018 - present 
 * Year 3
-* Please click [here](/teaching-fyp/){:target="_blank"} for the final year projects that I am supervising and have supervised.
+* Please click [here](/teaching-fyp/) for the final year projects that I am supervising and have supervised.
 
 # ELEC192 Mathematics B for Electrical Engineers
 * Semester 2, 2018 - 2023 
