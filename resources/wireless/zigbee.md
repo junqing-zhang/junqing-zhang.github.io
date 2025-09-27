@@ -1,6 +1,6 @@
 ---
 title: 'Resources for ZigBee and IEEE 802.15.4'
-date: 2020-11-03
+date: 2025-09-27
 permalink: /resources/wireless/zigbee/
 toc: true
 categories:
@@ -24,6 +24,8 @@ IEEE 802.15.4 defines the physical and MAC layers. ZigBee is based on IEEE 802.1
 IEEE 802.15.4 is also adopted by 6LoWPAN, WirelessHART, THREAD, etc.
 
 # IEEE 802.15.4
+Check the first chapter of [IEEE 802.15.4 Stack User Guide](https://www.nxp.com/docs/en/user-guide/JN-UG-3024.pdf){:target="_blank"} for a brief introduction of IEEE 802.15.4.
+
 
 ## Physical Layer
 Frequency Band
@@ -63,8 +65,12 @@ MAC Type
 * Tree Topology
 * Mesh Topology
 
-# Tutorial
-Check the first chapter of [IEEE 802.15.4 Stack User Guide](https://www.nxp.com/docs/en/user-guide/JN-UG-3024.pdf){:target="_blank"} for a brief introduction of IEEE 802.15.4.
+# Development Kit
+* [Nordic nRF52840-Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle){:target="_blank"}. Other kits are also available. Check [here](https://www.nordicsemi.com/Products/Wireless/Zigbee){:target="_blank"}. 
+* [ESP32 C6](https://www.espressif.com/en/products/socs/esp32-c6){:target="_blank"} 
 
+# Software-Defined Radio Implementation
+* [GNU Radio](https://github.com/bastibl/gr-ieee802-15-4){:target="_blank"}
+* [Matlab ZigBee Support](https://uk.mathworks.com/help/comm/zigbee.html){:target="_blank"} + [Matlab SDR Support](mathworks.com/help/comm/supported-hardware-software-defined-radio.html){:target="_blank"}. Only a few SDR platforms are supported by Matlab.
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
