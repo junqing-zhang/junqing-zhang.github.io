@@ -31,7 +31,7 @@ Other methods can be found as follows.
 # USRP Models
 ## USRP B Series
 
-[USRP B200/B210/B200mini/B205mini](https://kb.ettus.com/B200/B210/B200mini/B205mini){:target="_blank"}
+[USRP B200/B210/B200mini/B205mini/B206mini](https://kb.ettus.com/B200/B210/B200mini/B205mini/B206mini){:target="_blank"}
 
 | Model      | SDR Chip   | FPGA                                        | Channels   | Connector      |
 |:-----------|:-----------|:--------------------------------------------|:-----------|:---------------|
@@ -45,6 +45,14 @@ Other methods can be found as follows.
 Frequency range: 70 MHz – 6 GHz
 
 Inst. bandwidth: Up to 56 MHz
+
+Dimensions
+B206mini-i
+* 8.4 x 5.1 x 0.8 cm (Board-only)
+* 8.5 x 5.5 x 1.8 cm (Enclosed)
+B200mini/B205mini 5.0 x 8.4 cm
+B200/B210 9.7 x 15.5 x 1.5 cm
+
 
 ## [USRP N200/N210](https://kb.ettus.com/N200/N210){:target="_blank"}
 N200 and N210 are discontinued.
