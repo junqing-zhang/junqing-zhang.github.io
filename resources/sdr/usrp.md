@@ -42,6 +42,9 @@ Other methods can be found as follows.
 | B205mini-i | AD9364     | industrial-grade Xilinx Spartan-6 XC6SLX150 | SISO       | USB 3.0        |
 | B206mini-i | AD9364     | industrial-grade AMD Spartan-6 XC6SLX150    | SISO       | USB 3.0 Type C |
 
+Frequency range: 70 MHz – 6 GHz
+
+Inst. bandwidth: Up to 56 MHz
 
 ## [USRP N200/N210](https://kb.ettus.com/N200/N210){:target="_blank"}
 ## [USRP X300/X310](https://kb.ettus.com/X300/X310){:target="_blank"}
