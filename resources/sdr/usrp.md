@@ -47,6 +47,8 @@ Frequency range: 70 MHz – 6 GHz
 Inst. bandwidth: Up to 56 MHz
 
 ## [USRP N200/N210](https://kb.ettus.com/N200/N210){:target="_blank"}
+N200 and N210 are discontinued.
+
 ## [USRP X300/X310](https://kb.ettus.com/X300/X310){:target="_blank"}
 
 # Matlab Support
