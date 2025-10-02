@@ -30,6 +30,7 @@ Other methods can be found as follows.
 
 # USRP Models
 ## [USRP B200/B210/B200mini/B205mini](https://kb.ettus.com/B200/B210/B200mini/B205mini){:target="_blank"}
+
 | Model      | SDR Chip   | FPGA                                        | Channels   | Connector      |
 |:-----------|:-----------|:--------------------------------------------|:-----------|:---------------|
 | B210       | AD9361     | Spartan6 XC6SLX150                          | MIMO       | USB 3.0        |
