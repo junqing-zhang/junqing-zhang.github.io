@@ -1,18 +1,18 @@
 ---
-title: 'Resources for WiFi'
-date: 2023-08-31
+title: 'Resources for Wi-Fi'
+date: 2025-10-04
 permalink: /resources/wireless/wifi/
 categories:
   - Resources
   - Wireless  
   - Internet of Things
 tags:
-  - WiFi
+  - Wi-Fi
 ---
 
-IEEE 802.11 (WiFi) has been used in most of the laptops, smartphones, tablets. The widespread use of WiFi has led to extensive research interests in the area of localization, security, sensing and produced massive successful research outcomes. This paper summarizes some hardware and software resources for WiFi for the research purpose.
+IEEE 802.11 (Wi-Fi) has been used in most of the laptops, smartphones, tablets. The widespread use of Wi-Fi has led to extensive research interests in the area of localization, security, sensing and produced massive successful research outcomes. This paper summarizes some hardware and software resources for Wi-Fi for the research purpose.
 
-Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark of the [WiFi alliance](https://www.wi-fi.org/){:target="_blank"}. However, they are used interchangably in this post.
+Strictly speaking, IEEE 802.11 is the standard by IEEE and Wi-Fi is a trademark of the [Wi-Fi alliance](https://www.wi-fi.org/){:target="_blank"}. However, they are used interchangably in this post.
 
 {% include toc %}
 
@@ -20,7 +20,7 @@ Strictly speaking, IEEE 802.11 is the standard by IEEE and WiFi is a trademark o
 IEEE 802.11 standard defines the physcai layer and media access control (MAC) layer protocols. It has undergone a number of amendments in the last twenty years, since its first release in 1997. A complete list of the IEEE 802.11 amendments is summarized at [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.
 
 ## PHY Layer
-The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, OFDM, 5 GHz), 802.11g (2003, OFDM, 2.4 GHz), 802.11n (2009, MIMO OFDM, high throughput), 802.11ac (2013, MIMO OFDM, very high throughput), 802.11 ax(est late 2019, high efficiency).
+The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, OFDM, 5 GHz), 802.11g (2003, OFDM, 2.4 GHz), 802.11n (2009, MIMO OFDM, high throughput), 802.11ac (2013, MIMO OFDM, very high throughput), 802.11 ax(2020, high efficiency).
 
 OFDM Basics
 * [802.11 OFDM Overview](http://rfmw.em.keysight.com/wireless/helpfiles/89600B/WebHelp/Subsystems/wlan-ofdm/content/ofdm_80211-overview.htm){:target="_blank"}
@@ -31,7 +31,7 @@ IEEE 802.11 OFDM Receiver Design
 * Check [OpenOFDM](https://openofdm.readthedocs.io/en/latest/overview.html){:target="_blank"} about the receiver algorithms.
 
 ## MAC Layer
-WiFi use CSMA/CA as the MAC layer protocol.
+Wi-Fi use CSMA/CA as the MAC layer protocol.
 
 Frame Types
 * Control frames
@@ -56,15 +56,6 @@ Frame Types
 * zynq FPGA +  FMCOMMS2/3/4 RF board
 * For Chinese user, there is a [presentation video ](https://www.zhihu.com/zvideo/1437850059212226561) introducing openwifi by Dr. Jiao.
 
-## [WARP 802.11 Reference Design](http://warpproject.org/trac/wiki/802.11){:target="_blank"}
-There is an 802.11 reference design implemented for WARP boards, which is compatible with the commercial WiFi. An [experimental framework](http://warpproject.org/trac/wiki/802.11/wlan_exp) is implemented by Python for the research development. The available variables/parameters can be found [here](http://warpproject.org/trac/wiki/802.11/wlan_exp/log/entry_types), among which the CSI is made public.
-
->WARP is being actively used for research in many areas like power management, architectures for wireless receivers, physical layer algorithms, access protocols, routing and cognitive radios.
-
-A list of papers using WARP can be found at [here](http://warpproject.org/trac/wiki/PapersandPresentations).
-
-PLEASE NOTE WARP IS DISCONTINUED.
-
 # Network Interface Cards CSI Extraction
 
 The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. 
@@ -81,10 +72,10 @@ Please note PCI-e interface is required for these NICs.
 
 There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
 
-## Braodcom WiFi Chipsets
+## Braodcom Wi-Fi Chipsets
 * [nexmon](https://github.com/seemoo-lab/nexmon){:target="_blank"}
 * [nexmon csi](https://github.com/seemoo-lab/nexmon_csi){:target="_blank"}
-* [WiFiEye - an Interactive Real-Time Workflow for WiFi-Based Sensing
+* [WiFiEye - an Interactive Real-Time Workflow for Wi-Fi-Based Sensing
 ](https://github.com/pkindt/WiFiEye){:target="_blank"}
 * [Reverse-engineering Broadcom wireless chipsets](https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html){:target="_blank"} 
 
@@ -105,9 +96,9 @@ There is a [library](https://github.com/secdev/scapy/blob/master/scapy/layers/do
 Code Examples:
 * [PythonScapyDot11_TheBook](https://github.com/yadox666/PythonScapyDot11_TheBook){:target="_blank"}
 * [Fake a WLAN connection via Scapy](https://wlan1nde.wordpress.com/2016/08/24/fake-a-wlan-connection-via-scapy/){:target="_blank"}
-* [Generating WiFi communication in Scapy tool](https://research.securitum.com/generating-wifi-communication-in-scapy-tool/){:target="_blank"}
+* [Generating Wi-Fi communication in Scapy tool](https://research.securitum.com/generating-wifi-communication-in-scapy-tool/){:target="_blank"}
 [CWAP 802.11- Probe Request/Response](https://mrncciew.com/2014/10/27/cwap-802-11-probe-requestresponse/){:target="_blank"}
-* [WiFi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
+* [Wi-Fi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
 
 ## [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
@@ -124,7 +115,7 @@ Code Examples:
 
 # Misc Resources
 
-## WiFi Modes
+## Wi-Fi Modes
 [iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
 >Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
 
