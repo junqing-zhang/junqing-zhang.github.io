@@ -125,22 +125,19 @@ Steps 1-4 are not required if you are using public datasets.
 
 
 # Recommended Readings
-```
-Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
-```
+1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
 
-```
-J. Zhang, R. Woods, M. Sandell, M. Valkama, A. Marshall, and J. Cavallaro, “Radio frequency fingerprint identification for narrowband systems, modelling and classification,” IEEE Trans. Inf. Forensics Security, vol. 16, pp. 3974–3987, 2021
+1. J. Zhang, R. Woods, M. Sandell, M. Valkama, A. Marshall, and J. Cavallaro, “Radio frequency fingerprint identification for narrowband systems, modelling and classification,” IEEE Trans. Inf. Forensics Security, vol. 16, pp. 3974–3987, 2021
+> This paper focuses on the systematic modelling on the hardware impairments of a narrowband transmitter and receiver. You can gain a deeper understanding on the concept of RFFI and figure out how it works.
 
-This paper focuses on the systematic modelling on the hardware impairments of a narrowband transmitter and receiver. You can gain a deeper understanding on the concept of RFFI and figure out how it works.
-```
+1. G. Shen, J. Zhang, A. Marshall, L. Peng, and X. Wang, “Radio frequency fingerprint identification for LoRa using deep learning,” IEEE J. Sel. Areas Commun., vol. 39, no. 8, pp. 2604–2616, Aug. 2021.
+> LoRa-RFFI. This paper introduces how to choose the appropriate signal representation according to the modulation characteristics. The performance of some basic types of neural networks is further studied. 
 
-1. LoRa-RFFI. This paper introduces how to choose the appropriate signal representation according to the modulation characteristics. The performance of some basic types of neural networks is further studied. 
-> G. Shen, J. Zhang, A. Marshall, L. Peng, and X. Wang, “Radio frequency fingerprint identification for LoRa using deep learning,” IEEE J. Sel. Areas Commun., vol. 39, no. 8, pp. 2604–2616, Aug. 2021.
+1. G. Shen, J. Zhang, A. Marshall, and J. Cavallaro.   “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” IEEE Trans. Inf. Forensics Security, 2022.
+> LoRa-RFFI. This paper focuses on mitigating the channel effects on LoRa-RFFI. The openset RFFI problem is also discussed.
 
-1. LoRa-RFFI. This paper focuses on mitigating the channel effects on LoRa-RFFI. The openset RFFI problem is also discussed.
-> G. Shen, J. Zhang, A. Marshall, and J. Cavallaro.   “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” IEEE Trans. Inf. Forensics Security, 2022.
-
+# Datasets and Codes
+Please visit [this link](/dataset-code/) for the RFFI datasets and codes shared by our group.
 
 
 Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).
