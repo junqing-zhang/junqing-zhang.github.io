@@ -111,7 +111,7 @@ Before starting the signal collection programming, you need to make sure there i
 
 
 # Public Datasets
-There are also several public datasets made available for RFFI research. Check [this link](https://junqing-zhang.github.io/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though). 
+There are also several public datasets made available for RFFI research. Check [this link](/research/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though). 
 
 # General Procedures
 1. Program to make the development board to start transmitting packets. 
