@@ -24,7 +24,7 @@ Thanks to the generous financial support from Royal Society and the Department o
 * [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"} *2
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/){:target="_blank"} *2
 * [antSDR](https://www.crowdsupply.com/microphase-technology/antsdr-e200){:target="_blank"}*2
-* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*3
+* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*4
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*5
 
 
