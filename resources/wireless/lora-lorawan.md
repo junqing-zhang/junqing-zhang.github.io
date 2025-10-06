@@ -14,27 +14,17 @@ LoRa/LoRaWAN is a new IoT technique which is very suitable for energy efficient 
 
 {% include toc %}
 
-# Overview
-A complete LoRaWAN application requires end devices, gateway, network server, and an application.
-<figure>
-  <img src="/resources/wireless/images/lorawan_architecture.png" alt="LoRaWAN Architecture"/>
-  <figcaption>LoRaWAN Architecture. Source: Page 8 of the white paper  <a href="https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf" title="A technical overview of LoRa® and LoRaWAN™">A technical overview of LoRa® and LoRaWAN™"</a> </figcaption>
-</figure>
-
-
-**Tutorial**
-* [An Introduction of Long Range and LoRaWAN Technology](https://www.seeedstudio.com/blog/2020/08/03/lorapedia-an-introduction-of-lora-and-lorawan-technology/){:target="_blank"}
-* [The Arduino Guide to LoRa® and LoRaWAN®](https://docs.arduino.cc/learn/communication/lorawan-101/){:target="_blank"}
-* [LoRaWAN Overview by TTN](https://www.thethingsnetwork.org/docs/lorawan/){:target="_blank"}
-* mbed tutorial: Building a private LoRa network [link](https://os.mbed.com/docs/mbed-os/v5.12/tutorials/LoRa-tutorial.html){:target="_blank"}
-* LoRaWAN network architecture [link](https://os.mbed.com/docs/mbed-os/v5.12/reference/lora-tech.html){:target="_blank"}
-
 # LoRa vs LoRaWAN
 Sometimes people use LoRa as the physical layer modulation technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN. 
 A good tutorial and summary of the LoRa and LoRaWAN can be found at [link](https://medium.com/coinmonks/lpwan-lora-lorawan-and-the-internet-of-things-aed7d5975d5d){:target="_blank"}.
 
+**Tutorial**
+* [An Introduction of Long Range and LoRaWAN Technology](https://www.seeedstudio.com/blog/2020/08/03/lorapedia-an-introduction-of-lora-and-lorawan-technology/){:target="_blank"}
+* [The Arduino Guide to LoRa® and LoRaWAN®](https://docs.arduino.cc/learn/communication/lorawan-101/){:target="_blank"}
+* mbed tutorial: Building a private LoRa network [link](https://os.mbed.com/docs/mbed-os/v6.16/apis/LoRa-tutorial.html){:target="_blank"}
 
-## LoRa
+
+# LoRa
 LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://www.semtech.com/lora){:target="_blank"}. It defines the physical layer modulation. 
 
 **Some key features of LoRa**
@@ -50,21 +40,6 @@ LoRa (Long Range) is an IoT wireless technology patented by [Smetech](https://ww
 **Arduino LoRa Driver**
 
 *  [Arduino LoRa](https://github.com/sandeepmistry/arduino-LoRa){:target="_blank"}
-
-## LoRaWAN
-LoRaWAN is a media access control (MAC) protocol for wide area networks. It is defined by [LoRa Alliance](https://lora-alliance.org/){:target="_blank"}.
-The first LoRaWAN specification was published on January 2015 ([download link](https://lora-alliance.org/sites/default/files/2018-05/2015_-_lorawan_specification_1r0_611_1.pdf)) and the latest LoRaWAN specifications is LoRaWAN® Specification v1.0.3 (July 2018) [download link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}.
-
-Many LoRaWAN protocol implementations may not support the latest version. For example, [pycom devices only support LoRaWAN 1.0.2](https://docs.pycom.io/firmwareapi/pycom/network/lora.html). The previous versions of LoRaWAN specifications  can be accessed from [https://lora-alliance.org/resource-hub](https://lora-alliance.org/resource-hub)
-
-**Some key features of LoRaWAN**
-
-* [Class A, B, and C](https://www.thethingsnetwork.org/docs/lorawan/classes.html){:target="_blank"}
-* [Authentication](https://www.thethingsnetwork.org/docs/lorawan/addressing.html){:target="_blank"}: Over-the-Air Activation (OTAA) and Activation by Personalization (ABP)
-* LoRaWAN in most countries uses ALOHA to access the spectrum, which will then be subject to the [duty cycle limitation](https://www.thethingsnetwork.org/docs/lorawan/duty-cycle.html){:target="_blank"}, e.g., in EU868 plan. LoRaWAN in some countries does support listen before talk (LBT), e.g., [LBT is enabled in AS923 plan](https://www.multitech.net/developer/software/lora/listen-before-talk/){:target="_blank"}.
-* AES for security
-
-LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. A difference between Symphony Link and LoRaWAN can be found [here](https://www.link-labs.com/whitepaper-symphony-link-vs-lorawan?hsCtaTracking=e10ced9e-aeca-4846-938a-7332bcf2e515%7C016f5d73-fc31-4196-835a-1f573372d5bb){:target="_blank"}
 
 # End Device
 There are different options for selecting the end devices, based on your preference. Here is a (non-comprehensive) summary of the LoRa/LoRaWAN devices and their drivers.
@@ -84,40 +59,73 @@ For example, if you are using Pycom devices, you can connect the end device by u
 
 [LoRaWAN® Transceivers](https://www.thethingsnetwork.org/docs/lorawan/transceivers/){:target="_blank"}
 
-# Gateway
+# LoRa Implementation
+## SDR Implementation
+* [gr-lora](https://github.com/jkadbear/gr-lora){:target="_blank"}
+* [LoRa PHY based on GNU Radio](https://www.epfl.ch/labs/tcl/resources-and-sw/lora-phy/){:target="_blank"}
+* [gr-lora:](https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
+* [gr-lora:](https://github.com/BastilleResearch/gr-lora){:target="_blank"}. A detailed explanation of the model and algorithm can be found in [link](https://pubs.gnuradio.org/index.php/grcon/article/view/8){:target="_blank"}. (Yes, both their names are gr-lora)
+* [LoRa in Pothos](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
+
+## Matlab Implemetation
+* [LoRaPHY](https://github.com/jkadbear/LoRaPHY){:target="_blank"} is a complete MATLAB implementation of LoRa physical layer, including baseband modulation, baseband demodulation, encoding and decoding.
+
+# LoRaWAN
+LoRaWAN is a media access control (MAC) protocol for wide area networks. It is defined by [LoRa Alliance](https://lora-alliance.org/){:target="_blank"}.
+The first LoRaWAN specification was published on January 2015 ([download link](https://lora-alliance.org/sites/default/files/2018-05/2015_-_lorawan_specification_1r0_611_1.pdf)) and the latest LoRaWAN specifications is LoRaWAN® Specification v1.0.3 (July 2018) [download link](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}.
+
+A complete LoRaWAN application requires end devices, gateway, network server, and an application.
+<figure>
+  <img src="/resources/wireless/images/lorawan_architecture.png" alt="LoRaWAN Architecture"/>
+  <figcaption>LoRaWAN Architecture. Source: Page 8 of the white paper  <a href="https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf" title="A technical overview of LoRa® and LoRaWAN™">A technical overview of LoRa® and LoRaWAN™"</a> </figcaption>
+</figure>
+
+* [LoRaWAN Overview by TTN](https://www.thethingsnetwork.org/docs/lorawan/){:target="_blank"}
+
+Many LoRaWAN protocol implementations may not support the latest version. For example, [pycom devices only support LoRaWAN 1.0.2](https://docs.pycom.io/firmwareapi/pycom/network/lora.html). The previous versions of LoRaWAN specifications  can be accessed from [https://lora-alliance.org/resource-hub](https://lora-alliance.org/resource-hub)
+
+**Some key features of LoRaWAN**
+
+* [Class A, B, and C](https://www.thethingsnetwork.org/docs/lorawan/classes.html){:target="_blank"}
+* [Authentication](https://www.thethingsnetwork.org/docs/lorawan/addressing.html){:target="_blank"}: Over-the-Air Activation (OTAA) and Activation by Personalization (ABP)
+* LoRaWAN in most countries uses ALOHA to access the spectrum, which will then be subject to the [duty cycle limitation](https://www.thethingsnetwork.org/docs/lorawan/duty-cycle.html){:target="_blank"}, e.g., in EU868 plan. LoRaWAN in some countries does support listen before talk (LBT), e.g., [LBT is enabled in AS923 plan](https://www.multitech.net/developer/software/lora/listen-before-talk/){:target="_blank"}.
+* AES for security
+
+LoRaWAN is not the only MAC protocol for LoRa. Symphony Link is also available. A difference between Symphony Link and LoRaWAN can be found [here](https://www.link-labs.com/whitepaper-symphony-link-vs-lorawan?hsCtaTracking=e10ced9e-aeca-4846-938a-7332bcf2e515%7C016f5d73-fc31-4196-835a-1f573372d5bb){:target="_blank"}
+
+## Gateway
 You may have experience setting up a WiFi router (access point) at home or office. Users will need password to access the router for internet, which can be referred as a private router. In LoRaWAN, it is a different story. You do not need a password to connect to a gateway. As long as there is a gateway nearby, your end devices will connect to the gateway and eventually to the network server. In this case, the gateway is public. A detailed introduction on the gateway can be found at [here](https://www.thethingsnetwork.org/docs/gateways/){:target="_blank"}, where you can find a list of recommended hardware.
 
 If you intend to setup a gateway, you can configure it as public or private. An instruction of using RAK831 gateway can be found here [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
-# Network Server
-## Public Network Server	
+## Network Server
+### Public Network Server	
 [The Things Network](https://www.thethingsnetwork.org/){:target="_blank"}  is a free and probably the most popular LoRaWAN server. Please refer to [here](https://www.thethingsnetwork.org/docs/applications/){:target="_blank"} for an instruction about creating applications in TTN.
 
 Another tutorial from [pycom](https://docs.pycom.io/gettingstarted/registration/lora/ttn/){:target="_blank"} can be found here.
 
-## Private Network Server	
+### Private Network Server	
 * Tutorial: TTN: Setting up a Private Routing Environment [link](https://www.thethingsnetwork.org/article/setting-up-a-private-routing-environment){:target="_blank"}
 * [loraserver](https://www.loraserver.io/){:target="_blank"}
 	
-# Application
+## Application
 Please refer to [this link](https://www.thethingsnetwork.org/docs/applications/){:target="_blank"} for building applications using TTN.
 
 There is a number of data API and SDK for interaction between the applications and TTN server. 
 
 
-# LoRaWAN Demo at University of Liverpool
+## LoRaWAN Demo at University of Liverpool
 A LoRaWAN demo has been created at the Advanced Networks Research Group (ANRG), University of Liverpool. The demo built a complete LoRaWAN-based IoT system, including FiPy end devices, gateway, and applications.
 A detailed introduction can be found at [link](https://junqing-zhang.github.io/posts/2019/04/blog-post-lorawan-fipy-demo/){:target="_blank"}. 
 
 A public LoRaWAN gateway hosted at The Things Network by ANRG [Link](https://www.thethingsnetwork.org/u/anrg){:target="_blank"}. The gateway was built following the instruction [here](https://www.thethingsnetwork.org/labs/story/rak831-lora-gateway-from-package-to-online){:target="_blank"}
 
-# Other Resources
-## SDR Implementation
-* [gr-lora:](https://github.com/rpp0/gr-lora){:target="_blank"} A detailed explanation of the model and algorithm can be found in [link](https://robyns.me/docs/robyns2018lora.pdf){:target="_blank"}.
-* [gr-lora:](https://github.com/BastilleResearch/gr-lora){:target="_blank"}. A detailed explanation of the model and algorithm can be found in [link](https://pubs.gnuradio.org/index.php/grcon/article/view/8){:target="_blank"}. (Yes, both their names are gr-lora)
-* [LoRa in Pothos](https://myriadrf.org/news/lora-modem-limesdr/){:target="_blank"}
 
-## FAQ
+
+
+
+
+# FAQ
 * 14 LoRa FAQs Answered from LinkLabs [https://www.link-labs.com/blog/lora-faqs](https://www.link-labs.com/blog/lora-faqs){:target="_blank"}
 
 
