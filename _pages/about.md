@@ -21,31 +21,16 @@ Please find more information from his
 * [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
 * [IEEE](https://ieeexplore.ieee.org/author/37085438201){:target="_blank"} publication list
 * [Web of Science](https://www.webofscience.com/wos/author/record/T-8966-2019){:target="_blank"} profile
+* We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
-
-## Openining 
-We have a three-year PDRA position available. Please visit [this link](https://www.jobs.ac.uk/job/DOV562/postdoctoral-research-associate-in-wi-fi-device-fingerprinting-grade-7){:target="_blank"} for more information. Application deadline: 17 October 2025.
+## Call for Paper
+* [IEEE WCNC 2026: Third Workshop on Physical Layer Security for Wireless Communications](https://wcnc2026.ieee-wcnc.org/){:target="_blank"}
 
 [//]: [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
 
  
-## Highlights
-[//]: The CSC scholarship is open and will close on 17 January 2025. If you want to do a PhD with us in the area of wireless security and wireless sensing,  please drop me an email with your CV. Pleaes visit [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} for more information.
-
-
-We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
-
-[//]:Please consider submit your papers to the following workshops.
-[//]:* IEEE GLOBECOM Wireless Security Workshop. Submission deadline: 15 July 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
-[//]:* IEEE PIMRC Second Workshop on Physical Layer Security for Wireless Communications. Submission deadline: June 15, 2025. Please visit this [link](https://sites.google.com/view/pls-workshop){:target="_blank"} for more information. 
-
-[//]: Please consider submit your papers to the following workshops.
-[//]: * INFOCOM 2025 DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. Submission deadline: 19 December, 2024. Please visit this [link](https://sites.google.com/view/deepwireless-workshop/3rd-workshop){:target="_blank"} for more information. Deadline extended to 10 January 2025.
-[//]: * IEEE ICC Wireless Security Workshop. Submission deadline: 25 January 2025. Please visit this [link](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} for more information. 
-
-
-
-[//]: ## [News](/news/) Please visit [News](/news/) for all the news.
+## Call for CSC Application
+If you want to do a PhD with us in the area of wireless security and wireless sensing,  please drop me an email with your CV. Pleaes visit [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} for more information. Deadline: TBC
 
 
 ## Research Area

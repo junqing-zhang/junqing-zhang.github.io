@@ -45,6 +45,7 @@ toc_max_header: 1
 
 ## Physical Layer Security Workshop
 [Google sites](https://sites.google.com/view/pls-workshop){:target="_blank"}
+* [IEEE WCNC 2026: Third Workshop on Physical Layer Security for Wireless Communications](https://wcnc2026.ieee-wcnc.org/){:target="_blank"}
 * [IEEE PIMRC 2025: Second Workshop on Physical Layer Security for Wireless Communications](https://pimrc2025.ieee-pimrc.org/workshop/ws-18-second-workshop-physical-layer-security-wireless-communications){:target="_blank"}
 * [IEEE WCNC 2025: Physical Layer Security for Wireless Communications](https://wcnc2025.ieee-wcnc.org/workshop/ws06-ieee-wcnc-workshop-physical-layer-security-wireless-communications){:target="_blank"}
 * [IEEE WCNC 2023 WS-03: Trusted Communications with Physical Layer Security](https://wcnc2023.ieee-wcnc.org/workshop/ws-03-trusted-communications-physical-layer-security){:target="_blank"}
