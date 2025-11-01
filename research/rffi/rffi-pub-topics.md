@@ -24,7 +24,7 @@ tags:
 1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, vol. 26, no. 5, pp. 92 - 98, Oct. 2019. [link](https://ieeexplore.ieee.org/document/8715341){:target="_blank"}
 
 # LoRa RFFI
-## Demonstration
+**Demonstration**
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
 ## Journal
