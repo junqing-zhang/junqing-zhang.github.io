@@ -61,6 +61,14 @@ It is very difficult and unfriendly to generate a table from scratch in Latex. T
 
 Excel2LATEX is recommended over online table generators. It allows you to save the table in an Excel file and you can edit the table and regenerate the Latex source code whenever you want.
 
+then in the table environment, when you use `\begin{tabular}{|l|l|}`, the width of each column will change with the contents to accommodate everything in one line. If you need to set the width of the table, e.g., 2cm, then change it to ``\begin{tabular}{|L{2cm}|l|}``. You need to define the following configuration in the preamble before you use it.
+```
+\usepackage{multirow}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+```
 
 # 5. Figure
 Create a high quality diagram/figure is not an easy task.
