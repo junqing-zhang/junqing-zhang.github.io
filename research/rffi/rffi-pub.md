@@ -50,6 +50,8 @@ tags:
 
 
 # Journal Article
+1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Linning Peng, and Alan Marshall, “Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xxx, 2025. [IEEE](){:target="_blank"}.
+1. Tianya Zhao, **Junqing Zhang**, Jun Dai, Xiaoyan Sun, and Xuyu Wang, “Unveiling the Threat: Data-Free Backdoor Attacks on PreTrained Models for RF Fingerprinting,” _IEEE Transactions on Mobile Computing_, vol. x, no. x, pp. xx, accepted. [IEEE](){:target="_blank"}
 1. Lingnan Xie, Linning Peng, **Junqing Zhang**, Ang Gao, Hua Fu, and Junxian Shi, “Channel2Channel: Towards robust radio frequency fingerprint extraction and identification,” _IEEE Journal on Selected Areas in Communications_, 2025. [IEEE](https://ieeexplore.ieee.org/document/11059916){:target="_blank"}
 1. Yuepei Li, Symon K. Podilchak, **Junqing Zhang**, Simon L. Cotton, Tharmalingam Ratnarajah, and Yuan Ding, “RFFI Protocols Using Antenna Mutual Coupling and Power Amplifier Nonlinear Memory Effects,” _IEEE Communications Letters_, vol. 29, no. 6, pp. 1250 - 1254, Jun. 2025. [IEEE](https://ieeexplore.ieee.org/document/10955860){:target="_blank"}
 1. Tianya Zhao, **Junqing Zhang**, Shiwen Mao, and Xuyu Wang, “Explanation-Guided Backdoor Attacks Against Model-Agnostic RF Fingerprinting Systems,” _IEEE Transactions on Mobile Computing_, vol. 24, no. 3, pp.  2029 - 2042, Mar. 2025. [IEEE](https://ieeexplore.ieee.org/document/10738467){:target="_blank"}
