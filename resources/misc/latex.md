@@ -1,6 +1,6 @@
 ---
 title: 'How to Use LaTex'
-date: 2023-09-30
+date: 2025-11-01
 permalink: /resources/misc/latex/
 categories:
   - Resources
@@ -90,7 +90,7 @@ It is recommended to create a dedicated ppt file for each block diagram. In the 
 ## Use PPT to Annotate Matlab Figure
 It is usually quite difficult if you want to add annotation into the Matlab figure. This can be achieved via PowerPoint (with a few steps). 
 1. Generate the Matlab figure
-2. Click *Edit-> Copy Figure *
+2. Click *Edit-> Copy Figure*
 3. Paste the figure in the PowerPoint. 
 4. Add texts as you wish. 
 5. Save the slide to a pdf file.
@@ -264,6 +264,10 @@ Define in the preamble
 \newcommand{\red}[1]{ {\color{red}#1}}
 ```
 Use it in the main text as follows as `\blue{I want this sentence to be highlighted in blue.}`
+
+## Note
+* Add `~` when you want two parts to stay in the same line, e.g., `Tab.~\label{tab:results}`, .
+
 
 # 11. Conclusion
 Latex is powerful and fun, but it requires time to learn. If you experience any difficulties using it, feel free to contact me. I may have had the same awkward learning processing before and I will be happy to share.
