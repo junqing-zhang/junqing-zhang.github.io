@@ -27,7 +27,7 @@ tags:
 **Demonstration**
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
-## Journal
+**Journal**
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Linning Peng, and Alan Marshall, “Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xxx, 2025. [IEEE](){:target="_blank"}.
 1. Guanxiong Shen, **Junqing Zhang**, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 9204-9215, 2024. [link](https://ieeexplore.ieee.org/document/10697226){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, vol. 23, no. 7, pp. 7618 - 7634, Jul. 2024. [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
@@ -37,41 +37,39 @@ tags:
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, vol. 39, no. 8, pp. 2604 - 2616, Aug. 2021. [link](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}
 
 
-## Conference
+**Conference**
 1. Jie Ma, **Junqing Zhang**, Guanxiong, Shen, Linning Peng and Alan Marshall, “Towards Channel-Robust Radio Frequency Fingerprint Identification Using Contrastive Learning”, in _Proc. IEEE WCNC_, 2025.
 1. Guanxiong Shen, **Junqing Zhang**, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices”, in _Proc. Asilomar_, 2021, [arXiv link](https://arxiv.org/abs/2111.14275){:target="_blank"}, [IEEE link](https://ieeexplore.ieee.org/document/9723287){:target="_blank"}
 1. Guanxiong Shen, Junqing Zhang, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in Proc. IEEE INFOCOM, 2021. [link](https://arxiv.org/abs/2101.01668){:target="_blank"}
 
 
 # Wi-Fi RFFI
-## Demonstration
+**Demonstration**
 * [WiFi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
 
-## Journal
+**Journal**
 1. Lingnan Xie, Linning Peng, **Junqing Zhang**, Ang Gao, Hua Fu, and Junxian Shi, “Channel2Channel: Towards robust radio frequency fingerprint extraction and identification,” _IEEE Journal on Selected Areas in Communications_, 2025. [IEEE](https://ieeexplore.ieee.org/document/11059916){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Xianbin Wang, “Design of A Channel Robust Radio Frequency Fingerprint Identification Scheme,” _IEEE Internet of Things Journal_, vol. 10, no. 8, pp. 6946-6959, Apr. 2023. accepted [link](https://ieeexplore.ieee.org/document/9979789){:target="_blank"}
 
 
 
-## Conference
+**Conference**
 1. Lingnan Xie, Linning Peng, and **Junqing Zhang**, “Towards Robust RF Fingerprint Identification Using Spectral Regrowth and Carrier Frequency Offset”, in _Proc. IEEE INFOCOM_, 2025.
 
 
 # BLE RFFI
 
-## Journal
-
-## Conference
+**Conference**
 1. Ningze Yuan, **Junqing Zhang**, Yuan Ding, and Simon Cotton, “Robust Radio Frequency Fingerprint Identification for Bluetooth Low Energy Under Low SNR and Channel Variations”, in _Proc. IEEE WCNC_, 2025.
 
 
 # LTE RFFI
 
-## Journal
+**Journal**
 1. Pengcheng Yin, Linning Peng, Guanxiong Shen, **Junqing Zhang**, Ming Liu, Hua Fu, Aiqun Hu, and Xianbin Wang, “Multi-Channel CNN-Based Open-Set RF Fingerprint Identification for LTE Devices,” _IEEE Transactions on Cognitive Communications and Networking_, vol. 10, no. 5, pp. 1788-1800, Oct. 2024. [link](https://ieeexplore.ieee.org/document/10505882){:target="_blank"}
 1. Linning Peng, Zhenni Wu, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu, “Hybrid RFF Identification for LTE Using Wavelet Coefficient Graph and Differential Spectrum,” _IEEE Transactions on Vehicular Technology_, vol. 73, no. 8, pp. 11621-11636, Jan. 2024. [link](https://ieeexplore.ieee.org/document/10487783){:target="_blank"}
 
-## Conference
+**Conference**
 1. Min Wang, Linning Peng, Lingnan Xie, **Junqing Zhang**, Ming Liu, and Hua Fu, “Design of Noise Robust Open-Set Radio Frequency Fingerprint Identification Method”, in _Proc. IEEE INFOCOM Workshop_, 2024.
 1. Yanjin Qiu, Linning Peng, **Junqing Zhang**, Ming Liu, Hua Fu, and Aiqun Hu, “Signal-independent RFF Identification for LTE Mobile Devices via Ensemble Deep Learning,”, in _Proc. IEEE GLOBECOM_, 2022
 
@@ -79,31 +77,30 @@ tags:
 
 # ZigBee RFFI
 
-## Journal
+**Journal**
 1. Linning Peng, **Junqing Zhang**, Ming Liu and Aiqun Hu, “Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure,” _IEEE Transactions on Vehicular Technology_, vol. 69, no. 1, pp. 1091 - 1095, Jan. 2020 [link](https://ieeexplore.ieee.org/document/8888209){:target="_blank"}
 1. Linning Peng, Aiqun Hu, **Junqing Zhang**, Yu Jiang, Jiabao Yu, and Yan Yan, “Design of a hybrid RF fingerprint extraction and device classification scheme,” _IEEE Internet of Things Journal_, vol. 6, no. 1, pp. 349 – 360, 2019. [link](https://ieeexplore.ieee.org/document/8360937/){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Guyue Li, “On radio frequency fingerprint identification for DSSS systems in low SNR scenarios,”  _IEEE Communications Letters_, vol. 22, no. 11, pp. 2326 -2329, Nov., 2018. [link](https://ieeexplore.ieee.org/abstract/document/8469002){:target="_blank"}
 
-## Conference
+**Conference**
 1. Yuexiu Xing, Xiaoxing Chen, **Junqing Zhang**, Aiqun Hu, and Dengyin Zhang, “A Noise-Robust Radio Frequency Fingerprint Identification Scheme for Internet of Things Devices”, in _Proc. IEEE INFOCOM Workshop_, 2023. 
 
 
 # Power Amplifier
-## Journal
+**Journal**
 1. Yuepei Li, Symon K. Podilchak, **Junqing Zhang**, Simon L. Cotton, Tharmalingam Ratnarajah, and Yuan Ding, “RFFI Protocols Using Antenna Mutual Coupling and Power Amplifier Nonlinear Memory Effects,” _IEEE Communications Letters_, vol. 29, no. 6, pp. 1250 - 1254, Jun. 2025. [IEEE](https://ieeexplore.ieee.org/document/10955860){:target="_blank"}
 1. Yuepei Li, Kai Xu, **Junqing Zhang**, Chongyan Gu, Yuan Ding, George Goussetis, and Symon K. Podilchak, “PUF-Assisted Radio Frequency Fingerprinting Exploiting Power Amplifier Active Load-pulling”, _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 5015 - 5029, 2024. [link](https://ieeexplore.ieee.org/document/10500472){:target="_blank"}
 1. Yuepei Li, Yuan Ding, Junqing Zhang, George Goussetis, and Symon K. Podilchak, “Radio Frequency Fingerprinting Exploiting Non-Linear Memory Effect,” _IEEE Transactions on Cognitive Communications and Networking_, vol. 8, no. 4, pp. 1618 - 1631, Dec. 2022. [link](https://ieeexplore.ieee.org/document/9913208/){:target="_blank"}
 
-## Conference
-
+**Conference**
 1. Yuepei Li, Yuan Ding, George Goussetis, and **Junqing Zhang**, “Power Amplifier enabled RF Fingerprint Identification,” in _Proc. IEEE Texas Symposium on Wireless and Microwave Circuits and Systems_, 2021.
 
 # Attack
-## Journal
+**Journal**
 1. Tianya Zhao, **Junqing Zhang**, Jun Dai, Xiaoyan Sun, and Xuyu Wang, “Unveiling the Threat: Data-Free Backdoor Attacks on PreTrained Models for RF Fingerprinting,” _IEEE Transactions on Mobile Computing_, vol. x, no. x, pp. xx, accepted. [IEEE](){:target="_blank"}
 1. Tianya Zhao, **Junqing Zhang**, Shiwen Mao, and Xuyu Wang, “Explanation-Guided Backdoor Attacks Against Model-Agnostic RF Fingerprinting Systems,” _IEEE Transactions on Mobile Computing_, vol. 24, no. 3, pp.  2029 - 2042, Mar. 2025. [IEEE](https://ieeexplore.ieee.org/document/10738467){:target="_blank"}
 
-## Conference
+**Conference**
 1. Tianya Zhao, Ningning Wang, **Junqing Zhang**, and Xuyu Wang, “Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting”, in _Proc. IEEE INFOCOM_, 2025.
 1. Tianya Zhao, Xuyu Wang, **Junqing Zhang**, and Shiwen Mao, “Explanation-Guided Backdoor Attacks on Model-Agnostic RF Fingerprinting,” in _Proc. IEEE INFOCOM_, 2024.
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang, “White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification”, in _Proc. IEEE ICC_, 2023
@@ -113,11 +110,11 @@ tags:
 1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ vol. 16, pp. 3974 - 3987, 2021. [link](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
 
 # Others
-## Journal Article
+**Journal Article**
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Jiabao  Yu, Guyue Li, and Ting Wang, “Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar,” _IEEE Internet of Things Journal_, vol. 7, no. 10, pp. 10581 - 10593, Oct. 2020.  . [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
 
 
-## Conference Paper
+**Conference Paper**
 1. To Truong An, Simon L. Cotton, **Junqing Zhang**, Yuan Ding and Trung Q. Duong, “LoRa Radio Frequency Fingerprinting Using a Hybrid Quantum-Classical Neural Network”, in _Proc. IEEE VTC Fall_, 2024.
 1. Chuanting Zhang, Shuping Dang, **Junqing Zhang**, Haixia Zhang, and Mark A. Beach, “Federated Radio Frequency Fingerprinting with Model Transfer and Adaptation”, in _Proc. IEEE INFOCOM Workshop_, 2023. [link](https://arxiv.org/abs/2302.11418){:target="_blank"}
 1. Hongyi Luo, Guyue Li, Yuexiu Xing, **Junqing Zhang**, Aiqun Hu, and Xianbin Wang, “RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios”, in _Proc. IEEE ICC_, 2023
