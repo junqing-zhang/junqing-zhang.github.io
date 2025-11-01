@@ -18,10 +18,10 @@ Different from Word, LaTex may look complicated and difficult to learn in the be
 The most fascinate feature of Latex is that it allows you to focus on the content and frees you from worrying the format. It is very good at writing equations. It is excellent in managing the cross reference of figures and tables, and also the references. 
 Please refer to the [tutorial at Overleaf](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"} to start.
 
-For any report and document, the basic elements include the text, figures, tables, equations, references, etc. You will then have to take care of the referencing of the figures, tables and equations. You may have to worry about the places of the figures and tables. Don't worry, LaTex will sort out all of them.
+For any report and document, the basic elements include the text, figures, tables, equations, references, etc. You will then have to take care of the referencing of the figures, tables and equations. You may worry about the places of the figures and tables. That's not necessary because LaTex will sort out all of them.
 
 # 2. Software
-If you have not used Latex before, I suggest to use the online platform, namely overleaf, first to get yourself familiar with Latex syntax. It may be a little complicated to install and setup Latex software. Overleaf will take care of the packages automatically and you can focus on learning Latex. However, since overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with Latex, I still recommend to use offline software.
+If you have not used Latex before, I suggest to use the online platform, namely Overleaf, first to get yourself familiar with Latex syntax. It may be a little complicated to install and setup Latex software. Overleaf will take care of the packages automatically and you can focus on learning Latex. However, since Overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with Latex, I still recommend to use offline software.
 
 ## LaTex Online Tool - Overleaf
 * Online Latex editor. Free features are sufficient for basic use. 
@@ -47,7 +47,9 @@ Different publishers and journals may have different LaTex templates. Please dow
 
 Please read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} for instruction of how to use the IEEE LaTex template. I strongly suggest to read it time to time when you are using some special features of the template, e.g., subfigures, algorithms.
 
-IEEE has special requirements on the bibliography. Bibtex is suggested to organize the references. Read the information [here](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/macros/latex/contrib/IEEEtran/bibtex/IEEEtran_bst_HOWTO.pdf){:target="_blank"} for instruction. When you are writing your report without following the IEEE Latex template, you can still use the IEEE reference format. It is strongly suggested if you are from the electronics and electrical engineering areas.
+IEEE has special requirements on the bibliography. Bibtex is suggested to organize the references. Read the information [here]({{ site.url }}/files/pdf/IEEEtran_bst_HOWTO.pdf){:target="_blank"}
+
+(http://anorien.csc.warwick.ac.uk/mirrors/CTAN/macros/latex/contrib/IEEEtran/bibtex/IEEEtran_bst_HOWTO.pdf){:target="_blank"} for instruction. When you are writing your report without following the IEEE Latex template, you can still use the IEEE reference format. It is strongly suggested if you are from the electronics and electrical engineering areas.
 
 ## Presentation Beamer
 * Latex is also very good to prepare presentations. Please refer to [here](https://www.overleaf.com/learn/latex/Beamer){:target="_blank"} for a tutorial.
