@@ -12,5 +12,6 @@ All the components of wireless devices will have slightly different features, e.
 * [RFFI Dataset](/research/rffi/rffi-dataset/)
 * [RFFI Resources](/research/rffi/rffi-resources/)
 * [RFFI at University of Liverpool](/research/rffi/rffi-pub/)
+* [RFFI at University of Liverpool (By Topics)](/research/rffi/rffi-pub-topics/)
 * [How to Construct an RFFI System](/research/rffi/rffi-get-started/)
 * [RFFI Projects](/research/rffi/rffi-project/)
