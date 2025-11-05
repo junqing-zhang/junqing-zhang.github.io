@@ -25,6 +25,9 @@ Please find more information from his
 
 ## Call for Paper
 * [IEEE WCNC 2026: Third Workshop on Physical Layer Security for Wireless Communications](https://wcnc2026.ieee-wcnc.org/){:target="_blank"}
+* [IEEE INFOCOM 2026: The Fourth DeepWireless Workshop on Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop){:target="_blank"}
+
+
 
 [//]: [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
 
