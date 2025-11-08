@@ -48,7 +48,7 @@ tags:
 * [WiFi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
 
 **Journal**
-1. Lingnan Xie, Linning Peng, **Junqing Zhang**, Ang Gao, Hua Fu, and Junxian Shi, “Channel2Channel: Towards robust radio frequency fingerprint extraction and identification,” _IEEE Journal on Selected Areas in Communications_, 2025. [IEEE](https://ieeexplore.ieee.org/document/11059916){:target="_blank"}
+1. Lingnan Xie, Linning Peng, **Junqing Zhang**, Ang Gao, Hua Fu, and Junxian Shi, “Channel2Channel: Towards robust radio frequency fingerprint extraction and identification,” _IEEE Journal on Selected Areas in Communications_, vol. 43, no. 11, pp. 3737-3751, 2025. [IEEE](https://ieeexplore.ieee.org/document/11059916){:target="_blank"}
 1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Linning Peng, and Xianbin Wang, “Design of A Channel Robust Radio Frequency Fingerprint Identification Scheme,” _IEEE Internet of Things Journal_, vol. 10, no. 8, pp. 6946-6959, Apr. 2023. accepted [link](https://ieeexplore.ieee.org/document/9979789){:target="_blank"}
 
 
