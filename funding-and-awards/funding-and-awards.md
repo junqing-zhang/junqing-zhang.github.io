@@ -6,7 +6,7 @@ permalink: /funding-and-awards/
 author_profile: true
 ---
 
-£1.3 million research income secured as Principle Investigator
+£1.3 million research income secured as Principal Investigator
 
 # Ongoing Project
 * Principal Investigator, EPSRC, [_Germany-UK: Securing Device Identification Using Hardware Impairments in RF Circuits_](./project-epsrc-2025-rffi/), £99.8k, 1 October 2025 to 31 March 2026
