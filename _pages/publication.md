@@ -34,6 +34,7 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
 
 # Journal Article
+1. Senhao Gao, **Junqing Zhang**, Luoyu Mei, Shuai Wang, and Xuyu Wang, “Exploring Spatial-Temporal Representation via Star Graph for mmWave Radar-based Human Activity Recognition,” _IEEE Transactions on Mobile Computing_, vol. xx, pp. xxx, 2025. [IEEE](){:target="_blank"}.
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Linning Peng, and Alan Marshall, “Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xxx, 2025. [IEEE](){:target="_blank"}.
 1. Tianya Zhao, **Junqing Zhang**, Jun Dai, Xiaoyan Sun, and Xuyu Wang, “Unveiling the Threat: Data-Free Backdoor Attacks on PreTrained Models for RF Fingerprinting,” _IEEE Transactions on Mobile Computing_, vol. x, no. x, pp. xx, accepted. [IEEE](){:target="_blank"}
 1. Tianyu Lu, Liquan Chen, **Junqing Zhang**, Weicheng Zhang, and Michail Matthaiou, “Polar-Domain Multi-User Key Generation in Near-Field Communications,” _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 11311-11325, 2025. [IEEE](https://ieeexplore.ieee.org/document/11205477){:target="_blank"}.
