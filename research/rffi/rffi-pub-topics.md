@@ -28,6 +28,7 @@ tags:
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
 **Journal**
+1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang “Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification,” _IEEE Transactions on Mobile Computing_, vol. xx, pp. xx, 2025. [IEEE](){:target="_blank"}.
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Linning Peng, and Alan Marshall, “Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 12112 - 12125, 2025. [IEEE](https://ieeexplore.ieee.org/document/11232481){:target="_blank"}.
 1. Guanxiong Shen, **Junqing Zhang**, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 9204-9215, 2024. [link](https://ieeexplore.ieee.org/document/10697226){:target="_blank"}
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, vol. 23, no. 7, pp. 7618 - 7634, Jul. 2024. [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
@@ -97,6 +98,7 @@ tags:
 
 # Attack
 **Journal**
+1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang “Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification,” _IEEE Transactions on Mobile Computing_, vol. xx, pp. xx, 2025. [IEEE](){:target="_blank"}.
 1. Tianya Zhao, **Junqing Zhang**, Jun Dai, Xiaoyan Sun, and Xuyu Wang, “Unveiling the Threat: Data-Free Backdoor Attacks on PreTrained Models for RF Fingerprinting,” _IEEE Transactions on Mobile Computing_, vol. x, no. x, pp. xx, accepted. [IEEE](){:target="_blank"}
 1. Tianya Zhao, **Junqing Zhang**, Shiwen Mao, and Xuyu Wang, “Explanation-Guided Backdoor Attacks Against Model-Agnostic RF Fingerprinting Systems,” _IEEE Transactions on Mobile Computing_, vol. 24, no. 3, pp.  2029 - 2042, Mar. 2025. [IEEE](https://ieeexplore.ieee.org/document/10738467){:target="_blank"}
 

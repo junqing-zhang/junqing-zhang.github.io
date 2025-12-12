@@ -52,6 +52,7 @@ Please visit [this link](/research/rffi/rffi-pub-topics/) for our work categoriz
 
 
 # Journal Article
+1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang “Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification,” _IEEE Transactions on Mobile Computing_, vol. xx, pp. xx, 2025. [IEEE](){:target="_blank"}.
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Linning Peng, and Alan Marshall, “Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 12112 - 12125, 2025. [IEEE](https://ieeexplore.ieee.org/document/11232481){:target="_blank"}.
 1. Tianya Zhao, **Junqing Zhang**, Jun Dai, Xiaoyan Sun, and Xuyu Wang, “Unveiling the Threat: Data-Free Backdoor Attacks on PreTrained Models for RF Fingerprinting,” _IEEE Transactions on Mobile Computing_, vol. x, no. x, pp. xx, accepted. [IEEE](){:target="_blank"}
 1. Lingnan Xie, Linning Peng, **Junqing Zhang**, Ang Gao, Hua Fu, and Junxian Shi, “Channel2Channel: Towards robust radio frequency fingerprint extraction and identification,” _IEEE Journal on Selected Areas in Communications_, vol. 43, no. 11, pp. 3737-3751, 2025. [IEEE](https://ieeexplore.ieee.org/document/11059916){:target="_blank"}
