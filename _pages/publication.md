@@ -34,6 +34,7 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Chen Chen, **Junqing Zhang** and Yingying Chen, “Adaptive Quantization for Key Generation in Low-Power Wide-Area Networks,” [arXiv link](https://arxiv.org/abs/2310.07853){:target="_blank"} 
 
 # Journal Article
+1. Yijia Guo, **Junqing Zhang**<sup>*</sup>, Y.-W. Peter Hong, and Stefano Tomasin, “Model-Driven Learning-Based Physical Layer Authentication for Mobile Wi-Fi Devices,” _IEEE Transactions on Information Forensics and Security_, vol. xx, pp. xx, 2026. [IEEE](){:target="_blank"}, [arXiv link](){:target="_blank"}, [Dataset](https://ieee-dataport.org/documents/wi-fi-channel-state-information-dataset-mobile-physical-layer-authentication){:target="_blank"}.
 1. Jie Ma, **Junqing Zhang**, Guanxiong Shen, Alan Marshall, and Chip-Hong Chang “Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification,” _IEEE Transactions on Mobile Computing_, vol. xx, pp. xx, 2025. [IEEE](){:target="_blank"}.
 1. Hua Fu, Linning Peng, **Junqing Zhang**, Ming Liu, Xudong Chen, and Aiqun Hu, “Towards A Practical Key Generation System For V2X Communications,” _IEEE Transactions on Mobile Computing_, vol. xx, pp. xxx, 2025. [IEEE](){:target="_blank"}.
 1. Senhao Gao, **Junqing Zhang**, Luoyu Mei, Shuai Wang, and Xuyu Wang, “Exploring Spatial-Temporal Representation via Star Graph for mmWave Radar-based Human Activity Recognition,” _IEEE Transactions on Mobile Computing_, vol. xx, pp. xxx, 2025. [IEEE](){:target="_blank"}.
