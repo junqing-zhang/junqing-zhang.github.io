@@ -111,6 +111,9 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
+1. Yijia Guo, **Junqing Zhang**, and Y.-W. Peter Hong, “Channel Prediction-Based Physical Layer Authentication under Consecutive Spoofing Attacks”, in _Proc. IEEE ICC_, 2026. [link](){:target="_blank"}
+1. Emma Bothereau, Robin Gerzaguet, Matthieu Gautier, **Junqing Zhang**, Alice Chillet, Alan Marshall, and Olivier Berder, “Lightweight Preprocessing and Feature Extraction for LoRa RF Fingerprint Identification”, in _Proc. IEEE ICC_, 2026. [link](){:target="_blank"}
+1. Shuo Wang, **Junqing Zhang**, Jiahuai Mao, Alessandro Brighente, Guanxiong Shen, and Mauro Conti, “Triad-GAN: Feature-Level Generative Adversarial Network for Multi-Receiver Radio Frequency Fingerprint Identification”, in _Proc. IEEE ICC_, 2026. [link](){:target="_blank"}
 1. Tianya Zhao, Ningning Wang, **Junqing Zhang**, and Xuyu Wang, “Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting”, in _Proc. IEEE INFOCOM_, 2025.
 1. Lingnan Xie, Linning Peng, and **Junqing Zhang**, “Towards Robust RF Fingerprint Identification Using Spectral Regrowth and Carrier Frequency Offset”, in _Proc. IEEE INFOCOM_, 2025. [IEEE](https://ieeexplore.ieee.org/abstract/document/11044651){:target="_blank"}.
 1. Wentao Jing, Linning Peng, **Junqing Zhang**, and Hua Fu, “An Investigation of Power Amplifier Feature for Deep Learning Based RF Fingerprint Identification”, in _Proc. IEEE INFOCOM DeepWireless Workshop_, 2025.
