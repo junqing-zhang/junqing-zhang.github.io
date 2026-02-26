@@ -20,16 +20,16 @@ A Radio Frequency Fingerprint Identification (RFFI) LoRa demonstration has been 
 
 The following figure shows the setup.
 <br />
-<br /><img src='./wifi_rffi_demo_setup.png' width="800" title="Setup" alt="Setup">
+<br /><img src='./rffi_lora_demo_setup.png' width="800" title="RFFI LoRa Demo Setup" alt="RFFI LoRa Demo Setup">
 <br />
 
 
 
 # Hardware
-* Device Under Test (DUT): LoRa devices
+* LoRa Device Under Test (DUT): 4* mbed1262 + 5* mbed1272 
 * Receiver: Laptop + USRP N210
 <br />
-<br /><img src='./wifi_rffi_hardware.png' width="800" title="Wi-Fi RFFI Demo Testbed" alt="Wi-Fi RFFI Demo Testbed">
+<br /><img src='./rffi_lora_hardware.png' width="800" title="RFFI RFFI Demo Testbed" alt="RFFI LoRa Demo Testbed">
 <br />
 RFFI LoRa Demo Testbed
 
