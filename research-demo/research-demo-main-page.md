@@ -7,7 +7,8 @@ permalink: /research-demo/research-demo-main-page/
 We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 
 # Radio Frequency Fingerprint Identification
-* [WiFi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
+* [RFFI Wi-Fi Demonstration](/research-demo/demo-wifi-rffi/)
+* [RFFI LoRa Demonstration](/research-demo/demo-rffi-lora/)
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 
 # Key Generation
