@@ -36,9 +36,10 @@ RFFI LoRa Demo Testbed
 
 # Software
 * DUT (dongle)
-* USRP N210: Deep learning is powered by Pytorch.
+* USRP N210 for Data collection: Matlab 
+* Deep learning: Pytorch.
 <br />
-<br />  <img src="./wifi_rffi_ui.png" alt="Wi-Fi RFFI Demo GUI" title="Wi-Fi RFFI Demo GUI" width="800"/>
+<br />  <img src="./rffi_lora_ui.png" alt="RFFI LoRa Demo GUI" title="RFFI LoRa Demo GUI" width="800"/>
 <br />
 
 Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/) or the Main Page of [Research Demonstration](/research-demo/research-demo-main-page/).
