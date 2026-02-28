@@ -35,7 +35,7 @@ RFFI LoRa Demo Testbed
 
 
 # Software
-* DUT (dongle)
+* LoRa Device: C language. Check https://os.mbed.com/components/SX1272MB2xAS/
 * USRP N210 for Data collection: Matlab 
 * Deep learning: Pytorch.
 <br />
