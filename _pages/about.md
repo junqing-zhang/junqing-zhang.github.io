@@ -24,18 +24,16 @@ Please find more information from his
 * We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
 ## Call for Paper
-* [IEEE WCNC 2026: Third Workshop on Physical Layer Security for Wireless Communications](https://sites.google.com/view/pls-workshop){:target="_blank"}. Deadline: December 1, 2025
-* [IEEE INFOCOM 2026: The Fourth DeepWireless Workshop on Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop){:target="_blank"}. December 29, 2025
-* [IEEE ICC 2026: The Fifth Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/5th-workshop){:target="_blank"}. Deadline: January 18, 2026
+[//]: * [IEEE WCNC 2026: Third Workshop on Physical Layer Security for Wireless Communications](https://sites.google.com/view/pls-workshop){:target="_blank"}. Deadline: December 1, 2025
+[//]: * [IEEE INFOCOM 2026: The Fourth DeepWireless Workshop on Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop){:target="_blank"}. December 29, 2025
+[//]: * [IEEE ICC 2026: The Fifth Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/5th-workshop){:target="_blank"}. Deadline: January 18, 2026
 
 
 [//]: [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
 
  
-## Call for CSC Application
-If you want to do a PhD with us in the area of wireless security and wireless sensing,  please drop me an email with your CV. Pleaes visit [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} for more information. 
-
-Deadline: Friday 9 January 2026
+[//]: ## Call for CSC Application
+[//]: If you want to do a PhD with us in the area of wireless security and wireless sensing,  please drop me an email with your CV. Pleaes visit [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} for more information. Deadline: Friday 9 January 2026
 
 
 ## Research Area
