@@ -15,6 +15,7 @@ This page summarizes resources related to wireless communications, involving fun
 
 # Fundamental
 * [Wireless Channel and Radio Propagation](/resources/wireless/wireless-channel-radio-propagation/)
+* [Antenna](/resources/wireless/antenna/)
 * [Digital Communications](/resources/wireless/digital-comms/)
 
 # Wireless Standards
