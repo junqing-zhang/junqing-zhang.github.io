@@ -20,6 +20,7 @@ This page summarizes resources related to wireless communications, involving fun
 
 # Wireless Standards
 * [Wi-Fi/IEEE 802.11](/resources/wireless/wifi/)
+* [How To Learn Wi-Fi](/resources/wireless/how-to-learn-wifi/)
 * [ZigBee/IEEEE 802.15.4](/resources/wireless/zigbee/)
 * [LoRa, LoRaWAN](/resources/wireless/lora-lorawan/)
 * [Bluetooth](/resources/wireless/bluetooth/)

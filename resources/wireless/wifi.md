@@ -16,12 +16,6 @@ Strictly speaking, IEEE 802.11 is the standard by IEEE and Wi-Fi is a trademark 
 
 {% include toc %}
 
-# Learning Materials
-* Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
-* Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
-* [Matlab WLAN Toolbox](https://www.mathworks.com/products/wlan.html){:target="_blank"} with many good examples. Run [802.11n Packet Error Rate Simulation for 2x2 TGn Channel
-](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html) to understand physical layer algorithms.
-
 # Standard
 IEEE 802.11 standard defines the physcai layer and media access control (MAC) layer protocols. It has undergone a number of amendments in the last twenty years, since its first release in 1997. A complete list of the IEEE 802.11 amendments is summarized at [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.
 
