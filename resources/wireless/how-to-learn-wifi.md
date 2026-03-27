@@ -45,7 +45,7 @@ The following algorithm should be carefully studied:
 * [Model 802.11a/b/g/j/p-related signal reception functionality](https://uk.mathworks.com/help/wlan/802-11a-b-g-j-p-reception.html){:target="_blank"}: Understand each receiver algorithm
 
 # 3. Experimental Practice
-* Software-defined radio (SDR): if you have SDR platforms, check [Matlab WLAN SDR examples](https://uk.mathworks.com/help/wlan/software-defined-radio.html){:target="_blank"}
+* Software-defined radio (SDR): if you have SDR platforms (USRP or PlutoSDR), check [Matlab WLAN SDR examples](https://uk.mathworks.com/help/wlan/software-defined-radio.html){:target="_blank"}
 * ESP32: try [ESP32 CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/){:target="_blank"} to get CSI
 
 
