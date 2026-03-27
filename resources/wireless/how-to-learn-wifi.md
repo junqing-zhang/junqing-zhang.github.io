@@ -12,16 +12,16 @@ tags:
 
 Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, i.e., 20 MHz OFDM with SISO.
 
+# OFDM
+* Read Chapter 2 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
+
+# 1 Understand Wi-Fi Physical Layer
 <figure>
   <img src="/resources/wireless/images/xxHTMIMOPERDiagram.png" alt="Wi-Fi system"/>
   <figcaption>Wi-Fi system. Source:  [Matlab](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"}
 </figure>
 
-# 1 Understand the Physical Layer
-## OFDM
-* Read Chapter 2 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
-
-## 802.11a/g 
+## Transmitter
 * Read Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). Understand the preamble design (short training symbols and long training symbols).
 
 ## Channel
@@ -29,7 +29,7 @@ Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, 
 * Matlab has modeled the fading channels, which can be found [here](https://www.mathworks.com/help/comm/ug/fading-channels.html){:target="_blank"}
 * [Propagation Channel Models for WiFi/IEEE 802.11](https://www.mathworks.com/help/wlan/propagation-channel-models.html){:target="_blank"}
 
-## Receiver Design
+## Receiver 
 * Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
 
 
