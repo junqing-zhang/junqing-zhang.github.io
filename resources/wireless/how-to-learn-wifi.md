@@ -14,7 +14,7 @@ Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, 
 
 <figure>
   <img src="/resources/wireless/images/xxHTMIMOPERDiagram.png" alt="Wi-Fi system"/>
-  <figcaption>Wi-Fi system. Source:   <a href="https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html"</a> </figcaption>
+  <figcaption>Wi-Fi system. Source:  [Matlab](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"}
 </figure>
 
 # 1 Understand the Physical Layer
