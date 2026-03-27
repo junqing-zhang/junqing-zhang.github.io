@@ -12,13 +12,13 @@ tags:
 
 Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, i.e., 20 MHz OFDM with SISO.
 
-# OFDM
+# 0. OFDM
 * Read Chapter 2 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
 
-# 1 Understand Wi-Fi Physical Layer
+# 1. Understand Wi-Fi Physical Layer
 <figure>
   <img src="/resources/wireless/images/xxHTMIMOPERDiagram.png" alt="Wi-Fi system"/>
-  <figcaption>Wi-Fi system. Source: <a href="https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html" title="Matlab">Matlab"</a></figcaption>
+  <figcaption>Wi-Fi system. Source: <a href="https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html" title="Matlab">Matlab</a></figcaption>
 </figure>
 
 ## Transmitter
@@ -39,12 +39,12 @@ The following algorithm should be carefully studied:
 * Channel estimation
 
 
-# 2 Matlab Simulation
+# 2. Matlab Simulation
 * Run [802.11n Packet Error Rate Simulation for 2x2 TGn Channel
 ](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html) to understand physical layer algorithms. Setting the  number of transmit antennas to 1 in the example.
 * [Model 802.11a/b/g/j/p-related signal reception functionality](https://uk.mathworks.com/help/wlan/802-11a-b-g-j-p-reception.html): Understand each receiver algorithm
 
-# 3 Experimental Practice
+# 3. Experimental Practice
 * ESP32
 
 
