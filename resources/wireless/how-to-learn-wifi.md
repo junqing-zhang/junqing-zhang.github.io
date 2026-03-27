@@ -30,7 +30,10 @@ Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, 
 * [Propagation Channel Models for WiFi/IEEE 802.11](https://www.mathworks.com/help/wlan/propagation-channel-models.html){:target="_blank"}
 
 ## Receiver 
-* Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
+Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
+
+The following algorithm should be carefully studied:
+* Symbol detection: How to use short training symbol for coarse time synchronization
 
 
 # 2 Matlab Simulation
