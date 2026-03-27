@@ -33,7 +33,10 @@ Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, 
 Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
 
 The following algorithm should be carefully studied:
-* Symbol detection: How to use short training symbol for coarse time synchronization
+* Packet detection: How to use short training symbol for coarse time synchronization
+* Symbol alignment: How to use long training symbol for fine time synchronization
+* Carrier frequency offset estimation and correction
+* Channel estimation
 
 
 # 2 Matlab Simulation
