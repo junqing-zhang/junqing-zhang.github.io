@@ -32,7 +32,7 @@ Reading materials:
 * Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). 
 * Chapter ***Orthogonal frequency division multiplexing (OFDM) PHY specification***
  of the IEEE 802.11 standard. Download it from [IEEE Xplore](https://ieeexplore.ieee.org/document/10979691){:target="_blank"}
- * [Non-HT PPDU Structure] (https://uk.mathworks.com/help/wlan/gs/non-ht-ppdu-structure.html){:target="_blank"}
+ * [Non-HT PPDU Structure](https://uk.mathworks.com/help/wlan/gs/non-ht-ppdu-structure.html){:target="_blank"}
 
 Key learning points:
 * Understand the preamble design (short training symbols and long training symbols).
