@@ -10,7 +10,7 @@ tags:
   - Wi-Fi
 ---
 
-Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, i.e., 20 MHz OFDM with SISO, which is sufficient to understand the important Wi-Fi design. 
+Learning Wi-Fi can be quite complicated for beginners. Wi-Fi physical layer has lots of features, including OFDM, OFDMA, MIMO and supports up to 160 MHz bandwidth. Start with the legacy Wi-Fi, which usually refers to 802.11a/g. Their physical layer is based on OFDM SISO with 20 MHz bandwidth, which is sufficient to understand the important Wi-Fi OFDM design.
 
 # 0. OFDM
 Reading materials:
@@ -18,10 +18,10 @@ Reading materials:
 * Read Chapter 2 of Book [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
 
 Key learning points:
-* Understand time domain and frequency domain signals, how FFT and IFFT are used
-* Understand CP
+* Time domain and frequency domain signals, how FFT and IFFT are used
+* CP
 
-# 1. Understand Wi-Fi Physical Layer
+# 1. Wi-Fi Physical Layer
 <figure>
   <img src="/resources/wireless/images/xxHTMIMOPERDiagram.png" alt="Wi-Fi system"/>
   <figcaption>Wi-Fi system. Source: <a href="https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html" title="Matlab">Matlab</a></figcaption>
@@ -35,7 +35,7 @@ Reading materials:
  * [Non-HT PPDU Structure](https://uk.mathworks.com/help/wlan/gs/non-ht-ppdu-structure.html){:target="_blank"}
 
 Key learning points:
-* Understand the preamble design (short training symbols and long training symbols).
+* Preamble design including short training symbols and long training symbols
 
 ## Channel
 Reading materials:
