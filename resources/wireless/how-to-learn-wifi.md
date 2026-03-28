@@ -27,13 +27,15 @@ Key learning points:
 </figure>
 
 ## Transmitter
-* Read Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). 
+Reading materials:
+* Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). 
 
 Key learning points:
 * Understand the preamble design (short training symbols and long training symbols).
 
 ## Channel
-* Read Chapters 1-3 of [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}. Understand what is multipath channel. Focus on small-scale fading in the beginning.
+Reading materials:
+* Chapters 1-3 of [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}. Understand what is multipath channel. Focus on small-scale fading in the beginning.
 * Matlab has modeled the fading channels, which can be found [here](https://www.mathworks.com/help/comm/ug/fading-channels.html){:target="_blank"}
 * [Propagation Channel Models for WiFi/IEEE 802.11](https://www.mathworks.com/help/wlan/propagation-channel-models.html){:target="_blank"}
 
@@ -42,7 +44,8 @@ Key learning points:
 
 
 ## Receiver 
-Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
+Reading materials:
+* Paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"}, which explains receiver algorithms design, including time synchronization, frequency offest estimation, channel estimation, etc.
 
 Key learning points:
 * Packet detection: How to use short training symbol for coarse time synchronization (autocorrelation)
