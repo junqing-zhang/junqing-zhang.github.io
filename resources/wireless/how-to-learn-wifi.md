@@ -13,7 +13,12 @@ tags:
 Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, i.e., 20 MHz OFDM with SISO, which is sufficient to understand the important Wi-Fi design. 
 
 # 0. OFDM
-* Read Chapter 2 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
+* Read Section 4.1, 4.2 of Book [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}.
+* Read Chapter 2 of Book [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
+
+Key learning points:
+* Understand time domain and frequency domain signals, how FFT and IFFT are used
+* Understand CP
 
 # 1. Understand Wi-Fi Physical Layer
 <figure>
@@ -22,21 +27,28 @@ Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, 
 </figure>
 
 ## Transmitter
-* Read Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). Understand the preamble design (short training symbols and long training symbols).
+* Read Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). 
+
+Key learning points:
+* Understand the preamble design (short training symbols and long training symbols).
 
 ## Channel
 * Read Chapters 1-3 of [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}. Understand what is multipath channel. Focus on small-scale fading in the beginning.
 * Matlab has modeled the fading channels, which can be found [here](https://www.mathworks.com/help/comm/ug/fading-channels.html){:target="_blank"}
 * [Propagation Channel Models for WiFi/IEEE 802.11](https://www.mathworks.com/help/wlan/propagation-channel-models.html){:target="_blank"}
 
+Key learning points:
+* Small-scale fading
+
+
 ## Receiver 
 Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
 
-The following algorithm should be carefully studied:
-* Packet detection: How to use short training symbol for coarse time synchronization
-* Symbol alignment: How to use long training symbol for fine time synchronization
-* Carrier frequency offset estimation and correction
-* Channel estimation
+Key learning points:
+* Packet detection: How to use short training symbol for coarse time synchronization (autocorrelation)
+* Symbol alignment: How to use long training symbol for fine time synchronization (cross correlation)
+* Carrier frequency offset estimation and correction (autocorrelation)
+* Channel estimation using long training symbols
 
 
 # 2. Matlab Simulation
