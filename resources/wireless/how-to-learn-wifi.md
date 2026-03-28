@@ -13,6 +13,7 @@ tags:
 Learning Wi-Fi can be quite complicated for beginners. Start with legacy Wi-Fi, i.e., 20 MHz OFDM with SISO, which is sufficient to understand the important Wi-Fi design. 
 
 # 0. OFDM
+Reading materials:
 * Read Section 4.1, 4.2 of Book [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}.
 * Read Chapter 2 of Book [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
 
@@ -29,6 +30,8 @@ Key learning points:
 ## Transmitter
 Reading materials:
 * Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). 
+* Chapter ***Orthogonal frequency division multiplexing (OFDM) PHY specification***
+ of the IEEE 802.11 standard. Download it from [IEEE Xplore](https://ieeexplore.ieee.org/document/10979691){:target="_blank"}
 
 Key learning points:
 * Understand the preamble design (short training symbols and long training symbols).
