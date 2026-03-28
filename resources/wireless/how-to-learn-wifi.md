@@ -12,6 +12,8 @@ tags:
 
 Learning Wi-Fi can be quite complicated for beginners. Wi-Fi physical layer has lots of features, including OFDM, OFDMA, MIMO and supports up to 160 MHz bandwidth. Start with the legacy Wi-Fi, which usually refers to 802.11a/g. Their physical layer is based on OFDM SISO with 20 MHz bandwidth, which is sufficient to understand the important Wi-Fi OFDM design.
 
+This blog post focuses on the preamble-related parts.
+
 # 0. OFDM
 Reading materials:
 * Read Section 4.1, 4.2 of Book [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}.
