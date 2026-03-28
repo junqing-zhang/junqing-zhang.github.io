@@ -18,7 +18,8 @@ Reading materials:
 * Read Chapter 2 of Book [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} 
 
 Key learning points:
-* Time domain and frequency domain signals, how FFT and IFFT are used
+* FFT and IFFT
+* Time domain and frequency domain signals
 * CP
 
 # 1. Wi-Fi Physical Layer
@@ -45,7 +46,8 @@ Reading materials:
 
 Key learning points:
 * Small-scale fading
-
+* Modelling of multipath channel (frequency selectivity vs flat fading)
+* Modelling of Doppler spread (fast vs slow fading)
 
 ## Receiver 
 Reading materials:
