@@ -10,12 +10,12 @@ author_profile: true
 
 # Ongoing Project
 * Principal Investigator, Federated Telecoms Hubs - Proof of Concept 1, Securing Wi-Fi Connectivity by Radio Frequency Fingerprints, £74k, 31 October 2025 to 30 Sept 2026
-* Principal Investigator, EPSRC, [_Germany-UK: Securing Device Identification Using Hardware Impairments in RF Circuits_](./project-epsrc-2025-rffi/), £102k, 1 October 2025 to 31 March 2026
 * Principal Investigator, EPSRC Lead Agency Agreement with the NSF, [_NSF ECCS-EPSRC: SecureID: Towards Secure Device Identification Using Radio Frequency Fingerprints_](./project-epsrc-2025-secure-id/), £656k, 1 March 2026 to 28 Feb 2029
 * Principal Investigator, EPSRC Federated Telecoms Hub 6G Research Partnership Funds (THRPF), [_Securing Spectrum Connectivity: Over-the-Air Authentication Using Radio Frequency Fingerprinting_](./project-epsrc-2024-rffi/), £160k, July 2024 to March 2026. Partner: Heriot Watt University and Queen’s University Belfast. The total awarded amount is £393k.
-* Principal Investigator, Royal Society Research Grants, [_Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints_](./project-rs-2023-uav-rffi/), £55.8k, March 2023 to March 2026
+* Principal Investigator, Royal Society Research Grants, [_Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints_](./project-rs-2023-uav-rffi/), £55.8k, March 2023 to September 2026
 
 # Completed Project
+* Principal Investigator, EPSRC, [_Germany-UK: Securing Device Identification Using Hardware Impairments in RF Circuits_](./project-epsrc-2025-rffi/), £102k, 1 October 2025 to 31 March 2026
 * Principal Investigator, EPSRC New Investigator Award, [_A New Frontier For Internet of Things Security: Far-Flung Key Generation_](./project-epsrc-nia-keygen/) , £310k, Jan. 2022 to Jun. 2024
 * Principal Investigator, Royal Society Research Grants, [_Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning_](./project-rs-2019-rffi-lora/), £19k, March 2019 to March 2020
 
