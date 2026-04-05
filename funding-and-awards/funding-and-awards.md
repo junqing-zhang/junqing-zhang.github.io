@@ -16,7 +16,7 @@ author_profile: true
 
 # Completed Project
 * Principal Investigator, EPSRC, [_Germany-UK: Securing Device Identification Using Hardware Impairments in RF Circuits_](./project-epsrc-2025-rffi/), £102k, 1 October 2025 to 31 March 2026
-* Principal Investigator, EPSRC New Investigator Award, [_A New Frontier For Internet of Things Security: Far-Flung Key Generation_](./project-epsrc-nia-keygen/) , £310k, Jan. 2022 to Jun. 2024
+* Principal Investigator, EPSRC New Investigator Award, [_A New Frontier For Internet of Things Security: Far-Flung Key Generation_](./project-epsrc-2022-nia-keygen/) , £310k, Jan. 2022 to Jun. 2024
 * Principal Investigator, Royal Society Research Grants, [_Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning_](./project-rs-2019-rffi-lora/), £19k, March 2019 to March 2020
 
 # Awards
