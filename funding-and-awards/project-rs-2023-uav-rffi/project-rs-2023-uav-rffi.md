@@ -9,7 +9,7 @@ author_profile: true
 # Overview
 * Funder: Royal Society
 * Scheme: Royal Society Research Grants
-* Duration: March 2023 to March 2026
+* Duration: March 2023 to September 2026
 * Amount: £55.8k
 
 To be updated
