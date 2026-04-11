@@ -21,6 +21,7 @@ toc_max_header: 1
 
 
 # Technical Conference Co-Chair
+* Co-Chairs of Communication and Information Security Symposium at IEEE International Conference on Communications (ICC) 2027
 * Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN) Symposium at [International Conference on Computing, Networking and Communications (ICNC 2026)](http://www.conf-icnc.org/2026/){:target="_blank"}
 * Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN) Symposium at [International Conference on Computing, Networking and Communications (ICNC 2025)](http://www.conf-icnc.org/2025/){:target="_blank"}
 * Co-Chairs of Signal Processing for Communications Symposium at IEEE International Conference on Communications (ICC) 2023
@@ -56,7 +57,7 @@ toc_max_header: 1
 
 
 # TPC Member
-* IEEE INFOCOM 2025, 2026
+* IEEE INFOCOM 2025, 2026， 2027
 * IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS) 2025
 * IEEE Conference on Communications and Network Security (IEEE CNS) 2025, 2026
 * ACM WiSec 2026
