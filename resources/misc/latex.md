@@ -256,10 +256,7 @@ before `\end{document}`
 
 Step 3: Download the bibtex entry from Google Scholar. Check the following fields and make the relevant changes.
 * The conference should starting with Proc. e.g., `booktitle={Proc. IEEE ICC}`
-* The journal name should use abbreviation. Check [IEEEabrv.bib](https://junqing-zhang.github.io\resources\misc\IEEEabrv.bib){:target="_blank"}
-
-
-(https://mirror.apps.cam.ac.uk/pub/tex-archive/macros/latex/contrib/IEEEtran/bibtex/IEEEabrv.bib){:target="_blank"} for the abbreviations.
+* The journal name should use abbreviation. Check [IEEEabrv.bib](https://junqing-zhang.github.io\resources\misc\IEEEabrv.bib){:target="_blank"} for the abbreviations.
 * Title: add brackets around the words whose letters need to be capital, e.g., `{OFDM}`, and `{LoRa}`.
 
 
