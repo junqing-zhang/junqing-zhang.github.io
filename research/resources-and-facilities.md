@@ -36,7 +36,7 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 * [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} *10 (for WiFi, Bluetooth, LoRa, SigFox and NB-IoT)
 * [Pycom LoPy4](https://pycom.io/product/lopy4/){:target="_blank"}*100 (for WiFi, Bluetooth, LoRa, and SigFox)
 * LoRa devices, including mbed LoRa sx1272, sx1261, sx1276, sx1280 (2.4 GHz LoRa), Arduino LoRa shield and Microchip RN2483 LoRa
-* Nordic Semiconducto: [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle){:target="_blank"}, [nRF52840 DK](http://nordicsemi.com/Products/Development-hardware/nRF52840-DK), [nRF5340 DK](https://www.nordicsemi.com/Products/Development-hardware/nRF5340-DK){:target="_blank"}, (for ZigBee and Bluetooth)
+* Nordic Semiconductor: [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle){:target="_blank"}, [nRF52840 DK](http://nordicsemi.com/Products/Development-hardware/nRF52840-DK), [nRF5340 DK](https://www.nordicsemi.com/Products/Development-hardware/nRF5340-DK){:target="_blank"}, (for ZigBee and Bluetooth)
 * Texas Instrument: CC1352P, CC2652P, CC2640R2, CC1352P1
 * ESP32: [ESP32](https://www.espressif.com/en/products/socs/esp32){:target="_blank"} and ESP32-S3 for WiFi and Bluetooth
 * Raspberry Pi-based LoRaWAN Gateway, [RAK831](https://www.thethingsnetwork.org/docs/gateways/rak831/){:target="_blank"}
