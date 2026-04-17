@@ -6,8 +6,6 @@ author_profile: true
 toc: true
 ---
 
-Thanks to the generous financial support from Royal Society and the Department of Electrical Engineering and Electronics, University of Liverpool, our group has  equipped with advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests and building embedded Internet of Things systems.
-
 {% include toc %}
 
 # Spectrum Analyzer
