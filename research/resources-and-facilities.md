@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-Our group has  equipped with advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests and building embedded Internet of Things systems.
+Our group is equipped with advanced testbeds and experimental facilities, enabling us to conduct a wide range of wireless communication experiments and to design and implement embedded Internet of Things (IoT) systems.
 
 {% include toc %}
 
