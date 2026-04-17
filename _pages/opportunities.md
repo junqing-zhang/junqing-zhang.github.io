@@ -39,6 +39,10 @@ English language test certificate (minimum IELTS 6.5 with no components lower th
 
 Please note this requirement is applicable to both full PhD students and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
 
+# How to Apply
+
+* Visit [How to apply](https://www.liverpool.ac.uk/postgraduate-research/how-to-apply/){:target="_blank"}
+* Prepare all the application documents. Check [this link](https://www.liverpool.ac.uk/postgraduate-research/how-to-apply/research-proposal/){:target="_blank"} for how to prepare a research proposal
 
 # China Scholarship Council for PhD Students 
 We are proud to be the partner of the CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the international tuition fee and CSC will provide the living allowance.
@@ -55,9 +59,9 @@ For more information please check [our university website](https://www.liverpool
 CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
 
 # Fellowships for Post-Doc
-The School of Electrical Engineering, Electronics and Computer Science hosts numerous staff members awarded prestigious personal fellowships and is strongly committed to attracting and retaining more fellows in the future.   
+The School of Computer Science and Informatics hosts numerous staff members awarded prestigious personal fellowships and is strongly committed to attracting and retaining more fellows in the future.   
 
-Please visit this [link](https://www.liverpool.ac.uk/electrical-engineering-electronics-and-computer-science/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
+Please visit this [link](https://www.liverpool.ac.uk/computer-science-and-informatics/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
 
 ## Newton International Fellowships 
 The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and closes in March. Please contact us if you are interested.
