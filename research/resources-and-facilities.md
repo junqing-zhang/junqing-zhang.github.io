@@ -6,6 +6,8 @@ author_profile: true
 toc: true
 ---
 
+Our group has  equipped with advanced testbeds and facilities. We are capable of carrying out a variety of wireless tests and building embedded Internet of Things systems.
+
 {% include toc %}
 
 # Spectrum Analyzer
