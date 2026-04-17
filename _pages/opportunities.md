@@ -28,6 +28,10 @@ If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk
 We are accepting PhD applications all year round. Please contact me with your CV if you are interested.
 
 # Requirement for PhD Admissions
+Please check the academic requirement and English language requirement below. 
+
+Note: MSc degree is not compulsory for pursuing a PhD degree in University of Liverpool. 
+
 ## Academic Background
 * The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. 
 * Relevant experience in one or more of the following will be an advantage: wireless communications and networks, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. 
