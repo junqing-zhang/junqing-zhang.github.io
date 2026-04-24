@@ -60,7 +60,7 @@ This is a quite handy and powerful text editor. It is free and you can download 
 
 
 ## Github Pages
-If you wish to build a personal page that looks professional, I strongly suggest you to use Github Pages. For more information, please refer to another [post](https://junqing-zhang.github.io/posts/2019/05/blog-post-building-a-website/){:target="_blank"}.
+If you wish to build a personal page that looks professional, I strongly suggest you to use Github Pages. For more information, please refer to another [post](https://junqing-zhang.github.io/resources/misc/building-a-website){:target="_blank"}.
 
 
 ## Github Desktop
