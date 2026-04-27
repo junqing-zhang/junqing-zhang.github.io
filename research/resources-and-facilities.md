@@ -27,7 +27,7 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
 * [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"} *2
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/){:target="_blank"} *2
-* [antSDR](https://www.crowdsupply.com/microphase-technology/antsdr-e200){:target="_blank"}*2
+* [antSDR E310](https://antsdr-docs.microphase.cn/en/latest/device_and_usage_manual/ANTSDR_E_Series_Module/ANTSDR_E310_Reference_Manual/AntsdrE310_gnurdio.html){:target="_blank"}
 * [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*4
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*5
 
