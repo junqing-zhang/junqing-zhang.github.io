@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-Junqing Zhang received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. He is a Senior Lecturer (Associate Professor) in the School of Computer Science and Informatics at the University of Liverpool, UK. His research interests span wireless security, physical-layer security, key generation, radio-frequency fingerprint identification, and wireless sensing. He has authored or co-authored more than 100 peer-reviewed publications, including over 60 journal articles.
+Junqing Zhang received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. He is a Reader (Associate Professor) in the School of Computer Science and Informatics at the University of Liverpool, UK. His research interests span wireless security, physical-layer security, key generation, radio-frequency fingerprint identification, and wireless sensing. He has authored or co-authored more than 100 peer-reviewed publications, including over 70 journal articles.
 
 His work focuses on developing innovative and practical physical layer security solutions for next-generation wireless systems, aiming for ultra-low energy consumption alongside strong security guarantees. He also explores novel wireless sensing applications using Wi-Fi and mmWave radars. His research leverages a wide range of Internet of Things technologies, including IEEE 802.11a/g/n/ac/ax, LoRa/LoRaWAN, Bluetooth, and IEEE 802.15.4/ZigBee, with particular emphasis on the physical and MAC layers.
 

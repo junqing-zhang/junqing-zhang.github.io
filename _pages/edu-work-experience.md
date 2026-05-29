@@ -11,8 +11,13 @@ author_profile: true
 
 
 # Work Experience
+## Reader (Associate Professor)
+* June 2026 to present
+* Institution: Trustworthy computing, School of Computer Science and Informatics, University of Liverpool, UK
+
+
 ## Senior Lecturer (Associate Professor)
-* Sept. 2025 to present
+* Sept. 2025 to May 2026
 * Institution: Trustworthy computing, School of Computer Science and Informatics, University of Liverpool, UK
 
 ## Senior Lecturer (Associate Professor)
