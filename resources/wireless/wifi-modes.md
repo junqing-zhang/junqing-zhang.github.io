@@ -78,9 +78,6 @@ Because the device does not join the network, it can often observe traffic from 
 | Captures all nearby frames | No | Limited | Yes |
 | Typical usage | Client devices | Routers and hotspots | Analysis and research |
 
-# Linux iwconfig
-[iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
->Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
 
 
 # Why These Modes Matter for Wi-Fi Research
@@ -91,5 +88,24 @@ Monitor mode, however, provides visibility into the wireless medium itself. It e
 
 Although all three modes use the same underlying physical layer, they differ substantially in their MAC-layer behavior and intended purpose. Together, they form the foundation of how Wi-Fi devices communicate, manage networks, and observe wireless activity.
 
+# Other Wi-Fi Operating Modes
+
+In addition to Station (STA), Access Point (AP), and Monitor Mode, the IEEE 802.11 standard and modern Wi-Fi implementations support several other operating modes for specialized networking scenarios.
+
+Some notable examples include:
+
+- **Ad Hoc (IBSS) Mode** – Allows devices to communicate directly with one another without requiring an Access Point. Each device acts as a peer within the network.
+- **Mesh Mode (802.11s)** – Enables multiple wireless nodes to form a self-organizing and self-healing mesh network, where devices can forward traffic on behalf of other nodes.
+- **Wi-Fi Direct (P2P) Mode** – Facilitates direct communication between devices without the need for a traditional wireless router or Access Point.
+- **Wireless Distribution System (WDS)** – Allows Access Points to connect wirelessly to one another, extending network coverage and enabling wireless bridging.
+- **Repeater or Extender Mode** – Expands the coverage area of an existing Wi-Fi network by receiving and retransmitting wireless traffic.
+
+Many of these modes are implemented using combinations or extensions of the fundamental STA and AP functionalities. For example, a wireless repeater often operates simultaneously as a station connected to an upstream Access Point and as an Access Point serving downstream clients.
+
+While these specialized modes are important for particular deployment scenarios, STA, AP, and Monitor Mode remain the most widely used modes in commercial Wi-Fi devices and wireless networking research.
+
+# Linux iwconfig
+[iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
+>Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
