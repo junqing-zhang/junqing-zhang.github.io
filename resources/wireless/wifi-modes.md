@@ -15,6 +15,10 @@ Wi-Fi devices can operate in several different modes depending on their role in 
 
 {% include toc %}
 
+<br />
+<img align="center" width="1000" src="/resources/wireless/images/wifi/wifi_bss.png" alt="...">
+<br />
+
 # Station (STA) Mode
 
 Station mode is the default operating mode for most Wi-Fi clients such as laptops, smartphones, tablets, and IoT devices. In this mode, a device connects to an existing wireless network by associating with an Access Point.
