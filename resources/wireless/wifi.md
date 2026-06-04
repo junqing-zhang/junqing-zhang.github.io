@@ -48,6 +48,13 @@ IEEE 802.11 OFDM Receiver Design
 * Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
 * Check [OpenOFDM](https://openofdm.readthedocs.io/en/latest/overview.html){:target="_blank"} about the receiver algorithms (FPGA Verilog Design).
 
+
+<br />
+<img align="center" width="1000" src="/resources/wireless/images/wifi/HTMIMOPERDiagram.png" alt="...">
+<br />
+
+
+
 ## MAC Layer
 Visit [this link](/resources/wireless/wifi-modes/){:target="_blank"} for different Wi-Fi modes, including AP, station, and monitor.
 
