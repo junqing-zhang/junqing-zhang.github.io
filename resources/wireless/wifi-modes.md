@@ -29,7 +29,6 @@ Many modern Wi-Fi chipsets can operate as both STA and AP simultaneously, enabli
 # Station (STA) Mode
 
 A station performs several MAC-layer functions, including:
-
 - Scanning for available networks
 - Authenticating with an Access Point
 - Associating with an Access Point
@@ -42,7 +41,6 @@ Once associated, the station can transmit and receive data through the Access Po
 
 
 An Access Point is responsible for:
-
 - Broadcasting beacon frames
 - Advertising network capabilities and security settings
 - Handling authentication and association requests
@@ -57,7 +55,6 @@ From a MAC-layer perspective, the AP serves as the coordinator of an infrastruct
 Monitor mode differs significantly from STA and AP modes. Instead of participating in a wireless network, a device operating in monitor mode passively listens to all wireless traffic on a selected channel.
 
 In monitor mode, the device:
-
 - Does not associate with an Access Point
 - Does not authenticate with any network
 - Captures management, control, and data frames from nearby devices
