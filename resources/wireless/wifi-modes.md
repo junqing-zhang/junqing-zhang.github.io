@@ -61,12 +61,10 @@ In monitor mode, the device:
 - Observes wireless activity without actively participating
 
 Monitor mode is widely used for:
-
 - Network troubleshooting
 - Wireless protocol analysis
 - Security research
 - Spectrum monitoring
-- CSI (Channel State Information) collection
 
 Because the device does not join the network, it can often observe traffic from multiple devices simultaneously, making monitor mode a valuable tool for wireless researchers.
 
@@ -97,7 +95,6 @@ Although all three modes use the same underlying physical layer, they differ sub
 In addition to Station (STA), Access Point (AP), and Monitor Mode, the IEEE 802.11 standard and modern Wi-Fi implementations support several other operating modes for specialized networking scenarios.
 
 Some notable examples include:
-
 - **Ad Hoc (IBSS) Mode** – Allows devices to communicate directly with one another without requiring an Access Point. Each device acts as a peer within the network.
 - **Mesh Mode (802.11s)** – Enables multiple wireless nodes to form a self-organizing and self-healing mesh network, where devices can forward traffic on behalf of other nodes.
 - **Wi-Fi Direct (P2P) Mode** – Facilitates direct communication between devices without the need for a traditional wireless router or Access Point.
