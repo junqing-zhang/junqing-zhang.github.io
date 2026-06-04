@@ -37,7 +37,6 @@ Subsequent generations focused on improving throughput through advanced antenna 
 | 802.11n (HT) | 2009 | 2.4 & 5 GHz | MIMO-OFDM | 4 | 20, 40 | 600 Mbps |
 | 802.11ac (VHT) | 2013 | 5 GHz | MU-MIMO OFDM, Beamforming | 8 | 20, 40, 80, 160 | 6.93 Gbps |
 | 802.11ax (HE / Wi-Fi 6) | 2020 | 2.4 & 5 GHz* | OFDMA, MU-MIMO, Beamforming | 8 | 20, 40, 80, 160 | 9.6 Gbps |
-* 802.11ax was later extended to 6 GHz operation through Wi-Fi 6E.
 
 OFDM Basics
 * [802.11 OFDM Overview](http://rfmw.em.keysight.com/wireless/helpfiles/89600B/WebHelp/Subsystems/wlan-ofdm/content/ofdm_80211-overview.htm){:target="_blank"}
