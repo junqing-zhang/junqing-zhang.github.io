@@ -49,6 +49,8 @@ IEEE 802.11 OFDM Receiver Design
 * Check [OpenOFDM](https://openofdm.readthedocs.io/en/latest/overview.html){:target="_blank"} about the receiver algorithms (FPGA Verilog Design).
 
 ## MAC Layer
+Visit [this link](/resources/wireless/wifi-modes/){:target="_blank"} for different Wi-Fi modes, including AP, station, and monitor.
+
 Wi-Fi use CSMA/CA as the MAC layer protocol.
 
 Frame Types
@@ -157,11 +159,6 @@ Code Examples:
 
 
 
-# Misc Resources
-
-## Wi-Fi Modes
-[iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
->Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
 
 # Reading Materials
 * Book - [Next Generation Wireless LANs: 802.11n and 802.11ac](https://www.amazon.co.uk/Next-Generation-Wireless-LANs-802-11ac/dp/1107016762){:target="_blank"}

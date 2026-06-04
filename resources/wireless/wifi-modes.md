@@ -11,9 +11,6 @@ tags:
 ---
 
 
-
-
-
 Wi-Fi devices can operate in several different modes depending on their role in a wireless network. Among these, the most commonly used modes are **Station (STA)**, **Access Point (AP)**, and **Monitor Mode**. These modes are primarily associated with the IEEE 802.11 MAC layer, as they define how a device interacts with other Wi-Fi devices and processes wireless frames.
 
 {% include toc %}
@@ -65,9 +62,7 @@ Monitor mode is widely used for:
 - Wireless protocol analysis
 - Security research
 - Spectrum monitoring
-- Wi-Fi sensing research
 - CSI (Channel State Information) collection
-- RF fingerprinting experiments
 
 Because the device does not join the network, it can often observe traffic from multiple devices simultaneously, making monitor mode a valuable tool for wireless researchers.
 
@@ -82,6 +77,11 @@ Because the device does not join the network, it can often observe traffic from 
 | Associates with AP | Yes | N/A | No |
 | Captures all nearby frames | No | Limited | Yes |
 | Typical usage | Client devices | Routers and hotspots | Analysis and research |
+
+# Linux iwconfig
+[iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
+>Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
+
 
 # Why These Modes Matter for Wi-Fi Research
 
