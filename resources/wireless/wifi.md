@@ -157,7 +157,7 @@ Code Examples:
 
 
 
-Misc Resources
+# Misc Resources
 
 ## Wi-Fi Modes
 [iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
