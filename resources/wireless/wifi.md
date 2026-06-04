@@ -1,6 +1,6 @@
 ---
 title: 'Resources for Wi-Fi'
-date: 2026-03-27
+date: 2026-06-03
 permalink: /resources/wireless/wifi/
 categories:
   - Resources
@@ -10,7 +10,12 @@ tags:
   - Wi-Fi
 ---
 
-IEEE 802.11 (Wi-Fi) has been used in most of the laptops, smartphones, tablets. The widespread use of Wi-Fi has led to extensive research interests in the area of localization, security, sensing and produced massive successful research outcomes. This paper summarizes some hardware and software resources for Wi-Fi for the research purpose.
+IEEE 802.11, commonly known as Wi-Fi, is one of the most widely deployed wireless technologies in the world and is integrated into virtually all modern laptops, smartphones, and tablets. Its ubiquity, low cost, and accessibility have made Wi-Fi not only a cornerstone of everyday connectivity but also an attractive platform for academic and industrial research.
+
+Over the past decade, the widespread availability of Wi-Fi hardware has driven significant advances in areas such as indoor localization, wireless security, human sensing, channel measurement, and device identification. These research efforts have produced numerous innovative techniques and practical applications, further expanding the capabilities of Wi-Fi beyond traditional data communications.
+
+For researchers and students entering this field, selecting suitable hardware and software platforms can be challenging due to the diverse range of available devices, chipsets, development tools, and open-source frameworks. This article provides an overview of useful Wi-Fi research resources, highlighting key hardware platforms and software tools that can support experimentation, prototyping, and development in wireless networking and sensing research.
+
 
 Strictly speaking, IEEE 802.11 is the standard by IEEE and Wi-Fi is a trademark of the [Wi-Fi alliance](https://www.wi-fi.org/){:target="_blank"}. However, they are used interchangably in this post.
 
