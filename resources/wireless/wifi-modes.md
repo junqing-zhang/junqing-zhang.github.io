@@ -15,13 +15,18 @@ Wi-Fi devices can operate in several different modes depending on their role in 
 
 {% include toc %}
 
+A Wi-Fi network typically operates in an infrastructure Basic Service Set (BSS), which consists of an **Access Point (AP)** and one or more **Stations (STAs)**, as shown in the figure below.
+* Access Point mode allows a Wi-Fi device to create and manage a Wi-Fi network. Wireless routers and enterprise access points typically operate in this mode. 
+* Station mode is the default operating mode for most Wi-Fi clients such as laptops, smartphones, tablets, and IoT devices. In this mode, a device connects to an existing Wi-Fi network by associating with an Access Point.
+
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/wifi/wifi_bss.png" alt="...">
 <br />
 
-# Station (STA) Mode
+Many modern Wi-Fi chipsets can operate as both STA and AP simultaneously, enabling features such as Wi-Fi hotspots and tethering.
 
-Station mode is the default operating mode for most Wi-Fi clients such as laptops, smartphones, tablets, and IoT devices. In this mode, a device connects to an existing wireless network by associating with an Access Point.
+
+# Station (STA) Mode
 
 A station performs several MAC-layer functions, including:
 
@@ -35,7 +40,6 @@ Once associated, the station can transmit and receive data through the Access Po
 
 # Access Point (AP) Mode
 
-Access Point mode allows a Wi-Fi device to create and manage a wireless network. Wireless routers and enterprise access points typically operate in this mode.
 
 An Access Point is responsible for:
 
@@ -47,7 +51,6 @@ An Access Point is responsible for:
 
 From a MAC-layer perspective, the AP serves as the coordinator of an infrastructure Basic Service Set (BSS). It provides the network that stations join and acts as the central communication point for associated clients.
 
-Many modern Wi-Fi chipsets can operate as both STA and AP simultaneously, enabling features such as Wi-Fi hotspots and tethering.
 
 # Monitor Mode
 
