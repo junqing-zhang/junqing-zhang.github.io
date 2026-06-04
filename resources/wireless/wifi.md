@@ -77,12 +77,14 @@ Frame Types
 
 ## Openwifi
 * [openwifi](https://github.com/open-sdr/openwifi){:target="_blank"} is an SDR (Software Defined Radio) implementation for IEEE802.11/Wi-Fi design with Linux mac80211 compatible full-stack.
-* zynq FPGA +  FMCOMMS2/3/4 RF board
+* Supported Hardawre: zynq FPGA +  FMCOMMS2/3/4 RF board
 * For Chinese user, there is a [presentation video ](https://www.zhihu.com/zvideo/1437850059212226561) introducing openwifi by Dr. Jiao.
 
 # Network Interface Cards CSI Extraction
 
-The commercial network interface cards (NICs) only provide received signal strength indicator (RSSI) but not channel state information (CSI). RSSI represents the received power which is averaged over a packet, thus it is a coarse grained parameter. On the other hand, CSI is a fine grained parameter, and offers detailed channel response over different frequencies/subcarriers, when OFDM-based technique is used. 
+Most commercial Wi-Fi Network Interface Cards (NICs) expose only the Received Signal Strength Indicator (RSSI) to users and applications, while Channel State Information (CSI) is typically not accessible through standard device drivers and firmware. RSSI represents the average received signal power over an entire packet and therefore provides only a coarse-grained characterization of the wireless channel.
+
+In contrast, CSI offers a much richer and finer-grained description of the channel. In OFDM-based Wi-Fi systems, CSI captures the complex channel response—including both amplitude and phase information—for individual subcarriers. As a result, CSI reveals how the wireless channel varies across frequency and provides detailed information about multipath propagation, fading, and environmental changes. This fine-grained channel information has enabled a wide range of research applications, including indoor localization, human activity sensing, wireless imaging, and radio frequency fingerprint identification (RFFI), which would be difficult or impossible to achieve using RSSI measurements alone.
 
 There are some CSI extraction tools for the commercial NICs.
 
