@@ -22,10 +22,22 @@ Strictly speaking, IEEE 802.11 is the standard by IEEE and Wi-Fi is a trademark 
 {% include toc %}
 
 # Standard
-IEEE 802.11 standard defines the physcai layer and media access control (MAC) layer protocols. It has undergone a number of amendments in the last twenty years, since its first release in 1997. A complete list of the IEEE 802.11 amendments is summarized at [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.
+The IEEE 802.11 standard defines the Physical (PHY) layer and Medium Access Control (MAC) layer protocols that underpin Wi-Fi communications. Since its initial release in 1997, the standard has evolved through numerous amendments, introducing enhancements in data rates, spectrum utilization, reliability, security, and application support. A comprehensive list of IEEE 802.11 amendments and their key features can be found on [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.
 
 ## PHY Layer
-The main physical layer amendments include 802.11b (1999, DSSS), 802.11a (1999, OFDM, 5 GHz), 802.11g (2003, OFDM, 2.4 GHz), 802.11n (2009, MIMO OFDM, high throughput), 802.11ac (2013, MIMO OFDM, very high throughput), 802.11 ax (2020, high efficiency).
+The evolution of Wi-Fi has been driven largely by a series of PHY-layer amendments aimed at increasing data rates, improving spectral efficiency, and supporting a growing number of users and applications. Key milestones include IEEE 802.11b (1999), which employed Direct Sequence Spread Spectrum (DSSS) in the 2.4 GHz band; IEEE 802.11a (1999), which introduced Orthogonal Frequency Division Multiplexing (OFDM) in the 5 GHz band; and IEEE 802.11g (2003), which brought OFDM to the 2.4 GHz band while maintaining backward compatibility with 802.11b devices.
+
+Subsequent generations focused on improving throughput through advanced antenna technologies. IEEE 802.11n (2009) introduced Multiple-Input Multiple-Output (MIMO) techniques and was marketed as High Throughput (HT) Wi-Fi. IEEE 802.11ac (2013) further enhanced performance with wider channel bandwidths, higher-order modulation schemes, and multi-user MIMO, earning the designation Very High Throughput (VHT). More recently, IEEE 802.11ax (Wi-Fi 6), standardized in 2020, introduced technologies such as Orthogonal Frequency Division Multiple Access (OFDMA), uplink and downlink multi-user MIMO, and improved scheduling mechanisms to deliver High Efficiency (HE) operation, particularly in dense deployment scenarios.
+
+| Protocol Version | Release Year | Radio Band | PHY Technology | Max Spatial Streams | Channel Bandwidth (MHz) | Maximum Data Rate |
+|-----------------|-------------|------------|----------------|---------------------|------------------------|------------------|
+| 802.11b | 1999 | 2.4 GHz | DSSS / CCK | 1 | 20 | 11 Mbps |
+| 802.11a | 1999 | 5 GHz | OFDM | 1 | 20 | 54 Mbps |
+| 802.11g | 2003 | 2.4 GHz | OFDM | 1 | 20 | 54 Mbps |
+| 802.11n (HT) | 2009 | 2.4 & 5 GHz | MIMO-OFDM | 4 | 20, 40 | 600 Mbps |
+| 802.11ac (VHT) | 2013 | 5 GHz | MU-MIMO OFDM, Beamforming | 8 | 20, 40, 80, 160 | 6.93 Gbps |
+| 802.11ax (HE / Wi-Fi 6) | 2020 | 2.4 & 5 GHz* | OFDMA, MU-MIMO, Beamforming | 8 | 20, 40, 80, 160 | 9.6 Gbps |
+
 
 OFDM Basics
 * [802.11 OFDM Overview](http://rfmw.em.keysight.com/wireless/helpfiles/89600B/WebHelp/Subsystems/wlan-ofdm/content/ofdm_80211-overview.htm){:target="_blank"}
