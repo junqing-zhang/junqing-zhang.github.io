@@ -73,6 +73,9 @@ Furthermore, MATLAB provides extensive Software-Defined Radio (SDR) support thro
 
 For these reasons, the MATLAB WLAN Toolbox is an excellent starting point for Wi-Fi research. It enables rapid prototyping, reproducible experimentation, and comprehensive performance evaluation before investing significant effort in implementing and debugging algorithms on commercial Wi-Fi hardware or embedded platforms.
 
+Matlab Examples:
+* [802.11n Packet Error Rate Simulation for 2x2 TGn Channel](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"}: Simulation
+* [Recover and Analyze Packets in 802.11 Waveform](https://uk.mathworks.com/help/wlan/ug/recover-and-analyze-packets-in-802-11-waveform.html){:target="_blank"}: SDR required
 
 # SDR Implementations
 While the MATLAB WLAN Toolbox is an excellent platform for developing and evaluating new Wi-Fi algorithms, it is primarily designed for simulation and prototyping rather than high-performance real-time operation. The interpreted nature of MATLAB and the computational complexity of PHY-layer processing can result in relatively slow execution, particularly for large-scale simulations, long packet captures, or data-intensive applications such as machine learning and wireless sensing. Consequently, the WLAN Toolbox is best suited for validating concepts, testing algorithms, and gaining insights into system behavior before moving to practical implementations.
@@ -161,5 +164,8 @@ Misc Resources
 >Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
 
 # Reading Materials
+* Book - [Next Generation Wireless LANs: 802.11n and 802.11ac](https://www.amazon.co.uk/Next-Generation-Wireless-LANs-802-11ac/dp/1107016762){:target="_blank"}
+* [[802.11] Wi-Fi Basic concepts](https://community.nxp.com/t5/Wi-Fi-Bluetooth-802-15-4/802-11-Wi-Fi-Basic-concepts/ta-p/1124409){:target="_blank"}
+
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
