@@ -63,7 +63,24 @@ Frame Types
 
 [802.11 Wi-Fi Security Concepts](https://community.nxp.com/t5/Wireless-Connectivity-Knowledge/802-11-Wi-Fi-Security-Concepts/ta-p/1163551){:target="_blank"}
 
-# Testbed and Implementations
+
+# Matlab WLAN Toolbox
+The Matlab WLAN Toolbox](https://www.mathworks.com/products/wlan.html){:target="_blank"} is one of the most comprehensive and powerful software platforms available for Wi-Fi research and development. It provides a rich collection of functions, reference implementations, and example projects covering both the Physical (PHY) and Medium Access Control (MAC) layers of IEEE 802.11 standards. Researchers can readily generate and decode Wi-Fi waveforms, model wireless channels, evaluate protocol performance, and prototype new algorithms without the complexity of developing a complete Wi-Fi stack from scratch.
+
+A major advantage of the WLAN Toolbox is its seamless integration with other MATLAB toolboxes, including Signal Processing Toolbox, Communications Toolbox, Deep Learning Toolbox, and Phased Array System Toolbox. This enables rapid development and evaluation of advanced techniques such as channel estimation, localization, wireless sensing, machine learning, and radio frequency fingerprint identification (RFFI).
+
+Furthermore, MATLAB provides extensive Software-Defined Radio (SDR) support through the [Communications Toolbox Support Packages](https://www.mathworks.com/help/comm/supported-hardware-software-defined-radio.html){:target="_blank"}. Researchers can interface MATLAB directly with a variety of SDR platforms, including devices from Analog Devices, Ettus Research (USRP), and PlutoSDR. This allows algorithms developed and validated in simulation to be rapidly transitioned to over-the-air experiments with minimal code modifications. Users can generate Wi-Fi waveforms in MATLAB, transmit and receive them using SDR hardware, and analyze real-world channel effects within the same development environment.
+
+For these reasons, the MATLAB WLAN Toolbox is an excellent starting point for Wi-Fi research. It enables rapid prototyping, reproducible experimentation, and comprehensive performance evaluation before investing significant effort in implementing and debugging algorithms on commercial Wi-Fi hardware or embedded platforms.
+
+
+# SDR Implementations
+While the MATLAB WLAN Toolbox is an excellent platform for developing and evaluating new Wi-Fi algorithms, it is primarily designed for simulation and prototyping rather than high-performance real-time operation. The interpreted nature of MATLAB and the computational complexity of PHY-layer processing can result in relatively slow execution, particularly for large-scale simulations, long packet captures, or data-intensive applications such as machine learning and wireless sensing. Consequently, the WLAN Toolbox is best suited for validating concepts, testing algorithms, and gaining insights into system behavior before moving to practical implementations.
+
+For researchers seeking real-time experimentation and over-the-air operation, several Software-Defined Radio (SDR)-based Wi-Fi implementations are available. These platforms implement the Wi-Fi PHY, and in some cases parts of the MAC layer, on SDR hardware using frameworks such as GNU Radio, FPGA-based processing, or custom software stacks. Examples include PicoScenes, OpenWiFi, gr-ieee802-11, and other SDR-based IEEE 802.11 projects. Compared with MATLAB simulations, SDR implementations enable real-world testing under realistic channel conditions and provide greater flexibility for modifying protocol behavior, collecting raw baseband samples, and evaluating hardware impairments.
+
+A practical research workflow is therefore to first develop and validate algorithms using the MATLAB WLAN Toolbox, where the extensive libraries and debugging tools accelerate innovation, and then migrate promising solutions to an SDR-based platform for real-time experimentation and performance evaluation in operational wireless environments.
+
 
 ## GNU Radio Implementation
 * [https://www.wime-project.net/](https://www.wime-project.net/){:target="_blank"}
@@ -110,8 +127,7 @@ There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A l
 
 
 # Software Tool
-## Matlab WLAN Toolbox
-The [Matlab WLAN Toolbox](https://www.mathworks.com/products/wlan.html){:target="_blank"} is very powerful. There are many useful functions and examples. Both PHY and MAC layers are supported. I strongly suggest to test your idea and algorithms using this Toolbox before you do it with real hardware.
+
 
 ## [Scapy](https://scapy.net/)
 [Scapy official website defines](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy){:target="_blank"}
