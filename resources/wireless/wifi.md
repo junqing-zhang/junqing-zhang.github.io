@@ -52,6 +52,7 @@ IEEE 802.11 OFDM Receiver Design
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/wifi/HTMIMOPERDiagram.png" alt="...">
 <br />
+Source: [https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"} 
 
 
 
