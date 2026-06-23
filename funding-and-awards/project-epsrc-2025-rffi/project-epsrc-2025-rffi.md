@@ -11,7 +11,7 @@ author_profile: true
 * Funder: EPSRC
 * Scheme: [EPSRC US-UK and Germany-UK Collaborative Research Seed Funding in Semiconductor Security ](https://www.ukri.org/opportunity/us-uk-and-germany-uk-collaborative-research-seed-funding-in-semiconductor-security/)
 * Duration: 1 October 2025 to 31 March 2026 (6 months)
-* Amount: £99.8k
+* Amount: £102k
 * Partner: Ruhr-Universität Bochum, Germany
 
 # Introduction
