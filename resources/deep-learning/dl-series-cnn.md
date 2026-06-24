@@ -79,10 +79,7 @@ Example idea:
 * Detect textures
 
 Operation:
-
-```
-Image + Filter → Feature Map
-```
+> Image + Filter → Feature Map
 
 ---
 
