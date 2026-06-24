@@ -107,10 +107,15 @@ class SimpleNN(nn.Module):
 
 # 3.6 Dataset: MNIST
 
-MNIST contains handwritten digits (0–9).
-
+MNIST dataset is probably the most popular for creating the first Deep Learning example. It consists of 70,000 images of handwritten digits from 0-9.
 * Input: 28×28 grayscale image
 * Output: digit label (0–9)
+
+Depending on your preference of the programming languages, there are Python and Matlab examples available.
+* PyTorch: [Basic MNIST Example](https://github.com/pytorch/examples/tree/main/mnist){:target="_blank"}
+* Python: [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5){:target="_blank"}. Pleaes also check [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}. You need to properly install software and configure your environments.
+* Matlab: [Create Simple Deep Learning Network for Classification](https://uk.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html). The Matlab Deep Learning Toolbox needs to be installed before you run the example.
+ 
 
 ---
 
