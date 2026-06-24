@@ -49,15 +49,19 @@ Basic idea:
 
 This loop repeats many times.
 
+Reading materials:
+* [What’s the Difference Between Deep Learning Training and Inference?
+](https://blogs.nvidia.com/blog/difference-deep-learning-training-inference-ai/){:target="_blank"}
+* [The Difference Between Deep Learning Training and Inference](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/The-Difference-Between-Deep-Learning-Training-and-Inference/post/1335634){:target="_blank"}
+
+
 ---
 
 # 2.3 Prediction vs Reality
 
 A model produces a prediction:
 
-```
 prediction ≠ true value
-```
 
 The difference between them is called **error**.
 
@@ -75,13 +79,11 @@ A loss function measures how wrong a model is.
 
 It converts error into a single number.
 
-## Example (Mean Squared Error)
+Example (Mean Squared Error)
+> loss = (prediction - true_value)^2
 
-```
-loss = (prediction - true_value)^2
-```
 
-## Why we need it:
+Why we need it:
 
 * Gives a clear training signal
 * Smaller loss = better model
@@ -90,11 +92,7 @@ loss = (prediction - true_value)^2
 
 # 2.5 Goal of Training
 
-The goal is simple:
-
-```
-minimize loss
-```
+The goal is simple: **minimize loss**.
 
 We want the model to make predictions that reduce this error as much as possible.
 
@@ -148,6 +146,10 @@ The learning rate controls how big each update is.
 
 It is one of the most important hyperparameters.
 
+Reading materials:
+* [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
+
+
 ---
 
 # 2.10 Backpropagation (Conceptual View)
@@ -168,21 +170,11 @@ You don’t need full math yet—just the idea that errors flow backward.
 ---
 
 # 2.11 Epochs, Batches, Iterations
-
-## Epoch
-
-One full pass over the entire dataset
-
-## Batch
-
-A small subset of data used at once
-
-## Iteration
-
-One update step using one batch
+* Epoch: One full pass over the entire dataset
+* Batch: A small subset of data used at once
+* Iteration: One update step using one batch
 
 Example:
-
 * Dataset: 10,000 samples
 * Batch size: 100
 * Iterations per epoch: 100
@@ -217,18 +209,9 @@ Over time, the model learns patterns in data.
 ---
 
 # 2.14 Common Problems in Training
-
-## 1. Overfitting
-
-Model memorizes training data instead of learning patterns
-
-## 2. Underfitting
-
-Model is too simple to learn patterns
-
-## 3. Vanishing gradients
-
-Learning becomes extremely slow in deep networks
+* Overfitting: Model memorizes training data instead of learning patterns
+* Underfitting: Model is too simple to learn patterns
+* Vanishing gradients: Learning becomes extremely slow in deep networks
 
 ---
 
