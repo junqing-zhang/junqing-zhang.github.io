@@ -58,8 +58,7 @@ It is similar to:
 * Multi-dimensional array (ND)
 
 Example:
-
-```
+```python
 import torch
 x = torch.tensor([1.0, 2.0, 3.0])
 print(x)
