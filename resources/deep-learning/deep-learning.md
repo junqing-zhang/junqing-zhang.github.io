@@ -14,6 +14,9 @@ This paper summarizes resources for deep learning for beginners.
 
 Series
 - [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+- [Part Part 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
+
+
 
 Blogs
 * [Deep Learning for Beginners](/resources/deep-learning/dl/)
