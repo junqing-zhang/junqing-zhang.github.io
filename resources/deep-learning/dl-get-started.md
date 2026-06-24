@@ -60,7 +60,9 @@ This section use Keras library as an example to show a simple supervised classif
 
 The MNIST handwritten digits classification problem is adopted to describe a typical deep learning procedure.  
 
-Ref. Links: [Simple MNIST convnet (keras.io)](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"} and [Training a neural network on MNIST with Keras  |  TensorFlow Datasets](https://www.tensorflow.org/datasets/keras_example){:target="_blank"}
+Ref. Links: 
+- [Simple MNIST convnet (keras.io)](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"} 
+- [Training a neural network on MNIST with Keras  |  TensorFlow Datasets](https://www.tensorflow.org/datasets/keras_example){:target="_blank"}
 
 ## 3.1. Load Dataset
 
