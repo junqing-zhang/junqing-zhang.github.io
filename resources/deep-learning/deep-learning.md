@@ -12,8 +12,6 @@ tags:
 
 This paper summarizes resources for deep learning for beginners.
 
-{% include toc %}
-
 Series
 - [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
 
