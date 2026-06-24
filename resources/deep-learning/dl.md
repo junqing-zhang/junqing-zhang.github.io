@@ -17,14 +17,6 @@ This paper summarizes resources for deep learning for beginners.
 
 
 
-# Deep Learning Architectures
-* [Deep learning architectures](https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/){:target="_blank"} (IBM blog, 2017)
-> This article classifies deep learning architectures into supervised and unsupervised learning and introduces several popular deep learning architectures: convolutional neural networks, recurrent neural networks (RNNs), long short-term memory/gated recurrent unit (GRU), self-organizing map (SOM), autoencoders (AE) and restricted Boltzman machine (RBM). It also gives an overview of deep belief networks (DBN) and deep stacking networks (DSNs)
-
-
-* [Illustrated: 10 CNN Architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#e276){:target="_blank"}: LeNet-5, AlexNet, VGG-16, Inception-v1, Inception-v3,  ResNet-50, Xception, Inception-v4, Inception-ResNets, ResNeXt-50
-* [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
-
 # Code Examples
 ## TensorFlow + Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}

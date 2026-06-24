@@ -18,7 +18,8 @@ Series
 - [Module 2 — Training & Learning Process](/resources/deep-learning/dl-series-training-learning/)
 - [Module 3 — Practical Deep Learning with PyTorch](/resources/deep-learning/dl-series-pytorch/)
 - [Module 4 — CNNs and Computer Vision](/resources/deep-learning/dl-series-cnn/)
-- [Module 5 — Sequence Models + Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
+- [Module 5 — Deep Learning Architectures](/resources/deep-learning/dl-series-dl-architecture/)
+- [Module 6 — Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
 
 
 Blogs
