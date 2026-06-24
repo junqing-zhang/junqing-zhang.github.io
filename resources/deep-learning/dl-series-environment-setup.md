@@ -33,24 +33,10 @@ By the end of this setup:
 - A simple tensor operation runs successfully  
 
 
-
-# 0.2 Recommended Setup Choices
-
-You have two valid setup paths:
-
-## Option A (Recommended): Anaconda / Miniconda
-Best for beginners due to easy package management.
-
-## Option B: Python + venv
-Lightweight but requires more manual setup.
-
-This guide focuses on **Option A (recommended)**.
-
-
-
 # 0.3 Install Python Environment
+Using Anaconda / Miniconda. Best for beginners due to easy package management.
 
-## Step 1: Install Miniconda
+Step 1: Install Miniconda
 
 Download:
 https://docs.conda.io/en/latest/miniconda.html
@@ -69,7 +55,7 @@ conda 23.x.x
 
 
 
-## Step 2: Create a New Environment
+Step 2: Create a New Environment
 
 Create environment:
 
@@ -218,32 +204,21 @@ If output appears, setup is successful.
 
 # 0.8 Common Issues & Fixes
 
-## Issue 1: conda not found
-
+Issue 1: conda not found
 * Restart terminal
 * Reinstall Miniconda
 * Ensure PATH is configured
 
-
-
-## Issue 2: torch import error
-
+Issue 2: torch import error
 ```bash
 pip uninstall torch -y
 pip install torch torchvision torchaudio
 ```
-
-
-
-## Issue 3: CUDA not detected
-
+Issue 3: CUDA not detected
 * No NVIDIA GPU OR CPU-only install is used
 * This is fine for beginners
 
-
-
-## Issue 4: Jupyter not launching
-
+Issue 4: Jupyter not launching
 ```bash
 conda install notebook
 ```
