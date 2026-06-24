@@ -120,15 +120,14 @@ Install extensions:
 
 # 0.5 Install PyTorch
 
-## CPU Version (Recommended for most beginners)
+CPU Version (Recommended for most beginners)
 
 ```bash
 pip install torch torchvision torchaudio
 ```
 
 
-
-## GPU Version (NVIDIA users only)
+GPU Version (NVIDIA users only)
 
 Check GPU:
 
@@ -233,21 +232,19 @@ pip install notebook
 
 # 0.9 Optional (Advanced)
 
-## Export environment
+Export environment
 
 ```bash
 conda env export > dl_env.yml
 ```
 
-## Restore environment
+Restore environment
 
 ```bash
 conda env create -f dl_env.yml
 ```
 
-
-
-## Virtual environment alternative
+Virtual environment alternative
 
 ```bash
 python -m venv dl
