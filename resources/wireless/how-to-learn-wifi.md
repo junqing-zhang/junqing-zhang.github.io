@@ -30,7 +30,7 @@ Key learning points:
   <figcaption>Wi-Fi system. Source: <a href="https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html" title="Matlab">Matlab</a></figcaption>
 </figure>
 
-## Transmitter
+## 1.1 Transmitter
 Reading materials:
 * Chapter 4 of Book: [Next Generation Wireless LANs 802.11n and 802.11ac](https://www.cambridge.org/core/books/next-generation-wireless-lans/1C3DF09331104E23D48599AE1D6373D4){:target="_blank"} (Focus on Section 4.1 in the beginning). 
 * Chapter ***Orthogonal frequency division multiplexing (OFDM) PHY specification***
@@ -40,7 +40,7 @@ Reading materials:
 Key learning points:
 * Preamble design including short training symbols and long training symbols
 
-## Channel
+## 1.2 Channel
 Reading materials:
 * Chapters 1-3 of [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}. Understand what is multipath channel. Focus on small-scale fading in the beginning.
 * Matlab has modeled the fading channels, which can be found [here](https://www.mathworks.com/help/comm/ug/fading-channels.html){:target="_blank"}
@@ -51,7 +51,7 @@ Key learning points:
 * Modelling of multipath channel (frequency selectivity vs flat fading)
 * Modelling of Doppler spread (fast vs slow fading)
 
-## Receiver 
+## 1.3 Receiver 
 Reading materials:
 * Paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"}, which explains receiver algorithms design, including time synchronization, frequency offest estimation, channel estimation, etc.
 
@@ -67,7 +67,10 @@ Key learning points:
 ](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"} to understand physical layer algorithms. Setting the  number of transmit antennas to 1 in the example.
 * [Model 802.11a/b/g/j/p-related signal reception functionality](https://uk.mathworks.com/help/wlan/802-11a-b-g-j-p-reception.html){:target="_blank"}: Understand each receiver algorithm
 
-# 3. Experimental Practice
+# 3. WireShark
+Using WireShark to monitor the Wi-Fi tranmissions over the air.
+
+# 4. Experimental Practice
 * Software-defined radio (SDR): if you have SDR platforms (USRP or PlutoSDR), check [Matlab WLAN SDR examples](https://uk.mathworks.com/help/wlan/software-defined-radio.html){:target="_blank"}
 * ESP32: try [ESP32 CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/){:target="_blank"} to get CSI
 
