@@ -1,0 +1,317 @@
+---
+title: 'Part 0 — Environment Setup (Beginner Guide)'
+date: 2026-06-24
+permalink: /resources/deep-learning/dl-series-environment-setup/
+categories:
+  - Resources
+  - Deep Learning  
+tags:
+  - Deep Learning
+---
+
+Deep Learning Tutorial Series  
+- [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+
+This guide helps you set up a working Python environment for deep learning using PyTorch. After completing this module, you will be able to run neural network code locally or in notebook environments.
+
+---
+
+# 0.1 What You Will Achieve
+
+By the end of this setup:
+
+- Python is installed correctly  
+- A clean environment is created  
+- PyTorch is installed and verified  
+- Jupyter Notebook or VS Code is ready  
+- A simple tensor operation runs successfully  
+
+---
+
+# 0.2 Recommended Setup Choices
+
+You have two valid setup paths:
+
+## Option A (Recommended): Anaconda / Miniconda
+Best for beginners due to easy package management.
+
+## Option B: Python + venv
+Lightweight but requires more manual setup.
+
+This guide focuses on **Option A (recommended)**.
+
+---
+
+# 0.3 Install Python Environment
+
+## Step 1: Install Miniconda
+
+Download:
+https://docs.conda.io/en/latest/miniconda.html
+
+Verify installation:
+
+```bash
+conda --version
+````
+
+Expected output:
+
+```
+conda 23.x.x
+```
+
+---
+
+## Step 2: Create a New Environment
+
+Create environment:
+
+```bash
+conda create -n dl python=3.10 -y
+```
+
+Activate it:
+
+```bash
+conda activate dl
+```
+
+Check Python version:
+
+```bash
+python --version
+```
+
+Expected:
+
+```
+Python 3.10.x
+```
+
+---
+
+# 0.4 Install Core Tools
+
+## Install Jupyter Notebook
+
+```bash
+conda install jupyter -y
+```
+
+Start notebook:
+
+```bash
+jupyter notebook
+```
+
+OR install JupyterLab (recommended):
+
+```bash
+conda install jupyterlab -y
+jupyter lab
+```
+
+---
+
+## Install VS Code (Recommended)
+
+Download:
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Install extensions:
+
+* Python (Microsoft)
+* Jupyter
+
+---
+
+# 0.5 Install PyTorch
+
+## CPU Version (Recommended for most beginners)
+
+```bash
+pip install torch torchvision torchaudio
+```
+
+---
+
+## GPU Version (NVIDIA users only)
+
+Check GPU:
+
+```bash
+nvidia-smi
+```
+
+Install PyTorch (example CUDA 12.1):
+
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
+
+Official selector:
+[https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+
+---
+
+# 0.6 Verify Installation
+
+Open Python:
+
+```bash
+python
+```
+
+Run:
+
+```python
+import torch
+
+print("PyTorch version:", torch.__version__)
+print("CUDA available:", torch.cuda.is_available())
+
+x = torch.tensor([1.0, 2.0, 3.0])
+print("Tensor:", x)
+print("Sum:", x.sum())
+```
+
+Expected output:
+
+```
+PyTorch version: x.x.x
+CUDA available: False (or True)
+Tensor: tensor([1., 2., 3.])
+Sum: tensor(6.)
+```
+
+---
+
+# 0.7 First Jupyter Notebook Test
+
+Start notebook:
+
+```bash
+jupyter notebook
+```
+
+Run in a cell:
+
+```python
+import torch
+
+a = torch.randn(2, 3)
+b = torch.randn(2, 3)
+
+print(a + b)
+```
+
+If output appears, setup is successful.
+
+---
+
+# 0.8 Common Issues & Fixes
+
+## Issue 1: conda not found
+
+* Restart terminal
+* Reinstall Miniconda
+* Ensure PATH is configured
+
+---
+
+## Issue 2: torch import error
+
+```bash
+pip uninstall torch -y
+pip install torch torchvision torchaudio
+```
+
+---
+
+## Issue 3: CUDA not detected
+
+* No NVIDIA GPU OR CPU-only install is used
+* This is fine for beginners
+
+---
+
+## Issue 4: Jupyter not launching
+
+```bash
+conda install notebook
+```
+
+or
+
+```bash
+pip install notebook
+```
+
+---
+
+# 0.9 Optional (Advanced)
+
+## Export environment
+
+```bash
+conda env export > dl_env.yml
+```
+
+## Restore environment
+
+```bash
+conda env create -f dl_env.yml
+```
+
+---
+
+## Virtual environment alternative
+
+```bash
+python -m venv dl
+```
+
+Activate:
+
+**Windows**
+
+```bash
+dl\Scripts\activate
+```
+
+**Linux/Mac**
+
+```bash
+source dl/bin/activate
+```
+
+Install dependencies:
+
+```bash
+pip install torch torchvision torchaudio jupyter
+```
+
+---
+
+# 0.10 Final Checklist
+
+Before moving on, ensure:
+
+* [ ] Environment activates successfully
+* [ ] Python runs
+* [ ] PyTorch imports correctly
+* [ ] Tensor operations work
+* [ ] Jupyter launches
+* [ ] No installation errors
+
+---
+
+# Next Step
+
+Proceed to:
+
+## Module 1 — Machine Learning & Neural Network Basics
+
+```
+```

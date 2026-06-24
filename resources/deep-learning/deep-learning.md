@@ -14,9 +14,14 @@ This paper summarizes resources for deep learning for beginners.
 
 {% include toc %}
 
+Series
+- [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+
+Blogs
 * [Deep Learning for Beginners](/resources/deep-learning/dl/)
 * [Machine Learning for Beginners](/resources/deep-learning//ml/)
 * [Reinforcement Learning](/resources/deep-learning/rl/)
 * [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/)
 * [Deep Learning Blogs](/resources/deep-learning/dl-blogs/)
+
 
