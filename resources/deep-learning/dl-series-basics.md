@@ -2,7 +2,6 @@
 title: 'Module 1 — Machine Learning & Neural Network Basics'
 date: 2026-06-24
 permalink: /resources/deep-learning/dl-series-basics/
-toc_levels: 2
 categories:
   - Resources
   - Deep Learning  
