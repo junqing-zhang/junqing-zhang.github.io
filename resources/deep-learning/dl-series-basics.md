@@ -2,6 +2,7 @@
 title: 'Module 1 — Machine Learning & Neural Network Basics'
 date: 2026-06-24
 permalink: /resources/deep-learning/dl-series-basics/
+toc_levels: 1
 categories:
   - Resources
   - Deep Learning  
@@ -18,6 +19,8 @@ Deep Learning Tutorial Series
 - [Module 5 — Sequence Models + Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
 
 This module introduces the core ideas behind machine learning and neural networks. The focus is on intuition rather than mathematics or code.
+
+{% include toc %}
 
 ---
 
