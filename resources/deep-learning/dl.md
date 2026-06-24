@@ -28,8 +28,6 @@ This paper summarizes resources for deep learning for beginners.
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html){:target="_blank"}
 
 
-## Pytorch
-* [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html){:target="_blank"}
 
 ## Matlab 
 * [Matlab, Training a Model from Scratch](https://www.mathworks.com/solutions/deep-learning/examples/training-a-model-from-scratch.html){:target="_blank"}

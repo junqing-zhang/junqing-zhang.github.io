@@ -238,6 +238,7 @@ Observe how accuracy changes.
 
 # Resources:
 * Check a full example [MNIST handwritten digit classification with MLPs](https://github.com/CSCfi/machine-learning-scripts/blob/master/notebooks/pytorch-mnist-mlp.ipynb){:target="_blank"}
+* [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html){:target="_blank"}
 
 
 # Acknowledgement
