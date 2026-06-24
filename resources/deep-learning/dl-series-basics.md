@@ -13,15 +13,11 @@ Deep Learning Tutorial Series
 - [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
 
 
-# Deep Learning Tutorial Series
-
-## Module 1 — Machine Learning & Neural Network Basics
-
 This module introduces the core ideas behind machine learning and neural networks. The focus is on intuition rather than mathematics or code.
 
 ---
 
-## 1.1 Learning Goals
+# 1.1 Learning Goals
 
 By the end of this module, you should understand:
 
@@ -34,17 +30,17 @@ By the end of this module, you should understand:
 
 ---
 
-## 1.2 What is Machine Learning?
+# 1.2 What is Machine Learning?
 
 Machine learning is a way for computers to learn patterns from data instead of being explicitly programmed with rules.
 
-### Traditional programming
+## Traditional programming
 
 ```
 Rules + Data → Output
 ```
 
-### Machine learning
+## Machine learning
 
 ```
 Data + Output → Learn Rules (Model)
@@ -54,9 +50,9 @@ In ML, the system learns a function that maps inputs to outputs.
 
 ---
 
-## 1.3 Types of Machine Learning
+# 1.3 Types of Machine Learning
 
-### 1) Supervised Learning
+## 1) Supervised Learning
 
 * Data includes inputs and correct answers (labels)
 * Example:
@@ -68,7 +64,7 @@ Goal: learn mapping from input to output
 
 ---
 
-### 2) Unsupervised Learning
+## 2) Unsupervised Learning
 
 * Data has no labels
 * Example:
@@ -80,14 +76,14 @@ Goal: discover hidden structure in data
 
 ---
 
-### 3) Reinforcement Learning (overview only)
+## 3) Reinforcement Learning (overview only)
 
 * Learning through rewards and feedback
 * Example: game agents learning to play
 
 ---
 
-## 1.4 What is a Model?
+# 1.4 What is a Model?
 
 A model is a function that learns from data:
 
@@ -105,7 +101,7 @@ Training means learning the best function f.
 
 ---
 
-## 1.5 What is a Neural Network?
+# 1.5 What is a Neural Network?
 
 A neural network is a model made of layers of simple computational units called neurons.
 
@@ -119,7 +115,7 @@ Each layer transforms the data step by step.
 
 ---
 
-## 1.6 The Neuron (Core Idea)
+# 1.6 The Neuron (Core Idea)
 
 A neuron performs:
 
@@ -138,11 +134,11 @@ The neuron learns which inputs matter most.
 
 ---
 
-## 1.7 Activation Functions
+# 1.7 Activation Functions
 
 Without activation functions, a neural network would only be a linear model.
 
-### ReLU
+## ReLU
 
 ```
 f(x) = max(0, x)
@@ -151,19 +147,19 @@ f(x) = max(0, x)
 * Most commonly used
 * Simple and effective
 
-### Sigmoid
+## Sigmoid
 
 * Outputs between 0 and 1
 * Often used for binary classification
 
-### Tanh
+## Tanh
 
 * Outputs between -1 and 1
 * Less commonly used in modern deep learning
 
 ---
 
-## 1.8 Forward Pass (Prediction Process)
+# 1.8 Forward Pass (Prediction Process)
 
 A forward pass is how a neural network makes predictions:
 
@@ -179,7 +175,7 @@ Steps:
 
 ---
 
-## 1.9 Simple Example
+# 1.9 Simple Example
 
 Predicting house price:
 
@@ -197,7 +193,7 @@ The model learns how each feature affects the final price.
 
 ---
 
-## 1.10 What Does “Learning” Mean?
+# 1.10 What Does “Learning” Mean?
 
 Learning means improving predictions by adjusting weights.
 
@@ -212,7 +208,7 @@ High-level process:
 
 ---
 
-## 1.11 Key Terms Summary
+# 1.11 Key Terms Summary
 
 | Term       | Meaning                            |
 | ---------- | ---------------------------------- |
@@ -224,7 +220,7 @@ High-level process:
 
 ---
 
-## 1.12 Quick Check (No Coding)
+# 1.12 Quick Check (No Coding)
 
 Think about:
 
