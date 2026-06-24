@@ -26,7 +26,6 @@ This module introduces hands-on deep learning using PyTorch. You will build and 
 # 3.1 Learning Goals
 
 By the end of this module, you should be able to:
-
 * Understand PyTorch tensors
 * Build a simple neural network (MLP)
 * Write a training loop from scratch
