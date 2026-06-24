@@ -1,5 +1,5 @@
 ---
-title: 'Part 0 — Environment Setup (Beginner Guide)'
+title: 'Module 0 — Environment Setup (Beginner Guide)'
 date: 2026-06-24
 permalink: /resources/deep-learning/dl-series-environment-setup/
 categories:
@@ -10,7 +10,12 @@ tags:
 ---
 
 Deep Learning Tutorial Series  
-- [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+- [Module 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+- [Module 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
+- [Module 2 — Training & Learning Process](/resources/deep-learning/dl-series-training-learning/)
+- [Module 3 — Practical Deep Learning with PyTorch](/resources/deep-learning/dl-series-pytorch/)
+- [Module 4 — CNNs and Computer Vision](/resources/deep-learning/dl-series-cnn/)
+- [Module 5 — Sequence Models + Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
 
 This guide helps you set up a working Python environment for deep learning using PyTorch. After completing this module, you will be able to run neural network code locally or in notebook environments.
 

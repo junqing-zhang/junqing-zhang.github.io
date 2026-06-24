@@ -1,5 +1,5 @@
 ---
-title: 'Part 1 — Machine Learning & Neural Network Basics'
+title: 'Module 1 — Machine Learning & Neural Network Basics'
 date: 2026-06-24
 permalink: /resources/deep-learning/dl-series-basics/
 categories:
@@ -10,8 +10,12 @@ tags:
 ---
 
 Deep Learning Tutorial Series  
-- [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
-
+- [Module 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+- [Module 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
+- [Module 2 — Training & Learning Process](/resources/deep-learning/dl-series-training-learning/)
+- [Module 3 — Practical Deep Learning with PyTorch](/resources/deep-learning/dl-series-pytorch/)
+- [Module 4 — CNNs and Computer Vision](/resources/deep-learning/dl-series-cnn/)
+- [Module 5 — Sequence Models + Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
 
 This module introduces the core ideas behind machine learning and neural networks. The focus is on intuition rather than mathematics or code.
 

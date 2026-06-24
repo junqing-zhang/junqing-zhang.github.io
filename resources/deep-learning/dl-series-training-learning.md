@@ -10,8 +10,12 @@ tags:
 ---
 
 Deep Learning Tutorial Series  
-- [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
-
+- [Module 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+- [Module 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
+- [Module 2 — Training & Learning Process](/resources/deep-learning/dl-series-training-learning/)
+- [Module 3 — Practical Deep Learning with PyTorch](/resources/deep-learning/dl-series-pytorch/)
+- [Module 4 — CNNs and Computer Vision](/resources/deep-learning/dl-series-cnn/)
+- [Module 5 — Sequence Models + Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
 
 This module explains how neural networks actually learn from data. The focus is on intuition: how predictions become better over time through feedback.
 
