@@ -68,7 +68,7 @@ Reading materials:
 
 ---
 
-# 4.4 Convolution Operation (Intuition)
+## Convolution Operation (Intuition)
 
 A filter (kernel) slides over an image and extracts features.
 
@@ -83,7 +83,7 @@ Operation:
 
 ---
 
-# 4.5 Filters (Kernels)
+## Filters (Kernels)
 
 A filter is a small matrix (e.g., 3×3) used to scan an image.
 
@@ -97,7 +97,7 @@ Filters are learned automatically during training.
 
 ---
 
-# 4.6 Feature Maps
+## Feature Maps
 
 A feature map is the output of applying a filter.
 
@@ -108,7 +108,7 @@ Each convolution layer produces multiple feature maps.
 
 ---
 
-# 4.7 Stride and Padding
+## Stride and Padding
 Stride: How far the filter moves each step.
 * Stride = 1 → detailed scan
 * Stride = 2 → faster, smaller output
@@ -120,7 +120,7 @@ Padding: Adds borders to preserve image size.
 
 ---
 
-# 4.8 Pooling Layers
+## Pooling Layers
 
 Pooling reduces spatial size while keeping important information.
 
@@ -140,7 +140,7 @@ Benefits:
 
 ---
 
-# 4.9 CNN Architecture Overview
+## CNN Architecture Overview
 
 A typical CNN looks like:
 
@@ -162,7 +162,7 @@ Output
 
 ---
 
-# 4.10 Building a CNN in PyTorch
+# 4.4 Building a CNN in PyTorch
 
 ```python
 import torch
@@ -195,16 +195,14 @@ class SimpleCNN(nn.Module):
 
 ---
 
-# 4.11 Dataset: CIFAR-10 
+
+## Loading Dataset
 
 CIFAR-10 contains real-world images:
 * 10 classes
 * 32×32 RGB images
 * Examples: airplane, cat, dog, car
 
----
-
-# 4.12 Loading CIFAR-10 Dataset
 
 ```python
 import torchvision
@@ -230,7 +228,7 @@ train_loader = torch.utils.data.DataLoader(
 
 ---
 
-# 4.13 Training Setup
+## Training Setup
 
 ```python
 import torch.optim as optim
@@ -243,7 +241,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 ---
 
-# 4.14 Training Loop
+## Training Loop
 
 ```python
 for epoch in range(5):
@@ -265,7 +263,7 @@ for epoch in range(5):
 
 ---
 
-# 4.15 Model Evaluation
+## Model Evaluation
 
 ```python
 correct = 0
@@ -284,7 +282,7 @@ print("Accuracy:", correct / total)
 
 ---
 
-# 4.16 What CNNs Learn (Intuition)
+## What CNNs Learn (Intuition)
 
 CNN layers learn hierarchical features:
 
@@ -301,7 +299,7 @@ Deep layers
 
 ---
 
-# 4.17 Common Issues
+# 4.5 Common Issues
 * Incorrect input shape (channel mismatch)
 * Forgetting normalization
 * Overfitting on small datasets
@@ -309,7 +307,7 @@ Deep layers
 
 ---
 
-# 4.18 Key Takeaways
+# 4.6 Key Takeaways
 
 * CNNs are designed for images
 * Convolution extracts local features
