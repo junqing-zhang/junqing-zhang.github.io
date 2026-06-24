@@ -86,8 +86,6 @@ At each step:
 
 ---
 
-# 5.5 Limitation of RNNs
-
 RNN problems:
 
 * Forget long-term information
@@ -122,7 +120,7 @@ Result:
 
 ---
 
-# 5.7 Intuition: Why LSTM Works
+## Intuition: Why LSTM Works
 
 Think of memory like a notebook:
 
@@ -133,7 +131,7 @@ This helps retain important long-term context.
 
 ---
 
-# 5.8 Attention Mechanism (Core Idea)
+## Attention Mechanism (Core Idea)
 
 Attention allows a model to focus on important parts of input.
 
@@ -152,10 +150,8 @@ Example (sentence):
 
 Attention helps connect “cat” with “was sleeping”.
 
----
 
-# 5.9 Why Attention is Powerful
-
+Why Attention is Powerful
 * Handles long-range dependencies well
 * Parallel computation (faster than RNNs)
 * Better interpretability
@@ -175,7 +171,7 @@ Core components:
 
 ---
 
-# 5.11 Self-Attention (Intuition)
+## Self-Attention (Intuition)
 
 Each token (word) looks at all other tokens and decides:
 
@@ -192,7 +188,7 @@ Attention helps determine what “it” refers to.
 
 ---
 
-# 5.12 Why Transformers Replaced RNNs
+## Why Transformers Replaced RNNs
 
 Transformers are preferred because:
 
@@ -203,7 +199,19 @@ Transformers are preferred because:
 
 ---
 
-# 5.13 Pretrained Models
+
+
+# 5.15 Modern Deep Learning Pipeline
+
+Typical workflow today:
+
+1. Choose pretrained model
+2. Replace final layer
+3. Fine-tune on your dataset
+4. Evaluate and deploy
+
+
+## Pretrained Models
 
 Modern deep learning rarely trains from scratch.
 
@@ -217,7 +225,7 @@ Examples:
 
 ---
 
-# 5.14 Transfer Learning
+## Transfer Learning
 
 Transfer learning means:
 
@@ -235,16 +243,6 @@ Example:
 * Use ImageNet CNN → classify medical images
 
 ---
-
-# 5.15 Modern Deep Learning Pipeline
-
-Typical workflow today:
-
-1. Choose pretrained model
-2. Replace final layer
-3. Fine-tune on your dataset
-4. Evaluate and deploy
-
 ---
 
 # 5.16 Where Each Model is Used
