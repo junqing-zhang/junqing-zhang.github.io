@@ -1,6 +1,6 @@
 ---
 title: 'Deep Learning Tutorial for Beginners, Get Started'
-date: 2023-06-11
+date: 2026-06-24
 permalink: /resources/deep-learning/dl-get-started/
 categories:
   - Resources
@@ -51,7 +51,7 @@ PyCharm and VS Code are highly recommended IDEs for Python. MATLAB-familiar user
 ## 2.2. MATLAB
 
 The MATLAB Deep Learning Toolbox provides a framework for designing and implementing neural networks. The author's personal feeling is that MATLAB's deep learning APIs are closer to Keras and are beginner friendly as well. MATLAB provides detailed official documentation and examples to get users familiar with deep learning faster.
-- Example: [Create Simple Image Classification Network - MATLAB & Simulink (mathworks.com)](https://www.mathworks.com/help/deeplearning/gs/create-simple-deep-learning-classification-network.html){:target="_blank"}
+- Example: [Create Simple Image Classification Network - MATLAB & Simulink](https://www.mathworks.com/help/deeplearning/gs/create-simple-deep-learning-classification-network.html){:target="_blank"}
 
 As MATLAB requires a paid license, the public resources for MATLAB are limited compared to Python-based deep learning framework. Researchers who rely heavily on other MATLAB toolboxes, such as wireless researchers, may prefer the MATLAB Deep Learning Toolbox.
 
