@@ -120,31 +120,9 @@ Install extensions:
 
 # 0.5 Install PyTorch
 
-CPU Version (Recommended for most beginners)
+Official selector: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 
-```bash
-pip install torch torchvision torchaudio
-```
-
-
-GPU Version (NVIDIA users only)
-
-Check GPU:
-
-```bash
-nvidia-smi
-```
-
-Install PyTorch (example CUDA 12.1):
-
-```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-```
-
-Official selector:
-[https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
-
-
+select the right installation according to your OS, and compute platform.
 
 # 0.6 Verify Installation
 
