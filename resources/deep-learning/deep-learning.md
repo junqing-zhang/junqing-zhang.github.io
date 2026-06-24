@@ -24,7 +24,6 @@ Series
 Blogs
 * [Deep Learning for Beginners](/resources/deep-learning/dl/)
 * [Machine Learning for Beginners](/resources/deep-learning//ml/)
-* [Reinforcement Learning](/resources/deep-learning/rl/)
 * [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/)
 * [Deep Learning Blogs](/resources/deep-learning/dl-blogs/)
 

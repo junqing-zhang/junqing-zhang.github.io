@@ -2,9 +2,6 @@
 title: 'Module 1 — Machine Learning & Neural Network Basics'
 date: 2026-06-24
 permalink: /resources/deep-learning/dl-series-basics/
-toc:
-  min_level: 1
-  max_level: 1
 categories:
   - Resources
   - Deep Learning  
@@ -89,6 +86,7 @@ Goal: discover hidden structure in data
 
 * Learning through rewards and feedback
 * Example: game agents learning to play
+* Check [Reinforcement Learning with MATLAB and Simulink](https://uk.mathworks.com/campaigns/offers/reinforcement-learning-with-matlab-ebook.html){:target="_blank"}
 
 ---
 
