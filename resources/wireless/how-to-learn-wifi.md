@@ -67,12 +67,13 @@ Key learning points:
 ](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"} to understand physical layer algorithms. Setting the  number of transmit antennas to 1 in the example.
 * [Model 802.11a/b/g/j/p-related signal reception functionality](https://uk.mathworks.com/help/wlan/802-11a-b-g-j-p-reception.html){:target="_blank"}: Understand each receiver algorithm
 
-# 3. WireShark
-Using WireShark to monitor the Wi-Fi tranmissions over the air.
-
-# 4. Experimental Practice
+# 3. Experimental Practice
 * Software-defined radio (SDR): if you have SDR platforms (USRP or PlutoSDR), check [Matlab WLAN SDR examples](https://uk.mathworks.com/help/wlan/software-defined-radio.html){:target="_blank"}
 * ESP32: try [ESP32 CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/){:target="_blank"} to get CSI
+
+# 4. WireShark
+Using WireShark to monitor the Wi-Fi tranmissions over the air.
+
 
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
