@@ -62,7 +62,7 @@ The MNIST handwritten digits classification problem is adopted to describe a typ
 
 Ref. Links: 
 - [Simple MNIST convnet (keras.io)](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"} 
-- [Training a neural network on MNIST with Keras  |  TensorFlow Datasets](https://www.tensorflow.org/datasets/keras_example){:target="_blank"}
+- [Training a neural network on MNIST with Keras](https://www.tensorflow.org/datasets/keras_example){:target="_blank"}
 
 ## 3.1. Load Dataset
 
