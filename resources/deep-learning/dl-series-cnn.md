@@ -79,7 +79,7 @@ Example idea:
 * Detect textures
 
 Operation:
-> Image + Filter produce Feature Map
+> Image + Filter →  Feature Map
 
 ---
 
@@ -109,17 +109,11 @@ Each convolution layer produces multiple feature maps.
 ---
 
 # 4.7 Stride and Padding
-
-## Stride
-
-How far the filter moves each step.
-
+Stride: How far the filter moves each step.
 * Stride = 1 → detailed scan
 * Stride = 2 → faster, smaller output
 
-## Padding
-
-Adds borders to preserve image size.
+Padding: Adds borders to preserve image size.
 
 * “Same” padding keeps dimensions
 * “Valid” reduces dimensions
@@ -130,9 +124,7 @@ Adds borders to preserve image size.
 
 Pooling reduces spatial size while keeping important information.
 
-## Max Pooling
-
-Keeps strongest activation in a region.
+Max Pooling: Keeps strongest activation in a region.
 
 Example:
 
@@ -142,7 +134,6 @@ Example:
 ```
 
 Benefits:
-
 * Reduces computation
 * Improves robustness
 * Prevents overfitting
@@ -173,7 +164,7 @@ Output
 
 # 4.10 Building a CNN in PyTorch
 
-```python id="cnn_model"
+```python
 import torch
 import torch.nn as nn
 
@@ -204,10 +195,9 @@ class SimpleCNN(nn.Module):
 
 ---
 
-# 4.11 Dataset: CIFAR-10 (Recommended)
+# 4.11 Dataset: CIFAR-10 
 
 CIFAR-10 contains real-world images:
-
 * 10 classes
 * 32×32 RGB images
 * Examples: airplane, cat, dog, car
@@ -216,7 +206,7 @@ CIFAR-10 contains real-world images:
 
 # 4.12 Loading CIFAR-10 Dataset
 
-```python id="cifar_load"
+```python
 import torchvision
 import torchvision.transforms as transforms
 
@@ -242,7 +232,7 @@ train_loader = torch.utils.data.DataLoader(
 
 # 4.13 Training Setup
 
-```python id="cnn_train_setup"
+```python
 import torch.optim as optim
 
 model = SimpleCNN()
@@ -255,7 +245,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # 4.14 Training Loop
 
-```python id="cnn_train_loop"
+```python
 for epoch in range(5):
     total_loss = 0
 
@@ -277,7 +267,7 @@ for epoch in range(5):
 
 # 4.15 Model Evaluation
 
-```python id="cnn_eval"
+```python
 correct = 0
 total = 0
 
@@ -298,24 +288,20 @@ print("Accuracy:", correct / total)
 
 CNN layers learn hierarchical features:
 
-## Early layers:
-
+Early layers:
 * Edges
 * Lines
 
-## Middle layers:
-
+Middle layers:
 * Shapes
 * Patterns
 
-## Deep layers:
-
+Deep layers
 * Objects (cat, car, etc.)
 
 ---
 
 # 4.17 Common Issues
-
 * Incorrect input shape (channel mismatch)
 * Forgetting normalization
 * Overfitting on small datasets
