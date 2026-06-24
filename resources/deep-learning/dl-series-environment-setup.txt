@@ -14,7 +14,7 @@ Deep Learning Tutorial Series
 
 This guide helps you set up a working Python environment for deep learning using PyTorch. After completing this module, you will be able to run neural network code locally or in notebook environments.
 
----
+
 
 # 0.1 What You Will Achieve
 
@@ -26,7 +26,7 @@ By the end of this setup:
 - Jupyter Notebook or VS Code is ready  
 - A simple tensor operation runs successfully  
 
----
+
 
 # 0.2 Recommended Setup Choices
 
@@ -40,7 +40,7 @@ Lightweight but requires more manual setup.
 
 This guide focuses on **Option A (recommended)**.
 
----
+
 
 # 0.3 Install Python Environment
 
@@ -61,7 +61,7 @@ Expected output:
 conda 23.x.x
 ```
 
----
+
 
 ## Step 2: Create a New Environment
 
@@ -89,7 +89,7 @@ Expected:
 Python 3.10.x
 ```
 
----
+
 
 # 0.4 Install Core Tools
 
@@ -112,7 +112,7 @@ conda install jupyterlab -y
 jupyter lab
 ```
 
----
+
 
 ## Install VS Code (Recommended)
 
@@ -124,7 +124,7 @@ Install extensions:
 * Python (Microsoft)
 * Jupyter
 
----
+
 
 # 0.5 Install PyTorch
 
@@ -134,7 +134,7 @@ Install extensions:
 pip install torch torchvision torchaudio
 ```
 
----
+
 
 ## GPU Version (NVIDIA users only)
 
@@ -153,7 +153,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 Official selector:
 [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 
----
+
 
 # 0.6 Verify Installation
 
@@ -185,7 +185,7 @@ Tensor: tensor([1., 2., 3.])
 Sum: tensor(6.)
 ```
 
----
+
 
 # 0.7 First Jupyter Notebook Test
 
@@ -208,7 +208,7 @@ print(a + b)
 
 If output appears, setup is successful.
 
----
+
 
 # 0.8 Common Issues & Fixes
 
@@ -218,7 +218,7 @@ If output appears, setup is successful.
 * Reinstall Miniconda
 * Ensure PATH is configured
 
----
+
 
 ## Issue 2: torch import error
 
@@ -227,14 +227,14 @@ pip uninstall torch -y
 pip install torch torchvision torchaudio
 ```
 
----
+
 
 ## Issue 3: CUDA not detected
 
 * No NVIDIA GPU OR CPU-only install is used
 * This is fine for beginners
 
----
+
 
 ## Issue 4: Jupyter not launching
 
@@ -248,7 +248,7 @@ or
 pip install notebook
 ```
 
----
+
 
 # 0.9 Optional (Advanced)
 
@@ -264,7 +264,7 @@ conda env export > dl_env.yml
 conda env create -f dl_env.yml
 ```
 
----
+
 
 ## Virtual environment alternative
 
@@ -292,7 +292,7 @@ Install dependencies:
 pip install torch torchvision torchaudio jupyter
 ```
 
----
+
 
 # 0.10 Final Checklist
 
@@ -305,7 +305,7 @@ Before moving on, ensure:
 * [ ] Jupyter launches
 * [ ] No installation errors
 
----
+
 
 # Next Step
 
