@@ -13,9 +13,12 @@ tags:
 This paper summarizes resources for deep learning for beginners.
 
 Series
-- [Part 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
-- [Part Part 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
-
+- [Module 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
+- [Module 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
+- [Module 2 — Training & Learning Process](/resources/deep-learning/dl-series-training-learning/)
+- [Module 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
+- [Module 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
+- [Module 1 — Machine Learning & Neural Network Basics](/resources/deep-learning/dl-series-basics/)
 
 
 Blogs
