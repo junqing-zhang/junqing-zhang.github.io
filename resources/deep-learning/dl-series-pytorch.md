@@ -58,11 +58,10 @@ It is similar to:
 * Matrix (2D)
 * Multi-dimensional array (ND)
 
-## Example:
+Example:
 
-```python id="t3q1a9"
+```
 import torch
-
 x = torch.tensor([1.0, 2.0, 3.0])
 print(x)
 ```
@@ -71,7 +70,7 @@ print(x)
 
 # 3.4 Simple Tensor Operations
 
-```python id="m1x9kd"
+```
 a = torch.tensor([2.0, 3.0])
 b = torch.tensor([4.0, 5.0])
 
@@ -85,7 +84,7 @@ print(a * b)
 
 We use a basic feedforward network (MLP).
 
-```python id="nn_model"
+```
 import torch
 import torch.nn as nn
 
@@ -117,7 +116,7 @@ MNIST contains handwritten digits (0–9).
 
 # 3.7 Loading Dataset
 
-```python id="data_load"
+```
 import torchvision
 import torchvision.transforms as transforms
 
@@ -141,7 +140,7 @@ train_loader = torch.utils.data.DataLoader(
 
 # 3.8 Loss Function and Optimizer
 
-```python id="loss_opt"
+```
 import torch.optim as optim
 
 model = SimpleNN()
@@ -154,7 +153,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # 3.9 Training Loop (Core Part)
 
-```python id="train_loop"
+```
 for epoch in range(2):
     total_loss = 0
 
@@ -176,7 +175,7 @@ for epoch in range(2):
 
 # 3.10 Model Evaluation
 
-```python id="eval"
+```
 correct = 0
 total = 0
 
