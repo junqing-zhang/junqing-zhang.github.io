@@ -308,10 +308,3 @@ Before moving on, ensure:
 
 
 # Next Step
-
-Proceed to:
-
-## Module 1 — Machine Learning & Neural Network Basics
-
-```
-```
