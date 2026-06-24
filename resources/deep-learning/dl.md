@@ -17,6 +17,7 @@ This paper summarizes resources for deep learning for beginners.
 # Basic Knowledge
 * [What’s the Difference Between Deep Learning Training and Inference?
 ](https://blogs.nvidia.com/blog/difference-deep-learning-training-inference-ai/){:target="_blank"}
+* [The Difference Between Deep Learning Training and Inference](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/The-Difference-Between-Deep-Learning-Training-and-Inference/post/1335634){:target="_blank"}
 * [How to Configure the Learning Rate When Training Deep Learning Neural Networks](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/){:target="_blank"}
 
 # Your First Experience
