@@ -19,6 +19,8 @@ Deep Learning Tutorial Series
 
 This module explains how neural networks actually learn from data. The focus is on intuition: how predictions become better over time through feedback.
 
+{% include toc %}
+
 ---
 
 ## 2.1 Learning Goals
@@ -240,15 +242,6 @@ Learning becomes extremely slow in deep networks
 
 ---
 
-## 2.16 What’s Next?
 
-Next module:
-
-**Module 3 — Practical Deep Learning with PyTorch**
-
-You will:
-
-* Build your first neural network
-* Write a full training loop
-* Train a model on MNIST dataset
-* See learning in action end-to-end
+Return to the Main Page of [Deep Learning and Machine Learning
+](/resources/deep-learning/).

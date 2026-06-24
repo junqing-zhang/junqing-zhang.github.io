@@ -19,6 +19,8 @@ Deep Learning Tutorial Series
 
 This module introduces models for sequential data and gives a high-level overview of modern deep learning systems, including attention and transformers.
 
+{% include toc %}
+
 ---
 
 # 5.1 Learning Goals
@@ -278,3 +280,8 @@ You have now learned:
 * Module 5: Sequence models + modern architectures
 
 ---
+
+
+
+Return to the Main Page of [Deep Learning and Machine Learning
+](/resources/deep-learning/).

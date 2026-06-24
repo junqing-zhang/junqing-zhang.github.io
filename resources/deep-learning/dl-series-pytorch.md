@@ -19,6 +19,8 @@ Deep Learning Tutorial Series
 
 This module introduces hands-on deep learning using PyTorch. You will build and train your first neural network end-to-end on a real dataset.
 
+{% include toc %}
+
 ---
 
 # 3.1 Learning Goals
@@ -236,3 +238,9 @@ Try changing:
 * Number of epochs
 
 Observe how accuracy changes.
+
+
+
+
+Return to the Main Page of [Deep Learning and Machine Learning
+](/resources/deep-learning/).

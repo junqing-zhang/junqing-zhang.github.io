@@ -20,6 +20,8 @@ Deep Learning Tutorial Series
 
 This module introduces Convolutional Neural Networks (CNNs), which are the standard approach for image-related deep learning tasks.
 
+{% include toc %}
+
 ---
 
 # 4.1 Learning Goals
@@ -327,3 +329,8 @@ CNN layers learn hierarchical features:
 * They outperform fully connected networks on vision tasks
 
 ---
+
+
+
+Return to the Main Page of [Deep Learning and Machine Learning
+](/resources/deep-learning/).
