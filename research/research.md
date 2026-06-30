@@ -34,7 +34,6 @@ Key generation is an emerging technique to establish cryptographic keys between 
 * [Key Generation Recommended Reading](/research/keygen/keygen-recommended-reading/)
 * [Key Generation Dataset](/research/keygen/keygen-dataset/)
 * [Key Generation Publication at University of Liverpool](/research/keygen/keygen-pub/)
-* [Key Generation Projects](/research/keygen/keygen-project/)
 * [Key Generation Demonstration using WARP](/demo-keygen-warp/)
 
 
@@ -53,7 +52,6 @@ All the components of wireless devices will have slightly different features, e.
 * [RFFI at University of Liverpool](/research/rffi/rffi-pub/)
 * [RFFI at University of Liverpool (By Topics)](/research/rffi/rffi-pub-topics/)
 * [How to Construct an RFFI System](/research/rffi/rffi-get-started/)
-* [RFFI Projects](/research/rffi/rffi-project/)
 
 <br />
 <img align="center" width="800" src="/research/rffi/images/RFFI_DL.png" alt="...">
