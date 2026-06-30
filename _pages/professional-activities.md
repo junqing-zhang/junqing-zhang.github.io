@@ -17,14 +17,14 @@ toc_max_header: 1
 # COST Action 6G-PHYSEC
 [CA22168 - Physical layer security for trustworthy and resilient 6G systems (6G-PHYSEC)](https://6gphysec.org/){:target="_blank"}
 * Co-leader of Working Group 5 - Experiments and demonstrations
-* Delivered three tutorials on physical layer security for the second Training School
+* Delivered three tutorials on physical layer security for the second Training School in 2024 and one tutorial in 2026.
 
 
 # Technical Conference Co-Chair
-* Co-Chairs of Communication and Information Security Symposium at IEEE International Conference on Communications (ICC) 2027
+* Co-Chairs of Communication and Information Security Symposium at [IEEE International Conference on Communications (ICC) 2027](https://icc2027.ieee-icc.org/call-symposium-papers){:target="_blank"}
 * Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN) Symposium at [International Conference on Computing, Networking and Communications (ICNC 2026)](http://www.conf-icnc.org/2026/){:target="_blank"}
 * Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN) Symposium at [International Conference on Computing, Networking and Communications (ICNC 2025)](http://www.conf-icnc.org/2025/){:target="_blank"}
-* Co-Chairs of Signal Processing for Communications Symposium at IEEE International Conference on Communications (ICC) 2023
+* Co-Chairs of Signal Processing for Communications Symposium at [IEEE International Conference on Communications (ICC) 2023](https://icc2023.ieee-icc.org/authors/call-symposium-papers){:target="_blank"}
 * Co-Chairs of Wireless Networking and Multimedia Symposium at IEEE/CIC International Conference on Communications in China 2022
 
 # Workshop Co-Chair
@@ -37,8 +37,8 @@ toc_max_header: 1
 
 ## Wireless Security Workshop
 [Google sites](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"}
-
-* [IEEE ICC 2026 Fifth Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"}
+* [IEEE GLOBECOM 2026 Sixth Workshop on Machine Learning and Deep Learning for Wireless Security](https://globecom2026.ieee-globecom.org/call-workshop-papers){:target="_blank"}
+* [IEEE ICC 2026 Fifth Workshop on Machine Learning and Deep Learning for Wireless Security](https://icc2026.ieee-icc.org/workshop/ws17-ieee-icc-2026-fifth-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 * [IEEE GLOBECOM 2025 Fourth Workshop on Machine Learning and Deep Learning for Wireless Security](https://globecom2025.ieee-globecom.org/workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 * [IEEE ICC 2025 Third Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"}
 * [IEEE GLOBECOM 2024 Second Workshop on Machine Learning and Deep Learning for Wireless Security](https://globecom2024.ieee-globecom.org/workshop/ws-17-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
@@ -59,7 +59,7 @@ toc_max_header: 1
 
 
 # TPC Member
-* IEEE INFOCOM 2025, 2026， 2027
+* IEEE INFOCOM 2025, 2026, 2027
 * IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS) 2025, 2026
 * IEEE Conference on Communications and Network Security (IEEE CNS) 2025, 2026
 * ACM WiSec 2026
