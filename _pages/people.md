@@ -1,5 +1,5 @@
 ---
-date: 2025-09-10
+date: 2026-06-30
 title: "People"
 permalink: /people/
 author_profile: true
