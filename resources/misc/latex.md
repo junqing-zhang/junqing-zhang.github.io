@@ -53,7 +53,7 @@ Some tips to use the above combinations:
 
 # 3. Template
 ## IEEE Latex Template
-Different publishers and journals may have different LaTex templates. Please download from the publisher's website. In particular, most of the IEEE journals and transactions use the same [IEEE LaTex templates](https://www.duboku.net/voddetail-1168.html){:target="_blank"} . There are some exceptions, e.g., [IEEE Access](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-ieee-access/){:target="_blank"}.
+Different publishers and journals may have different LaTex templates. Please download from the publisher's website. In particular, most of the IEEE journals and transactions use the same [IEEE LaTex templates](https://www.ieee.org/conferences/publishing/templates){:target="_blank"} . 
 
 Please read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} for instruction of how to use the IEEE LaTex template. I strongly suggest to read it time to time when you are using some special features of the template, e.g., subfigures, algorithms.
 
