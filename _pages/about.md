@@ -9,11 +9,11 @@ redirect_from:
 toc: true
 ---
 
-Junqing Zhang received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. He is a Reader (Associate Professor) in the School of Computer Science and Informatics at the University of Liverpool, UK. His research interests span wireless security, physical-layer security, key generation, radio-frequency fingerprint identification, and wireless sensing. He has authored or co-authored more than 100 peer-reviewed publications, including over 70 journal articles.
+Junqing Zhang is a Reader (Associate Professor) in the School of Computer Science and Informatics at the University of Liverpool, UK. He received the PhD degree in Electronics and Electrical Engineering from Queen’s University Belfast, UK in Jan. 2016. His research interests span wireless security, physical-layer security, key generation, radio-frequency fingerprint identification, and wireless sensing. He has authored or co-authored more than 100 peer-reviewed publications, including over 70 journal articles.
 
 His work focuses on developing innovative and practical physical layer security solutions for next-generation wireless systems, aiming for ultra-low energy consumption alongside strong security guarantees. He also explores novel wireless sensing applications using Wi-Fi and mmWave radars. His research leverages a wide range of Internet of Things technologies, including IEEE 802.11a/g/n/ac/ax, LoRa/LoRaWAN, Bluetooth, and IEEE 802.15.4/ZigBee, with particular emphasis on the physical and MAC layers.
 
-Dr. Zhang was a co-recipient of the Best Workshop Paper Award at IEEE WCNC 2025. He serves as a Senior Area Editor for IEEE Transactions on Information Forensics and Security and an Associate Editor for IEEE Transactions on Mobile Computing. He has also taken on key leadership roles, including TPC Symposium Co-Chair of ICNC 2025, ICNC 2026, and ICC 2023. In addition, he has served as TPC Co-Chair for several specialized workshops, such as the IEEE INFOCOM 2023–2025 DeepWireless Workshops, the IEEE GLOBECOM/ICC 2024–2025 Wireless Security Workshops, and the IEEE WCNC/PIMRC 2025 Physical Layer Security Workshop.
+Dr. Zhang was a co-recipient of the Best Workshop Paper Award at IEEE WCNC 2025. He serves as a Senior Area Editor for IEEE Transactions on Information Forensics and Security and an Associate Editor for IEEE Transactions on Mobile Computing. He has also taken on key leadership roles, including TPC Symposium Co-Chair of ICNC 2025, ICNC 2026, ICC 2023, and  ICC 2027. In addition, he has served as TPC Co-Chair for several specialized workshops, such as the IEEE INFOCOM 2023–2025 DeepWireless Workshops, the IEEE GLOBECOM/ICC 2024–2025 Wireless Security Workshops, and the IEEE WCNC/PIMRC 2025 Physical Layer Security Workshop.
 
 Please find more information from his 
 * [Education and Work](/edu-work-experience/)
@@ -51,7 +51,7 @@ Wireless sensing
 
 ## Research Expertise
 * Wireless communication techniques, such as OFDM, spread spectrum, etc
-* Wireless communication protocols, such as IEEE 802.11, ZigBee, LoRa/LoRaWAN, Bluetooth, etc, in particular physical and MAC layers
+* Wireless communication protocols, such as IEEE 802.11 OFDM, IEEE 802.15.4/ZigBee, LoRa/LoRaWAN, Bluetooth, etc, in particular physical and MAC layers
 * Wireless channel modelling
 * Software defined radios
 * Machine learning and deep learning applications in the wireless communications, sensing and security
