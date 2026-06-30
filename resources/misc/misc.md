@@ -1,6 +1,6 @@
 ---
 title: 'Miscellaneous'
-date: 2020-01-15
+date: 2026-06-30
 permalink: /resources/misc/
 categories:
   - Resources
@@ -14,6 +14,7 @@ This page summarizes resources related to research.
 
 * [How to Write a (Good) Paper](/resources/misc/writing-good-papers/)
 * [How to Use LaTex](/resources/misc/latex/)
+* [How to Prepare Figure/Diagram for Publications](/resources/misc/prepare-diagram/)
 * [Journals and Conferences of Communications, Networking, Computing and Security](/resources/misc/journals-conferences/)
 * [Machine Lerning for Commmunciations](/resources/misc/ml4comm/)
 
