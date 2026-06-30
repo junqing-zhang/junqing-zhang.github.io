@@ -81,7 +81,7 @@ then in the table environment, when you use `\begin{tabular}{|l|l|}`, the width 
 ```
 
 # 5. Figure
-Create a high quality diagram/figure is not an easy task. Visit [How to Prepare Figure/Diagram for Publications](/resources/misc/prepare-diagram/) for more information
+Create a high quality diagram/figure is not an easy task. Visit [How to Prepare Figure/Diagram for Publications](/resources/misc/prepare-diagram/) for more information.
 
 ## One figure
 ```
@@ -224,7 +224,7 @@ Define in the preamble
 Use it in the main text as follows as `\blue{I want this sentence to be highlighted in blue.}`
 
 ## Note
-* Add `~` when you want two parts to stay in the same line, e.g., `Tab.~\label{tab:results}`, .
+* Add `~` when you want two parts to stay in the same line, e.g., `Tab.~\label{tab:results}` and `20.~dB` .
 
 
 # 11. Conclusion
