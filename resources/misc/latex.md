@@ -40,13 +40,13 @@ Some tips to use the above combinations:
 * When you are viewing your pdf file (Sumatra PDF viewer), double click the pdf file will take you to the corresponding part in the tex file. The above features will allow you switch between the tex and pdf quickly. 
 * When use MikTex, you will need the admin right to install all the required packages.
 
-Configuration for TeXnicCenter
+**Configuration for TeXnicCenter**
 * menu `Build`→ `Define Output Profiles`, click the `(La)TeX` tab on the far left. 
 * Look at the text box labeled `Command line arguments to pass to`.
-* Insert `-synctex=-1` (or --synctex=1) right at the beginning of that line. Example string: `-synctex=-1 -interaction=nonstopmode "%wm"`
+* Insert `-synctex=-1` (or `--synctex=1`) right at the beginning of that line. Example string: `-synctex=-1 -interaction=nonstopmode "%wm"`.
 * Click `OK`.
 
-Sumatra
+**Configuration for Sumatra**
 * go to `Setting` → `Options`, in the `Set inverse search commad-line`, select TeXnicCenter.)
 
 
