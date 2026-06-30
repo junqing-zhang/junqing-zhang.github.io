@@ -81,7 +81,8 @@ then in the table environment, when you use `\begin{tabular}{|l|l|}`, the width 
 ```
 
 # 5. Figure
-Create a high quality diagram/figure is not an easy task.
+Create a high quality diagram/figure is not an easy task. Visit [How to Prepare Figure/Diagram for Publications](/resources/misc/prepare-diagram/) for more information
+
 ## Graphics for IEEE Publications
 Check [IEEE guideline](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-graphics-for-your-article/){:target="_blank"}
 
