@@ -31,15 +31,15 @@ Generate **pdf** or **eps** because they are vector figures.
 It is fine to use **png** or **jpg** for photos, e.g., photos for experimental environments and devices.
 
 # Use PPT to Prepare Block Diagram
-PowerPoint can produce quite good look diagrams. There are lots of icons (*Insert->Icons*). Save the slides to pdf file. 
+PowerPoint can produce quite good look diagrams. There are lots of icons (`Insert`→ `Icons`). Save the slides to pdf file. 
 
-It is recommended to create a dedicated ppt file for each block diagram. In the PowerPoint, go to *Design -> Slide Size -> Customize Slide Size*, you can adjust the size of the slides to fit the diagram. In this way, you don't have to crop the pdf file saved from the ppt slide.
+It is recommended to create a dedicated ppt file for each block diagram. In the PowerPoint, go to `Design` → `Slide Size` → `Customize Slide Size`, you can adjust the size of the slides to fit the diagram. In this way, you don't have to crop the pdf file saved from the ppt slide.
 
 
 # Use PPT to Annotate Matlab Figure
 It is usually quite difficult if you want to add annotation into the Matlab figure. This can be achieved via PowerPoint (with a few steps). 
 1. Generate the Matlab figure
-2. Click *Edit-> Copy Figure*
+2. Click `Edit` → `Copy Figure`
 3. Paste the figure in the PowerPoint. 
 4. Add texts as you wish. 
 5. Save the slide to a pdf file.
@@ -49,10 +49,10 @@ In IEEE papers, the text size in the figures should be similar to the size of te
 
 Sometime we may need to put two figures side by side in one column. In that case, resize the original Matlab plotted figure to half of the original width. When these two resized figures are loaded to LaTex, their text size will meet the requirement.
 
-# Matlab Function - Save Plot as Image or Vector Graphics File (Recommended)
+## Matlab Function - Save Plot as Image or Vector Graphics File (Recommended)
 Check  [https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html](https://uk.mathworks.com/help/matlab/creating_plots/saving-your-work.html){:target="_blank"} to save figures to pdf/eps.
 
-# Matlab Export Figure
+## Matlab Export Figure
 When using Matlab to save figures to to pdf or eps, there will usually be margins. Use the [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export_fig){:target="_blank"} to save Matlab figures without margin.
 
 Matlab figures usually have the grey margin. Use the following codes can set the background to white and save figures into .fig, .pdf and .eps.
