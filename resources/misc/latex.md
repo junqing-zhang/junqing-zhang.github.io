@@ -1,6 +1,6 @@
 ---
 title: 'How to Use LaTex'
-date: 2025-11-01
+date: 2026-06-30
 permalink: /resources/misc/latex/
 categories:
   - Resources
@@ -37,9 +37,19 @@ There are many Latex editors available and many of them are free to use. If you 
 Some tips to use the above combinations:
 * Create a project with your .tex file and then you will have the Outline view
 * When you are editing the tex file, press F5 will take you to the corresponding part in the pdf file (Sumatra PDF viewer)
-* When you are viewing your pdf file (Sumatra PDF viewer), double click the pdf file will take you to the corresponding part in the tex file. The above features will allow you switch between the tex and pdf quickly. (You need to configure it properly. In the Sumatra, go to *Setting -> Options*, in the *Set inverse search commad-line*, select TeXnicCenter.)
+* When you are viewing your pdf file (Sumatra PDF viewer), double click the pdf file will take you to the corresponding part in the tex file. The above features will allow you switch between the tex and pdf quickly. 
+* When use MikTex, you will need the admin right to install all the required packages.
 
-When use MikTex, you will need the admin right to install all the required packages.
+Configuration for TeXnicCenter
+* menu `Build`→ `Define Output Profiles`, click the `(La)TeX` tab on the far left. 
+* Look at the text box labeled `Command line arguments to pass to`.
+* Insert `-synctex=-1` (or --synctex=1) right at the beginning of that line. Example string: `-synctex=-1 -interaction=nonstopmode "%wm"`
+* Click `OK`.
+
+Sumatra
+* go to `Setting` → `Options`, in the `Set inverse search commad-line`, select TeXnicCenter.)
+
+
 
 # 3. Template
 ## IEEE Latex Template
