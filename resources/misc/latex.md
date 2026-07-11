@@ -29,7 +29,7 @@ If you have not used Latex before, I suggest to use the online platform, namely 
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"} 
 * You don't have to worry the package installations. 
 
-## Offline Software 
+## Offline Software - Miktex + TeXnicCenter + Sumatra
 There are many Latex editors available and many of them are free to use. If you are using LaTex with Windows, I strongly suggest to use the combination of Miktex+TeXnicCenter+Sumatra PDF viewer. They are very handy to use.
  * Download Link: [http://www.texniccenter.org/download/](http://www.texniccenter.org/download/){:target="_blank"}  
  * Please click [here](https://granasat.ugr.es/wp-content/uploads/2018/02/How_to_Sumatra_EN.pdf){:target="_blank"} for a tutorial about the installation and setup.  
@@ -49,7 +49,8 @@ Some tips to use the above combinations:
 **Configuration for Sumatra**
 * go to `Setting` → `Options`, in the `Set inverse search commad-line`, select TeXnicCenter.)
 
-
+## Offline Software - TeXstudio
+ * Download Link: [https://www.texstudio.org/](https://www.texstudio.org/){:target="_blank"}  
 
 # 3. Template
 ## IEEE Latex Template
