@@ -26,7 +26,7 @@ The following figure shows the setup.
 
 
 # Hardware
-* LoRa Device Under Test (DUT): 4* mbed1262 + 5* mbed1272 
+* LoRa Device Under Test (DUT): 4* mbed1261 + 5* mbed1272 
 * Receiver: Laptop + USRP N210
 <br />
 <br /><img src='./rffi_lora_hardware.png' width="800" title="RFFI RFFI Demo Testbed" alt="RFFI LoRa Demo Testbed">
