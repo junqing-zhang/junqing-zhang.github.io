@@ -78,5 +78,5 @@ Web: [https://www.liverpool.ac.uk/people/junqing-zhang](https://www.liverpool.ac
 Tel: 0151 79 57790  
 [School of Computer Science and Informatics](https://www.liverpool.ac.uk/computer-science-and-informatics/){:target="_blank"} <br>
 University of Liverpool  
-Liverpool, L69 3GJ  
+Liverpool, L69 3DR  
 United Kingdom
