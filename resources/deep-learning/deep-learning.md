@@ -20,6 +20,7 @@ Deep Learning Tutorials.
 - [Module 4 — CNNs and Computer Vision](/resources/deep-learning/dl-series-cnn/)
 - [Module 5 — Deep Learning Architectures](/resources/deep-learning/dl-series-dl-architecture/)
 - [Module 6 — Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
+
 Please note that the above modules are not intended to be comprehensive learning materials. Instead, they are designed to serve as introductory hooks that highlight key concepts and provide a starting point for further exploration. Readers are encouraged to consult additional resources and references to develop a deeper understanding of each topic.
 
 Resources
