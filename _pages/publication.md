@@ -113,6 +113,8 @@ We have made some datasets and codes publicly available. Please visit [this link
 1. Yuan Ding, **Junqing Zhang**, and Vincent Fusco, “Frequency diverse array OFDM transmitter for secure wireless communication,” _Electronics Letters_, vol. 51, no. 17, pp. 1374-1376, 2015. [link](https://digital-library.theiet.org/content/journals/10.1049/el.2015.1491){:target="_blank"}
 
 # Conference Paper
+1. Yi Zhang, Ke Wang, Bo Zang, Meng Jia, Hongbing Ji, and **Junqing Zhang**, “SERF: Spatial Ephemeris and RFF Fusion for Satellite Physical-Layer Authentication,” in _Proc. IEEE GLOBECOM_, 2026. 
+1. Yuan Ding, Han Wen, Jiayu Hou, Jayakrishnan Methapettyparambu Purushothama, George Goussetis, **Junqing Zhang**, and Simon L. Cotton, “Implementation and Experimental Validation of an L-Band Receive Tracking Array,” in _Proc. 29th International Workshop on Smart Antennas (WSA)_, 2026.
 1. Senhao Gao, **Junqing Zhang**, Guolin Yin, Simon L. Cotton, and Aydin Sezgin, “Enhancing Channel-Robust Wi-Fi Radio Frequency Fingerprint Identification via High-Resolution Time-Frequency Representation,” in _Proc. IEEE  International Conference on Machine Learning for Communication and Networking_, 2026.
 1. Ningze Yuan, **Junqing Zhang**, Linning Peng, and Aydin Sezgin, “Exploring Transient to Enhance Bluetooth Low Energy Radio Frequency Fingerprint Identification,” in _Proc. IEEE  International Conference on Machine Learning for Communication and Networking_, 2026.
 1. Yijia Guo, **Junqing Zhang**, and Y.-W. Peter Hong, “Channel Prediction-Based Physical Layer Authentication under Consecutive Spoofing Attacks”, in _Proc. IEEE ICC_, 2026. [link](){:target="_blank"}
