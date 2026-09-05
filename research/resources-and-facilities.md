@@ -67,6 +67,8 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 ](https://www.ti.com/tool/DCA1000EVM){:target="_blank"}: Real-time data-capture adapter for radar sensing evaluation module
 * [MMWAVEICBOOST](https://www.ti.com/tool/MMWAVEICBOOST){:target="_blank"}: mmWave sensors carrier card platform
 
+# Cameras
+* [RealSense D455f](https://www.realsenseai.com/products/d455f/){:target="_blank"}: a depth camera that combines stereo depth sensing with an RGB camera to capture both visual and three-dimensional information about the surrounding environment. It is particularly suitable for applications such as human activity recognition, gesture recognition, object tracking, and robotics.
 
 # Facilities
 The [High Frequency Engineering Group](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/research/networks-and-communications/high-frequency-engineering/){:target="_blank"} at University of Liverpool has an anechoic chamber and the biggest reverberation chamber in the UK universities.
