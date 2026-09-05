@@ -19,6 +19,8 @@ toc_max_header: 1
 * Co-leader of Working Group 5 - Experiments and demonstrations
 * Delivered three tutorials on physical layer security for the second Training School in 2024 and one tutorial in 2026.
 
+# Tutorial
+* Radio-frequency authentication and fingerprinting: a signal processing perspective, Stefano Tomasin & Francesco Ardizzon, Junqing Zhang at EUSIPCO 2026
 
 # Technical Conference Co-Chair
 * Co-Chairs of Communication and Information Security Symposium at [IEEE International Conference on Communications (ICC) 2027](https://icc2027.ieee-icc.org/call-symposium-papers){:target="_blank"}
