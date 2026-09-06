@@ -145,7 +145,7 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 
 # Invited Talk
 * IEEE Signal Processing Society (SPS) Webinar, Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification, 16 September 2026 [link](https://signalprocessingsociety.org/events/sps-webinar-radio-frequency-fingerprint-identification-narrowband-systems-modelling-and){:target="_blank"}.
-* IEEE Signal Processing Society (SPS) Webinar, 11 June 2025 [link](https://landing.signalprocessingsociety.org/jun-11-2025){:target="_blank"}.
+* IEEE Signal Processing Society (SPS) Webinar, Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa, 11 June 2025 [link](https://landing.signalprocessingsociety.org/jun-11-2025){:target="_blank"}.
 * Invited by Prof Maire O’Neill to give a talk to CSIT DTP Spring School at Queen’s University
 Belfast, 9 April 2025 [link](https://www.qub.ac.uk/research-centres/csit/innovation-and-partnerships/cyber-ai-hub/csit-dtp/springschool/#agenda-day-1-wednesday-9th-april-2025-3529288-1){:target="_blank"}.
 * Invited by Prof Xianbin Wang to give a talk to IEEE ComSoc Canada London and Toronto Sections,  3 March 2025 [link](https://events.vtools.ieee.org/m/469987){:target="_blank"}.
