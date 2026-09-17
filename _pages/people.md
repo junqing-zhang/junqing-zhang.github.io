@@ -14,7 +14,8 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 * Dr. Yijia Guo. Research topic: radio frequency fingerprint identification
 
 # PhD Students
-* Mr Senhao Gao, co-supervision with Prof Xiaowei Huang (September 2022 to present). Research topic: Mmwave radar sensing
+* Mr Yixuan Wu, co-supervision with Dr. Huynh Nguyen (September 2026 to present). Research topic: tbc
+* Mr Senhao Gao, co-supervision with Prof Xiaowei Huang (September 2022 to present). Research topic: Deep Learning Powered Radio-Frequency Sensing and Device Identification
 * Mr Ningze Yuan, co-supervision with Prof Xiaowei Huang (December 2022 to present). Research topic: radio frequency fingerprint identification
 
 # Alumni
@@ -30,6 +31,7 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 * Dr. Chen Chen. PDRA from January 2022 to December 2023. Research topic: key generation from wireless channel. 
 
 ## Visiting PhD students
+* Mr [Weiyang Li](http://weiyangli.space/){:target="_blank"} from Chongqing University, China (September 2026 to February 2027). Supervised by by Prof. Ning Wang.
 * Mr Shuo Wang from University of Padova, Italy (April 2025 to August 2025). Supervised by Prof Mauro Conti. 
 
 # To Prospective Students
