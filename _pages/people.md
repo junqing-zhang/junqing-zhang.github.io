@@ -21,7 +21,7 @@ I am affiliated to the Advanced Networks Research Group at University of Liverpo
 # Alumni
 ## PhD
 * Dr. Yijia Guo, co-supervision with Prof Yao-Win Peter Hong, National Tsing Hua University (November 2021 to January 2026). Research topic: Physical layer authentication using channel state information. [Download Link](). First job: a PDRA with University of Liverpool. 
-* Dr. Jie Ma, PhD co-supervised with Prof Alan Marshall (July 2021 to August 2025). Thesis title: Device Authentication Based on Deep Learning and Radio Frequency Fingerprint. [Download Link](). First job: a PDRA with University of Liverpool. 
+* Dr. [Jie Ma](https://skylarddd.github.io/){:target="_blank"}, PhD co-supervised with Prof Alan Marshall (July 2021 to August 2025). Thesis title: Device Authentication Based on Deep Learning and Radio Frequency Fingerprint. [Download Link](). First job: a PDRA with University of Liverpool. 
 * Dr. [Guolin Yin](https://guolin-yin.github.io/){:target="_blank"}, PhD co-supervised with Dr. Xinping Yi and Prof Alan Marshall (September 2020 to July 2024). Research topic: WiFi sensing. [Download Link](). First job: a PDRA with University of Liverpool. 
 * Dr. [Guanxiong Shen](https://gxhen.github.io/){:target="_blank"}, PhD co-supervised with Prof Alan Marshall (Nov., 2019 to July 2023). Thesis title: Deep Learning Enhanced Radio Frequency Fingerprint Identification for LoRa [Download Link](https://livrepository.liverpool.ac.uk/3170842/){:target="_blank"}. First job: Associate Professor with Southeast University, China.
 
