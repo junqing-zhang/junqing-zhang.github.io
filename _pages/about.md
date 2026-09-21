@@ -1,8 +1,9 @@
 ---
+layout: homelay
 permalink: /
 title: "About Me"
 excerpt: "About me"
-author_profile: true
+description: "Dr Junqing Zhang is a Reader at the University of Liverpool researching wireless security, physical-layer security, RF fingerprinting, and wireless sensing."
 redirect_from:
   - /about/
   - /about.html
@@ -17,13 +18,9 @@ Dr. Zhang was a co-recipient of the Best Workshop Paper Award at IEEE WCNC 2025.
 
 Please find more information from his 
 * [Education and Work](/edu-work-experience/)
-* [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en){:target="_blank"}
-* [dblp](https://dblp.uni-trier.de/pers/hd/z/Zhang:Junqing){:target="_blank"} publication list
-* [IEEE](https://ieeexplore.ieee.org/author/37085438201){:target="_blank"} publication list
-* [Web of Science](https://www.webofscience.com/wos/author/record/T-8966-2019){:target="_blank"} profile
-* We have made some datasets and codes publicly available. Please visit [this link](/dataset-code/) for the details.
 
-## Call for Paper
+
+[//]: ## Call for Paper
 [//]: * [IEEE WCNC 2026: Third Workshop on Physical Layer Security for Wireless Communications](https://sites.google.com/view/pls-workshop){:target="_blank"}. Deadline: December 1, 2025
 [//]: * [IEEE INFOCOM 2026: The Fourth DeepWireless Workshop on Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop){:target="_blank"}. December 29, 2025
 [//]: * [IEEE GLOBECOM 2026: The Sixth Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"}. Deadline: 12 August, 2026
@@ -37,40 +34,46 @@ Please find more information from his
 
 
 ## Research Area
+
+<div class="section-card selected-pubs" markdown="1">
 Internet of Things
 
 Wireless Security
 * Physical Layer Security
-* [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/)
-* [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/)
-* [Physical Layer Authentication](/research/phy-auth/phy-auth-main-page/)
+* [Key Generation From Wireless Channels](/research/keygen/)
+* [Radio-Frequency Fingerprint Identification](/research/rffi/)
+* [Physical-Layer Authentication](/research/phy-auth/)
 
 Wireless sensing
-* [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/)
+* [Wi-Fi Sensing](/research/wifi-sensing/)
 * mmWave Radar Sensing
 
-## Research Expertise
-* Wireless communication techniques, such as OFDM, spread spectrum, etc
-* Wireless communication protocols, such as IEEE 802.11 OFDM, IEEE 802.15.4/ZigBee, LoRa/LoRaWAN, Bluetooth, etc, in particular physical and MAC layers
-* Wireless channel modelling
-* Software defined radios
-* Machine learning and deep learning applications in the wireless communications, sensing and security
+<p style="margin: var(--space-4) 0 0;"><a href="{{ '/research' | relative_url }}">Explore Our Research &rarr;</a></p>
+</div>
 
-##  [Research Demonstration](/research-demo/research-demo-main-page/){:target="_blank"}
-We are always keen to apply our knowledge to practical applications. Hence we have created several demonstration videos to present our applied research.
 
-Radio Frequency Fingerprint Identification
-* [Wi-Fi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
-* [RFFI LoRa Demonstration](/research-demo/demo-rffi-lora/)
-* [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
+{% capture selected %}{% bibliography --query @*[selected=true] %}{% endcapture %}
+{% if selected contains "pub-entry" %}
+## Selected Publications
 
-Key Generation
-* [Wi-Fi Key Generation Demonstration using WARP](/research-demo/demo-keygen-warp/)
-* [Wi-Fi Key Generation Demonstration using Raspberry Pi](/research-demo/demo-keygen-rpi/)
-* [Heartbeat Key Generation Demonstration Using PPG Sensors](/research-demo/demo-keygen-heartbeat-ppg/)
+<div class="section-card selected-pubs" markdown="0">
+{{ selected }}
+<p style="margin: var(--space-4) 0 0;"><a href="{{ '/publications' | relative_url }}">All publications &rarr;</a></p>
+</div>
+{% endif %}
 
-Internet of Things (IoT)
-* [LoRaWAN Demonstration using Pycom FiPy](/research-demo/demo-lorawan-fipy/)
+## Datasets & Code
+<div class="section-card selected-pubs" markdown="0">
+We make selected research datasets, source code and experimental resources publicly available to support reproducible research.
+<p style="margin: var(--space-4) 0 0;"><a href="{{ '/research/dataset-code/' | relative_url }}">Explore Datasets & Code &rarr;</a></p>
+</div>
+
+## Research Demonstration
+<div class="section-card selected-pubs" markdown="0">
+We are always keen to translate our research into practical applications. We have developed a range of research demonstrations to showcase our technologies and their real-world potential.
+<p style="margin: var(--space-4) 0 0;"><a href="{{ '/research-demo/research-demo-main-page/' | relative_url }}">View Research Demonstrations &rarr;</a></p>
+</div>
+
 
 ## Contact
 Email: junqing.zhang at liverpool.ac.uk  

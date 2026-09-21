@@ -1,29 +1,28 @@
 ---
-layout: archive
+layout: page
 title: "News"
 permalink: /news/
-author_profile: true
 ---
 
-# 2023
+## 2023
 * 5 November 2023: [Call for paper] We are organizing DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security in conjunction with IEEE INFOCOM 2024. The submission deadline is 19 December 2023. 
 * 5 November 2023: [Call for paper] We are organizing Workshop on Machine Learning and Deep Learning for Wireless Security in conjunction with IEEE ICC 2024. The submission deadline is 20 January 2024. Please visit the [workshop website](https://sites.google.com/view/ml-dl-wireless-sec){:target="_blank"} for more information.
-* 3 November 2023: Our paper, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach'', has been IEEE Transactions on Information Forensics and Security. Congratulations Chen. Please visit [link](https://arxiv.org/abs/2305.00043){:target="_blank"} for the preprint.
+* 3 November 2023: Our paper, “Secret Key Generation for IRS-Assisted Multi-Antenna Systems: A Machine Learning-Based Approach'', has been IEEE Transactions on Information Forensics and Security. Congratulations Chen. Please visit [arXiv](https://arxiv.org/abs/2305.00043){:target="_blank"} for the preprint.
 
-# 2022
-* PhD Opening: I have a PhD studentship opening in the area of wireless sensing. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-wireless-sensing/?p142480=){:target="_blank"}. The application deadline is 10 April 2022.
+## 2022
+* PhD Opening: I have a PhD studentship opening in the area of wireless sensing. Please find more information at [External resource](https://www.findaphd.com/phds/project/deep-learning-enhanced-wireless-sensing/?p142480=){:target="_blank"}. The application deadline is 10 April 2022.
 * 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made soon. Please stay tuned.
 
 
 
-# 2021
+## 2021
 * 3 December 2021: Our paper, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments'' has been accepted by IEEE INFOCOM. Congratulations Guyue.
-* 1 December 2021: Our paper, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices'', has been presented at Asilomar 2021. Congratulations Guanxiong. Please visit [link](https://arxiv.org/abs/2111.14275){:target="_blank"} for the preprint.
+* 1 December 2021: Our paper, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices'', has been presented at Asilomar 2021. Congratulations Guanxiong. Please visit [arXiv](https://arxiv.org/abs/2111.14275){:target="_blank"} for the preprint.
 * 16 November 2021: Our paper, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments'' has been accepted by IEEE Communications Letters. Congratulations Tianyu.
-* 1 September 2021: We are recruiting a two-year postdoc for my EPSRC New Investigator Award Project. Please find detailed information at [link](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=033567){:target="_blank"}. The application deadline is 28 September 2021.
+* 1 September 2021: We are recruiting a two-year postdoc for my EPSRC New Investigator Award Project. Please find detailed information at [External resource](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=033567){:target="_blank"}. The application deadline is 28 September 2021.
 * 28 Aug 2021: Our paper, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems'' has been accepted by IEEE Internet of Things Journal. Congratulations Xinwei.
-* PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"} The application deadline is 30 May 2021.
-* 8 July, 2021, Our paper, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals'', has been accepted by IEEE Transactions on Mobile Computing. Please refer to [this link](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/) for a demonstration.
+* PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [External resource](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"} The application deadline is 30 May 2021.
+* 8 July, 2021, Our paper, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals'', has been accepted by IEEE Transactions on Mobile Computing. Please refer to [External resource](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/) for a demonstration.
 * 1 July 2021: My EPSRC New Investigator Award is successful. The project's title is [A New Frontier For Internet of Things Security: Far-Flung Key Generation
 ](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}. We will recruit a two-year postdoc soon.
 * 21 May 2021: We are organizing IEEE VTC Fall 2021 Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G. Please consider to submit your work to it. Submission deadline: 1 July 2021.
@@ -32,15 +31,15 @@ author_profile: true
 * 29 March, 2021, Our paper, “NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks'' has been accepted by IEEE Transactions on Communications. Congratulations Xintao.
 * We are organizing a special section on [Antennas and Array Processing for Physical Layer Wireless Security](https://ieeeaps.org/antennas-and-array-processing-for-physical-layer-wireless-security){:target="_blank"}, IEEE Open Journal of Antennas and Propagation. Please consider to submit your work to it.
 
-# 2020
+## 2020
 * 5 December, 2020, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN”, has just been accepted by INFOCOM 2021. Congratulations to Guanxiong.
 * 12 October, 2020, Our new survey paper, “Key Generation for Internet of Things: A Contemporary Survey”, has just been accepted by ACM Computing Surveys. This is a collaboration with Dr. Weitao Xu at City University of Hong Kong.
 * 14 September, 2020, Our paper "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks" has been accepted by IEEE Transactions on Information Forensics and Security. This paper is a collaboration with Dr. Guyue Li @ Southeast University.
-* 7 August, 2020: A preprint on key generation survey paper, "Key Generation for Internet of Things: A Contemporary Survey", has been available in arxiv. Please check it [here](https://arxiv.org/abs/2007.15956){:target="_blank"}. This paper reviews key generation from wireless channel, audio signals, motions, heartbeats, etc.
-* 29 July, 2020: Our recent key generation survey paper, "A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels", has been accepted by IEEE Access. Please check it [here](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
+* 7 August, 2020: A preprint on key generation survey paper, "Key Generation for Internet of Things: A Contemporary Survey", has been available in arxiv. Please check it [arXiv](https://arxiv.org/abs/2007.15956){:target="_blank"}. This paper reviews key generation from wireless channel, audio signals, motions, heartbeats, etc.
+* 29 July, 2020: Our recent key generation survey paper, "A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels", has been accepted by IEEE Access. Please check it [IEEE Xplore](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
 * 19 July, 2020: Please check our latest [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
-* 23 June, 2020, Our paper "Encrypting Wireless Communications On the Fly Using One-Time Pad and Key Generation" has been accepted by IEEE Internet of Things Journal, [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
-* 19 June, 2020, Our paper "Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar" has been accepted by IEEE Internet of Things Journal, [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
+* 23 June, 2020, Our paper "Encrypting Wireless Communications On the Fly Using One-Time Pad and Key Generation" has been accepted by IEEE Internet of Things Journal, [IEEE Xplore](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
+* 19 June, 2020, Our paper "Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar" has been accepted by IEEE Internet of Things Journal, [IEEE Xplore](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
 
-# 2019
-* 26 March, 2019, We have been awarded a seed grant, Royal Society Research Grants, "_Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning_", £19k. Check more details [here](https://junqing-zhang.github.io/project-rffi-lora/){:target="_blank"}
+## 2019
+* 26 March, 2019, We have been awarded a seed grant, Royal Society Research Grants, "_Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning_", £19k. Check more details [External resource](https://junqing-zhang.github.io/project-rffi-lora/){:target="_blank"}

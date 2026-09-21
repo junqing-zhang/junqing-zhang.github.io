@@ -1,16 +1,16 @@
 ---
-title: "Radio Frequency Fingerprint (RFF) Identification"
-permalink: /research/rffi/rffi_main_page/
+layout: page
+research_section: rffi
+title: "Radio-Frequency Fingerprint Identification"
+description: "An overview of Radio-Frequency Fingerprint Identification, including research topics, publications, datasets, resources, and projects."
+permalink: /research/rffi/
 ---
 
-All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
+{% include research-nav.html section="rffi" %}
 
-<br/><img src='/research/rffi/images/RFFI_DL.png'>
+Manufacturing variations give the radio-frequency components in each wireless device slightly different characteristics, such as oscillator frequency offset. Like biometric fingerprints, these hardware-dependent characteristics can distinguish one device from another. An RFFI system first enrols reference fingerprints in a database and then identifies a transmitting device by comparing its measured signal characteristics with those references.
 
-* [RFFI Overview](/research/rffi/rffi-overview/)
-* [RFFI Recommended Reading List](/research/rffi/rffi-recommended-reading/)
-* [RFFI Dataset](/research/rffi/rffi-dataset/)
-* [RFFI Resources](/research/rffi/rffi-resources/)
-* [RFFI at University of Liverpool](/research/rffi/rffi-pub/)
-* [RFFI at University of Liverpool (By Topics)](/research/rffi/rffi-pub-topics/)
-* [How to Construct an RFFI System](/research/rffi/rffi-get-started/)
+<figure class="content-figure">
+  <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" alt="Deep learning-based radio-frequency fingerprint identification workflow" width="1349" height="890" loading="lazy">
+  <figcaption>Deep-learning-based radio-frequency fingerprint identification workflow.</figcaption>
+</figure>

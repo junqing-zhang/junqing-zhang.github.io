@@ -1,5 +1,9 @@
 ---
+layout: page
+show_last_updated: true
+research_section: wifi-sensing
 title: "Wi-Fi Sensing Dataset"
+description: "Public datasets and experimental resources for research on Wi-Fi Sensing."
 date: 2022-01-30
 permalink: /research/wifi-sensing/wifi-sensing-dataset/
 categories:
@@ -12,9 +16,9 @@ tags:
   - Dataset
 ---
 
-This paper summarizes Wi-Fi sensing research datasets that are publicly available. 
+{% include research-nav.html section="wifi-sensing" %}
+
+This page lists publicly available datasets for Wi-Fi sensing research.
 
 To be updated.
 
-
-Return to the Main Page of [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/).

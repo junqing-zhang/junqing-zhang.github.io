@@ -1,5 +1,8 @@
 ---
+layout: page
+research_section: keygen
 title: "Key Generation Project"
+description: "Research projects from the University of Liverpool on Key Generation from Wireless Channels."
 date: 2021-12-17
 permalink: /research/keygen/keygen-project/
 categories:
@@ -10,10 +13,12 @@ tags:
   - Research Project
 ---
 
-This paper summarizes key generation research projects.
+{% include research-nav.html section="keygen" %}
 
-# Europe
-1. A New Frontier For Internet of Things Security: Far-Flung Key Generation , £251k, [link](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}
+This page presents research projects on key generation from wireless channels.
+
+## Europe
+1. A New Frontier For Internet of Things Security: Far-Flung Key Generation , £251k, [UKRI project page](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}
 * Duration: July 2021 to June 2023
 * Funder: EPSRC New Investigator Award
 1. Securing the Internet of Things, Group Key Generation From Wireless Channels (Project Link)
@@ -34,7 +39,7 @@ This paper summarizes key generation research projects.
   * Funder: EU 7th Framework Programme
   * Partners: Celeno, Imperial College London, UK, VTT, Finland, Thales, Telecom Paris Tech, France
 
-# USA
+## USA
 1. CIF: Small: Collaborative Research: Secret Key Generation Under Resource Constraints
   * Duration: 10/01/2016 – 07/31/2019
   * Funder: National Science Foundation
@@ -65,7 +70,7 @@ This paper summarizes key generation research projects.
 1. Securing Wireless Applications and Networks (Project Link)
   * Partner: WINLAB (Wireless Information Network Laboratory), Rutgers University, USA
 
-# Asia
+## Asia
 1. On Future Mobile Communication Physical Layer Security
   * Duration: 01/2017 – 12/2019
   * Funder: National Natural Science Foundation of China (NSFC)
@@ -73,4 +78,3 @@ This paper summarizes key generation research projects.
 1. Network Engineering Techniques for Wireless Security (Project Link)
   * Partner: Singapore University of Technology and Design
   
-Return to the Main Page of [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/).  

@@ -1,0 +1,47 @@
+<nav class="navbar sticky-top navbar-expand-md">
+  <div class="container" style="max-width: var(--container-max);">
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/favicon.svg' | relative_url }}" width="24" height="24" class="d-inline-block align-text-top" alt="" style="border-radius: 5px;">
+      {{ site.name | escape }}
+    </a>
+    <button class="navbar-toggler" type="button" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+        </li>
+        {% for nav in site.nav_pages %}
+        <li class="nav-item">
+          <a class="nav-link{% if page.url contains nav.name %} active{% endif %}" href="{{ nav.name | prepend: '/' | relative_url }}">{% if nav.label %}{{ nav.label }}{% else %}{{ nav.name | capitalize }}{% endif %}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      <div class="d-flex align-items-center" style="gap: var(--space-2);">
+        <button class="search-toggle" id="searchToggle" type="button" aria-label="Search site" aria-haspopup="dialog" aria-controls="searchOverlay" aria-expanded="false">
+          {% include icon.html name="search" %}
+        </button>
+        {% unless site.dark_mode == false %}
+        <button class="dark-mode-toggle" id="darkModeToggle" type="button" aria-label="Switch to dark mode">
+          {% include icon.html name="sun" id="themeIcon" %}
+        </button>
+        {% endunless %}
+      </div>
+    </div>
+  </div>
+</nav>
+
+<!-- Search overlay -->
+<div class="search-overlay" id="searchOverlay" role="dialog" aria-modal="true" aria-labelledby="searchDialogTitle" aria-hidden="true" inert>
+<div class="search-modal">
+<h2 class="visually-hidden" id="searchDialogTitle">Search this site</h2>
+<div class="search-input-wrapper">
+{% include icon.html name="search" class="search-input-icon" %}
+<input type="text" class="search-input" id="searchInput" placeholder="Search pages..." autocomplete="off">
+<button class="search-close" id="searchClose" type="button" aria-label="Close search">{% include icon.html name="close" %}</button>
+</div>
+<div class="search-results" id="searchResults"></div>
+</div>
+</div>

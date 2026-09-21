@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'TI mmWave Radar Sensors'
 date: 2022-05-16
 permalink: /resources/wireless/mmwave-sensors-ti/
@@ -10,13 +11,13 @@ tags:
   - mmWave Radar
 ---
 
-This paper summarizes resources for TI mmwave sensors.
+This page summarises resources for TI mmWave sensors.
 
 {% include toc %}
 
-# Overview
+## Overview
 
-# Sensors
+## Sensors
 
-# Library
+## Library
 * [pymmWave](https://pymmwave.readthedocs.io/en/latest/#){:target="_blank"}

@@ -1,16 +1,15 @@
 ---
-layout: archive
+layout: page
 title: "Education and Work Experience"
 permalink: /edu-work-experience/
-author_profile: true
 ---
 
-# Qualification
+## Qualification
 * PhD in Electronics and Electrical Engineering, Queen’s University Belfast
 * Fellow of the Higher Education Academy (FHEA)
 
 
-# Work Experience
+## Work Experience
 ## Reader (Associate Professor)
 * June 2026 to present
 * Institution: Trustworthy computing, School of Computer Science and Informatics, University of Liverpool, UK
@@ -37,7 +36,7 @@ author_profile: true
 * Feb. 2016 to Jan. 2018
 * Institution: School of Electronics, Electrical Engineering And Computer Science, Queen’s University Belfast, UK
 
-# Education Background
+## Education Background
 ## Doctor of Philosophy in Electronics and Electrical Engineering
 * Oct., 2012 to Jan. 2016
 * Thesis Title: Key Generation and Physical Layer Encryption for Secure Wireless Communications

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "How to Build a Personal Website"
 date: 2019-05-15
 permalink: /resources/misc/building-a-website/
@@ -16,14 +17,14 @@ Therefore, I decided to switch to another platform which will allow me to enjoy 
 After a survey of the platforms, I finally chose github pages. 
 
 
-# Platforms  
+## Platforms  
 There are different (and many) hosts available for your to build a personal website for free. Some popular ones are listed as below.
 * WordPress
 * Weebly
 * Google Sites
-* Github Pages 
+* GitHub Pages 
 
-# Github Pages
+## GitHub Pages
 Some popular themes for github pages:
 * minimal-mistakes: [https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 * [https://academicpages.github.io/](https://academicpages.github.io/)
@@ -32,12 +33,12 @@ An experience of using github pages can be found at [https://jponttuset.cat/buil
 
 In our opinion, WordPress versus github pages is comparable to Word versus LaTex. If you are fimiliar with LaTex, you will not find difficulty using github pages. It uses markdown to render the format. While the syntax of markdown is different from LaTex, the methodology is the same.
 
-# Tutorials
+## Tutorials
 * [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/){:target="_blank"}
 
-# Markdown
+## Markdown
 Markdown is used to render the github pages. 
 
-A quick introduction on its syntax can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
+A quick introduction on its syntax can be found [GitHub repository](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
 
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){:target="_blank"}

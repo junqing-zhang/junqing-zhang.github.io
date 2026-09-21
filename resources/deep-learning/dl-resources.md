@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Deep Learning for Resources'
 date: 2024-06-05
 permalink: /resources/deep-learning/dl-resources/
@@ -7,17 +8,17 @@ categories:
   - Deep Learning  
 tags:
   - Deep Learning
-  - Machine Learning  
+  - Machine Learning
 ---
 
-This paper summarizes resources for deep learning for beginners.
+This page provides introductory deep-learning resources for beginners.
 
 {% include toc %}
 
 
 
 
-# Code Examples
+## Code Examples
 ## TensorFlow + Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
 * [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}
@@ -29,22 +30,22 @@ This paper summarizes resources for deep learning for beginners.
 
 
 
-## Matlab 
-* [Matlab, Training a Model from Scratch](https://www.mathworks.com/solutions/deep-learning/examples/training-a-model-from-scratch.html){:target="_blank"}
+## MATLAB 
+* [MATLAB, Training a Model from Scratch](https://www.mathworks.com/solutions/deep-learning/examples/training-a-model-from-scratch.html){:target="_blank"}
 
-# Online Resources
-* CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [link](http://cs231n.stanford.edu/){:target="_blank"}
-* A summary of resources [link](https://towardsdatascience.com/convolutional-neural-network-a-step-by-step-guide-a8b4c88d6943){:target="_blank"}
+## Online Resources
+* CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [External resource](http://cs231n.stanford.edu/){:target="_blank"}
+* A summary of resources [External resource](https://towardsdatascience.com/convolutional-neural-network-a-step-by-step-guide-a8b4c88d6943){:target="_blank"}
 * [Book Dive into Deep Learning](http://d2l.ai/index.html){:target="_blank"}
 
-# Matlab Resources
-Matlab has provided lots of useful resources.
+## MATLAB Resources
+MATLAB provides many useful examples and learning resources.
 * [Set Up Parameters and Train Convolutional Neural Network](https://www.mathworks.com/help/deeplearning/ug/setting-up-parameters-and-training-of-a-convnet.html){:target="_blank"}
 * [Deep Learning Tips and Tricks](https://www.mathworks.com/help/deeplearning/ug/deep-learning-tips-and-tricks.html){:target="_blank"}
 * [Data Sets for Deep Learning](https://www.mathworks.com/help/deeplearning/ug/data-sets-for-deep-learning.html){:target="_blank"}
-* [Matlab, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
+* [MATLAB, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
 
-# Development Tool
+## Development Tool
 ## Python
 * [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"} 
 
@@ -58,6 +59,5 @@ conda list
 ```
 conda install -c conda-forge tensorflow=1.13
 ```
-
 
 

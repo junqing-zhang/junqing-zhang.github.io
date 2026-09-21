@@ -1,0 +1,75 @@
+// =============================================================
+// Design Tokens — Editorial Academic
+// =============================================================
+
+:root {
+  // Accent. Set `accent_color` in _config.yml (it overrides --accent-base);
+  // every other accent variable is derived from it so light and dark mode
+  // both stay readable whatever color is chosen.
+  --accent-base: #1a7a6d;
+  --accent: var(--accent-base);
+  --accent-hover: color-mix(in srgb, var(--accent-base) 82%, black);
+  --accent-light: color-mix(in srgb, var(--accent-base) 8%, transparent);
+  --on-accent: #ffffff;           // text placed on a solid accent background
+
+  // Light mode — warm parchment tones
+  --bg-primary: #f8f6f1;
+  --bg-secondary: #f0ece4;
+  --bg-card: #ffffff;
+  --text-primary: #2c2a25;
+  --text-secondary: #5c5850;
+  --text-muted: #6f6a61;
+  --border-color: #e2ded6;
+  --shadow-sm: 0 1px 3px rgba(44, 42, 37, 0.06);
+  --shadow-md: 0 4px 12px rgba(44, 42, 37, 0.08);
+  --shadow-lg: 0 8px 24px rgba(44, 42, 37, 0.1);
+  --shadow-navbar: 0 1px 4px rgba(44, 42, 37, 0.1);
+
+  // Layout
+  --container-max: 1100px;
+  --container-padding: 1.5rem;
+
+  // Spacing scale
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  // Border radius
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-full: 9999px;
+
+  // Transitions
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 400ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+// Dark mode — rich warm dark
+[data-bs-theme="dark"] {
+  // Lighten the accent so text and pills meet WCAG AA on dark surfaces
+  --accent: color-mix(in srgb, var(--accent-base) 62%, white);
+  --accent-hover: color-mix(in srgb, var(--accent-base) 45%, white);
+  --accent-light: color-mix(in srgb, var(--accent-base) 14%, transparent);
+  --on-accent: #1c1b18;
+
+  --bg-primary: #1c1b18;
+  --bg-secondary: #262520;
+  --bg-card: #2a2924;
+  --text-primary: #e8e4dc;
+  --text-secondary: #b5b0a5;
+  --text-muted: #9a958a;
+  --border-color: #3d3a33;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.35);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.4);
+  --shadow-navbar: 0 1px 4px rgba(0, 0, 0, 0.4);
+}

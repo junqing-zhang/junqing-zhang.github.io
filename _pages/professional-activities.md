@@ -1,38 +1,37 @@
 ---
-layout: archive
+layout: page
 title: "Professional Activities"
 permalink: /professional-activities/
-author_profile: true
+description: "Editorial appointments, conference leadership, workshops, reviewing, invited talks, and public engagement by Dr Junqing Zhang."
 toc: true
-toc_max_header: 1
 ---
 {% include toc h_min = 1%}
 
 
 
-# Editorship
+## Editorship
 * Senior Area Editor of IEEE Transactions on Information Forensics and Security (July 2024 to present)
 * Associate Editor of IEEE Transactions on Mobile Computing (October 2024 to present)
 
-# COST Action 6G-PHYSEC
+## COST Action 6G-PHYSEC
 [CA22168 - Physical layer security for trustworthy and resilient 6G systems (6G-PHYSEC)](https://6gphysec.org/){:target="_blank"}
 * Co-leader of Working Group 5 - Experiments and demonstrations
 * Delivered three tutorials on physical layer security for the second Training School in 2024 and one tutorial in 2026.
 
-# Tutorial
+## Tutorial
 * Radio-frequency authentication and fingerprinting: a signal processing perspective, Stefano Tomasin & Francesco Ardizzon, Junqing Zhang at EUSIPCO 2026
 
-# Technical Conference Co-Chair
+## Technical Conference Co-Chair
 * Co-Chairs of Communication and Information Security Symposium at [IEEE International Conference on Communications (ICC) 2027](https://icc2027.ieee-icc.org/call-symposium-papers){:target="_blank"}
 * Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN) Symposium at [International Conference on Computing, Networking and Communications (ICNC 2026)](http://www.conf-icnc.org/2026/){:target="_blank"}
 * Co-Chairs of AI and Machine Learning for Communications and Networking (AMCN) Symposium at [International Conference on Computing, Networking and Communications (ICNC 2025)](http://www.conf-icnc.org/2025/){:target="_blank"}
 * Co-Chairs of Signal Processing for Communications Symposium at [IEEE International Conference on Communications (ICC) 2023](https://icc2023.ieee-icc.org/authors/call-symposium-papers){:target="_blank"}
 * Co-Chairs of Wireless Networking and Multimedia Symposium at IEEE/CIC International Conference on Communications in China 2022
 
-# Workshop Co-Chair
+## Workshop Co-Chair
 ## DeepWireless Workshop
 [Google sites](https://sites.google.com/view/deepwireless-workshop/){:target="_blank"}
-* [IEEE INFOCOM 2026 Fourth DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](){:target="_blank"}
+* [IEEE INFOCOM 2026 Fourth DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2026.ieee-infocom.org/workshops){:target="_blank"}
 * [IEEE INFOCOM 2025 Third DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2025.ieee-infocom.org/3rd-workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless-call-papers){:target="_blank"}
 * [IEEE INFOCOM 2024 Second DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2024.ieee-infocom.org/second-deepwireless-workshop-deep-learning-wireless-communications-sensing-and-security-call-papers){:target="_blank"}
 * [IEEE INFOCOM 2023 First DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
@@ -60,7 +59,7 @@ toc_max_header: 1
 * IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
 
 
-# TPC Member
+## TPC Member
 * IEEE INFOCOM 2025, 2026, 2027
 * IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS) 2025, 2026
 * IEEE Conference on Communications and Network Security (IEEE CNS) 2025, 2026
@@ -77,7 +76,7 @@ toc_max_header: 1
 * IEEE Vehicular Technology Conference (VTC) 2017 Spring Recent Results and Workshops - W5: Wireless Access Technologies and Architectures for Internet of Things (IoT) Applications
 * IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security, 2016, 2017
 
-# Technical Reviewer
+## Technical Reviewer
 **Proposal**
 * UK EPSRC
 * Vietnam National Foundation for Science and Technology Development (NAFOSTED) 2018
@@ -135,21 +134,21 @@ Please check my review record at [Publons](https://publons.com/researcher/302137
 * European Conference on Networks and Communications (EuCNC) 2019
 
 
-# Public Engagement
+## Public Engagement
 ## STEM for BRITAIN 2017
 * **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
 * STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
-# Tutorial
+## Tutorial
 * Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
 
-# Invited Talk
-* IEEE Signal Processing Society (SPS) Webinar, Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification, 16 September 2026 [link](https://signalprocessingsociety.org/events/sps-webinar-radio-frequency-fingerprint-identification-narrowband-systems-modelling-and){:target="_blank"}.
-* IEEE Signal Processing Society (SPS) Webinar, Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa, 11 June 2025 [link](https://landing.signalprocessingsociety.org/jun-11-2025){:target="_blank"}.
+## Invited Talk
+* IEEE Signal Processing Society (SPS) Webinar, Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification, 16 September 2026 [External resource](https://signalprocessingsociety.org/events/sps-webinar-radio-frequency-fingerprint-identification-narrowband-systems-modelling-and){:target="_blank"}.
+* IEEE Signal Processing Society (SPS) Webinar, Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa, 11 June 2025 [External resource](https://landing.signalprocessingsociety.org/jun-11-2025){:target="_blank"}.
 * Invited by Prof Maire O’Neill to give a talk to CSIT DTP Spring School at Queen’s University
-Belfast, 9 April 2025 [link](https://www.qub.ac.uk/research-centres/csit/innovation-and-partnerships/cyber-ai-hub/csit-dtp/springschool/#agenda-day-1-wednesday-9th-april-2025-3529288-1){:target="_blank"}.
-* Invited by Prof Xianbin Wang to give a talk to IEEE ComSoc Canada London and Toronto Sections,  3 March 2025 [link](https://events.vtools.ieee.org/m/469987){:target="_blank"}.
-* Invited by Prof Marco Gomes to give a talk to IEEE ComSoc and IEEE VTS Portugal Chapter,  23 October 2024 [link](https://events.vtools.ieee.org/m/440638){:target="_blank"}.
+Belfast, 9 April 2025 [External resource](https://www.qub.ac.uk/research-centres/csit/innovation-and-partnerships/cyber-ai-hub/csit-dtp/springschool/#agenda-day-1-wednesday-9th-april-2025-3529288-1){:target="_blank"}.
+* Invited by Prof Xianbin Wang to give a talk to IEEE ComSoc Canada London and Toronto Sections,  3 March 2025 [External resource](https://events.vtools.ieee.org/m/469987){:target="_blank"}.
+* Invited by Prof Marco Gomes to give a talk to IEEE ComSoc and IEEE VTS Portugal Chapter,  23 October 2024 [External resource](https://events.vtools.ieee.org/m/440638){:target="_blank"}.
 * Invited by Dr. Weitao Xu to give a talk at City University of Hong Kong, 8 December 2023
 * Invited by Prof. Stefano Tomasin to give a talk at University of Padova, Italy, 9 November 2023
 * Invited by Prof. Eduard  Jorswieck to give a talk at Technische Universität Braunschweig, Germany, 7 November 2023
@@ -176,6 +175,6 @@ Belfast, 9 April 2025 [link](https://www.qub.ac.uk/research-centres/csit/innovat
 * Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec., 2016
 * Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec., 2016
 
-# Poster Presentation
+## Poster Presentation
 * Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019
 * Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept., 2017

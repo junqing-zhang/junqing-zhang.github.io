@@ -1,17 +1,14 @@
 ---
+layout: page
+research_section: wifi-sensing
 title: "Wi-Fi Sensing"
-permalink: /research/wifi-sensing/wifi-sensing-main-page/
+description: "An overview of Wi-Fi Sensing, including research topics, publications, datasets, resources, and projects."
+permalink: /research/wifi-sensing/
 ---
 
-<br />
-<img align="center" width="1000" src="/research/wifi-sensing/images/WirelessSensingSystemModel.png" alt="...">
-<br />
-Figure from [https://arxiv.org/pdf/2203.02014.pdf](https://arxiv.org/pdf/2203.02014.pdf){:target="_blank"}
+{% include research-nav.html section="wifi-sensing" %}
 
-
-Wi-Fi Sensing
-* [Wi-Fi Sensing Overview](/research/wifi-sensing/wifi-sensing-overview/)
-* [Wi-Fi Sensing Recommended Reading List](/research/wifi-sensing/wifi-sensing-recommended-reading/)
-* [Wi-Fi Sensing Dataset](/research/wifi-sensing/wifi-sensing-dataset/)
-* [Wi-Fi Sensing Resources](/research/wifi-sensing/wifi-sensing-resources/)
-* [Wi-Fi Sensing at University of Liverpool](/research/wifi-sensing/wifi-sensing-pub/)
+<figure class="content-figure">
+  <img src="{{ '/research/wifi-sensing/images/WirelessSensingSystemModel.webp' | relative_url }}" alt="Wi-Fi sensing system using changes in wireless propagation to recognise activities" width="1000" height="545" loading="lazy">
+  <figcaption>Wi-Fi sensing system model. <a href="https://arxiv.org/pdf/2203.02014.pdf" target="_blank" rel="noopener">Source</a>.</figcaption>
+</figure>

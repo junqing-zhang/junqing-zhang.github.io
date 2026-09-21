@@ -1,0 +1,63 @@
+// Semantic figures and data tables used in page content.
+
+.content-figure {
+  margin: var(--space-6) auto;
+  text-align: center;
+
+  img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-inline: auto;
+    border-radius: var(--radius-md);
+  }
+
+  figcaption {
+    max-width: 70ch;
+    margin: var(--space-2) auto 0;
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+}
+
+.content-figure--medium { max-width: 700px; }
+.content-figure--narrow { max-width: 420px; }
+
+// Tables generated from Markdown do not receive Bootstrap utility classes, so
+// borders and spacing are applied directly to all tables within page content.
+.site-container table {
+  width: 100%;
+  margin: var(--space-5) 0;
+  border: 1px solid var(--border-color);
+  border-collapse: collapse;
+  color: var(--text-primary);
+  font-size: 0.9375rem;
+
+  th,
+  td {
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--border-color);
+    text-align: left;
+    vertical-align: top;
+  }
+
+  th {
+    background: var(--bg-secondary);
+    font-weight: 700;
+  }
+
+  tbody tr:nth-child(even) {
+    background: color-mix(in srgb, var(--bg-card) 92%, var(--accent) 8%);
+  }
+}
+
+@media (max-width: 640px) {
+  .site-container table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}

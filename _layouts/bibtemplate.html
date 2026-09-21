@@ -1,0 +1,51 @@
+---
+---
+
+{% comment %}
+  Keep this template O(1) per publication. Jekyll Scholar renders it once per
+  entry, so looping over site.static_files here creates quadratic build cost
+  and eventually exhausts Liquid's resource limit. The custom filter builds a
+  static-file index once and performs an O(1) lookup for each PDF field.
+{% endcomment %}
+{% assign ref = reference | strip_ieee_number %}
+{% if site.scholar.last_name and site.scholar.first_name %}
+  {% assign bolded = false %}
+  {% for first in site.scholar.first_name %}
+    {% unless bolded %}
+      {% capture me %}{{ site.scholar.last_name }}, {{ first }}{% endcapture %}
+      {% if ref contains me %}
+        {% capture me_bold %}<b>{{ me }}</b>{% endcapture %}
+        {% assign ref = ref | replace: me, me_bold %}
+        {% assign bolded = true %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+{% endif %}
+
+{% assign arxiv_id = entry.arxiv %}
+{% if arxiv_id == nil or arxiv_id == "" %}
+  {% if entry.type == 'unpublished' and entry.doi %}{% assign arxiv_id = entry.doi %}{% endif %}
+{% endif %}
+{% assign pdf_path = entry.file | publication_pdf_path %}
+
+<div class="pub-entry" data-pub-searchable>
+  {% if entry.year %}<span class="year-badge">{{ entry.year }}</span>{% endif %}
+  <div class="pub-reference">{{ ref }}</div>
+
+  <div class="pub-actions">
+    {% if pdf_path %}<a class="btn-pill btn-pdf" href="{{ pdf_path | relative_url }}">PDF</a>{% endif %}
+    {% if entry.doi and entry.type != 'unpublished' %}<a class="btn-pill btn-doi" href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>{% endif %}
+    {% if arxiv_id %}<a class="btn-pill btn-arxiv" href="https://arxiv.org/abs/{{ arxiv_id }}" target="_blank" rel="noopener noreferrer">arXiv</a>{% endif %}
+    {% if entry.url %}<a class="btn-pill btn-link" href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">Link</a>{% endif %}
+    {% if entry.code %}<a class="btn-pill btn-code" href="{{ entry.code }}" target="_blank" rel="noopener noreferrer">Code</a>{% endif %}
+    {% if entry.data %}<a class="btn-pill btn-data" href="{{ entry.data }}" target="_blank" rel="noopener noreferrer">Data</a>{% endif %}
+    {% if entry.slides %}<a class="btn-pill btn-slides" href="{{ entry.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>{% endif %}
+    {% if entry.video %}<a class="btn-pill btn-video" href="{{ entry.video }}" target="_blank" rel="noopener noreferrer">Video</a>{% endif %}
+    {% if entry.poster %}<a class="btn-pill btn-poster" href="{{ entry.poster }}" target="_blank" rel="noopener noreferrer">Poster</a>{% endif %}
+    <button class="btn-pill btn-bib" type="button" data-toggle-target="bib-{{ entry.key }}">BibTeX</button>
+    {% if entry.abstract %}<button class="btn-pill btn-abstract" type="button" data-toggle-target="abstract-{{ entry.key }}">Abstract</button>{% endif %}
+  </div>
+
+  <div class="pub-collapse" id="bib-{{ entry.key }}"><pre>{{ entry.bibtex }}</pre></div>
+  {% if entry.abstract %}<div class="pub-collapse" id="abstract-{{ entry.key }}"><div>{{ entry.abstract }}</div></div>{% endif %}
+</div>

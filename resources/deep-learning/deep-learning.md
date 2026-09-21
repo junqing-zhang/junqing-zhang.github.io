@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Deep Learning and Machine Learning'
 date: 2026-06-24
 permalink: /resources/deep-learning/
@@ -7,10 +8,10 @@ categories:
   - Deep Learning  
 tags:
   - Deep Learning
-  - Machine Learning  
+  - Machine Learning
 ---
 
-This paper summarizes resources for deep learning for beginners.
+This page provides introductory deep-learning resources for beginners.
 
 Deep Learning Tutorials. 
 - [Module 0 — Environment Setup (Beginner Guide)](/resources/deep-learning/dl-series-environment-setup/)
@@ -27,5 +28,4 @@ Resources
 * [Deep Learning Resources](/resources/deep-learning/dl-resources/)
 * [Machine Learning for Beginners](/resources/deep-learning//ml/)
 * [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/)
-
 

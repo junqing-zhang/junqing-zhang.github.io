@@ -1,20 +1,21 @@
 ---
-title: 'Software Defined Radio'
+layout: page
+title: 'Software-Defined Radio'
 date: 2025-08-30
 permalink: /resources/sdr/
 categories:
   - Resources
   - Wireless  
-  - Software Defined Radio
+  - Software-Defined Radio
 tags:
-  - Software Defined Radio
+  - Software-Defined Radio
 ---
 
-This page summarizes information for software defined radio (SDR).
+This page summarises information for software defined radio (SDR).
 
 {% include toc %}
 
-# SDR Platforms
+## SDR Platforms
 * [Universal Software Radio Peripheral (USRP)](/resources/sdr/usrp/)
 * [Analog Devices SDR](/resources/sdr/sdr-adi/)
 * [LimeSDR](/resources/sdr/limesdr/)
@@ -22,13 +23,13 @@ This page summarizes information for software defined radio (SDR).
 * [PlutoSDR](/resources/sdr/plutosdr/)
 
 
-# Overview
+## Overview
 *Radio components such as modulators, demodulators and tuners are traditionally implemented in hardware components. The advent of modern computing and analogue to digital converters allows most of these traditionally hardware based components to be implemented into software instead. Hence, the term software defined radio. This enables easy signal processing and thus cheap wide band scanner radios to be produced.* (quoted from [https://www.rtl-sdr.com/about-rtl-sdr/](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"})
 
-An good (though not the latest) introduction on the SDR is available [here](http://www.taylorkillian.com/2013/08/sdr-showdown-hackrf-vs-bladerf-vs-usrp.html){:target="_blank"}. 
+An good (though not the latest) introduction on the SDR is available [External resource](http://www.taylorkillian.com/2013/08/sdr-showdown-hackrf-vs-bladerf-vs-usrp.html){:target="_blank"}. 
 
-# Hardware
-There are many SDR platforms available on the market, with different specifications and prices. A comprehensive list can be found at [here](https://wiki.gnuradio.org/index.php/Hardware){:target="_blank"}
+## Hardware
+There are many SDR platforms available on the market, with different specifications and prices. A comprehensive list can be found at [GNU Radio resource](https://wiki.gnuradio.org/index.php/Hardware){:target="_blank"}
 
 A comparison between different SDR is produced by LimeSDR and quoted here. Source: [https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table](https://www.crowdsupply.com/lime-micro/limesdr-mini#comparison-table){:target="_blank"}
 
@@ -49,7 +50,7 @@ A comparison between different SDR is produced by LimeSDR and quoted here. Sourc
 | Transmit Power           | -10 dBm+ (15 dBm @ 2.4 GHz) | 10 dBm+             | 10 dBm+             | 6 dBm               | N/A              | max 10 dBm (depending on freq.)   | max 10 dBm (depending on freq.)     |
 | Price                    | $299                        | $686                | $1,119              | $420                | ~$10             | $299                              | $159                                |
 
-# Development Tool
+## Development Tool
 
 ## GNU Radio
 [Tutorial](https://wiki.gnuradio.org/index.php/Tutorials){:target="_blank"}
@@ -58,18 +59,18 @@ A comparison between different SDR is produced by LimeSDR and quoted here. Sourc
 * [LoRa PHY based on GNU Radio](https://www.epfl.ch/labs/tcl/resources-and-sw/lora-phy/){:target="_blank"}
 
 
-## Matlab
+## MATLAB
 * Supported Devices: USRP, Zynq SDR, RTL-SDR, and Adalm PlutoSDR
-* [Matlab Link](https://uk.mathworks.com/discovery/sdr.html){:target="_blank"}
+* [MATLAB Link](https://uk.mathworks.com/discovery/sdr.html){:target="_blank"}
 
 ## Python
 Some SDR also supports Python. Check Chapters 5-9 in the Book [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}.
 
 
 
-# Resources
+## Resources
 ## Books
 * [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}
-* [Software Defined Radio with Zynq UltraScale+ RFSoC](https://www.rfsocbook.com/){:target="_blank"}
+* [Software-Defined Radio with Zynq UltraScale+ RFSoC](https://www.rfsocbook.com/){:target="_blank"}
 * [Software-Defined Radio for Engineers, 2018](https://www.analog.com/en/resources/technical-books/software-defined-radio-for-engineers.html){:target="_blank"}
 

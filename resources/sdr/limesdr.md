@@ -1,22 +1,23 @@
 ---
-title: 'Software Defined Radio - LimeSDR'
+layout: page
+title: 'Software-Defined Radio - LimeSDR'
 date: 2025-08-30
 permalink: /resources/sdr/limesdr/
 categories:
   - Resources
   - Wireless  
-  - Software Defined Radio
+  - Software-Defined Radio
 tags: 
   - LimeSDR
 ---
 
-This paper summarizes resources for LimeSDR
+This page provides setup guides, software, and learning resources for LimeSDR.
 
 {% include toc %}
 
-# Overview
+## Overview
 
-# Getting Started
+## Getting Started
 ## Step 1: Hardware and Software Setup
 [Getting Started with the LimeSDR](https://wiki.myriadrf.org/Getting_Started_with_the_LimeSDR){:target="_blank"}
 * Hardware assembly: [https://wiki.myriadrf.org/LimeSDR_Hardware_Installation](https://wiki.myriadrf.org/LimeSDR_Hardware_Installation){:target="_blank"} 
@@ -27,8 +28,8 @@ This completes the hardware and software setup.
 ## Step 2: LimeSDR-USB Quick Test
 * [LimeSDR-USB Quick Test](https://wiki.myriadrf.org/LimeSDR-USB_Quick_Test){:target="_blank"}
 
-# Tutorial
+## Tutorial
 * [LimeSDR Made Simple](https://wiki.myriadrf.org/LimeSDR_Made_Simple){:target="_blank"}. The webpage does not give a full list of the tutorial series, google search "LimeSDR Made Simple"
 
 
-Return to the Main Page of [Software Defined Radio](/resources/sdr/).
+Return to the Main Page of [Software-Defined Radio](/resources/sdr/).

@@ -1,0 +1,11 @@
+{% assign research_nav = site.data.research_navigation[include.section] %}
+{% if research_nav %}
+<nav class="research-subnav" aria-label="{{ research_nav.title }} section navigation" markdown="0">
+<a class="research-subnav-home{% if page.url == research_nav.main_url %} active{% endif %}" href="{{ research_nav.main_url | relative_url }}"{% if page.url == research_nav.main_url %} aria-current="page"{% endif %}>{{ research_nav.title }}</a>
+<div class="research-subnav-links">
+{% for item in research_nav.items %}
+<a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.label }}</a>
+{% endfor %}
+</div>
+</nav>
+{% endif %}

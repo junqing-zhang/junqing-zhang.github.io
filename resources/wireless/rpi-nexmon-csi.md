@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'HowTo: Nexmon CSI Tool'
 date: 2022-07-22
 permalink: /resources/wireless/rpi-nexmon-csi/
@@ -10,11 +11,10 @@ tags:
   - Nexmon CSI
 ---
 
-This paper summarizes resources for Nexmon CSI.
+This page provides resources for collecting Wi-Fi channel state information using Nexmon CSI on Raspberry Pi platforms.
 
 {% include toc %}
 
-# Overview
+## Overview
 
-# Installation for Raspberry Pi 4
-
+## Installation for Raspberry Pi 4

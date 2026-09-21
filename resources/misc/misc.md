@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Miscellaneous'
 date: 2026-06-30
 permalink: /resources/misc/
@@ -8,7 +9,7 @@ tags:
   - Resources
 ---
 
-This page summarizes resources related to research.
+This page summarises resources related to research.
 
 {% include toc %}
 
