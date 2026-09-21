@@ -2,7 +2,7 @@ name: Build and Deploy
 
 on:
   push:
-    branches: [source]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
