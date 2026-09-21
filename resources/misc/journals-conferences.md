@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Journals and Conferences of Communications, Networking, Computing and Security'
 date: 2023-08-14
 permalink: /resources/misc/journals-conferences/
@@ -8,16 +9,16 @@ tags:
   - Resources
 ---
 
-This page summarizes the journals and conferences for communications, computing and security.
+This page summarises the journals and conferences for communications, computing and security.
 
 {% include toc %}
 
-# Overview
+## Overview
 Journals can be mainly categorized into survey/tutorial-based and technical contribution-based. The latter can be further divided into regular papers (usually longer than eight pages) and letters (less than five pages).
 
-A full list of the magazines and journals of the IEEE Communications Society can be found [here](https://www.comsoc.org/publications/submit-paper){:target="_blank"}.
+A full list of the magazines and journals of the IEEE Communications Society can be found [External resource](https://www.comsoc.org/publications/submit-paper){:target="_blank"}.
 
-# Survey/Tutorial
+## Survey/Tutorial
 Survey and tutorial summarize the recent progress of a particular research area. Read these articles will help grab an overall understanding of the topic, which is very helpful, in particular to beginners.
 
 An differentiation between tutorial and survey can be found at the [information for authors of IEEE Communications Surveys and Tutorials](https://www.comsoc.org/publications/journals/ieee-comst/ieee-communications-surveys-tutorials-submit-manuscript){:target="_blank"}. Generally speaking, survey articles aim to provide a comprehensive coverage while tutorial is usually written in a technical-light manner, to be understood even by non-expert.
@@ -42,7 +43,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * Proceedings of IEEE
 * IEEE Access (accept both survey/tutorial and technical papers)
 
-# Technical Contributions
+## Technical Contributions
 ## Regular Paper
 **Communications and Networking**
 * IEEE Journal on Selected Areas in Communications (JSAC)
@@ -83,7 +84,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Networking Letters
 * IEEE Transactions on Vehicular Technology Correspondence
 
-# Conferences
+## Conferences
 ## ACM
 * SIGCOMM Conference
 * MobiCom: The Annual International Conference on Mobile Computing and Networking (double blind review)
@@ -115,7 +116,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * USENIX Security
 * Network and Distributed System Security Symposium (NDSS)
 
-# Note
+## Note
 * Most of the journals and conferences undergo single blind review process, i.e., the authors' information is available to the reviewers. Some journals, e.g., IEEE TMC, let the authors choose single blind or double blind. Some conferences, e.g., MobiCom, INFOCOM, use double blind review.
 * Most IEEE conferences, IEEE GLOBECOM, ICC, etc., limit the submissions to six pages. 
 

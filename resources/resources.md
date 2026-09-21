@@ -1,20 +1,20 @@
 ---
-layout: archive
+layout: page
 title: "Research and Technical Resources"
 permalink: /resources/
-author_profile: true
+description: "Technical resources for software-defined radio, wireless communications, deep learning, machine learning, and academic research."
 toc: true
 ---
 
 
-# Software Defined Radio
-Please visit [Software Defined Radio](/resources/sdr/)
+## Software-Defined Radio
+Please visit [Software-Defined Radio](/resources/sdr/)
 
-# Wireless Communication Technologies
+## Wireless Communication Technologies
 Please visit [Wireless Communication Technologies](/resources/wireless/)
 
-# Deep Learning and Machine Learning
+## Deep Learning and Machine Learning
 Please visit [Deep Learning and Machine Learning](/resources/deep-learning/)
 
-# Miscellaneous
+## Miscellaneous
 Please visit [Miscellaneous](/resources/misc/)

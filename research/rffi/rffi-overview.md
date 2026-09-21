@@ -1,8 +1,10 @@
 ---
-title: "Radio Frequency Fingerprint Identification"
+layout: page
+research_section: rffi
+title: "Radio-Frequency Fingerprint Identification"
+description: "An introduction to Radio-Frequency Fingerprint Identification, covering its principles, methods, and research applications."
 permalink: /research/rffi/rffi-overview/
 date: 2020-10-22
-author_profile: true
 toc: true
 categories:
   - Research
@@ -11,18 +13,19 @@ tags:
   - RFFI
 ---
 
+{% include research-nav.html section="rffi" %}
+
 
 
 This page introduces the background of Radio Frequency Fingerprinting Identification.
 
-# Overview
+## Overview
 
-<br />
-<br/><img src='/research/rffi/images/RFFI_DL.png'>
-<br />
+<figure class="content-figure">
+  <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" alt="Deep learning-based radio-frequency fingerprint identification workflow" width="1349" height="890" loading="lazy">
+  <figcaption>Deep-learning-based radio-frequency fingerprint identification workflow.</figcaption>
+</figure>
 
-# Training
-# Classification
+## Training
+## Classification
 
-
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).

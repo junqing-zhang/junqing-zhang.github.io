@@ -1,0 +1,55 @@
+---
+---
+
+
+// Fonts (self-hosted)
+@import "base/fonts";
+
+// Bootstrap 5.3 SCSS — only the modules the markup uses (navbar, reboot,
+// utilities, grid). Bootstrap's JavaScript is not used.
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/variables-dark";
+@import "bootstrap/maps";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/containers";
+@import "bootstrap/grid";
+@import "bootstrap/tables";
+@import "bootstrap/transitions";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "bootstrap/utilities/api";
+
+// Base
+@import "base/variables";
+@import "base/reset";
+@import "base/typography";
+@import "base/icons";
+
+// Components
+@import "components/card";
+@import "components/navbar";
+@import "components/buttons";
+@import "components/footer";
+@import "components/profile";
+@import "components/publication";
+@import "components/search";
+@import "components/chips";
+@import "components/navigation";
+@import "components/content";
+
+// Layouts
+@import "layouts/grid";
+@import "layouts/home";
+@import "layouts/team";
+@import "layouts/research";
+
+// Utilities
+@import "utilities/dark-mode";
+@import "utilities/animations";
+@import "utilities/print";

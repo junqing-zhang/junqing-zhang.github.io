@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'How to Write a (Good) Paper'
 date: 2020-08-28
 permalink: /resources/misc/writing-good-papers/
@@ -13,24 +14,24 @@ As a researcher, it is important to write good journal and conference papers. Th
 
 {% include toc %}
 
-# How to Write a Paper
+## How to Write a Paper
 ## Information for Authors
 Each journal and conference will have information for authors, which will explain the requirements in terms of the number of pages, format, resubmission, page overlength charge, etc.
 
-For example, the information for authors of IEEE Transactions on Wireless Communications can be found [here](https://www.comsoc.org/publications/journals/ieee-twc/submit-manuscript){:target="_blank"}.
+For example, the information for authors of IEEE Transactions on Wireless Communications can be found [External resource](https://www.comsoc.org/publications/journals/ieee-twc/submit-manuscript){:target="_blank"}.
 
 ## Template
-Each journal and conference will usually have both Word and Latex templates. When possible, the Latex templates are always recommended. Please read [this post](https://junqing-zhang.github.io/posts/2020/01/blog-post-latex/) for How to Use LaTex.
+Each journal and conference will usually have both Word and LaTeX templates. When possible, the LaTeX templates are always recommended. Please read [this post](https://junqing-zhang.github.io/posts/2020/01/blog-post-latex/) for How to Use LaTex.
 
-Please note that IEEE journals will have different templates. Download your right template from [here](https://template-selector.ieee.org/secure/templateSelector/publicationType){:target="_blank"}.
+Please note that IEEE journals will have different templates. Download your right template from [External resource](https://template-selector.ieee.org/secure/templateSelector/publicationType){:target="_blank"}.
 
 
 ## Extending Conference Paper to Journal
 There may be different rules for journals regarding extending a conference paper. Please refer to the website of the particular journal for detailed instruction.
 
-For example, the policy of IEEE Transactions on Wireless Communications can be found [here](https://www.comsoc.org/publications/journals/ieee-transactions-wireless-communications/conference-vs-journal){:target="_blank"}.
+For example, the policy of IEEE Transactions on Wireless Communications can be found [External resource](https://www.comsoc.org/publications/journals/ieee-transactions-wireless-communications/conference-vs-journal){:target="_blank"}.
 
-# How to Write a Good Paper
+## How to Write a Good Paper
 
 ## Tips
 * [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html){:target="_blank"} 
@@ -60,5 +61,5 @@ Abstract
 > * 2-3 sentences summarizing the implications of the findings on the wider field of AI.
 
 
-# Understand the Review Process
+## Understand the Review Process
 * [the Reviewers Guidelines of IEEE Transactions on Wireless Communications](https://www.comsoc.org/publications/journals/ieee-twc/reviewers-guidelines){:target="_blank"}

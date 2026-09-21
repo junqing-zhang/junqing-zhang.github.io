@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Machine Lerning for Commmunciations"
 date: 2019-07-25
 permalink: /resources/misc/ml4comm/
@@ -8,6 +9,6 @@ categories:
 tags:
   - Machine Learning
 ---
-This page summarizes some publication in the area of machine learning.
+This page presents selected publications on machine learning for communications.
 
 [Machine Learning for Communications Emerging Technology Initiative](https://mlc.committees.comsoc.org/research-library/), IEEE Communication Society

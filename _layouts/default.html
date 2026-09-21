@@ -1,32 +1,20 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
 
-{% include base_path %}
+  {% include head.html %}
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-	{% seo %}
-    {% include head/custom.html %}
-  </head>
+  <body data-baseurl="{{ site.baseurl }}">
+    <a class="skip-link" href="#main">Skip to content</a>
+    {% include icons.svg %}
 
-  <body>
+    {% include header.html %}
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    <main id="main" class="site-container">
+      {{ content }}
+    </main>
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
+    {% include footer.html %}
 
   </body>
+
 </html>

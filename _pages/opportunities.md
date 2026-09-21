@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: page
+show_last_updated: true
 title: "Opportunities"
 permalink: /opportunities/
-author_profile: true
+description: "PhD, postdoctoral fellowship, and visiting researcher opportunities in wireless security and sensing at the University of Liverpool."
 toc: true
 ---
 I am a member of the Advanced Networks Research Group at the University of Liverpool. Our group comprises five academic staff and has strong expertise in wireless communications, wireless security and trust, artificial intelligence for communications, signal processing for communications, 5G and beyond, and embedded system design. We warmly welcome opportunities for research collaboration and academic visits.
@@ -11,11 +12,11 @@ I am always interested in hearing from excellent and highly motivated prospectiv
 
 * Wireless Security
 	* Physical Layer Security
-	* [Key Generation From Wireless Channels](/research/keygen/keygen_main_page/)
-	* [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/)
-	* [Physical Layer Authentication](/research/phy-auth/phy-auth-main-page/)
+	* [Key Generation From Wireless Channels](/research/keygen/)
+	* [Radio-Frequency Fingerprint Identification](/research/rffi/)
+	* [Physical-Layer Authentication](/research/phy-auth/)
 * Wireless sensing
-	* [Wi-Fi Sensing](/research/wifi-sensing/wifi-sensing-main-page/)
+	* [Wi-Fi Sensing](/research/wifi-sensing/)
 	* mmWave Radar Sensing
 
 I am also very keen to explore new research directions and interdisciplinary applications related to wireless communications, security, and sensing.
@@ -25,10 +26,10 @@ If you are interested in joining or visiting our research group, please feel fre
 
 {% include toc %}
 
-# Opening
+## Opening
 We welcome PhD applications throughout the year. If you are interested in pursuing a PhD under my supervision, please feel free to contact me with your CV and academic transcripts.
 
-# PhD Admission Requirements
+## PhD Admission Requirements
 Prospective applicants should check the University of Liverpool's official academic and English language requirements before applying.
 
 Note: A Master's degree is not compulsory for admission to a PhD programme at the University of Liverpool. Applicants with a suitable Bachelor's degree may apply directly for PhD study.
@@ -53,13 +54,13 @@ Applicants are required to provide evidence of English language proficiency. The
 
 Please note that the English language requirement applies to both full PhD applicants and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
 
-# How to Apply
+## How to Apply
 We accept PhD applications year-round, with flexible start dates once an unconditional offer has been received.
 
 * Visit [How to apply](https://www.liverpool.ac.uk/postgraduate-research/how-to-apply/){:target="_blank"}
-* Prepare all the application documents. Check [this link](https://www.liverpool.ac.uk/postgraduate-research/how-to-apply/research-proposal/){:target="_blank"} for how to prepare a research proposal
+* Prepare all the application documents. Check [University of Liverpool guidance](https://www.liverpool.ac.uk/postgraduate-research/how-to-apply/research-proposal/){:target="_blank"} for how to prepare a research proposal
 
-# China Scholarship Council for PhD Students 
+## China Scholarship Council for PhD Students 
 We are proud to be a partner of the China Scholarship Council (CSC) scholarship programme. This scholarship provides comprehensive financial support: the University of Liverpool waives the international tuition fees, while the CSC provides a living allowance.
 
 The application will open every year around October. Please note this is a three-step application. 
@@ -73,14 +74,13 @@ For more information please check [our university website](https://www.liverpool
 
 CSC also provides funding opportunities for visiting PhD students and visiting scholars. The application process differs from that for full PhD scholarships. Please contact us if you are interested in these opportunities.
 
-# Fellowships for Post-Doc
+## Fellowships for Post-Doc
 The School of Computer Science and Informatics hosts numerous staff members awarded prestigious personal fellowships and is strongly committed to attracting and retaining more fellows in the future.   
 
-Please visit this [link](https://www.liverpool.ac.uk/computer-science-and-informatics/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
+Please visit this [University of Liverpool guidance](https://www.liverpool.ac.uk/computer-science-and-informatics/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
 
 ## Newton International Fellowships 
 The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and closes in March. Please contact us if you are interested.
 
 ## Marie Skłodowska-Curie Postdoctoral Fellowship
 The [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships){:target="_blank"} will close on 9 September 2026.
-

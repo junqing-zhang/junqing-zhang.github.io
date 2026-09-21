@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Resources for Bluetooth Low Energy'
 date: 2024-03-03
 permalink: /resources/wireless/bluetooth/
@@ -10,33 +11,33 @@ tags:
   - Bluetooth
 ---
 
-This page summarizes resources for Classic Bluetooth and Bluetooth Low Energy. It is still under active update.
+This page summarises resources for Classic Bluetooth and Bluetooth Low Energy. It is still under active update.
 
 {% include toc %}
 
-# Overview
+## Overview
 There is some confusion about the Bluetooth. Generally speaking, Bluetooth 1.0 - 3.0 includes classic Bluetooth. Bluetooth 4.0 starts to use Bluetooth Low Energy (BLE). A brief introduction about their difference can be found at [link1](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/radio-versions/){:target="_blank"}, [link2](https://blog.nordicsemi.com/getconnected/the-difference-between-classic-bluetooth-and-bluetooth-low-energy){:target="_blank"} and [link3](https://www.semiconductorstore.com/blog/2018/Bluetooth-1-0-vs-2-0-vs-3-0-vs-4-0-vs-5-0-How-They-Differ-Symmetry-Blog/3147/){:target="_blank"}.
 
-New features of Bluetooth 5 can be found [here](https://www.bluetooth.com/bluetooth-resources/bluetooth-5-go-faster-go-further/){:target="_blank"}. The full and latest specification, v5.2 (released in 2019) can be downloaded [here](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}.
+New features of Bluetooth 5 can be found [External resource](https://www.bluetooth.com/bluetooth-resources/bluetooth-5-go-faster-go-further/){:target="_blank"}. The full and latest specification, v5.2 (released in 2019) can be downloaded [External resource](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}.
 
 Unless otherwise highlighted, the following descriptions apply to BLE, which might not be correct for classic Bluetooth.
 
-# Tutorial
+## Tutorial
 * [Arduino Bluetooth](https://docs.arduino.cc/learn/communication/bluetooth/){:target="_blank"}
 
-# Network Architecture
+## Network Architecture
 * Point-to-Point and Point-to-Multipoint Connection Topology (Both Bluetooth classic and BLE)
 * Broadcast Connection Topology (BLE only)
 * Mesh Connection Topology (BLE only)
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/bluetooth_topologies.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/bluetooth_topologies.png" alt="Bluetooth point-to-point, broadcast, and mesh network topologies" height="322">
 <br />
 Figure from [https://uk.mathworks.com/help/comm/ug/bluetooth-mesh-networking.html](https://uk.mathworks.com/help/comm/ug/bluetooth-mesh-networking.html){:target="_blank"}.
 
-# Protocol Overview
+## Protocol Overview
 Visit [MATLAB Bluetooth Protocol Stack](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"} for a detailed introduction about the Bluetooth and BLE protocol, and a mapping between them and the OSI model.
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/ble-blutooth-protocol.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/ble-blutooth-protocol.png" alt="Overview of the Bluetooth Low Energy protocol" height="646">
 <br />
 Figure from [https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html](https://uk.mathworks.com/help/comm/ug/bluetooth-protocol-stack.html){:target="_blank"}.
 
@@ -46,12 +47,12 @@ Some brief introduction of the protocol can be found at the [Microchip Developer
 * Application
 
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/ble-protocol-stack.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/ble-protocol-stack.png" alt="Bluetooth Low Energy protocol stack" height="512">
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
 
-# Physical Layer
+## Physical Layer
 Some key features of the BLE physical layer
 * 2.4GHz ISM band. The band between 2.402 GHz to 2.4835 GHz is divided into 40 channels with 2 MHz channel spacing, $f_k = 2402 + k*2 MHz, k = 0, 1, ..., 39$
 * The 40 channels are divided into advertising channels (Ch. 37, 38, and 39) and 37 data channels (Ch. 0-36).
@@ -61,7 +62,7 @@ $f_{n+1} = (f_n + hop)$ mod 37,
 where hop ranges from 5-16.
 
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/ble-phy-channel-assignment.png" alt="..." title="title">
+<img align="center" width="1000" src="/resources/wireless/images/ble-phy-channel-assignment.png" alt="Bluetooth Low Energy physical-layer channel assignment" height="266">
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
@@ -71,7 +72,7 @@ The preamble defined in BLE v5.2:
 * LE 2M packets (16 bits): 1010110110101101, or 0101010101010101 
 Preamble is used for frequency synchronization, symbol timing and automatic gain control. Visit Page 2865 Section 2.1.1 Vol 6, Part B of the [Bluetooth Core Specification v5.2](https://www.bluetooth.com/specifications/bluetooth-core-specification/){:target="_blank"}. 
 
-# Link Layer
+## Link Layer
 * Advertising and Scanning
 * Connection
 * Network Topology - Piconet
@@ -94,7 +95,7 @@ The same packet format for both
 * Data channel packets
 
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/ble-packet-format-top-level.png" alt="BLE Packet Type." title="BLE Packet Type.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-packet-format-top-level.png" alt="BLE Packet Type." title="BLE Packet Type." height="350">
 <br />
 BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
 
@@ -104,23 +105,23 @@ BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-l
 * Scan window: 25 ms
 
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/ble-advertising-and-scanning.png" alt="Advertising and Scanning." title="Advertising and Scanning.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-advertising-and-scanning.png" alt="Advertising and Scanning." title="Advertising and Scanning." height="410">
 <br />
 Advertising and Scanning. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-discovery](https://microchipdeveloper.com/wireless:ble-link-layer-discovery){:target="_blank"}
 
 ## Connection Process
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/ble-connecting-phase.png" alt="Connection establishment." title="Connection establishment.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-connecting-phase.png" alt="Connection establishment." title="Connection establishment." height="596">
 <br />
 Connection establishment. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
 
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/ble-connected-phase.png" alt="ble-connected-phase." title="ble-connected-phase.">
+<img align="center" width="1000" src="/resources/wireless/images/ble-connected-phase.png" alt="ble-connected-phase." title="ble-connected-phase." height="342">
 <br />
 Connected phase. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
 
 
-# Bluetooth Stack and Development Kit
+## Bluetooth Stack and Development Kit
 ## Linux
 * C language: [BlueZ](http://www.bluez.org/){:target="_blank"}. Check [An Introduction to Bluetooth Programming](https://people.csail.mit.edu/albert/bluez-intro/index.html){:target="_blank"} about its usage.
 * Python: [bluepy](https://github.com/IanHarvey/bluepy){:target="_blank"}.
@@ -136,12 +137,12 @@ Note: The module is still under development and its classes, functions, methods 
 * [TI BLE-Stack for Bluetooth 4.2 API Documentation  3.01.00.07](http://software-dl.ti.com/lprf/simplelink_cc2640r2_latest/docs/blestack/ble_user_guide/doxygen/ble/html/index.html)
 * [ SimpleLink™ CC26x2 SDK BLE5-Stack User's Guide](http://software-dl.ti.com/lprf/simplelink_cc26x2_latest/docs/ble5stack/ble_user_guide/html/ble-stack-5.x-guide/index-cc26x2.html){:target="_blank"}.
 * [SimpleLink™ CC13x2 / CC26x2 SDK BLE5-Stack User's Guide](http://software-dl.ti.com/simplelink/esd/simplelink_cc13x2_26x2_sdk/4.20.01.04/exports/docs/ble5stack/ble_user_guide/html/ble-stack-5.x-guide/index-cc13x2_26x2.html){:target="_blank"}.
-* Supported TI devices can be found [here](https://www.ti.com/wireless-connectivity/simplelink-solutions/bluetooth-low-energy/overview/overview.html){:target="_blank"}.
+* Supported TI devices can be found [External resource](https://www.ti.com/wireless-connectivity/simplelink-solutions/bluetooth-low-energy/overview/overview.html){:target="_blank"}.
 
 ## Scapy for Bluetooth
 * [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
 
-## Matlab Bluetooth Support
-Matlab has also provided simulation support for Bluetooth and BLE. Visit [Communications Toolbox Library for the Bluetooth Protocol support package](https://uk.mathworks.com/help/comm/bluetooth.html) for more information.
+## MATLAB Bluetooth Support
+MATLAB has also provided simulation support for Bluetooth and BLE. Visit [Communications Toolbox Library for the Bluetooth Protocol support package](https://uk.mathworks.com/help/comm/bluetooth.html) for more information.
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).

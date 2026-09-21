@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Annual General Meeting of the UK-Jiangsu 20+20 World-Class University Consortium Held"
 date: 2019-04-14
 permalink: /posts/2019/04/blog-post-uk-jiangsu-collaboration/

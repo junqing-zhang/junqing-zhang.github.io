@@ -1,8 +1,10 @@
 ---
-title: "Physical Layer Authentication @ University of Liverpool"
+layout: page
+research_section: phy-auth
+title: "Physical-Layer Authentication @ University of Liverpool"
+description: "An introduction to Physical-Layer Authentication, covering its principles, methods, and research applications."
 permalink: /research/phy-auth/phy-auth-overview/
 date: 2025-08-27
-author_profile: true
 toc: true
 categories:
   - Research
@@ -11,11 +13,12 @@ tags:
   - Physical Layer Authentication
 ---
 
+{% include research-nav.html section="phy-auth" %}
+
 
 This page introduces the background of Physical Layer Authentication.
 
-# Overview
+## Overview
 
 to be updated
 
-Return to the Main Page of [Physical Layer Authentication](/research/phy-auth/phy-auth-main-page/).

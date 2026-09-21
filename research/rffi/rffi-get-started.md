@@ -1,8 +1,11 @@
 ---
+layout: page
+show_last_updated: true
+research_section: rffi
 title: "How to Construct an RFFI System"
+description: "A practical guide to constructing an RFFI system, covering transmitters, SDR receivers, signal collection, preprocessing, and classification."
 permalink: /research/rffi/rffi-get-started/
 date: 2025-09-27
-author_profile: true
 toc: true
 categories:
   - Research
@@ -11,24 +14,26 @@ tags:
   - RFFI
 ---
 
-This page provides a tutorial on how to construct an Radio Frequency Fingerprinting Identification (RFFI) system. The implementations vary a lot depending on the wireless technologies, selected transmitter and receiver platforms. This tutorial aims to provide some general guideline.
+{% include research-nav.html section="rffi" %}
+
+This page provides a tutorial on how to construct a radio-frequency fingerprint identification (RFFI) system. The implementation depends on the wireless technology and the selected transmitter and receiver platforms. This tutorial provides general guidelines for designing such a system.
 
 {% include toc %}
 
-# Overview
-As shown in the figure below, an RFFI system consists of several device under tests (DUTs) and a receiver. The goal of the RFFI system is to correctly identify/classify these DUTs by analyzing the physical layer signals captured by the receiver.
+## Overview
+As shown below, an RFFI system consists of several devices under test (DUTs) and a receiver. Its objective is to identify or classify the DUTs by analysing the physical-layer signals captured by the receiver.
 
-<div  align="center">    
- <img src="/research/rffi/images/RFFI_DL.png" width = "600"  alt="Deep learning-based RFFI" align=center />
- </div>
-Figure from [https://arxiv.org/pdf/2207.02999.pdf](https://arxiv.org/pdf/2207.02999.pdf){:target="_blank"}
+<figure class="content-figure content-figure--medium">
+  <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" width="600" height="396" alt="Deep-learning-based RFFI system workflow" loading="lazy">
+  <figcaption>Deep-learning-based RFFI system workflow. <a href="https://arxiv.org/pdf/2207.02999.pdf" target="_blank" rel="noopener">Source</a>.</figcaption>
+</figure>
 
-Regarding the software, RFFI involves signal collection (optional) and deep learning. If you are aiming to collect your own datasets, signal collection algorithms will be required to capture wireless waveforms. Alternatively, you can use public datasets. Deep learning has widely used in RFFI to enhance the classification accuracy. 
+The software workflow involves signal collection, when required, followed by signal processing and machine learning. Collecting a new dataset requires signal-acquisition algorithms to capture wireless waveforms; alternatively, a public dataset can be used. Deep learning has been widely adopted in RFFI to improve classification accuracy.
 
 
-# Transmitter (DUTs)
+## Transmitter (DUTs)
 ## Hardware 
-Any wireless devices can be used as DUTs. You can of course build your own device, but using commercial-of-the-shelf (COTS) development boards/kits will save lots of time.
+Many wireless devices can be used as DUTs. Although a custom device can be built, commercial off-the-shelf (COTS) development boards and kits usually reduce implementation time.
 
 In general, they can be categorized into programmable and non-programmable. Vendors with programmable devices are listed as follows.
 * [Texas Instruments](https://www.ti.com/wireless-connectivity/overview.html){:target="_blank"}: Wi-Fi, Bluetooth, ZigBee
@@ -36,7 +41,7 @@ In general, they can be categorized into programmable and non-programmable. Vend
 * [Pycom boards](https://pycom.io/product-category/shop/development-boards/){:target="_blank"}: Wi-Fi, Bluetooth, LoRa, Sigfox and dual LTE-M (CAT-M1 and NB-IoT). (Discontinued)
 * [ESP32](https://www.espressif.com/en/products/socs/esp32){:target="_blank"}: Wi-Fi and Bluetooth
 
-The table below summarizes some LoRa development boards that have been shown to be applicable for RFFI research.
+The table below summarises several LoRa development boards suitable for RFFI research.
 
 | Board Name      | Platform and Programming Language|Link |
 | -----------------| -------------------- |-------------------- |
@@ -48,16 +53,16 @@ The table below summarizes some LoRa development boards that have been shown to 
 Non-programmable devices can also be used. For example, our smartphones support Wi-Fi and Bluetooth. 
 
 ## Software
-Different development boards require different development languages/platforms. You need to program the transmitter to send wireless packets, which you can do by modifying the examples provided in the official documentation. The vendors usually will provide the development software and SDK.
+Different development boards use different programming languages and development platforms. The transmitter must be programmed to send wireless packets, often by adapting examples from the manufacturer's documentation. Vendors usually provide the required development software and software development kit (SDK).
 
-Regarding non-programmable devices, we can use other methods to create wireless traffic. For example, we can use a Wi-Fi-connected smartphone to watch videos, which will create lots of Wi-Fi traffic. Regarding Wi-Fi-connected laptops, we can use ping command.
+For non-programmable devices, traffic can be generated through normal applications. For example, video streaming creates sustained Wi-Fi traffic on a smartphone, while a laptop can generate controlled traffic using the `ping` command.
 
 
-# Receiver
+## Receiver
 ## Hardware
-Most of COTS gateway/access point/receiver do not provide an interface to the physical layer signals. Therefore, software-defined radio (SDR) devices are usually leveraged as receivers. Most SDR platforms use a flexible analog front-end to tune the desired radio signal to baseband or intermediate frequency, which is then sampled by an ADC and converted to the digital domain (IQ samples). All the rest procedures of the communication system, such as packet detection and decoding, are implemented by software. The SDR-based receiver enables users to access the physical layer IQ samples. 
+Most COTS gateways, access points, and receivers do not provide access to physical-layer signals. Software-defined radios (SDRs) are therefore commonly used as receivers. An SDR uses a flexible analogue front end to convert the desired radio signal to baseband or an intermediate frequency. An analogue-to-digital converter then samples the signal to produce digital in-phase and quadrature (IQ) samples. Subsequent communication functions, such as packet detection and decoding, are implemented in software, giving researchers access to the physical-layer samples.
 
-Table below summarizes some SDRs available in our lab. You should select an appropriate SDR based on the target communication technology, e.g., Wi-Fi, Zigbee, LoRa. For example, RTL-SDR cannot be used for Wi-Fi research due to its frequency range and bandwidth limitations.
+The table below summarises several SDRs available in our laboratory. The receiver should be selected according to the target communication technology, such as Wi-Fi, Zigbee, or LoRa. For example, RTL-SDR is unsuitable for Wi-Fi research because of its frequency-range and bandwidth limitations.
 
 | SDR Name         |Rx Frequency Range|Bandwidth| Development Platform                                    |
 | -----------------|--------------|---| -------------------- |
@@ -72,14 +77,15 @@ Useful material to learn SDR: [https://pysdr.org/index.html](https://pysdr.org/i
 ## Software
 
 ### Signal Collection Module
-The software is a critical part for SDR applications. Specific to RFFI research, you need to write the signal receiving program to capture the valid wireless packets. Figure below shows the flow chart of a basic signal collection program. 
-<div  align="center">    
- <img src="/research/rffi/images/signal_collection_program.png" width = "300" height = "500" alt="signal_collection_program" align=center />
- </div>
+Software is a critical part of SDR applications. For RFFI research, a signal-reception program is required to capture valid wireless packets. The figure below shows the flow chart of a basic signal-collection program.
+<figure class="content-figure content-figure--narrow">
+  <img src="{{ '/research/rffi/images/signal_collection_program.png' | relative_url }}" width="300" height="500" alt="Flow chart of an SDR signal-collection program" loading="lazy">
+  <figcaption>Basic processing flow for an SDR signal-collection program.</figcaption>
+</figure>
 
-The packet detection, synchronization and carrifer frequency offset (CFO) compensation algorithms can be implemented by MATLAB/Python/C, depending on the demand for real-time performance and collection speed. Note that for some applications, MAC address decoding is also required to ensure that the captured packets are sent from the correct DUT and not from another device. The signals can be saved in any format such as .csv, .hdf5, .mat, .txt, etc., as long as they can be correctly loaded by the deep learning module. 
+Packet detection, synchronisation, and carrier-frequency-offset (CFO) compensation can be implemented in MATLAB, Python, or C, depending on the real-time and data-rate requirements. Some applications also require MAC-address decoding to verify that each captured packet originated from the intended DUT. Signals can be stored in formats such as CSV, HDF5, MAT, or text, provided that they can be loaded correctly by the machine-learning module.
 
-MATLAB provides a number of example codes for signal collection, you can find the documentation for your target communication protocol and try to understand every line of the program:
+MATLAB provides several signal-collection examples. Select the documentation for the target communication protocol and study how each processing stage is implemented:
 * [BLE SDR Reception](https://www.mathworks.com/help/bluetooth/ug/bluetooth-low-energy-receiver.html){:target="_blank"}
 * [Bluetooth BR/EDR Reception](https://www.mathworks.com/help/bluetooth/ug/bluetooth-br-edr-waveform-reception-by-using-sdr.html){:target="_blank"}
 * [Wi-Fi Reception (802.11 a/n/ac/ax)](https://www.mathworks.com/help/wlan/ug/recover-and-analyze-packets-in-802-11-waveform.html){:target="_blank"}
@@ -87,57 +93,54 @@ MATLAB provides a number of example codes for signal collection, you can find th
 
 ### Deep Learning Module
 
-After collecting sufficient signals from the DUTs, you can start to train a deep learning model for classification, such as CNN, LSTM, GRU, transformer, etc. The deep learning model can be implemented by numerous libraries/frameworks such as PyTorch, Tensorflow, MATLAB deep learning toolbox, Caffe, etc.. PyTorch and Tensorflow are strongly recommended because of their active community.
+After collecting sufficient signals from the DUTs, a deep-learning classifier can be trained using an architecture such as a CNN, LSTM, GRU, or transformer. Suitable frameworks include PyTorch, TensorFlow, and MATLAB Deep Learning Toolbox. PyTorch and TensorFlow are particularly well supported by their developer communities.
 
-The input to the neural network can be the collected IQ samples, and you can also do some signal processing before that. For example, you can perform a fast Fourier transform (FFT) on the received signals and transform them into frequency domain as neural network inputs.
+The neural network can operate directly on the collected IQ samples or on features produced through signal processing. For example, a fast Fourier transform (FFT) can convert the received signals into frequency-domain inputs.
 
-If you are new to deep learning, there are lots of useful resources online. Some of the materials are summarized below.
+If you are new to deep learning, the following introductory resources may be useful.
 * [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/){:target="_blank"}
 * [Deep Learning for Beginners](/resources/deep-learning/dl/){:target="_blank"}
 
-The following two examples are codes available for RFFI.
+The following two examples provide implementations for RFFI:
 1. [MATLAB, Detect WLAN Router Impersonation](https://www.mathworks.com/help/comm/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
 2. [Tensorflow, Towards Scalable and Channel-Robust Radio Frequency 
 Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 
 ### Note
-It is not necessary to use the same programming language for the signal collection and deep learning. You can use the Matlab toolbox for signal collection and save the dataset to the PC. Then you can use Python for deep learning.
+Signal collection and machine learning do not need to use the same programming language. For example, MATLAB can collect and save the dataset, which can then be processed in Python for model development.
 
-# Wireless Monitoring (Optional)
-Before starting the signal collection programming, you need to make sure there is the required wireless traffic. Wireshark will be an excellent platform for monitoring and detection. You will need another dedicated receiver though.
+## Wireless Monitoring (Optional)
+Before developing the signal-collection software, confirm that the required wireless traffic is present. Wireshark is useful for monitoring and verification, although it may require a separate receiver.
 * Wi-Fi Sniffer
 * [nRF Sniffer for Bluetooth LE](https://infocenter.nordicsemi.com/topic/ug_sniffer_ble/UG/sniffer_ble/intro.html){:target="_blank"}
 * [nRF Sniffer for 802.15.4](https://infocenter.nordicsemi.com/topic/ug_sniffer_802154/UG/sniffer_802154/intro_802154.html){:target="_blank"}
 
 
-# Public Datasets
-There are also several public datasets made available for RFFI research. Check [this link](/research/rffi/rffi-dataset/){:target="_blank"} for more information. If you decide use public dataset, then you won't need any hardware platforms (You will still need a PC, though). 
+## Public Datasets
+Several public datasets are available for RFFI research; see the [RFFI datasets page](/research/rffi/rffi-dataset/) for details. Using a public dataset removes the need for signal-acquisition hardware, although a suitable computer is still required for processing and model training.
 
-# General Procedures
-1. Program to make the development board to start transmitting packets. 
-1. (optional) Check the wireless transmission using Wireshark 
-1. Write the signal collection program to capture the packets sent from development boards.
-1. Collect packets from all the DUTs, saving the IQ samples as the training/test datasets.
-1. Design a neural network and train it with the collected training data.
-1. Test the neural network with the collected test data. The classification problem is usually evaluated by overall accuracy and confusion matrix.
+## General Procedures
+1. Program the development boards to transmit packets.
+1. Optionally verify the wireless transmissions using Wireshark.
+1. Develop the signal-collection program to capture packets from the development boards.
+1. Collect packets from all DUTs and save the IQ samples as training and test datasets.
+1. Design and train a neural network using the training data.
+1. Evaluate the trained model using the test data, typically through overall accuracy and a confusion matrix.
 
 Steps 1-4 are not required if you are using public datasets.
 
 
-# Recommended Readings
+## Recommended Readings
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
 
 1. J. Zhang, R. Woods, M. Sandell, M. Valkama, A. Marshall, and J. Cavallaro, “Radio frequency fingerprint identification for narrowband systems, modelling and classification,” IEEE Trans. Inf. Forensics Security, vol. 16, pp. 3974–3987, 2021
-> This paper focuses on the systematic modelling on the hardware impairments of a narrowband transmitter and receiver. You can gain a deeper understanding on the concept of RFFI and figure out how it works.
+> This paper systematically models the hardware impairments of narrowband transmitters and receivers, providing a deeper understanding of the principles underlying RFFI.
 
 1. G. Shen, J. Zhang, A. Marshall, L. Peng, and X. Wang, “Radio frequency fingerprint identification for LoRa using deep learning,” IEEE J. Sel. Areas Commun., vol. 39, no. 8, pp. 2604–2616, Aug. 2021.
-> LoRa-RFFI. This paper introduces how to choose the appropriate signal representation according to the modulation characteristics. The performance of some basic types of neural networks is further studied. 
+> This LoRa-RFFI study explains how to select a signal representation according to the modulation characteristics and compares several basic neural-network architectures.
 
 1. G. Shen, J. Zhang, A. Marshall, and J. Cavallaro.   “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” IEEE Trans. Inf. Forensics Security, 2022.
-> LoRa-RFFI. This paper focuses on mitigating the channel effects on LoRa-RFFI. The openset RFFI problem is also discussed.
+> This LoRa-RFFI study focuses on mitigating channel effects and also examines open-set recognition.
 
-# Datasets and Codes
-Please visit [this link](/dataset-code/) for the RFFI datasets and codes shared by our group.
-
-
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).
+## Datasets and Code
+Please visit our [datasets and code page](/research/dataset-code/) for the RFFI datasets and source code shared by our group.

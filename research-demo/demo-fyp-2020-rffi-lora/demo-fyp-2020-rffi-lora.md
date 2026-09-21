@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Deep Learning-Based RFF Identification for LoRa"
 permalink: /research-demo/demo-fyp-2020-rffi-lora/
-author_profile: true
 ---
 
 Traditional authentication schemes are implemented on the MAC layer for the LoRaWAN network. Radio frequency fingerprint (RFF) is a physical layer feature, originated from hardware imperfection. 
@@ -11,12 +10,12 @@ In this demonstration, we will present a CNN-based RFF identification for LoRa. 
 
 {% include toc %}
 
-# Overview
+## Overview
 RFF identification is an emerging technology and it can be used for authentication of the Internet of Things with low power consumption. This demonstration uses LoPy4 to transmit LoRa signals and RTL-SDR for reception. The signal processing and CNN training have been implemented by Python. 
 
-# System Overview
+## System Overview
 <br />
-<img align="center" width="1000" src="./demo-fyp-2020-rffi-lora-overview.png" alt="...">
+<img align="center" width="1000" src="./demo-fyp-2020-rffi-lora-overview.webp" alt="Overview of the deep learning-based LoRa radio-frequency identification demonstration" height="496">
 <br />
 
 
@@ -29,10 +28,10 @@ RFF identification is an emerging technology and it can be used for authenticati
 *  CNN Training: Feature extraction and Classification
 *  Inference: Identification of trained devices
 
-# Setup
+## Setup
 
 <br />
-<img align="center" width="600" src="./demo-fyp-2020-rffi-lora-setup.png" alt="...">
+<img align="center" width="600" src="./demo-fyp-2020-rffi-lora-setup.webp" alt="Experimental setup for the LoRa radio-frequency identification demonstration" height="292">
 <br />
 
 
@@ -53,13 +52,12 @@ Programming language and packages
 * GUI and signal processing: Python
 * CNN: Keras 2.4.3 and Tensorflow 2.4.1
 
-# Demo Video
+## Demo Video
 Click the image below to watch the video.
-<a href="https://youtu.be/AzqhLXkZvAM" target="_blank"><img src="./demo-fyp-2020-rffi-lora-frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
+<a href="https://youtu.be/AzqhLXkZvAM" target="_blank"><img src="./demo-fyp-2020-rffi-lora-frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10"  height="450" /></a>
 
-# Contact
+## Contact
 Please contact Dr. Junqing Zhang (junqing.zhang at liverpool.ac.uk) if you require further information.
 
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/) or the Main Page of [Research Demonstration](/research-demo/research-demo-main-page/).
-
+Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/) or the Main Page of [Research Demonstration](/research-demo/research-demo-main-page/).
 

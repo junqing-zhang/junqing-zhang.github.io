@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="page">
+  {% include breadcrumbs.html %}
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.show_last_updated %}
+      {% assign updated_date = page.last_updated %}
+      {% unless updated_date %}
+        {% assign updated_date = page.path | git_last_modified %}
+      {% endunless %}
+      {% unless updated_date %}
+        {% assign updated_date = page.date %}
+      {% endunless %}
+      {% if updated_date %}
+        <p class="page-updated">
+          Last updated:
+          <time datetime="{{ updated_date | date: '%Y-%m-%d' }}">{{ updated_date | date: '%-d %B %Y' }}</time>
+        </p>
+      {% endif %}
+    {% endif %}
+  </header>
+
+  <div class="page-content">
+    {{ content }}
+  </div>
+</article>

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Resources for Wi-Fi'
 date: 2026-06-03
 permalink: /resources/wireless/wifi/
@@ -21,7 +22,7 @@ Strictly speaking, IEEE 802.11 is the standard by IEEE and Wi-Fi is a trademark 
 
 {% include toc %}
 
-# Standard
+## Standard
 The IEEE 802.11 standard defines the Physical (PHY) layer and Medium Access Control (MAC) layer protocols that underpin Wi-Fi communications. Since its initial release in 1997, the standard has evolved through numerous amendments, introducing enhancements in data rates, spectrum utilization, reliability, security, and application support. A comprehensive list of IEEE 802.11 amendments and their key features can be found on [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.
 
 ## PHY Layer
@@ -45,19 +46,19 @@ Orthogonal Frequency-Division Multiplexing (OFDM) is one of the most important p
 * [Concepts of Orthogonal Frequency Division Multiplexing (OFDM) and 802.11 WLAN](http://rfmw.em.keysight.com/wireless/helpfiles/89600B/WebHelp/Subsystems/wlan-ofdm/content/ofdm_basicprinciplesoverview.htm){:target="_blank"}
 
 IEEE 802.11 OFDM Receiver Design
-* Check this paper [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype ](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for the receiver design, including time synchronization, frequency offest estimation, channel estimation, etc.
+* See [Performance Assessment of IEEE 802.11p with an Open Source SDR-Based Prototype](https://ieeexplore.ieee.org/document/8031977){:target="_blank"} for receiver design details, including time synchronisation, frequency-offset estimation, and channel estimation.
 * Check [OpenOFDM](https://openofdm.readthedocs.io/en/latest/overview.html){:target="_blank"} about the receiver algorithms (FPGA Verilog Design).
 
 
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/wifi/HTMIMOPERDiagram.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/wifi/HTMIMOPERDiagram.png" alt="Wi-Fi MIMO-OFDM transmitter, channel, and receiver processing chain" height="368">
 <br />
 Source: [https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"} 
 
 
 
 ## MAC Layer
-Visit [this link](/resources/wireless/wifi-modes/){:target="_blank"} for different Wi-Fi modes, including AP, station, and monitor.
+Visit [Wi-Fi operating modes](/resources/wireless/wifi-modes/){:target="_blank"} for different Wi-Fi modes, including AP, station, and monitor.
 
 Wi-Fi use CSMA/CA as the MAC layer protocol.
 
@@ -74,8 +75,8 @@ Frame Types
 [802.11 Wi-Fi Security Concepts](https://community.nxp.com/t5/Wireless-Connectivity-Knowledge/802-11-Wi-Fi-Security-Concepts/ta-p/1163551){:target="_blank"}
 
 
-# Matlab WLAN Toolbox
-The [Matlab WLAN Toolbox](https://www.mathworks.com/products/wlan.html){:target="_blank"} is one of the most comprehensive and powerful software platforms available for Wi-Fi research and development. It provides a rich collection of functions, reference implementations, and example projects covering both the Physical (PHY) and Medium Access Control (MAC) layers of IEEE 802.11 standards. Researchers can readily generate and decode Wi-Fi waveforms, model wireless channels, evaluate protocol performance, and prototype new algorithms without the complexity of developing a complete Wi-Fi stack from scratch.
+## MATLAB WLAN Toolbox
+The [MATLAB WLAN Toolbox](https://www.mathworks.com/products/wlan.html){:target="_blank"} is one of the most comprehensive and powerful software platforms available for Wi-Fi research and development. It provides a rich collection of functions, reference implementations, and example projects covering both the Physical (PHY) and Medium Access Control (MAC) layers of IEEE 802.11 standards. Researchers can readily generate and decode Wi-Fi waveforms, model wireless channels, evaluate protocol performance, and prototype new algorithms without the complexity of developing a complete Wi-Fi stack from scratch.
 
 A major advantage of the WLAN Toolbox is its seamless integration with other MATLAB toolboxes, including Signal Processing Toolbox, Communications Toolbox, Deep Learning Toolbox, and Phased Array System Toolbox. This enables rapid development and evaluation of advanced techniques such as channel estimation, localization, wireless sensing, machine learning, and radio frequency fingerprint identification (RFFI).
 
@@ -83,11 +84,11 @@ Furthermore, MATLAB provides extensive Software-Defined Radio (SDR) support thro
 
 For these reasons, the MATLAB WLAN Toolbox is an excellent starting point for Wi-Fi research. It enables rapid prototyping, reproducible experimentation, and comprehensive performance evaluation before investing significant effort in implementing and debugging algorithms on commercial Wi-Fi hardware or embedded platforms.
 
-Matlab Examples:
+MATLAB Examples:
 * [802.11n Packet Error Rate Simulation for 2x2 TGn Channel](https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html){:target="_blank"}: Simulation
 * [Recover and Analyze Packets in 802.11 Waveform](https://uk.mathworks.com/help/wlan/ug/recover-and-analyze-packets-in-802-11-waveform.html){:target="_blank"}: SDR required
 
-# SDR Implementations
+## SDR Implementations
 While the MATLAB WLAN Toolbox is an excellent platform for developing and evaluating new Wi-Fi algorithms, it is primarily designed for simulation and prototyping rather than high-performance real-time operation. The interpreted nature of MATLAB and the computational complexity of PHY-layer processing can result in relatively slow execution, particularly for large-scale simulations, long packet captures, or data-intensive applications such as machine learning and wireless sensing. Consequently, the WLAN Toolbox is best suited for validating concepts, testing algorithms, and gaining insights into system behavior before moving to practical implementations.
 
 For researchers seeking real-time experimentation and over-the-air operation, several Software-Defined Radio (SDR)-based Wi-Fi implementations are available. These platforms implement the Wi-Fi PHY, and in some cases parts of the MAC layer, on SDR hardware using frameworks such as GNU Radio, FPGA-based processing, or custom software stacks. Examples include PicoScenes, OpenWiFi, gr-ieee802-11, and other SDR-based IEEE 802.11 projects. Compared with MATLAB simulations, SDR implementations enable real-world testing under realistic channel conditions and provide greater flexibility for modifying protocol behavior, collecting raw baseband samples, and evaluating hardware impairments.
@@ -106,11 +107,11 @@ A practical research workflow is therefore to first develop and validate algorit
 * Supported Hardawre: USRP, HackRF One, AX210/AX200, QCA9300, and IWL5300
 
 ## Openwifi
-* [openwifi](https://github.com/open-sdr/openwifi){:target="_blank"} is an SDR (Software Defined Radio) implementation for IEEE802.11/Wi-Fi design with Linux mac80211 compatible full-stack.
+* [openwifi](https://github.com/open-sdr/openwifi){:target="_blank"} is an SDR (Software-Defined Radio) implementation for IEEE802.11/Wi-Fi design with Linux mac80211 compatible full-stack.
 * Supported Hardawre: zynq FPGA +  FMCOMMS2/3/4 RF board
 * For Chinese user, there is a [presentation video ](https://www.zhihu.com/zvideo/1437850059212226561) introducing openwifi by Dr. Jiao.
 
-# Network Interface Cards CSI Extraction
+## Network Interface Cards CSI Extraction
 While SDR platforms provide unparalleled flexibility for Wi-Fi research, they are specialized research tools and are not representative of the Commercial Off-The-Shelf (COTS) Wi-Fi devices used in everyday applications. In practice, most laptops, smartphones, tablets, and IoT devices rely on dedicated Wi-Fi Network Interface Cards (NICs), where the PHY and MAC functions are implemented in proprietary hardware, firmware, and drivers. As a result, many research techniques developed on SDR platforms cannot be directly deployed on commodity Wi-Fi devices. Therefore, understanding the capabilities and limitations of Wi-Fi NICs is essential for researchers who aim to develop solutions that can be implemented and evaluated on real-world COTS hardware.
 
 Most commercial Wi-Fi NICs expose only the Received Signal Strength Indicator (RSSI) to users and applications, while Channel State Information (CSI) is typically not accessible through standard device drivers and firmware. RSSI represents the average received signal power over an entire packet and therefore provides only a coarse-grained characterization of the wireless channel.
@@ -121,13 +122,13 @@ There are some CSI extraction tools for the commercial NICs.
 
 ## Intel 5300 NIC
 
-There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC. This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [link](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
+There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC. This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [External resource](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
 
 Please note PCI-e interface is required for these NICs.
 
 ## Atheros Chipsets
 
-There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A list of the relevant publications can be found at [here](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
+There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A list of the relevant publications can be found at [External resource](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
 
 ## Braodcom Wi-Fi Chipsets
 * [nexmon](https://github.com/seemoo-lab/nexmon){:target="_blank"}
@@ -140,7 +141,7 @@ There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A l
 * [ESP32 CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/){:target="_blank"}
 
 
-# Software Tool
+## Software Tool
 
 
 ## [Scapy](https://scapy.net/)
@@ -157,10 +158,10 @@ Code Examples:
 * [Wi-Fi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
 
 ## [Radiotap](https://www.radiotap.org/)
-* What is radiotap? [link](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
+* What is radiotap? [External resource](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
 
 ## Wireshark - Network Monitoring
-* [Download Link](https://www.wireshark.org/){:target="_blank"}
+* [Download](https://www.wireshark.org/){:target="_blank"}
 * [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/index.html){:target="_blank"}
 >Wireshark is a network packet analyzer. A network packet analyzer presents captured packet data in as much detail as possible.
 >You could think of a network packet analyzer as a measuring device for examining what’s happening inside a network cable, just like an electrician uses a voltmeter for examining what’s happening inside an electric cable (but at a higher level, of course).
@@ -168,7 +169,7 @@ Code Examples:
 
 
 
-# Reading Materials
+## Reading Materials
 * Book - [Next Generation Wireless LANs: 802.11n and 802.11ac](https://www.amazon.co.uk/Next-Generation-Wireless-LANs-802-11ac/dp/1107016762){:target="_blank"}
 * [[802.11] Wi-Fi Basic concepts](https://community.nxp.com/t5/Wi-Fi-Bluetooth-802-15-4/802-11-Wi-Fi-Basic-concepts/ta-p/1124409){:target="_blank"}
 

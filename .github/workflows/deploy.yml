@@ -1,0 +1,73 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [source]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '4.0'
+          bundler-cache: true
+
+      # Fails with a clear message if Pages is not yet enabled for this repo.
+      # One-time fix: Settings > Pages > Source > "GitHub Actions".
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      # url and baseurl come from the Pages settings, so user sites
+      # (you.github.io), project sites (you.github.io/repo), and custom
+      # domains all work without editing _config.yml.
+      - name: Build site
+        run: |
+          printf 'url: "%s"\nbaseurl: "%s"\n' "$PAGES_ORIGIN" "$PAGES_BASE_PATH" > _config_pages.yml
+          bundle exec jekyll build --config _config.yml,_config_pages.yml
+        env:
+          JEKYLL_ENV: production
+          PAGES_ORIGIN: ${{ steps.pages.outputs.origin }}
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+
+      # Safari and older browsers cannot use the SVG favicon; rasterize it so
+      # favicon.ico and the iOS home-screen icon match the generated SVG.
+      - name: Rasterize favicon
+        run: |
+          sudo apt-get update -qq >/dev/null && sudo apt-get install -y -qq librsvg2-bin imagemagick >/dev/null
+          rsvg-convert -w 180 -h 180 _site/favicon.svg -o _site/apple-touch-icon.png
+          rsvg-convert -w 32  -h 32  _site/favicon.svg -o _site/favicon-32.png
+          rsvg-convert -w 16  -h 16  _site/favicon.svg -o _site/favicon-16.png
+          convert _site/favicon-16.png _site/favicon-32.png _site/favicon.ico
+          rm _site/favicon-16.png _site/favicon-32.png
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

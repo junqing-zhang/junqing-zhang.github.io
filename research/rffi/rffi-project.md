@@ -1,5 +1,8 @@
 ---
-title: "Radio Frequency Fingerprint Identification Project"
+layout: page
+research_section: rffi
+title: "Radio-Frequency Fingerprint Identification Project"
+description: "Research projects from the University of Liverpool on Radio-Frequency Fingerprint Identification."
 date: 2021-12-17
 permalink: /research/rffi/rffi-project/
 categories:
@@ -10,15 +13,17 @@ tags:
   - Research Project
 ---
 
-This paper summarizes Radio Frequency Fingerprint Identification  research projects.
+{% include research-nav.html section="rffi" %}
 
-1. Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning [link](https://junqing-zhang.github.io/project-rffi-lora/){:target="_blank"}
+This page presents research projects on radio-frequency fingerprint identification.
+
+1. Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning [External resource](https://junqing-zhang.github.io/project-rffi-lora/){:target="_blank"}
 * Partners: University of Liverpool, UK
 * Funder: UK Royal Society Research Grants
 * Duration: One year
 * Status: Completed
 
-1. Secure Wireless Agile Networks (SWAN) [link](https://www.swan-partnership.ac.uk/about-swan/){:target="_blank"}
+1. Secure Wireless Agile Networks (SWAN) [External resource](https://www.swan-partnership.ac.uk/about-swan/){:target="_blank"}
 * Partners: University of Bristol, Toshiba, ROKE and CGHQ
 * Funder: UK EPSRC
 * Duration: Five years
@@ -29,11 +34,9 @@ This paper summarizes Radio Frequency Fingerprint Identification  research proje
 * Partners: Northeastern University, US
 * Funder: DARPA, US
 
-1. Collaborative Research: SaTC: CORE: Small: Towards Robust, Scalable, and Resilient Radio Fingerprinting [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2225160){:target="_blank"}
+1. Collaborative Research: SaTC: CORE: Small: Towards Robust, Scalable, and Resilient Radio Fingerprinting [External resource](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2225160){:target="_blank"}
 * Partners: University of Cincinnati, USA
 * Funder: US NSF
 * Duration: Three years
 * Status: Ongoing
 
-
-Return to the Main Page of [Radio Frequency Fingerprint Identification](/research/rffi/rffi_main_page/).

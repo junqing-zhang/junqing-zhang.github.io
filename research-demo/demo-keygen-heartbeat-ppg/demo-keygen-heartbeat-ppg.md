@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Heartbeat Key Generation Demonstration"
 permalink: /research-demo/demo-keygen-heartbeat-ppg/
-author_profile: true
 ---
 
 You may have used fingerprint authentication or face recognition with your smartphone. But do you know that you can use your heartbeat signals to encrypt your wireless communications?
@@ -11,12 +10,12 @@ In this demonstration, we will present a heartbeat-based key generation techniqu
 
 {% include toc %}
 
-# Overview
+## Overview
 This demonstration uses PPG sensors to collect heartbeat signals and extract cryptographic keys from the collected signals. A full key generation protocol has been implemented by the Python. 
 
-# Key Generation Protocol
+## Key Generation Protocol
 <br />
-<img align="center" width="700" src="./heartbeat_keygen_protocol_with_encryption.png" alt="...">
+<img align="center" width="700" src="./heartbeat_keygen_protocol_with_encryption.png" alt="Heartbeat-based key generation and encryption protocol" height="700">
 <br />
 
 ## Heartbeat Measurement
@@ -32,17 +31,17 @@ Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG senso
 *  Privacy amplification: hash function [SHA256](https://docs.python.org/3/library/hashlib.html){:target="_blank"}
 *  Randomness test: [NIST randomness test suite](https://github.com/stevenang/randomness_testsuite){:target="_blank"}
 
-# Setup
+## Setup
 
 <br />
-<img align="center" width="400" src="./heartbeat_keygen_setup_diagram.png" alt="...">
+<img align="center" width="400" src="./heartbeat_keygen_setup_diagram.png" alt="Experimental setup diagram for heartbeat-based key generation" height="240">
 <br />
 
 <br />
-<img align="center" width="500" src="./heartbeat_keygen_setup_photo.png" alt="...">
+<img align="center" width="500" src="./heartbeat_keygen_setup_photo.png" alt="Experimental hardware for heartbeat-based key generation" height="290">
 <br />
 
-Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_Pi/blob/master/PulseSensor_Arduino_Pi/PulseSensor_Arduino_Pi.md){:target="_blank"} for the hardware and software setup.
+Please refer to [GitHub repository](https://github.com/WorldFamousElectronics/Raspberry_Pi/blob/master/PulseSensor_Arduino_Pi/PulseSensor_Arduino_Pi.md){:target="_blank"} for the hardware and software setup.
 
 ## Hardware
 * [Pulse Sensor](https://www.adafruit.com/product/1093){:target="_blank"}x2
@@ -54,14 +53,14 @@ Please refer to [this link](https://github.com/WorldFamousElectronics/Raspberry_
 * [Arduino](https://github.com/WorldFamousElectronics){:target="_blank"}
 * GUI and signal processing: Python
 
-# Demo Video
+## Demo Video
 Click the image below to watch the video.
-<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="./heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10" /></a>
+<a href="https://youtu.be/ENHphVejPpA" target="_blank"><img src="./heartbeat_keygen_demo_frontpage.png" alt="Hearbeat Key Generation Demo" width="800" border="10"  height="450" /></a>
 
-# Reference
-**Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, vol. 22, no. 2, pp. 923 - 934, Feb. 2023. [link](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
+## Reference
+**Junqing Zhang**, Yushi Zheng, Weitao Xu, and Yingying Chen, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals,” _IEEE Transactions on Mobile Computing_, vol. 22, no. 2, pp. 923 - 934, Feb. 2023. [IEEE Xplore](https://ieeexplore.ieee.org/document/9483626){:target="_blank"} 
 
-# Acknowledgement
+## Acknowledgement
 We would like to thank Mr Yushi Zheng for his hard work on completing this excellent demo. 
 
 Return to the Main Page of [Research Demonstration](/research-demo/research-demo-main-page/).

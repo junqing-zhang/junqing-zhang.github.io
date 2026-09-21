@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Understanding Wi-Fi Operating Modes: Station, Access Point, and Monitor Mode'
 date: 2026-06-03
 permalink: /resources/wireless/wifi-modes/
@@ -20,13 +21,13 @@ A Wi-Fi network typically operates in an infrastructure Basic Service Set (BSS),
 * Station mode is the default operating mode for most Wi-Fi clients such as laptops, smartphones, tablets, and IoT devices. In this mode, a device connects to an existing Wi-Fi network by associating with an Access Point.
 
 <br />
-<img align="center" width="1000" src="/resources/wireless/images/wifi/wifi_bss.png" alt="...">
+<img align="center" width="1000" src="/resources/wireless/images/wifi/wifi_bss.png" alt="Wi-Fi infrastructure network with an access point and associated stations" height="444">
 <br />
 
 Many modern Wi-Fi chipsets can operate as both STA and AP simultaneously, enabling features such as Wi-Fi hotspots and tethering.
 
 
-# Station (STA) Mode
+## Station (STA) Mode
 
 A station performs several MAC-layer functions, including:
 - Scanning for available networks
@@ -37,7 +38,7 @@ A station performs several MAC-layer functions, including:
 
 Once associated, the station can transmit and receive data through the Access Point. In a typical home or enterprise Wi-Fi network, most devices operate in STA mode.
 
-# Access Point (AP) Mode
+## Access Point (AP) Mode
 
 
 An Access Point is responsible for:
@@ -50,7 +51,7 @@ An Access Point is responsible for:
 From a MAC-layer perspective, the AP serves as the coordinator of an infrastructure Basic Service Set (BSS). It provides the network that stations join and acts as the central communication point for associated clients.
 
 
-# Monitor Mode
+## Monitor Mode
 
 Monitor mode differs significantly from STA and AP modes. Instead of participating in a wireless network, a device operating in monitor mode passively listens to all wireless traffic on a selected channel.
 
@@ -68,7 +69,7 @@ Monitor mode is widely used for:
 
 Because the device does not join the network, it can often observe traffic from multiple devices simultaneously, making monitor mode a valuable tool for wireless researchers.
 
-# Comparing the Three Modes
+## Comparing the Three Modes
 
 | Feature | Station (STA) | Access Point (AP) | Monitor Mode |
 |----------|----------|----------|----------|
@@ -82,7 +83,7 @@ Because the device does not join the network, it can often observe traffic from 
 
 
 
-# Why These Modes Matter for Wi-Fi Research
+## Why These Modes Matter for Wi-Fi Research
 
 For wireless networking research, understanding these operating modes is essential. STA and AP modes represent normal network operation and are commonly used when evaluating protocol performance, throughput, latency, and reliability.
 
@@ -90,7 +91,7 @@ Monitor mode, however, provides visibility into the wireless medium itself. It e
 
 Although all three modes use the same underlying physical layer, they differ substantially in their MAC-layer behavior and intended purpose. Together, they form the foundation of how Wi-Fi devices communicate, manage networks, and observe wireless activity.
 
-# Other Wi-Fi Operating Modes
+## Other Wi-Fi Operating Modes
 
 In addition to Station (STA), Access Point (AP), and Monitor Mode, the IEEE 802.11 standard and modern Wi-Fi implementations support several other operating modes for specialized networking scenarios.
 
@@ -105,7 +106,7 @@ Many of these modes are implemented using combinations or extensions of the fund
 
 While these specialized modes are important for particular deployment scenarios, STA, AP, and Monitor Mode remain the most widely used modes in commercial Wi-Fi devices and wireless networking research.
 
-# Linux iwconfig
+## Linux iwconfig
 [iwconfig - Linux man page](https://linux.die.net/man/8/iwconfig){:target="_blank"}
 >Set the operating mode of the device, which depends on the network topology. The mode can be Ad-Hoc (network composed of only one cell and without Access Point), Managed (node connects to a network composed of many Access Points, with roaming), Master (the node is the synchronisation master or acts as an Access Point), Repeater (the node forwards packets between other wireless nodes), Secondary (the node acts as a backup master/repeater), Monitor (the node is not associated with any cell and passively monitor all packets on the frequency) or Auto.
 

@@ -1,0 +1,21 @@
+<script>
+MathJax = {
+    tex: {
+    inlineMath: [ ['$', '$'], ['\\(', '\\)'] ],
+    tags: 'ams'  // should be 'ams', 'none', or 'all' }. This line makes the equation numbering and labeling work
+    }, 
+    svg: {
+    fontCache: 'global'
+    },
+    startup: {
+    // Equation-reference links live inside the aria-hidden SVG; keep them out
+    // of the tab order so screen readers and keyboard users are not sent there.
+    pageReady: function () {
+      return MathJax.startup.defaultPageReady().then(function () {
+        document.querySelectorAll('mjx-container svg a').forEach(function (a) { a.setAttribute('tabindex', '-1'); });
+      });
+    }
+    }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-svg.js"></script>

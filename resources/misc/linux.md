@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Linux For Beginners'
 date: 2020-10-17
 permalink: /resources/misc/linux/
@@ -8,14 +9,14 @@ tags:
   - Linux
 ---
 
-This paper summarizes some common and basic usages of Linux. The information is only suitable for beginners.
+This page introduces common Linux commands and workflows for beginners.
 
 {% include toc %}
 
-# Overview
+## Overview
 Linux Test
 
-# How To Start
+## How To Start
 1. If you are using Windows OS, you can access to the remote server by 
 * Putty 
 * MobaXterms (recommended)
@@ -25,7 +26,7 @@ Linux Test
 `cd`, `ls`, `mkdir`, `pwd`, `cat`, `grep`,`sudo`
 
 
-# Common Usage
+## Common Usage
 1. [Ubuntu Documentation on How to Use the Terminal](https://help.ubuntu.com/community/UsingTheTerminal){:target="_blank"}
 1.  Graphic Notebook Editor
 * Command: `gedit file_name.extension`
@@ -44,11 +45,11 @@ Linux Test
 * Load a module: `module load apps/MATLAB/R2020a`
 * Unload a module: `module unload apps/MATLAB/R2020a`
 
-# Running Matlab Remotely in a Server
-Step 1: Load Matlab
+## Running MATLAB Remotely in a Server
+Step 1: Load MATLAB
 * Command: `module load apps/MATLAB/R2020a`
 
-Step 2: Run Matlab without GUI and in the background
+Step 2: Run MATLAB without GUI and in the background
 * Command: `nohup matlab -r MatlabScriptName -nodisplay - nosplash -nojvm -nodesktop &`
 
 The above command may output Bad file descriptor and Warning: “Error reading Character from command line" error. In this case, using the following command instead:
@@ -59,7 +60,6 @@ Explanation: [https://www.programmersought.com/article/91451058498/](https://www
 > ">log.txt" refers to redirecting the output to log.txt. 2>&1 means to input the error information into log.txt, 2 Refers to the standard input and output error (stderr), 1 refers to the standard output (stdout), 2> & 1 means 2 is equivalent to 1 output, the last & is the meaning of background operation, combined with the nohup command. 
 
 
-# Tutorial:
-* [How to run Matlab on server, University of Calgary](https://people.ucalgary.ca/~yauf/How_to_run_Matlab_on_server.htm){:target="_blank"}
+## Tutorial:
+* [How to run MATLAB on server, University of Calgary](https://people.ucalgary.ca/~yauf/How_to_run_Matlab_on_server.htm){:target="_blank"}
 * [How do I run my program in the background (including the use of 'screen')?](https://statistics.berkeley.edu/computing/background-program){:target="_blank"}, University of California, Berkeley
-

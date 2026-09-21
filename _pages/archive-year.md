@@ -1,8 +1,7 @@
 ---
 title: "Posts by Year"
 permalink: /archive-year/
-layout: posts
-author_profile: true
+layout: page
 ---
 
 ## [Posts by Category](/categories/)

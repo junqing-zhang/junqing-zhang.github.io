@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Deep Learning Tutorial for Beginners, Get Started'
 date: 2026-06-24
 permalink: /resources/deep-learning/dl-get-started/
@@ -13,12 +14,12 @@ This page provides a short deep learning tutorial for beginners in this area.
 
 {% include toc %}
 
-# 1. Introduction to Deep Learning
+## 1. Introduction to Deep Learning
 
 Deep learning is a branch of machine learning techniques that utilizes artificial neural networks to approximate a desired function based on the provided training data. It is particularly suitable for complicated tasks such as natural language processing (NLP), computer vision (CV), autonomous driving because the algorithms for these applications are difficult to design by hand. Deep learning can automatically learn algorithms from extensive number of real-world training data, making it an ideal approach for tackling such difficult tasks.
 
 
-# 2. Development Tools
+## 2. Development Tools
 
 This section introduces useful development tools, frameworks for AI research. The Python and MATLAB languages are recommended for beginners.
 
@@ -55,7 +56,7 @@ The MATLAB Deep Learning Toolbox provides a framework for designing and implemen
 
 As MATLAB requires a paid license, the public resources for MATLAB are limited compared to Python-based deep learning framework. Researchers who rely heavily on other MATLAB toolboxes, such as wireless researchers, may prefer the MATLAB Deep Learning Toolbox.
 
-# 3. A Typical Deep Learning Procedure
+## 3. A Typical Deep Learning Procedure
 This section use Keras library as an example to show a simple supervised classification task.
 
 The MNIST handwritten digits classification problem is adopted to describe a typical deep learning procedure.  
@@ -129,7 +130,7 @@ model = keras.Sequential(
 
 ## 3.3. Training
 
-Next we will do the training. Keras is a highly encapsulated library and enables us to train the model with several lines of codes. The internal initialization, forward/backward propagation, parameter updating procedures are all encapsulated in the `fit` function.
+Next, we train the model. Keras provides a high-level interface that requires only a few lines of code. Initialisation, forward and backward propagation, and parameter updates are handled by the `fit` function.
 
 ```
 batch_size = 128
@@ -158,7 +159,7 @@ print("Test accuracy:", score[1])
 ```
 
 
-# 4. Learning Resources
+## 4. Learning Resources
 
-- CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [link](http://cs231n.stanford.edu/)
+- CS231n: Convolutional Neural Networks for Visual Recognition at Stanford University [External resource](http://cs231n.stanford.edu/)
 - Book: [Dive into Deep Learning — Dive into Deep Learning 1.0.0-beta0 documentation (d2l.ai)](http://d2l.ai/index.html)
