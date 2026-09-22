@@ -34,7 +34,7 @@ Prospective applicants should check the University of Liverpool's official acade
 
 Note: A Master's degree is not compulsory for admission to a PhD programme at the University of Liverpool. Applicants with a suitable Bachelor's degree may apply directly for PhD study.
 
-## Academic Background
+### Academic Background
 Applicants should normally have, or expect to obtain, a BSc or MSc degree in a relevant discipline, such as Electrical and Electronic Engineering, Computer Science, Applied Mathematics, or a closely related subject.
 
 Experience in one or more of the following areas would be advantageous:
@@ -49,12 +49,12 @@ A strong mathematical background and/or good programming skills are highly desir
 
 Applicants should also have good written and spoken English skills to undertake research, communicate technical ideas, and prepare academic publications.
 
-## English Language Requirement
+### English Language Requirement
 Applicants are required to provide evidence of English language proficiency. The minimum requirement is IELTS 6.5 overall, with no individual component below 5.5, or an equivalent recognised English language qualification.
 
 Please note that the English language requirement applies to both full PhD applicants and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
 
-## How to Apply
+### How to Apply
 We accept PhD applications year-round, with flexible start dates once an unconditional offer has been received.
 
 * Visit [How to apply](https://www.liverpool.ac.uk/postgraduate-research/how-to-apply/){:target="_blank"}
@@ -79,8 +79,8 @@ The School of Computer Science and Informatics hosts numerous staff members awar
 
 Please visit this [University of Liverpool guidance](https://www.liverpool.ac.uk/computer-science-and-informatics/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
 
-## Newton International Fellowships 
+### Newton International Fellowships 
 The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application usually opens in January and closes in March. Please contact us if you are interested.
 
-## Marie Skłodowska-Curie Postdoctoral Fellowship
+### Marie Skłodowska-Curie Postdoctoral Fellowship
 The [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships){:target="_blank"} will close on 9 September 2026.
