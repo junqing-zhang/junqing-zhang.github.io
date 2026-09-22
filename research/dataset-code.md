@@ -13,6 +13,13 @@ We have made selected datasets and source code publicly available.
 
 {% include toc %}
 
+<div class="section-card pub-list">
+
+<h3>Refereed Jounal Articles</h3>
+{% bibliography --query @[keywords~=rffi && keywords~=data_code] %}
+
+</div>
+
 ## Radio-Frequency Fingerprint Identification (RFFI)
 <div class="section-card" id="dataset" markdown="1">
 1. Guanxiong Shen, **Junqing Zhang**, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, vol. 19, pp. 9204-9215, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10697226){:target="_blank"}
