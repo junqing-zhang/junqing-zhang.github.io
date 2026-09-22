@@ -99,10 +99,6 @@ tags:
 </div>
 
 
-
-
-
-
 ## Power Amplifier
 **Journal**
 1. Yuepei Li, Symon K. Podilchak, **Junqing Zhang**, Simon L. Cotton, Tharmalingam Ratnarajah, and Yuan Ding, “RFFI Protocols Using Antenna Mutual Coupling and Power Amplifier Nonlinear Memory Effects,” _IEEE Communications Letters_, vol. 29, no. 6, pp. 1250 - 1254, Jun. 2025. [IEEE](https://ieeexplore.ieee.org/document/10955860){:target="_blank"}
@@ -125,12 +121,11 @@ tags:
 1. Yuxuan Xu, Ming Liu, Linning Peng, **Junqing Zhang**, and Yawen Zheng, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network”, in _Proc. IEEE ICC_, 2022
 
 ## Modelling
-1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ vol. 16, pp. 3974 - 3987, 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
+{% bibliography --query @*[key=zhang2021radio] %}
 
 ## Others
 **Journal Article**
-1. Yuexiu Xing, Aiqun Hu, **Junqing Zhang**, Jiabao  Yu, Guyue Li, and Ting Wang, “Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar,” _IEEE Internet of Things Journal_, vol. 7, no. 10, pp. 10581 - 10593, Oct. 2020.  . [IEEE Xplore](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
-
+{% bibliography --query @*[key=xing2020design] %}
 
 **Conference Paper**
 1. To Truong An, Simon L. Cotton, **Junqing Zhang**, Yuan Ding and Trung Q. Duong, “LoRa Radio Frequency Fingerprinting Using a Hybrid Quantum-Classical Neural Network”, in _Proc. IEEE VTC Fall_, 2024.
