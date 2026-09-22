@@ -25,7 +25,7 @@ Please visit [RFFI publications by topic](/research/rffi/rffi-pub-topics/) for o
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 
 ## Demonstration
-<div class="section-card pub-list">
+<div class="section-card pub-list" markdown="1">
 * [Wi-Fi RFFI Demonstration](/research-demo/demo-wifi-rffi/)
 * [Deep Learning-Powered Radio Frequency Fingerprint Identification for LoRa](/research-demo/demo-fyp-2020-rffi-lora/)
 </div>
