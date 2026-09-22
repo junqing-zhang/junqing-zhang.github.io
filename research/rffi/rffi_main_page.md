@@ -2,7 +2,7 @@
 layout: page
 research_section: rffi
 title: "Radio-Frequency Fingerprint Identification"
-description: "An overview of Radio-Frequency Fingerprint Identification, including research topics, publications, datasets, resources, and projects."
+description: "Research on radio-frequency fingerprint identification, including methods, publications, datasets, resources, and projects."
 permalink: /research/rffi/
 ---
 
