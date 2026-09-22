@@ -35,6 +35,8 @@ tags:
 
 Some of the above works have made their datasets and source code available. Please visit our [datasets and code page](/research/dataset-code/) for more information.
 
+{% bibliography --query @*[key=shen2022scalable || key=shen2023length || key=shen2023towards || key=shen2024federated || key=shen2021radioj] %}
+
 ## Modelling
 {% bibliography --query @*[key=zhang2021radio] %}
 
