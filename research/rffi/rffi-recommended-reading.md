@@ -19,11 +19,11 @@ tags:
 {% include toc %}
 
 ## Survey and Tutorial Papers from Our Group
-1. **Junqing Zhang**<sup>*</sup>, Francesco Ardizzon, Mattia Piana, Guanxiong Shen, and Stefano Tomasin, “Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice,” _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 5296 - 5325, 2025. [IEEE](https://ieeexplore.ieee.org/document/11003929){:target="_blank"}
-1. **Junqing Zhang**<sup>*</sup>, Guanxiong Shen, Walid Saad, and Kaushik Chowdhury, “Radio Frequency Fingerprint Identification for Device Authentication in the Internet of Things,” _IEEE Communications Magazine_, vol. 61, no. 10, pp. 110 - 115, Oct. 2023.  [IEEE](https://ieeexplore.ieee.org/document/10184988){:target="_blank"}
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, vol. 61, no. 9, pp. 170 - 176, Sept. 2023. [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
-1. **Junqing Zhang**, Chip Hong Chang, Chongyan Gu, and Lajos Hanzo, “Radio Frequency Fingerprints vs. Physical Unclonable Functions - Are They Twins, Competitors or Allies?,” _IEEE Network_, vol. 36, no. 6, pp. 68 - 75, Nov./Dec. 2022. [IEEE Xplore](https://ieeexplore.ieee.org/document/9839648){:target="_blank"}
-1. **Junqing Zhang**, Sekhar Rajendran, Zhi Sun, Roger Woods, and Lajos Hanzo, “Physical Layer Security for the Internet of Things: Authentication and Key Generation,” _IEEE Wireless Communications_, vol. 26, no. 5, pp. 92 - 98, Oct. 2019. [IEEE Xplore](https://ieeexplore.ieee.org/document/8715341){:target="_blank"}
+<div class="section-card pub-list">
+
+{% bibliography --query @article[keywords~=rffi && keywords~=survey] %}
+
+</div>
 
 ## Technical Papers from Our Group
 ## LoRa RFFI
@@ -36,8 +36,6 @@ tags:
 Some of the above works have made their datasets and source code available. Please visit our [datasets and code page](/research/dataset-code/) for more information.
 
 ## Modelling
-1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ vol. 16, pp. 3974 - 3987, 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
-
 {% bibliography --query @*[key=zhang2021radio] %}
 
 ## Tutorial Papers from Other Groups
