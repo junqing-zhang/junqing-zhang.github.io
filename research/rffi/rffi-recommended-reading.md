@@ -38,6 +38,8 @@ Some of the above works have made their datasets and source code available. Plea
 ## Modelling
 1. **Junqing Zhang**, Roger Woods, Magnus Sandell, Mikko Valkama, Alan Marshall, and Joseph Cavallaro, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification,” _IEEE Transactions on Information Forensics and Security,_ vol. 16, pp. 3974 - 3987, 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9450821){:target="_blank"}
 
+{% bibliography --query @*[key=zhang2021radio] %}
+
 ## Tutorial Papers from Other Groups
 1. Shamnaz Riyaz, Kunal Sankhe, Stratis Ioannidis, and Kaushik Chowdhury, “Deep Learning Convolutional Neural Networks for Radio Identification,” _IEEE Communications Magazine_, 2018
 
