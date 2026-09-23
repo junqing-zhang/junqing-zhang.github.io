@@ -1,5 +1,5 @@
 <head>
-  {% assign canonical_path = page.redirect_to | default: page.url %}
+  {% assign canonical_path = page.url %}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title | escape }} - {{ site.name | escape }}{% else %}{{ site.name | escape }}{% endif %}</title>

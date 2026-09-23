@@ -15,4 +15,4 @@ Key generation is an emerging technique to establish cryptographic keys between 
   <figcaption>Wireless channel-based secret key generation between two legitimate devices.</figcaption>
 </figure>
 
-See our [key-generation demonstration using WARP](/demo-keygen-warp/).
+See our [key-generation demonstration using WARP](/research-demo/demo-keygen-warp/).

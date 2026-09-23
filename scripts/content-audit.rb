@@ -48,16 +48,22 @@ canonical_redirects = {
   "/research/keygen/keygen_main_page/" => "/research/keygen/",
   "/research/phy-auth/phy-auth-main-page/" => "/research/phy-auth/",
   "/research/wifi-sensing/wifi-sensing-main-page/" => "/research/wifi-sensing/",
-  "/research/mmwave-radar/mmwave-radar-main-page/" => "/research/mmwave-radar/"
+  "/research/mmwave-radar/mmwave-radar-main-page/" => "/research/mmwave-radar/",
+  "/resources/deep-learning/dl/" => "/resources/deep-learning/",
+  "/demo-keygen-heartbeat-ppg/" => "/research-demo/demo-keygen-heartbeat-ppg/",
+  "/demo-keygen-warp/" => "/research-demo/demo-keygen-warp/"
 }
 
-canonical_redirects.each do |legacy_url, canonical_url|
-  redirect_found = Dir.glob("_pages/redirect-*.md").any? do |path|
-    source = File.read(path)
-    source.match?(/^permalink:\s*#{Regexp.escape(legacy_url)}\s*$/) &&
-      source.match?(/^redirect_to:\s*#{Regexp.escape(canonical_url)}\s*$/)
+# Match root-relative links and absolute links to this site, without matching
+# the same suffix within a current URL (for example /research-demo/...).
+site_url = YAML.safe_load_file("_config.yml").fetch("url").chomp("/")
+content_files = Dir.glob("{_pages,_posts,_includes,_layouts,_data,research,research-demo,resources,funding-and-awards}/**/*.{md,html,yml}")
+content_files.each do |path|
+  source = File.read(path)
+  canonical_redirects.each do |legacy_url, canonical_url|
+    retired_link = %r{(?<![\w/.-])(?:#{Regexp.escape(site_url)})?#{Regexp.escape(legacy_url)}(?=[\s\x22'\x29\x3e\x23?]|$)}
+    errors << "#{path}: retired URL #{legacy_url}; use #{canonical_url}" if source.match?(retired_link)
   end
-  errors << "Missing redirect from #{legacy_url} to #{canonical_url}" unless redirect_found
 end
 
 if errors.empty?

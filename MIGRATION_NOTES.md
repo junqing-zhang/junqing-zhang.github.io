@@ -3,12 +3,17 @@
 This repository uses the `academic-website-template` design and build system,
 with the content migrated from `junqing-zhang.github.io`.
 
-## Preserved URLs
+## Current URLs
 
-The existing public page paths are retained, including `/research/`,
-`/publication/`, `/people/`, `/opportunities/`, `/funding-and-awards/`,
+The current public page paths include `/research/`,
+`/publications/`, `/people/`, `/opportunities/`, `/funding-and-awards/`,
 `/professional-activities/`, `/resources/`, `/teaching/`, and their nested
 research, resource, project, and demonstration pages.
+
+Legacy research landing-page URLs, `/resources/deep-learning/dl/`,
+`/demo-keygen-heartbeat-ppg/`, and `/demo-keygen-warp/` are retired.
+Their redirect pages have been removed, and internal links use the current
+destinations. External links and bookmarks to these retired URLs will return 404.
 
 ## Publications
 

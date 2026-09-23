@@ -99,7 +99,7 @@ The neural network can operate directly on the collected IQ samples or on featur
 
 If you are new to deep learning, the following introductory resources may be useful.
 * [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/){:target="_blank"}
-* [Deep Learning for Beginners](/resources/deep-learning/dl/){:target="_blank"}
+* [Deep Learning for Beginners](/resources/deep-learning/){:target="_blank"}
 
 The following two examples provide implementations for RFFI:
 1. [MATLAB, Detect WLAN Router Impersonation](https://www.mathworks.com/help/comm/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}

@@ -67,7 +67,7 @@ I am running the following final year projects in the academic year 2025-2026.
 * wIoT - A distributed IoT operating system basing on NodeJS (student proposed project)
 
 ## 2019
-* [Securing Body Area Networks Using Electrocardiogram Signals](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/)
+* [Securing Body Area Networks Using Electrocardiogram Signals](https://junqing-zhang.github.io/research-demo/demo-keygen-heartbeat-ppg/)
 * LoRa-Based Key Generation in Low Power Wide Area Networks
 * Build A Wi-Fi-based Key Generation System Using Raspberry Pi
 * Investigating RF impairments for the Radio Frequency Fingerprinting Identification
@@ -76,6 +76,6 @@ I am running the following final year projects in the academic year 2025-2026.
 
 
 ## 2018 
-* [Build An Automatic Secure Key Generation Protocol for Wi-Fi Systems](https://junqing-zhang.github.io/demo-keygen-warp/)
+* [Build An Automatic Secure Key Generation Protocol for Wi-Fi Systems](https://junqing-zhang.github.io/research-demo/demo-keygen-warp/)
 * [Build a LoRaWAN-based Internet of Things System](https://junqing-zhang.github.io/demo-lorawan-fipy/)
 * Build a Secure LoRa-based Internet of Things System

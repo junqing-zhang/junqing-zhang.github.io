@@ -4,9 +4,6 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 description: "Dr Junqing Zhang is a Reader at the University of Liverpool researching wireless security, physical-layer security, RF fingerprinting, and wireless sensing."
-redirect_from:
-  - /about/
-  - /about.html
 toc: true
 ---
 
