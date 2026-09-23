@@ -25,8 +25,8 @@
     margin-top: 0;
   }
 
-  // First paragraph — slightly larger, editorial lead-in
-  > p:first-of-type {
+  // Introductory paragraphs share the larger lead-in styling.
+  > p:nth-of-type(-n + 2) {
     font-size: 1.0625rem;
     line-height: 1.8;
     color: var(--text-primary);
