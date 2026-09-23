@@ -63,7 +63,7 @@ nav_pages:
 # STEP 5: Publications (assets/ref.bib)
 # ============================================================
 # Your name is bolded in the publication list. Write it exactly as it
-# appears in the rendered list ("Last, F. M."); list the longest form first.
+# appears in the rendered list ("F. M. Last"); list the longest form first.
 scholar:
   last_name: Zhang
   first_name: ["J.", "Junqing"]
