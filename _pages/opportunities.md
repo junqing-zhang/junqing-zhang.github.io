@@ -25,7 +25,7 @@ I welcome enquiries from prospective PhD students, visiting researchers and post
   </div>
 </nav>
 
-<p class="opportunities-note">These are routes for general enquiries and competitive funding applications, rather than advertisements for funded PhD places or postdoctoral jobs.</p>
+<p class="opportunities-note">Funding and availability vary by route; please see the details below.</p>
 
 <section class="opportunities-interests" aria-labelledby="research-interests" markdown="1">
 
@@ -62,7 +62,7 @@ PhD applications are welcome throughout the year, with flexible start dates once
 
 ### How to enquire
 
-Email [{{ site.email }}](mailto:{{ site.email }}) with your **CV and academic transcripts** to discuss PhD supervision or a research visit.
+Prospective PhD students should email [{{ site.email }}](mailto:{{ site.email }}) with their **CV and academic transcripts** to discuss PhD supervision.
 
 </aside>
 
@@ -102,7 +102,7 @@ The Liverpool–CSC scholarship combines University tuition-fee support with a C
 
 <p><a class="btn-pill btn-website" href="https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/">Official Liverpool CSC guidance <span aria-hidden="true">→</span></a></p>
 
-The University issues an award letter once the entire scholarship has been awarded, rather than a tuition-fee-only award letter. Refer to the official page for application forms and dates for your intended intake.
+Refer to the official page for application forms and dates for your intended intake.
 
 </section>
 
@@ -110,7 +110,7 @@ The University issues an award letter once the entire scholarship has been award
 
 ## Visiting researchers
 
-I welcome enquiries about academic visits and research collaborations in wireless communications, security and sensing. Please [email me](mailto:{{ site.email }}) with your CV and academic transcripts to discuss a visit.
+I welcome enquiries about academic visits and research collaborations in wireless communications, security and sensing. Please [email me](mailto:{{ site.email }}) with your CV, proposed research topic and intended visit dates. Prospective visiting PhD students should also include academic transcripts.
 
 CSC also offers funding routes for visiting PhD students and visiting scholars. These follow a different application process from full PhD scholarships; please contact me if you are interested. Visiting PhD students should also check the English language guidance above.
 
@@ -120,7 +120,7 @@ CSC also offers funding routes for visiting PhD students and visiting scholars. 
 
 ## Postdoctoral fellowships
 
-The School of Computer Science and Informatics supports personal fellowship applicants and hosts researchers with these awards. Please [contact me](mailto:{{ site.email }}) if you would like to explore a fellowship application, and read the [School's fellowship guidance](https://www.liverpool.ac.uk/computer-science-and-informatics/fellowships/). These are competitive fellowship schemes, not advertised postdoctoral jobs.
+The School of Computer Science and Informatics supports personal fellowship applicants and hosts researchers with these awards. Please [contact me](mailto:{{ site.email }}) if you would like to explore a fellowship application, and read the [School's fellowship guidance](https://www.liverpool.ac.uk/computer-science-and-informatics/fellowships/).
 
 <div class="opportunities-columns" markdown="1">
 
