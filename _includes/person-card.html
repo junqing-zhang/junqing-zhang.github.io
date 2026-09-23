@@ -1,0 +1,18 @@
+{% comment %}Pass an unprefixed name so initials exclude titles. Optional fields are omitted.{% endcomment %}
+<article class="team-card">
+  <header class="person-header">
+    {% if include.photo %}
+    <img class="team-photo" src="{{ include.photo | relative_url }}" alt="{{ include.name | escape }}" width="52" height="52" loading="lazy">
+    {% else %}
+    <span class="person-avatar" aria-hidden="true">{% assign name_parts = include.name | split: ' ' %}{% for part in name_parts %}{{ part | slice: 0 | escape }}{% endfor %}</span>
+    {% endif %}
+    <div>
+      <h3 class="team-name">{% if include.url %}<a href="{{ include.url | escape }}">{% endif %}{% if include.title %}{{ include.title | escape }} {% endif %}{{ include.name | escape }}{% if include.url %}</a>{% endif %}</h3>
+      <p class="person-role">{{ include.role | escape }}</p>
+    </div>
+  </header>
+  {% if include.period %}<p class="person-period">{{ include.period | escape }}</p>{% endif %}
+  {% if include.institution %}<p class="person-institution">{{ include.institution | escape }}</p>{% endif %}
+  {% if include.topic %}<p class="person-topic">{{ include.topic | escape }}</p>{% endif %}
+  {% if include.supervision %}<p class="person-supervision">{{ include.supervision | escape }}</p>{% endif %}
+</article>
