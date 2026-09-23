@@ -39,6 +39,14 @@ h1, h2 {
 h3 { font-size: 1.375rem; }
 h4 { font-size: 1.125rem; }
 
+// Long directory pages share a quiet rule between section headings and cards.
+.funding-page > h2,
+.people-page > h2 {
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--border-color);
+  &::after { display: none; }
+}
+
 p {
   color: var(--text-secondary);
   margin-bottom: var(--space-4);

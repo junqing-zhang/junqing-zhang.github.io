@@ -40,17 +40,42 @@
   display: inline-block;
   float: right;
   font-family: 'DM Sans', sans-serif;
-  font-size: 0.6875rem;
+  font-size: 0.8125rem;
   font-weight: 700;
   letter-spacing: 0.04em;
-  padding: 0.15rem 0.625rem;
-  border-radius: var(--radius-full);
-  background-color: var(--accent-light);
-  color: var(--accent);
-  border: 1px solid var(--accent);
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-sm);
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  border-left: 3px solid var(--accent);
   margin-left: var(--space-3);
   margin-top: var(--space-1);
 }
+
+// Shared publication actions: labelled outlines, with restrained teal resources.
+.pub-actions .btn-pill {
+  background-color: var(--bg-card);
+  border-color: var(--text-muted);
+  color: var(--text-secondary);
+
+  &:where(.btn-doi, .btn-pdf, .btn-code, .btn-data, .btn-arxiv, .btn-paper) {
+    background-color: var(--accent-light);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  &:hover {
+    background-color: var(--bg-secondary);
+    border-color: var(--accent);
+    color: var(--accent-hover);
+    opacity: 1;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+}
+
+.pub-reference a { text-decoration: underline; text-underline-offset: 0.15em; }
 
 // Selected publications on the home page: no list numbering
 .selected-pubs ol.bibliography {

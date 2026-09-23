@@ -2,6 +2,15 @@
 // Card components
 // =============================================================
 
+// Keep linked card titles recognisable without relying on accent colour.
+.section-card h3 a,
+.team-name a,
+.pi-links a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
 .card-academic {
   background-color: var(--bg-card);
   border: 1px solid var(--border-color);

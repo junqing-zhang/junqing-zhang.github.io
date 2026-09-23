@@ -2,6 +2,21 @@
 .funding-page {
   a, h3, dd, p, li { overflow-wrap: anywhere; }
 
+  #ongoing-projects,
+  #completed-projects {
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-sm);
+    border-bottom: 0;
+  }
+  #ongoing-projects {
+    background: var(--accent-light);
+    border-left: 3px solid var(--accent);
+  }
+  #completed-projects {
+    background: var(--bg-secondary);
+    border-left: 3px solid var(--border-color);
+  }
+
   .funding-highlight {
     max-width: none;
     padding: var(--space-3) var(--space-4);
