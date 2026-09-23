@@ -1,0 +1,53 @@
+// Funding and Awards: retain shared surfaces, type and page width.
+.funding-page {
+  a, h3, dd, p, li { overflow-wrap: anywhere; }
+
+  .funding-highlight {
+    max-width: none;
+    padding: var(--space-3) var(--space-4);
+    border-left: 3px solid var(--accent);
+    strong { color: var(--accent); }
+  }
+
+  .funding-projects {
+    display: grid;
+    gap: var(--space-4);
+  }
+
+  .funding-project {
+    min-width: 0;
+    margin: 0;
+    padding: var(--space-6);
+    h3 { font-size: 1.25rem; margin-bottom: var(--space-4); }
+  }
+
+  .funding-details {
+    display: grid;
+    grid-template-columns: minmax(0, 2fr) repeat(3, minmax(0, 1fr));
+    gap: var(--space-4);
+    margin: 0;
+    > div { min-width: 0; }
+    dt { font-size: 0.8125rem; color: var(--text-muted); margin-bottom: var(--space-1); }
+    dd { margin: 0; font-size: 0.9375rem; color: var(--text-secondary); line-height: 1.6; }
+  }
+
+  .funding-partners {
+    max-width: none;
+    margin: var(--space-4) 0 0;
+    font-size: 0.9375rem;
+  }
+
+  .funding-list {
+    padding-left: var(--space-6);
+    li { max-width: none; padding-left: var(--space-1); margin-bottom: var(--space-4); }
+    li::marker { color: var(--accent); }
+    p { max-width: none; margin: var(--space-1) 0 0; }
+  }
+
+  .funding-award-links { display: flex; flex-wrap: wrap; gap: var(--space-2) var(--space-4); }
+
+  @media (max-width: 640px) {
+    .funding-details { grid-template-columns: minmax(0, 1fr); gap: var(--space-3); }
+    .funding-project { padding: var(--space-4); }
+  }
+}
