@@ -6,6 +6,23 @@
 (function () {
   'use strict';
 
+  // Keep this site open when following links to other websites.
+  var canonicalLink = document.querySelector('link[rel="canonical"]');
+  var siteOrigin = canonicalLink ? new URL(canonicalLink.href).origin : window.location.origin;
+  document.querySelectorAll('a[href]').forEach(function (link) {
+    var destination;
+    try {
+      destination = new URL(link.getAttribute('href'), document.baseURI);
+    } catch (error) {
+      return;
+    }
+    if ((destination.protocol === 'https:' || destination.protocol === 'http:') &&
+        destination.origin !== window.location.origin && destination.origin !== siteOrigin) {
+      link.setAttribute('target', '_blank');
+      link.relList.add('noopener');
+    }
+  });
+
   // Icons come from the inline sprite in _includes/icons.svg
   function iconHTML(name) {
     return '<svg class="icon" aria-hidden="true" focusable="false"><use href="#icon-' + name + '"></use></svg>';
