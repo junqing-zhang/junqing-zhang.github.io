@@ -288,12 +288,37 @@
     .team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   @media (max-width: 640px) {
-    .team-grid { grid-template-columns: minmax(0, 1fr); }
-    .pi-card { gap: var(--space-4); }
+    .team-grid {
+      grid-template-columns: minmax(0, 1fr);
+      align-items: start;
+      gap: var(--space-4);
+    }
+    .team-card {
+      text-align: center;
+      .person-supervision {
+        margin-top: var(--space-3);
+        padding-top: 0;
+      }
+    }
+    .person-header { flex-direction: column; }
+    .pi-card {
+      grid-template-columns: minmax(0, 1fr);
+      gap: var(--space-4);
+      text-align: center;
+    }
     .pi-card .pi-photo {
-      width: calc(var(--space-16) + var(--space-2));
+      width: calc(var(--space-16) * 2);
+      max-width: 100%;
+      height: auto;
+      contain: none;
+      align-self: center;
+      margin: 0 auto;
     }
     .pi-card .pi-name { font-size: 1.375rem; }
+    .pi-card .pi-links {
+      justify-content: center;
+      a { min-width: 0; overflow-wrap: anywhere; }
+    }
   }
   @media print {
     .team-grid { display: block; }
