@@ -7,8 +7,6 @@ description: "Researchers and students working with Dr Junqing Zhang in wireless
 toc: true
 ---
 
-I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has five academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
-
 {% include toc %}
 
 ## PDRA
