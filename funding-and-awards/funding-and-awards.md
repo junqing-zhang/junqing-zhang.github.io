@@ -31,6 +31,7 @@ description: "Research funding, projects, awards, and travel grants secured by D
     <div><dt>Dates</dt><dd>1 March 2026 – 28 February 2029</dd></div>
     <div><dt>Role</dt><dd>Principal Investigator</dd></div>
   </dl>
+  <p class="funding-partners"><strong>Partners:</strong> Rice University, USA</p>
 </article>
 
 <article class="section-card funding-project">
@@ -66,6 +67,7 @@ description: "Research funding, projects, awards, and travel grants secured by D
     <div><dt>Dates</dt><dd>1 October 2025 – 31 March 2026</dd></div>
     <div><dt>Role</dt><dd>Principal Investigator</dd></div>
   </dl>
+  <p class="funding-partners"><strong>Partners:</strong> Ruhr-Universität Bochum, Germany</p>  
 </article>
 
 <article class="section-card funding-project">
