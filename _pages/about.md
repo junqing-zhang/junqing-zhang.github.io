@@ -38,7 +38,7 @@ Wireless Security
 
 Wireless sensing
 * [Wi-Fi Sensing](/research/wifi-sensing/)
-* mmWave Radar Sensing
+* [mmWave Radar Sensing](/research/mmwave-radar/)
 
 <p style="margin: var(--space-4) 0 0;"><a href="{{ '/research' | relative_url }}">Explore Our Research &rarr;</a></p>
 </div>
