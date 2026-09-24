@@ -38,7 +38,7 @@ description: "Editorial appointments, conference leadership, workshops, reviewin
 
 Workshop co-chair roles across the following series.
 
-### DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security Workshop(https://sites.google.com/view/deepwireless-workshop/){:target="_blank"}
+### [DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security Workshop](https://sites.google.com/view/deepwireless-workshop/){:target="_blank"}
 * [IEEE INFOCOM 2026 Fourth Edition](https://infocom2026.ieee-infocom.org/workshops){:target="_blank"}, [IEEE INFOCOM 2025 Third Edition](https://infocom2025.ieee-infocom.org/3rd-workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless-call-papers){:target="_blank"}, [IEEE INFOCOM 2024 Second Edition](https://infocom2024.ieee-infocom.org/second-deepwireless-workshop-deep-learning-wireless-communications-sensing-and-security-call-papers){:target="_blank"}, [IEEE INFOCOM 2023 First Edition](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
 
 ### Wireless Security Workshop
