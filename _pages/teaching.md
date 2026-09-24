@@ -26,15 +26,15 @@ Department of Electrical Engineering and Electronics, University of Liverpool
 <div class="section-card selected-pubs" markdown="1">
 
 ## ELEC463 Mobile Communications and Security
-* Semester 2, 2020 - 2026
+* Semester 2, 2020 - 2025
 * MSc 
 
 ## ELEC377/477 Digital and Wireless Communications
-* Semester 1, 2023 - 2026
+* Semester 1, 2023 - 2025
 * Year 3
 
 ## ELEC340 Final Year Project
-* 2018 - 2026
+* 2018 - 2025
 * Year 3
 * Please see [Related page](/teaching-fyp/) for the final year projects that I supervised.
 

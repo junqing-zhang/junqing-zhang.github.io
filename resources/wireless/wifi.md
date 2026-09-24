@@ -25,7 +25,7 @@ Strictly speaking, IEEE 802.11 is the standard by IEEE and Wi-Fi is a trademark 
 ## Standard
 The IEEE 802.11 standard defines the Physical (PHY) layer and Medium Access Control (MAC) layer protocols that underpin Wi-Fi communications. Since its initial release in 1997, the standard has evolved through numerous amendments, introducing enhancements in data rates, spectrum utilization, reliability, security, and application support. A comprehensive list of IEEE 802.11 amendments and their key features can be found on [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.
 
-## PHY Layer
+### PHY Layer
 The evolution of Wi-Fi has been driven largely by a series of PHY-layer amendments aimed at increasing data rates, improving spectral efficiency, and supporting a growing number of users and applications. Key milestones include IEEE 802.11b (1999), which employed Direct Sequence Spread Spectrum (DSSS) in the 2.4 GHz band; IEEE 802.11a (1999), which introduced Orthogonal Frequency Division Multiplexing (OFDM) in the 5 GHz band; and IEEE 802.11g (2003), which brought OFDM to the 2.4 GHz band while maintaining backward compatibility with 802.11b devices.
 
 Subsequent generations focused on improving throughput through advanced antenna technologies. IEEE 802.11n (2009) introduced Multiple-Input Multiple-Output (MIMO) techniques and was marketed as High Throughput (HT) Wi-Fi. IEEE 802.11ac (2013) further enhanced performance with wider channel bandwidths, higher-order modulation schemes, and multi-user MIMO, earning the designation Very High Throughput (VHT). More recently, IEEE 802.11ax (Wi-Fi 6), standardized in 2020, introduced technologies such as Orthogonal Frequency Division Multiple Access (OFDMA), uplink and downlink multi-user MIMO, and improved scheduling mechanisms to deliver High Efficiency (HE) operation, particularly in dense deployment scenarios.
@@ -57,7 +57,7 @@ Source: [https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulat
 
 
 
-## MAC Layer
+### MAC Layer
 Visit [Wi-Fi operating modes](/resources/wireless/wifi-modes/){:target="_blank"} for different Wi-Fi modes, including AP, station, and monitor.
 
 Wi-Fi use CSMA/CA as the MAC layer protocol.
@@ -120,31 +120,31 @@ In contrast, CSI offers a much richer and finer-grained description of the chann
 
 There are some CSI extraction tools for the commercial NICs.
 
-## Intel 5300 NIC
+### Intel 5300 NIC
 
 There is the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/){:target="_blank"} for Intel 5300 NIC. This Intel NIC together with the CSI tool have been used extensively by researchers and led to many excellent research papers. A list of the relevant publications can be found at [External resource](https://dhalperi.github.io/linux-80211n-csitool/#publicationss).
 
 Please note PCI-e interface is required for these NICs.
 
-## Atheros Chipsets
+### Atheros Chipsets
 
 There is [Atheros CSI Tool](https://wands.sg/AtherosCSI/){:target="_blank"}. A list of the relevant publications can be found at [External resource](https://wands.sg/research/wifi/AtherosCSI/#Users){:target="_blank"}.
 
-## Braodcom Wi-Fi Chipsets
+### Braodcom Wi-Fi Chipsets
 * [nexmon](https://github.com/seemoo-lab/nexmon){:target="_blank"}
 * [nexmon csi](https://github.com/seemoo-lab/nexmon_csi){:target="_blank"}
 * [WiFiEye - an Interactive Real-Time Workflow for Wi-Fi-Based Sensing
 ](https://github.com/pkindt/WiFiEye){:target="_blank"}
 * [Reverse-engineering Broadcom wireless chipsets](https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html){:target="_blank"} 
 
-## ESP32 CSI Toolkit
+### ESP32 CSI Toolkit
 * [ESP32 CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/){:target="_blank"}
 
 
 ## Software Tool
 
 
-## [Scapy](https://scapy.net/)
+### [Scapy](https://scapy.net/)
 [Scapy official website defines](https://scapy.readthedocs.io/en/latest/introduction.html#about-scapy){:target="_blank"}
 >Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks. 
 
@@ -157,7 +157,7 @@ Code Examples:
 [CWAP 802.11- Probe Request/Response](https://mrncciew.com/2014/10/27/cwap-802-11-probe-requestresponse/){:target="_blank"}
 * [Wi-Fi Karma: A Brief Guide On Probe Response Frames](https://www.shellvoide.com/wifi/wifi-karma-a-brief-guid-on-probe-response-frames/){:target="_blank"}
 
-## [Radiotap](https://www.radiotap.org/)
+### [Radiotap](https://www.radiotap.org/)
 * What is radiotap? [External resource](http://wifinigel.blogspot.com/2013/11/what-are-radiotap-headers.html){:target="_blank"}
 
 ## Wireshark - Network Monitoring

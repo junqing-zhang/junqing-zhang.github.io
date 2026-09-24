@@ -219,9 +219,5 @@ Belfast, 9 April 2025 [External resource](https://www.qub.ac.uk/research-centres
 * **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, UK, 13 March 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
 * STEM for BRITAIN is an annual poster exhibition in the House of Commons, UK, with the overall aim to encourage, support and promote early career researchers in the UK The event is organised by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
 
-### Poster presentations
-
-* Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23 July 2019
-* Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12 September 2017
 
 </div>
