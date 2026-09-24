@@ -85,6 +85,7 @@ permalink: /edu-work-experience/
 </div>
 
 ## Professional Recognition
+IEEE Senior Member
 
 Fellow of the Higher Education Academy (FHEA)
 
