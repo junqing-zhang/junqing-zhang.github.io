@@ -1,0 +1,45 @@
+// Professional service: compact records and native, accessible disclosure controls.
+.activities-page {
+  overflow-wrap: anywhere;
+  h2, h3 { scroll-margin-top: 6rem; }
+  > h2 {
+    padding-bottom: var(--space-3);
+    border-bottom: 1px solid var(--border-color);
+    &::after { display: none; }
+  }
+  h3 { margin-top: var(--space-6); font-size: 1.25rem; }
+  ul { padding-left: var(--space-6); }
+  li {
+    max-width: none;
+    padding-left: var(--space-1);
+    margin-bottom: var(--space-3);
+    &::marker { color: var(--accent); }
+  }
+  .activities-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2) var(--space-6);
+    margin-bottom: var(--space-6);
+    a { text-decoration: underline; text-underline-offset: 0.18em; }
+  }
+  .activities-history {
+    margin: var(--space-4) 0;
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    background: var(--bg-card);
+    summary {
+      cursor: pointer;
+      color: var(--text-primary);
+      font-weight: 600;
+      &::marker { color: var(--accent); }
+      &:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+    }
+    &[open] summary { margin-bottom: var(--space-4); }
+    ul:last-child { margin-bottom: 0; }
+  }
+  @media (max-width: 640px) {
+    .activities-nav { flex-direction: column; align-items: flex-start; }
+    .activities-history { padding: var(--space-3); }
+  }
+}
