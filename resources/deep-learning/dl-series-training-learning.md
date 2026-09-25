@@ -20,7 +20,7 @@ Deep Learning Tutorial Series
 
 This module explains how neural networks actually learn from data. The focus is on intuition: how predictions become better over time through feedback.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ---
 

@@ -9,7 +9,7 @@ toc: true
 
 Our group is equipped with advanced testbeds and experimental facilities, enabling us to conduct a wide range of wireless communication experiments and to design and implement embedded Internet of Things (IoT) systems.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Spectrum Analyzer
 * [Tektronix RSA306B USB Spectrum Analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306){:target="_blank"}

@@ -3,7 +3,7 @@ layout: page
 title: "NSF ECCS-EPSRC: SecureID: Towards Secure Device Identification Using Radio Frequency Fingerprints"
 permalink: /funding-and-awards/project-epsrc-2026-secure-id/
 ---
-{% include toc %} 
+{% include toc title="On this page" %}
 
 ## Overview
 * Funder: EPSRC

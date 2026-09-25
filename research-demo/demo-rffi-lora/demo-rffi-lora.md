@@ -14,7 +14,7 @@ tags:
 
 A Radio Frequency Fingerprint Identification (RFFI) LoRa demonstration has been developed at University of Liverpool, UK. 
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

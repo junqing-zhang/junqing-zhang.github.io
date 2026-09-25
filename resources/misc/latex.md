@@ -13,7 +13,7 @@ tags:
 LaTeX is perfect to prepare report, academic papers and presentations.
 Different from Word, LaTex may look complicated and difficult to learn in the beginning. It is true, because LaTeX requires knowledge about the syntax and rules. The learning curve may a little steep but once you become a  master, you will love it. You will be able to produce a good looking report without worrying the format any more.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## 1. Overview
 The most fascinate feature of LaTeX is that it allows you to focus on the content and frees you from worrying the format. It is very good at writing equations. It is excellent in managing the cross reference of figures and tables, and also the references. 

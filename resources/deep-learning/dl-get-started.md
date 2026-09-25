@@ -12,7 +12,7 @@ tags:
 
 This page provides a short deep learning tutorial for beginners in this area.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## 1. Introduction to Deep Learning
 

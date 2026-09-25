@@ -13,7 +13,7 @@ tags:
 
 This page provides setup guides, software, and learning resources for RTL-SDR receivers.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 RTL SDR is a low cost SDR. Check [External resource](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"} for detailed information.

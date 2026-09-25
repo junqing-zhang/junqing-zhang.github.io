@@ -12,7 +12,7 @@ tags:
 
 This page summarises resources related to wireless communications, involving fundametal knowledge, wireless standards, useful tools, and online resources.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Fundamental
 * [Wireless Channel and Radio Propagation](/resources/wireless/wireless-channel-radio-propagation/)

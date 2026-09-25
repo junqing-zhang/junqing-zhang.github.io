@@ -12,7 +12,7 @@ tags:
 
 This page provides introductory machine-learning resources for beginners.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

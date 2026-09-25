@@ -3,7 +3,7 @@ layout: page
 title: "Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning"
 permalink: /funding-and-awards/project-rs-2019-rffi-lora/
 ---
-{% include toc %} 
+{% include toc title="On this page" %}
 
 ## Overview
 * Funder: Royal Society

@@ -18,7 +18,7 @@ tags:
 
 This page provides a tutorial on how to construct a radio-frequency fingerprint identification (RFFI) system. The implementation depends on the wireless technology and the selected transmitter and receiver platforms. This tutorial provides general guidelines for designing such a system.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 As shown below, an RFFI system consists of several devices under test (DUTs) and a receiver. Its objective is to identify or classify the DUTs by analysing the physical-layer signals captured by the receiver.

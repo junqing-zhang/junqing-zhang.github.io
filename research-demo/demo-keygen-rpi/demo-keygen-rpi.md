@@ -14,7 +14,7 @@ tags:
 
 A Wi-Fi-based key generation demonstration has been developed using Raspberry Pi boards. A full key generation protocol has been implemented by the Python. 
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 Our wireless communications are protected by the symmetric encryption, e.g., Wi-Fi is secured by WPA2, which implements AES. However, the secure and efficient provision of keys for the symmetric encryption is very challenging for Internet of Things (IoT). We have been working on key generation from wireless channels and demonstrated this technique is very suitable for IoT.

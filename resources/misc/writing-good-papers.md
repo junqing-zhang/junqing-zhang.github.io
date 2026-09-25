@@ -12,7 +12,7 @@ tags:
 
 As a researcher, it is important to write good journal and conference papers. This link summarizes some resources and tips.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## How to Write a Paper
 ## Information for Authors

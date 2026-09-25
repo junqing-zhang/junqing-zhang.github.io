@@ -15,7 +15,7 @@ tags:
 
 This page summarises resources for ZigBee and IEEE 802.15.4. It is still under active update.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 IEEE 802.15.4 defines the physical and MAC layers. ZigBee is based on IEEE 802.15.4 but also defines higher layer protocols.

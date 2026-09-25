@@ -21,7 +21,7 @@ Deep Learning Tutorial Series
 
 This module introduces Convolutional Neural Networks (CNNs), which are the standard approach for image-related deep learning tasks.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ---
 

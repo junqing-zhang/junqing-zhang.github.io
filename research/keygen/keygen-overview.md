@@ -17,7 +17,7 @@ toc: true
 
 This page introduces the fundamental principles and protocol stages of key generation from wireless channels.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

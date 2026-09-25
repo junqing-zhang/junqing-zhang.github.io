@@ -13,7 +13,7 @@ tags:
 
 This page provides resources for collecting Wi-Fi channel state information using Nexmon CSI on Raspberry Pi platforms.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

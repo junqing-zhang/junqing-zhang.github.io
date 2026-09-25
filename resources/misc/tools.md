@@ -13,7 +13,7 @@ tags:
 Our research can be assisted by many useful and easy-to-use tools, for producing fancy figures, creating demonstration video, writing LaTeX efficiently. There are also many tools to make our everyday work much easier. 
 This page summarises some useful tools that I am using. Most importantly, most of them are free.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Figure
 We strongly recommend to use vector figures for academic publication because of the good resolution. [External resource](https://etc.usf.edu/techease/win/images/what-is-the-difference-between-bitmap-and-vector-images/){:target="_blank"} is a brief but good explanation about the difference between the bitmap and vector figures.

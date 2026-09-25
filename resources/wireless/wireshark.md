@@ -12,7 +12,7 @@ tags:
 
 This page provides introductory resources for packet capture and protocol analysis using Wireshark.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

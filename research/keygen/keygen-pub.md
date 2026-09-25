@@ -19,7 +19,7 @@ University of Liverpool has been one of the leading institutions worldwide in th
 
 Please find a [Poster]({{ site.url }}/files/pdf/PosterKeyGenLiv.pdf){:target="_blank"} that summarizes our work.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 <sup>*</sup> denotes corresponding author.
 

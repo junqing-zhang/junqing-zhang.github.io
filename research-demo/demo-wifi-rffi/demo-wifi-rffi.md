@@ -14,7 +14,7 @@ tags:
 
 A Wi-Fi Radio Frequency Fingerprint Identification (RFFI) demonstration has been developed at University of Liverpool, UK. 
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

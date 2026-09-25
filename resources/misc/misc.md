@@ -11,7 +11,7 @@ tags:
 
 This page summarises resources related to research.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 * [How to Write a (Good) Paper](/resources/misc/writing-good-papers/)
 * [How to Use LaTex](/resources/misc/latex/)

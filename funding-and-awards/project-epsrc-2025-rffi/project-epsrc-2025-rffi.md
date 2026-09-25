@@ -4,7 +4,7 @@ title: "Germany-UK: Securing Device Identification Using Hardware Impairments in
 permalink: /funding-and-awards/project-epsrc-2025-rffi/
 ---
 
-{% include toc %} 
+{% include toc title="On this page" %}
 
 ## Overview
 * Funder: EPSRC

@@ -13,7 +13,7 @@ tags:
 
 LoRa and LoRaWAN are designed for energy-efficient, long-range IoT communication. This page provides relevant tutorials, software, and hardware resources.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## LoRa vs LoRaWAN
 Sometimes people use LoRa as the physical layer modulation technique while LoRaWAN as the MAC protocol and also the network structure. In other cases, you may also see that LoRa is used as a general term to represent LoRa/LoRaWAN. 

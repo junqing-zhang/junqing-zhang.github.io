@@ -6,7 +6,7 @@ permalink: /research-demo/demo-lorawan-fipy/
 
 A LoRaWAN-based Internet of Things (IoT) demonstration is created at the Advanced Networks Research Group (ANRG), University of Liverpool. 
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 LoRa/LoRoWAN is one of the most dominant low power wide area networks (LPWAN) techniques. LoRa defines the physical layer modulation and is a proprietary technique patented by Semtech. LoRaWAN is the upper layer protocol maintained by [LoRa Alliance](https://lora-alliance.org/).

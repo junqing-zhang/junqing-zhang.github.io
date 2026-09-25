@@ -8,7 +8,7 @@ Traditional authentication schemes are implemented on the MAC layer for the LoRa
 
 In this demonstration, we will present a CNN-based RFF identification for LoRa. This demo is created by Mr Junzhe Ge as part of his final year project. This work won the second place of the [RISE Student Competition on hardware & embedded systems security](https://www.ukrise.org/competition/){:target="_blank"} in 2021.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 RFF identification is an emerging technology and it can be used for authentication of the Internet of Things with low power consumption. This demonstration uses LoPy4 to transmit LoRa signals and RTL-SDR for reception. The signal processing and CNN training have been implemented by Python. 

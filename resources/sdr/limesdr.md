@@ -13,7 +13,7 @@ tags:
 
 This page provides setup guides, software, and learning resources for LimeSDR.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

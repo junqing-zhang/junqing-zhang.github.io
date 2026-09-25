@@ -11,7 +11,7 @@ tags:
 
 This page summarises the journals and conferences for communications, computing and security.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 Journals can be mainly categorized into survey/tutorial-based and technical contribution-based. The latter can be further divided into regular papers (usually longer than eight pages) and letters (less than five pages).

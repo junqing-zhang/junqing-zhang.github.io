@@ -13,7 +13,7 @@ tags:
 
 This page summarises resources for Classic Bluetooth and Bluetooth Low Energy. It is still under active update.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 There is some confusion about the Bluetooth. Generally speaking, Bluetooth 1.0 - 3.0 includes classic Bluetooth. Bluetooth 4.0 starts to use Bluetooth Low Energy (BLE). A brief introduction about their difference can be found at [link1](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/radio-versions/){:target="_blank"}, [link2](https://blog.nordicsemi.com/getconnected/the-difference-between-classic-bluetooth-and-bluetooth-low-energy){:target="_blank"} and [link3](https://www.semiconductorstore.com/blog/2018/Bluetooth-1-0-vs-2-0-vs-3-0-vs-4-0-vs-5-0-How-They-Differ-Symmetry-Blog/3147/){:target="_blank"}.

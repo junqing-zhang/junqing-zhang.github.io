@@ -15,7 +15,7 @@ tags:
 
 {% include research-nav.html section="rffi" %}
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 

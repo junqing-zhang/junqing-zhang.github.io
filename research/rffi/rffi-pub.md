@@ -15,7 +15,7 @@ tags:
 
 {% include research-nav.html section="rffi" %}
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 
 

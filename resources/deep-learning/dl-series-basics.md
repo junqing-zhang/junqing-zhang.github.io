@@ -20,7 +20,7 @@ Deep Learning Tutorial Series
 
 This module introduces the core ideas behind machine learning and neural networks. The focus is on intuition rather than mathematics or code.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ---
 

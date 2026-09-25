@@ -3,7 +3,7 @@ layout: page
 title: "Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints"
 permalink: /funding-and-awards/project-rs-2023-uav-rffi/
 ---
-{% include toc %} 
+{% include toc title="On this page" %}
 
 ## Overview
 * Funder: Royal Society

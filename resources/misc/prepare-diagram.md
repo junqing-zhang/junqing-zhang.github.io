@@ -10,7 +10,7 @@ tags:
   - LaTeX
 ---
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 Create a high quality diagram/figure is not an easy task.
 

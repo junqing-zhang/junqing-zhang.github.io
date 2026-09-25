@@ -20,7 +20,7 @@ Deep Learning Tutorial Series
 
 This module introduces models for sequential data and gives a high-level overview of modern deep learning systems, including attention and transformers.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ---
 

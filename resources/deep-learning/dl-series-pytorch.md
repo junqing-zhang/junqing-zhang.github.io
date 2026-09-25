@@ -20,7 +20,7 @@ Deep Learning Tutorial Series
 
 This module introduces hands-on deep learning using PyTorch. You will build and train your first neural network end-to-end on a real dataset.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ---
 

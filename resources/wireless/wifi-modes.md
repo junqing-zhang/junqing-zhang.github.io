@@ -14,7 +14,7 @@ tags:
 
 Wi-Fi devices can operate in several different modes depending on their role in a wireless network. Among these, the most commonly used modes are **Station (STA)**, **Access Point (AP)**, and **Monitor Mode**. These modes are primarily associated with the IEEE 802.11 MAC layer, as they define how a device interacts with other Wi-Fi devices and processes wireless frames.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 A Wi-Fi network typically operates in an infrastructure Basic Service Set (BSS), which consists of an **Access Point (AP)** and one or more **Stations (STAs)**, as shown in the figure below.
 * Access Point mode allows a Wi-Fi device to create and manage a Wi-Fi network. Wireless routers and enterprise access points typically operate in this mode. 

@@ -13,7 +13,7 @@ tags:
 
 This page provides introductory resources on antennas and their use in wireless systems.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

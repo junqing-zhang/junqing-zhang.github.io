@@ -5,7 +5,7 @@ title: "Securing Spectrum Connectivity: Over-the-Air Authentication Using Radio 
 permalink: /funding-and-awards/project-epsrc-2024-rffi/
 toc: true
 ---
-{% include toc %} 
+{% include toc title="On this page" %}
 
 ## Overview
 * Funder: EPSRC

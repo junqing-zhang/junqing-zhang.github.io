@@ -11,7 +11,7 @@ tags:
 
 This page introduces common Linux commands and workflows for beginners.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 Linux Test

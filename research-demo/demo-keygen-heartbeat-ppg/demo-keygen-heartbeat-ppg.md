@@ -8,7 +8,7 @@ You may have used fingerprint authentication or face recognition with your smart
 
 In this demonstration, we will present a heartbeat-based key generation technique developed at Advanced Networks Research Group, University of Liverpool. 
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 This demonstration uses PPG sensors to collect heartbeat signals and extract cryptographic keys from the collected signals. A full key generation protocol has been implemented by the Python. 

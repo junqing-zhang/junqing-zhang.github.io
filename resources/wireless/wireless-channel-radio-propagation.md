@@ -14,7 +14,7 @@ tags:
 
 This page provides learning resources on wireless channels and radio propagation.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

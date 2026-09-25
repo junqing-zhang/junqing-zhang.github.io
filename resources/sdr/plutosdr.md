@@ -13,7 +13,7 @@ tags:
 
 This page provides setup guides, software, and learning resources for PlutoSDR.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 Check [Analog Device ADALM-PLUTO](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}

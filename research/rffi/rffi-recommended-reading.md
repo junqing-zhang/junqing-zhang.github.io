@@ -16,7 +16,7 @@ tags:
 
 {% include research-nav.html section="rffi" %}
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Survey and Tutorial Papers from Our Group
 <div class="section-card pub-list">

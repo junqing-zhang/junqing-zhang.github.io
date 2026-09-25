@@ -20,7 +20,7 @@ For researchers and students entering this field, selecting suitable hardware an
 
 Strictly speaking, IEEE 802.11 is the standard by IEEE and Wi-Fi is a trademark of the [Wi-Fi alliance](https://www.wi-fi.org/){:target="_blank"}. However, they are used interchangably in this post.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Standard
 The IEEE 802.11 standard defines the Physical (PHY) layer and Medium Access Control (MAC) layer protocols that underpin Wi-Fi communications. Since its initial release in 1997, the standard has evolved through numerous amendments, introducing enhancements in data rates, spectrum utilization, reliability, security, and application support. A comprehensive list of IEEE 802.11 amendments and their key features can be found on [wikipedia](https://en.wikipedia.org/wiki/IEEE_802.11){:target="_blank"}.

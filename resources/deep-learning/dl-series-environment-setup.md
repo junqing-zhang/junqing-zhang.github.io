@@ -20,7 +20,7 @@ Deep Learning Tutorial Series
 
 This guide helps you set up a working Python environment for deep learning using PyTorch. After completing this module, you will be able to run neural network code locally or in notebook environments.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 
 ## 0.1 What You Will Achieve

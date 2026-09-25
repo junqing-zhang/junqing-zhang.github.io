@@ -13,7 +13,7 @@ tags:
 
 This page summarises information for software defined radio (SDR).
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## SDR Platforms
 * [Universal Software Radio Peripheral (USRP)](/resources/sdr/usrp/)

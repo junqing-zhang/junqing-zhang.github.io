@@ -18,7 +18,7 @@ tags:
 
 This page lists publicly available datasets and source code for radio-frequency fingerprint identification research.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## LoRa Dataset 
 ## University of Liverpool

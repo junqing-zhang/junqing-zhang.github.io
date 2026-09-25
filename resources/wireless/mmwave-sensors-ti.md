@@ -13,7 +13,7 @@ tags:
 
 This page summarises resources for TI mmWave sensors.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 

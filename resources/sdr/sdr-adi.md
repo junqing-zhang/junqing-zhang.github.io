@@ -13,7 +13,7 @@ tags:
 
 This page provides resources for software-defined radios based on Analog Devices RF transceivers.
 
-{% include toc %}
+{% include toc title="On this page" %}
 
 ## Overview
 
