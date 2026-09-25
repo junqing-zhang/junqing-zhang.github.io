@@ -32,7 +32,7 @@ The software workflow involves signal collection, when required, followed by sig
 
 
 ## Transmitter (DUTs)
-## Hardware 
+### Hardware 
 Many wireless devices can be used as DUTs. Although a custom device can be built, commercial off-the-shelf (COTS) development boards and kits usually reduce implementation time.
 
 In general, they can be categorized into programmable and non-programmable. Vendors with programmable devices are listed as follows.
@@ -52,14 +52,14 @@ The table below summarises several LoRa development boards suitable for RFFI res
 
 Non-programmable devices can also be used. For example, our smartphones support Wi-Fi and Bluetooth. 
 
-## Software
+### Software
 Different development boards use different programming languages and development platforms. The transmitter must be programmed to send wireless packets, often by adapting examples from the manufacturer's documentation. Vendors usually provide the required development software and software development kit (SDK).
 
 For non-programmable devices, traffic can be generated through normal applications. For example, video streaming creates sustained Wi-Fi traffic on a smartphone, while a laptop can generate controlled traffic using the `ping` command.
 
 
 ## Receiver
-## Hardware
+### Hardware
 Most COTS gateways, access points, and receivers do not provide access to physical-layer signals. Software-defined radios (SDRs) are therefore commonly used as receivers. An SDR uses a flexible analogue front end to convert the desired radio signal to baseband or an intermediate frequency. An analogue-to-digital converter then samples the signal to produce digital in-phase and quadrature (IQ) samples. Subsequent communication functions, such as packet detection and decoding, are implemented in software, giving researchers access to the physical-layer samples.
 
 The table below summarises several SDRs available in our laboratory. The receiver should be selected according to the target communication technology, such as Wi-Fi, Zigbee, or LoRa. For example, RTL-SDR is unsuitable for Wi-Fi research because of its frequency-range and bandwidth limitations.
@@ -74,9 +74,9 @@ The table below summarises several SDRs available in our laboratory. The receive
 Useful material to learn SDR: [https://pysdr.org/index.html](https://pysdr.org/index.html){:target="_blank"}
 
 
-## Software
+### Software
 
-### Signal Collection Module
+#### Signal Collection Module
 Software is a critical part of SDR applications. For RFFI research, a signal-reception program is required to capture valid wireless packets. The figure below shows the flow chart of a basic signal-collection program.
 <figure class="content-figure content-figure--narrow">
   <img src="{{ '/research/rffi/images/signal_collection_program.png' | relative_url }}" width="300" height="500" alt="Flow chart of an SDR signal-collection program" loading="lazy">
@@ -91,7 +91,7 @@ MATLAB provides several signal-collection examples. Select the documentation for
 * [Wi-Fi Reception (802.11 a/n/ac/ax)](https://www.mathworks.com/help/wlan/ug/recover-and-analyze-packets-in-802-11-waveform.html){:target="_blank"}
 * [ZigBee reception](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"}
 
-### Deep Learning Module
+#### Deep Learning Module
 
 After collecting sufficient signals from the DUTs, a deep-learning classifier can be trained using an architecture such as a CNN, LSTM, GRU, or transformer. Suitable frameworks include PyTorch, TensorFlow, and MATLAB Deep Learning Toolbox. PyTorch and TensorFlow are particularly well supported by their developer communities.
 
