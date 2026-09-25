@@ -19,7 +19,7 @@ This page provides introductory deep-learning resources for beginners.
 
 
 ## Code Examples
-## TensorFlow + Keras
+### TensorFlow + Keras
 * [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/){:target="_blank"}
 * [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/){:target="_blank"}
@@ -30,7 +30,7 @@ This page provides introductory deep-learning resources for beginners.
 
 
 
-## MATLAB 
+### MATLAB 
 * [MATLAB, Training a Model from Scratch](https://www.mathworks.com/solutions/deep-learning/examples/training-a-model-from-scratch.html){:target="_blank"}
 
 ## Online Resources
@@ -46,10 +46,10 @@ MATLAB provides many useful examples and learning resources.
 * [MATLAB, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
 
 ## Development Tool
-## Python
+### Python
 * [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"} 
 
-## Code Snippet
+### Code Snippet
 * Check the installed packages
 ```
 conda list
