@@ -29,6 +29,11 @@
 .content-figure--text-column {
   max-width: 65ch;
   margin-inline: 0;
+
+  // Keep small diagrams and their captions narrow within the text column.
+  &.content-figure--narrow {
+    img, figcaption { max-width: min(100%, 420px); }
+  }
 }
 
 // Tables generated from Markdown do not receive Bootstrap utility classes, so

@@ -76,7 +76,7 @@ LoRaWAN is a media access control (MAC) protocol for wide area networks. It is d
 The first LoRaWAN specification was published on January 2015 ([Download](https://lora-alliance.org/sites/default/files/2018-05/2015_-_lorawan_specification_1r0_611_1.pdf)) and the latest LoRaWAN specifications is LoRaWAN® Specification v1.0.3 (July 2018) [Download](https://lora-alliance.org/lorawan-for-developers){:target="_blank"}.
 
 A complete LoRaWAN application requires end devices, gateway, network server, and an application.
-<figure>
+<figure class="content-figure content-figure--text-column">
   <img src="/resources/wireless/images/lorawan_architecture.png" alt="LoRaWAN Architecture" width="810" height="439" />
   <figcaption>LoRaWAN Architecture. Source: Page 8 of the white paper  <a href="https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf" title="A technical overview of LoRa® and LoRaWAN™">A technical overview of LoRa® and LoRaWAN™"</a> </figcaption>
 </figure>

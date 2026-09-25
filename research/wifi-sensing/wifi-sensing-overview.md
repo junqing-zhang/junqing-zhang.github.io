@@ -20,7 +20,7 @@ This page introduces the background of wireless sensing.
 
 ## Overview
 
-<figure class="content-figure">
+<figure class="content-figure content-figure--text-column">
   <img src="{{ '/research/wifi-sensing/images/WirelessSensingSystemModel.webp' | relative_url }}" alt="Wi-Fi sensing system using changes in wireless propagation to recognise activities" width="1000" height="545" loading="lazy">
   <figcaption>Wi-Fi sensing system model. <a href="https://arxiv.org/pdf/2203.02014.pdf" target="_blank" rel="noopener">Source</a>.</figcaption>
 </figure>

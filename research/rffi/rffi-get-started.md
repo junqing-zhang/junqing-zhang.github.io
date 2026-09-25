@@ -78,7 +78,7 @@ Useful material to learn SDR: [https://pysdr.org/index.html](https://pysdr.org/i
 
 #### Signal Collection Module
 Software is a critical part of SDR applications. For RFFI research, a signal-reception program is required to capture valid wireless packets. The figure below shows the flow chart of a basic signal-collection program.
-<figure class="content-figure content-figure--narrow">
+<figure class="content-figure content-figure--narrow content-figure--text-column">
   <img src="{{ '/research/rffi/images/signal_collection_program.png' | relative_url }}" width="300" height="500" alt="Flow chart of an SDR signal-collection program" loading="lazy">
   <figcaption>Basic processing flow for an SDR signal-collection program.</figcaption>
 </figure>

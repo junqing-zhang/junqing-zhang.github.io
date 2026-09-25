@@ -17,7 +17,7 @@ This page provides setup guides, software, and learning resources for RTL-SDR re
 
 ## Overview
 RTL SDR is a low cost SDR. Check [External resource](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"} for detailed information.
-<figure>
+<figure class="content-figure content-figure--text-column">
   <img src="/resources/sdr/images/rtl-sdr.jpg" alt="RTL SDR" width="750" height="195" />
   <figcaption>RTL SDR</figcaption>
 </figure>

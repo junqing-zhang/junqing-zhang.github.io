@@ -21,7 +21,7 @@ This page introduces the background of Radio Frequency Fingerprinting Identifica
 
 ## Overview
 
-<figure class="content-figure">
+<figure class="content-figure content-figure--text-column">
   <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" alt="Deep learning-based radio-frequency fingerprint identification workflow" width="1349" height="890" loading="lazy">
   <figcaption>Deep-learning-based radio-frequency fingerprint identification workflow.</figcaption>
 </figure>

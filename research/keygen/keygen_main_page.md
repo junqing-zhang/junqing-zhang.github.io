@@ -10,7 +10,7 @@ permalink: /research/keygen/
 
 Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
 
-<figure class="content-figure">
+<figure class="content-figure content-figure--text-column">
   <img src="{{ '/research/keygen/images/keygen_model.webp' | relative_url }}" alt="Wireless channel-based secret key generation between two legitimate devices" width="1640" height="784" loading="lazy">
   <figcaption>Wireless channel-based secret key generation between two legitimate devices.</figcaption>
 </figure>

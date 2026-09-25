@@ -26,7 +26,7 @@ Key learning points:
 * CP
 
 ## 1. Wi-Fi Physical Layer
-<figure>
+<figure class="content-figure content-figure--text-column">
   <img src="/resources/wireless/images/wifi/HTMIMOPERDiagram.png" alt="Wi-Fi system" width="840" height="309" />
   <figcaption>Wi-Fi system. Source: <a href="https://uk.mathworks.com/help/wlan/ug/802-11n-packet-error-rate-simulation-for-2x2-tgn-channel.html" title="MATLAB">MATLAB</a></figcaption>
 </figure>
