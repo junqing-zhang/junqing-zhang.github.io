@@ -18,24 +18,24 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 ## Software-Defined Radio (SDR)
 * [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + 2x [UBX 160 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx160/){:target="_blank"}
 * [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [TwinRX RF Daughterboard](https://www.ettus.com/all-products/twinrx/){:target="_blank"}
-* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} *4
-* [USRP B210](https://www.ettus.com/all-products/ub210-kit/){:target="_blank"} *3
+* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} ×4
+* [USRP B210](https://www.ettus.com/all-products/ub210-kit/){:target="_blank"} ×3
 * [USRP B206mini](https://www.ettus.com/all-products/usrp-b206mini-i/){:target="_blank"}
 * [USRP B205mini](https://www.ettus.com/all-products/usrp-b205mini-i/){:target="_blank"}
-* [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} *3
-* [WARP v3](https://www.warpproject.org/trac){:target="_blank"} *3
-* [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} *3
+* [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} ×3
+* [WARP v3](https://www.warpproject.org/trac){:target="_blank"} ×3
+* [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} ×3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
-* [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"} *2
-* [HackRF One](https://greatscottgadgets.com/hackrf/one/){:target="_blank"} *2
+* [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"} ×2
+* [HackRF One](https://greatscottgadgets.com/hackrf/one/){:target="_blank"} ×2
 * [antSDR E310](https://antsdr-docs.microphase.cn/en/latest/device_and_usage_manual/ANTSDR_E_Series_Module/ANTSDR_E310_Reference_Manual/AntsdrE310_gnurdio.html){:target="_blank"}
-* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}*4
-* [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}*5
+* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}×4
+* [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}×5
 
 
 ## Wireless Kit
-* [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} *10 (for Wi-Fi, Bluetooth, LoRa, SigFox and NB-IoT)
-* [Pycom LoPy4](https://pycom.io/product/lopy4/){:target="_blank"}*100 (for Wi-Fi, Bluetooth, LoRa, and SigFox)
+* [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} ×10 (for Wi-Fi, Bluetooth, LoRa, SigFox and NB-IoT)
+* [Pycom LoPy4](https://pycom.io/product/lopy4/){:target="_blank"}×100 (for Wi-Fi, Bluetooth, LoRa, and SigFox)
 * LoRa devices, including mbed LoRa sx1272, sx1261, sx1276, sx1280 (2.4 GHz LoRa), Arduino LoRa shield and Microchip RN2483 LoRa
 * Nordic Semiconductor: [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle){:target="_blank"}, [nRF52840 DK](http://nordicsemi.com/Products/Development-hardware/nRF52840-DK), [nRF5340 DK](https://www.nordicsemi.com/Products/Development-hardware/nRF5340-DK){:target="_blank"}, (for ZigBee and Bluetooth)
 * Texas Instrument: CC1352P, CC2652P, CC2640R2, CC1352P1
@@ -44,17 +44,17 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 
 
 ## GPU Platform
-* Work station with RTX 4090
-* Work station with RTX 3060
-* [Jetson Orin Nano Super Developer Kit](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/){:target="_blank"} *2
-* [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"} *3
+* Workstation with RTX 4090
+* Workstation with RTX 3060
+* [Jetson Orin Nano Super Developer Kit](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/){:target="_blank"} ×2
+* [Jetson TX2 Developer Kit](https://developer.nvidia.com/embedded/jetson-tx2-developer-kit){:target="_blank"} ×2
 
 ## FPGA Platform
 * [Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html){:target="_blank"}
 * [Zedboard](http://zedboard.org/product/zedboard){:target="_blank"}
 * [Pynq board](http://www.pynq.io/){:target="_blank"}
 
-## Single Board Computer
+## Single-Board Computer
 * [Up squared board](https://up-board.org/upsquared/specifications/){:target="_blank"}
 * Raspberry Pi 4
 * Raspberry Pi 5
