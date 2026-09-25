@@ -25,6 +25,12 @@
 .content-figure--medium { max-width: 700px; }
 .content-figure--narrow { max-width: 420px; }
 
+// Match the width and left edge of surrounding paragraphs.
+.content-figure--text-column {
+  max-width: 65ch;
+  margin-inline: 0;
+}
+
 // Tables generated from Markdown do not receive Bootstrap utility classes, so
 // borders and spacing are applied directly to all tables within page content.
 .site-container table {

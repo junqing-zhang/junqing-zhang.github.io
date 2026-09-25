@@ -23,7 +23,7 @@ This page provides a tutorial on how to construct a radio-frequency fingerprint 
 ## Overview
 As shown below, an RFFI system consists of several devices under test (DUTs) and a receiver. Its objective is to identify or classify the DUTs by analysing the physical-layer signals captured by the receiver.
 
-<figure class="content-figure content-figure--medium">
+<figure class="content-figure content-figure--text-column">
   <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" width="600" height="396" alt="Deep-learning-based RFFI system workflow" loading="lazy">
   <figcaption>Deep-learning-based RFFI system workflow. <a href="https://arxiv.org/pdf/2207.02999.pdf" target="_blank" rel="noopener">Source</a>.</figcaption>
 </figure>
