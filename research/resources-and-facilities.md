@@ -23,7 +23,6 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 * [USRP B206mini](https://www.ettus.com/all-products/usrp-b206mini-i/){:target="_blank"}
 * [USRP B205mini](https://www.ettus.com/all-products/usrp-b205mini-i/){:target="_blank"}
 * [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} ×3
-* [WARP v3](https://www.warpproject.org/trac){:target="_blank"} ×3
 * [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} ×3
 * [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
 * [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"} ×2
