@@ -31,6 +31,21 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 * [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}×4
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}×5
 
+| SDR                                     | Frequency Range  | RF Bandwidth | Sample Depth | Sample Rate | Tx Channels | Rx Chnanels | Duplex | RF Chipset                   |
+|-----------------------------------------|------------------|--------------|--------------|-------------|-------------|-------------|--------|------------------------------|
+| USRP X310 +   UBX160                    |                  |              |              |             |             |             |        | UBX160                       |
+| USRP X310 +   TwinRx                    |                  |              |              |             |             |             |        | TwinRx                       |
+| USRP N210 +   UBX40                     |                  |              |              |             |             |             |        | UBX40                        |
+| USRP B210                               | 70 MHz - 6 GHz   | 61.44 MHz    | 12 bits      | 61.44 MSPS  | 2           | 2           | Full   | AD9361                       |
+| USRP B205                               |                  |              |              |             |             |             |        |                              |
+| USRP B206                               |                  |              |              |             |             |             |        |                              |
+| RFSoC 4x2                               |                  |              |              |             |             |             |        |                              |
+| Zedboard +   AD-FMCOMMS2-EBZ FMC module |                  |              |              |             |             |             |        |                              |
+| antSDR E310                             |                  |              |              |             |             |             |        |                              |
+| bladeRF 2.0   micro xA9                 |                  |              |              |             |             |             |        |                              |
+| PlutoSDR                                |                  |              |              |             |             |             |        |                              |
+| HackRF One                              | 1 MHz - 6 GHz    | 20 MHz       | 8 bits       | 20 MSPS     | 1           | 1           | Half   | MAX5864, MAX2837,   RFFC5072 |
+| RTLSDR                                  | 22 MHz - 2.2 GHz | 3.2 MHz      | 8 bits       | 3.2 MSPS    | 0           | 1           | NA     | RTL2832U                     |
 
 ## Wireless Kit
 * [Pycom FiPy](https://pycom.io/product/fipy/){:target="_blank"} ×10 (for Wi-Fi, Bluetooth, LoRa, SigFox and NB-IoT)
