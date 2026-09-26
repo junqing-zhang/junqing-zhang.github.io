@@ -49,9 +49,8 @@ It is very difficult and unfriendly to generate a table from scratch in LaTeX. T
 * Excel2LATEX – Convert Excel spreadsheets to LaTex tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"}. 
 
 
-In the table environment, when you use `\begin{tabular}{|l|l|}`, the width of each column will change with the contents to accommodate everything in one line. If you need to set the width of the table, e.g., 2cm, then change it to ``\begin{tabular}{|L{2cm}|l|}``. You need to define the following configuration in the preamble before you use it.
+In the table environment, when you use `\begin{tabular}{|l|l|}`, the width of each column will change with the contents to accommodate everything in one line. If you need to set the width of the column, e.g., 2cm, then change it to ``\begin{tabular}{|L{2cm}|l|}``. You need to define the following configuration in the preamble before you use it.
 ```
-\usepackage{multirow}
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
@@ -84,6 +83,8 @@ In order to include subfigures, IEEE template recommends to use **subfig.sty**. 
 \usepackage[caption=false,font=footnotesize]{subfig}
 \fi
 ```
+\ifCLASSOPTIONcompsoc snippet is IEEEtran-specific
+
 Use the following code to include two subfigures
 ```
 \begin{figure}[!t]
@@ -184,7 +185,7 @@ before `\end{document}`
 Step 3: Download the bibtex entry from Google Scholar. Check the following fields and make the relevant changes.
 * The conference should starting with Proc. e.g., `booktitle={Proc. IEEE ICC}`
 * The journal name should use abbreviation. Check [IEEEabrv.bib](https://junqing-zhang.github.io\resources\misc\IEEEabrv.bib){:target="_blank"} for the abbreviations.
-* Title: add brackets around the words whose letters need to be capital, e.g., `{OFDM}`, and `{LoRa}`.
+* Title: add braces around the words whose letters need to be capital, e.g., `{OFDM}`, and `{LoRa}`.
 
 
 ### Multiple Bibliographies
@@ -198,10 +199,10 @@ Define in the preamble
 \newcommand{\blue}[1]{ {\color{blue}#1}}
 \newcommand{\red}[1]{ {\color{red}#1}}
 ```
-Use it in the main text as follows as `\red{I want this sentence to be highlighted in blue.}`
+Use it in the main text as follows as `\red{I want this sentence to be highlighted in red.}`
 
 ### Note
-* Add `~` when you want two parts to stay in the same line, e.g., `Tab.~\label{tab:results}` and `20.~dB` .
+* Add `~` when you want two parts to stay in the same line, e.g., `Tab.~\ref{tab:results}` and `20~dB` .
 
 
 ## 11. Conclusion
