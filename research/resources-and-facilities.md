@@ -32,6 +32,7 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}×5
 
 ## Software-Defined Radio (SDR) - USRP
+
 | SDR                                                                                                                                                                               | Frequency Range  | RF Bandwidth | Sample Depth | Sample Rate | Tx Channels | Rx Chnanels | Duplex | RF Chipset |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------------|--------------|-------------|-------------|-------------|--------|------------|
 | [USRP   X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"}+   [UBX 160 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx160/)x2                    | 10 MHz to 6 GHz  | 160 MHz      |              |             | 1           | 1           | Full   | UBX160     |
@@ -44,7 +45,8 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 Please visit https://kb.ettus.com/About_USRP_Bandwidths_and_Sampling_Rates for more explanation.
 
 ## Software-Defined Radio (SDR) 
-| SDR                                                                                                                                                                                | Frequency Range    | RF Bandwidth | Sample Depth | Sample Rate | Tx Channels | Rx Chnanels | Duplex | RF Chipset                   |
+
+|SDR                                                                                                                                                                                | Frequency Range    | RF Bandwidth | Sample Depth | Sample Rate | Tx Channels | Rx Chnanels | Duplex | RF Chipset                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------|--------------|-------------|-------------|-------------|--------|------------------------------|
 | [Zedboard +   AD-FMCOMMS2-EBZ FMC   module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}                                                          | 47 MHz to 6 GHz    | 56 MHz       | 12 bits      | 61.44 MSPS  | 2           | 2           | Full   | AD9361                       |
 | [antSDR   E310](https://antsdr-docs.microphase.cn/en/latest/device_and_usage_manual/ANTSDR_E_Series_Module/ANTSDR_E310_Reference_Manual/AntsdrE310_gnurdio.html){:target="_blank"} |                    |              | 12 bits      | 61.44 MSPS  |             |             |        | AD9361                       |
