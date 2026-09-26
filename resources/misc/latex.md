@@ -22,58 +22,34 @@ Please refer to the [tutorial at Overleaf](https://www.overleaf.com/learn/latex/
 For any report and document, the basic elements include the text, figures, tables, equations, references, etc. You will then have to take care of the referencing of the figures, tables and equations. You may worry about the places of the figures and tables. That's not necessary because LaTex will sort out all of them.
 
 ## 2. Software
-If you have not used LaTeX before, I suggest to use the online platform, namely Overleaf, first to get yourself familiar with LaTeX syntax. It may be a little complicated to install and setup LaTeX software. Overleaf will take care of the packages automatically and you can focus on learning LaTeX. However, since Overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with LaTeX, I still recommend to use offline software.
+If you have not used LaTeX before, I suggest to use the online platform, e.g., Overleaf, first to get yourself familiar with LaTeX syntax. Overleaf will take care of the packages automatically and you can focus on learning LaTeX. However, since Overleaf is an online platform, it will rely on your Internet connection. When you become more comfortable with LaTeX, I still recommend to use offline software.
 
-## LaTex Online Tool - Overleaf
+### LaTex Online Tool - Overleaf
 * Online LaTeX editor. Free features are sufficient for basic use. 
 * Suitable for collaboration.
 * Link: [https://www.overleaf.com](https://www.overleaf.com){:target="_blank"} 
 * You don't have to worry the package installations. 
 
-## Offline Software - Miktex + TeXnicCenter + Sumatra
-There are many LaTeX editors available and many of them are free to use. If you are using LaTex with Windows, I strongly suggest to use the combination of Miktex+TeXnicCenter+Sumatra PDF viewer. They are very handy to use.
- * Download Link: [http://www.texniccenter.org/download/](http://www.texniccenter.org/download/){:target="_blank"}  
- * Please see [External resource](https://granasat.ugr.es/wp-content/uploads/2018/02/How_to_Sumatra_EN.pdf){:target="_blank"} for a tutorial about the installation and setup.  
-
-Some tips to use the above combinations:
-* Create a project with your .tex file and then you will have the Outline view
-* While editing the TeX file, press F5 to open the corresponding location in the PDF using SumatraPDF.
-* While viewing the PDF in SumatraPDF, double-click a location to open the corresponding part of the TeX file. These features allow rapid switching between the source and output.
-* When use MikTex, you will need the admin right to install all the required packages.
-
-**Configuration for TeXnicCenter**
-* menu `Build`→ `Define Output Profiles`, click the `(La)TeX` tab on the far left. 
-* Look at the text box labeled `Command line arguments to pass to`.
-* Insert `-synctex=-1` (or `--synctex=1`) right at the beginning of that line. Example string: `-synctex=-1 -interaction=nonstopmode "%wm"`.
-* Click `OK`.
-
-**Configuration for Sumatra**
-* go to `Setting` → `Options`, in the `Set inverse search commad-line`, select TeXnicCenter.)
-
-## Offline Software - TeXstudio
- * Download Link: [https://www.texstudio.org/](https://www.texstudio.org/){:target="_blank"}  
+### Offline Software - TeXstudio
+* Easy to use
+* Download Link: [https://www.texstudio.org/](https://www.texstudio.org/){:target="_blank"}  
 
 ## 3. Template
-## IEEE LaTeX Template
+### IEEE LaTeX Template
 Different publishers and journals may have different LaTex templates. Please download from the publisher's website. In particular, most of the IEEE journals and transactions use the same [IEEE LaTex templates](https://www.ieee.org/conferences/publishing/templates){:target="_blank"} . 
 
 Please read the [document](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf){:target="_blank"} for instruction of how to use the IEEE LaTex template. I strongly suggest to read it time to time when you are using some special features of the template, e.g., subfigures, algorithms.
 
-## Presentation Beamer
+### Presentation Beamer
 * LaTeX is also very good to prepare presentations. Please refer to [Overleaf guide](https://www.overleaf.com/learn/latex/Beamer){:target="_blank"} for a tutorial.
-
-## LaTeX Template for EPSRC Case for Support
-* [UKRI project page](https://www.sharelatex.com/templates/other/template-for-epsrc-grant-proposals){:target="_blank"}
-* I have made some adjustment to the template, by making  the bibliography part suitable to the IEEE requirement. Feel free to contact me if you need it.
 
 ## 4. Table
 It is very difficult and unfriendly to generate a table from scratch in LaTeX. There are many tools available to make this tedious work much easier.
-* There are also many online table generators for LaTex (search "latex online table generator").  
-* Excel2LATEX – Convert Excel spreadsheets to LATEX tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"}. 
+* Online table generators for LaTex (search "latex online table generator").  Create an Excel spreadsheet, copy the table and paste to the online generator, then generate a table in LaTex format.
+* Excel2LATEX – Convert Excel spreadsheets to LaTex tables. [https://ctan.org/pkg/excel2latex?lang=en](https://ctan.org/pkg/excel2latex?lang=en){:target="_blank"}. 
 
-Excel2LATEX is recommended over online table generators. It allows you to save the table in an Excel file and you can edit the table and regenerate the LaTeX source code whenever you want.
 
-then in the table environment, when you use `\begin{tabular}{|l|l|}`, the width of each column will change with the contents to accommodate everything in one line. If you need to set the width of the table, e.g., 2cm, then change it to ``\begin{tabular}{|L{2cm}|l|}``. You need to define the following configuration in the preamble before you use it.
+In the table environment, when you use `\begin{tabular}{|l|l|}`, the width of each column will change with the contents to accommodate everything in one line. If you need to set the width of the table, e.g., 2cm, then change it to ``\begin{tabular}{|L{2cm}|l|}``. You need to define the following configuration in the preamble before you use it.
 ```
 \usepackage{multirow}
 \usepackage{array}
@@ -85,7 +61,7 @@ then in the table environment, when you use `\begin{tabular}{|l|l|}`, the width 
 ## 5. Figure
 Create a high quality diagram/figure is not an easy task. Visit [How to Prepare Figure/Diagram for Publications](/resources/misc/prepare-diagram/) for more information.
 
-## One figure
+### One figure
 ```
 The system overview is shown in Fig.~\ref{fig:sys_overview}.
 \begin{figure}[!t]
@@ -98,7 +74,7 @@ The system overview is shown in Fig.~\ref{fig:sys_overview}.
 Note: IEEE recommends the `[!t]` placement option. Place the figure code after the paragraph in which the figure is first cited.
 
 
-## Subfigures
+### Subfigures
 
 In order to include subfigures, IEEE template recommends to use **subfig.sty**. Declare subfig package in the preamble:
 ```
@@ -130,7 +106,7 @@ When using figures, tables, and equations, I strongly suggest to use cross refer
 
 It includes two step. First, include the label during the definition. Prefix is recommended to distinguish them, e.g., `\label{fig:system_model}`, `\label{tab:results}`, and `\label{eq:snr}`. This is extremely helpful when your report has many of them. Then, refer to it in the main text, e.g., `\ref{fig:system_model}` .
 
-Try to using meaning variable names, rather than fig1, tab2, or eq3.
+Try to using meaningful variable names, rather than fig1, tab2, or eq3.
 
 ## 8. LaTeX Track Change
 One attractive that Word has is the track change, which allows different people to edit the same document and see the changes that each other has made. 
@@ -144,12 +120,11 @@ Alternatively, if you are using Overleaf, there is track changes feature, but it
 ## 9. Bibliographies 
 IEEE has special requirements for bibliographies. BibTeX is recommended for organising references. See the [IEEEtran bibliography guide]({{ site.url }}/files/pdf/IEEEtran_bst_HOWTO.pdf){:target="_blank"} for instructions. Even when a report does not use the IEEE LaTeX template, the IEEE reference format can still be applied and is particularly suitable for electrical and electronic engineering.
 
-Bibtex is very easy and efficient to use, there are a number of pitfalls. Please refer to this [tutorial](https://serialmentor.com/blog/2015/10/2/Bibtex){:target="_blank"} for details.
 
-## Bibtex entries
+### Bibtex entries
 In order to avoid any errors, it is strong advised to download the bibtex entries from the online database, rather than creating from scratch by yourself. For example, search the title in the [Google Scholar](https://scholar.google.com/) and click "Import into BibTeX" to view the bibtex record. If it is not there, turn it on in the Settings of Google Scholar. 
 
-The bibtex entries downloaded from any database are unfortunately not fully correct. You will need to adjust it according to the target journal and also the pitfalls mentioned above. In particular, check the journal field and delete any fields that are not required.
+The bibtex entries downloaded from any database are unfortunately not fully correct. You will need to adjust it according to the target journal. In particular, check the journal field and delete any fields that are not required.
 
 For example, a bibtex entry downloaded from Google Scholar is shown below
 ```
@@ -163,9 +138,9 @@ For example, a bibtex entry downloaded from Google Scholar is shown below
   publisher={IEEE}
 }
 ```
-As for IEEE journals, there are two errors in this entry. The journal field should be {IEEE Access} and the publisher field is not required.
+As for IEEE journals, there is one error in this entry. The journal field should be {IEEE Access}.
 
-## IEEE Requirement for References
+### IEEE Requirement for References
 Please check [How to Use the IEEEtran BIBTEX Style]({{ site.url }}/files/pdf/IEEEtran_bst_HOWTO.pdf){:target="_blank"}.
 
 Journal and conference papers are the two widely used reference types. Examples are given below.
@@ -197,7 +172,7 @@ bibtex entry for Conference
 
 **How to add references correctly in IEEE journals and conferences:**
 
-Step 1: Create a file named `mybibfile.bib`. 
+Step 1: Create a file named e.g., `mybibfile.bib`. 
 
 Step 2: at the end of the tex file, put
 ```
@@ -212,20 +187,20 @@ Step 3: Download the bibtex entry from Google Scholar. Check the following field
 * Title: add brackets around the words whose letters need to be capital, e.g., `{OFDM}`, and `{LoRa}`.
 
 
-## Multiple Bibliographies
+### Multiple Bibliographies
 If you need to create multiple bibliographies in the same document, [multibib](https://ctan.org/pkg/multibib?lang=en) can help you with this. Check [Overleaf guide](https://www.overleaf.com/learn/latex/multibib) for an introduction and an example.
 
 ## 10. Misc
-## Color
+### Color
 Define in the preamble
 ```
 \usepackage{color,xcolor,colortbl}
 \newcommand{\blue}[1]{ {\color{blue}#1}}
 \newcommand{\red}[1]{ {\color{red}#1}}
 ```
-Use it in the main text as follows as `\blue{I want this sentence to be highlighted in blue.}`
+Use it in the main text as follows as `\red{I want this sentence to be highlighted in blue.}`
 
-## Note
+### Note
 * Add `~` when you want two parts to stay in the same line, e.g., `Tab.~\label{tab:results}` and `20.~dB` .
 
 
