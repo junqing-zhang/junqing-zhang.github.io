@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'How to Use LaTeX'
-date: 2026-06-30
+show_last_updated: true
 permalink: /resources/misc/latex/
 categories:
   - Resources
