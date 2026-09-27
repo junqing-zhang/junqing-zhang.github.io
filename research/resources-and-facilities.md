@@ -14,24 +14,7 @@ Our group is equipped with advanced testbeds and experimental facilities, enabli
 ## Spectrum Analyzer
 * [Tektronix RSA306B USB Spectrum Analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306){:target="_blank"}
 
-
-## Software-Defined Radio (SDR)
-* [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + 2x [UBX 160 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx160/){:target="_blank"}
-* [USRP X310](https://www.ettus.com/all-products/x310-kit/){:target="_blank"} + [TwinRX RF Daughterboard](https://www.ettus.com/all-products/twinrx/){:target="_blank"}
-* [USRP N210](https://www.ettus.com/all-products/un210-kit/){:target="_blank"} + [UBX 40 USRP RF Daughterboard](https://www.ettus.com/all-products/ubx40/){:target="_blank"} ×4
-* [USRP B210](https://www.ettus.com/all-products/ub210-kit/){:target="_blank"} ×3
-* [USRP B206mini](https://www.ettus.com/all-products/usrp-b206mini-i/){:target="_blank"}
-* [USRP B205mini](https://www.ettus.com/all-products/usrp-b205mini-i/){:target="_blank"}
-* [RFSoC 4x2](https://www.rfsoc-pynq.io/rfsoc_4x2_overview.html){:target="_blank"} ×3
-* [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr){:target="_blank"} ×3
-* [Zedboard + AD-FMCOMMS2-EBZ FMC module](http://zedboard.org/product/zedboard-sdr-ii-evaluation-kit){:target="_blank"}
-* [bladeRF 2.0 micro xA9](https://www.nuand.com/product/bladeRF-xA9/){:target="_blank"} ×2
-* [HackRF One](https://greatscottgadgets.com/hackrf/one/){:target="_blank"} ×2
-* [antSDR E310](https://antsdr-docs.microphase.cn/en/latest/device_and_usage_manual/ANTSDR_E_Series_Module/ANTSDR_E310_Reference_Manual/AntsdrE310_gnurdio.html){:target="_blank"}
-* [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html){:target="_blank"}×4
-* [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/){:target="_blank"}×5
-
-## Software-Defined Radio (SDR) - USRP
+## USRP Software-Defined Radio (SDR) 
 
 | SDR                                                                                                                                                                               | Frequency Range  | RF Bandwidth | Sample Depth | Sample Rate | Tx Channels | Rx Chnanels | Duplex | RF Chipset |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------------|--------------|-------------|-------------|-------------|--------|------------|
