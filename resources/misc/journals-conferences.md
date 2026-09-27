@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Journals and Conferences of Communications, Networking, Computing and Security'
-date: 2023-08-14
+show_last_updated: true
 permalink: /resources/misc/journals-conferences/
 categories:
   - Resources  
@@ -44,7 +44,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Access (accept both survey/tutorial and technical papers)
 
 ## Technical Contributions
-## Regular Paper
+### Regular Paper
 **Communications and Networking**
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE Transactions on Wireless Communications (TWC)
@@ -78,14 +78,14 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Sensors Journal
 * IEEE Systems Journal
 
-## Letters/Correspondence
+### Letters/Correspondence
 * IEEE Communications Letters
 * IEEE Wireless Communications Letters
 * IEEE Networking Letters
 * IEEE Transactions on Vehicular Technology Correspondence
 
 ## Conferences
-## ACM
+### ACM
 * SIGCOMM Conference
 * MobiCom: The Annual International Conference on Mobile Computing and Networking (double blind review)
 * MobiHoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
@@ -94,7 +94,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * WiSec: ACM Conference on Security and Privacy in Wireless and Mobile Networks
 * IPSN: ACM/IEEE Conference on Information Processing in Sensor Networks
 
-## IEEE
+### IEEE
 * IEEE INFOCOM: IEEE International Conference on Computer Communications (double blind review)
 * IEEE SECON: IEEE International Conference on Sensing, Communication and Networking (double blind review)
 * IEEE CNS: IEEE Conference on Communications and Network Security (double blind review)
@@ -110,7 +110,7 @@ An differentiation between tutorial and survey can be found at the [information 
 * IEEE Asilomar
 * IEEE GlobalSIP
 
-## Best Conferences of the Information Security
+### Best Conferences of the Information Security
 * Oakland Conference: IEEE Symposium on Security and Privacy
 * CCS: ACM Conference on Computer and Communications Security
 * USENIX Security
