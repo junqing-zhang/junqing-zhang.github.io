@@ -66,7 +66,7 @@ where hop ranges from 5-16.
 <br />
 Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
 
-## Preamble
+### Preamble
 The preamble defined in BLE v5.2:
 * LE IM packets (8 bits): 10101101, or 01010101 
 * LE 2M packets (16 bits): 1010110110101101, or 0101010101010101 
@@ -78,18 +78,18 @@ Preamble is used for frequency synchronization, symbol timing and automatic gain
 * Network Topology - Piconet
 * Security - AES - CCM
 
-## Advertising Channel
+### Advertising Channel
 Channel 37, 38 and 39
 * Device Discovery
 * Connection Establishment
 * Broadcast Transmissions
 
-## Data Channel
+### Data Channel
 Channel 0-36
 * Data transmissions
 * Frequency hopping is used to select different channels.
 
-## Packet Type
+### Packet Type
 The same packet format for both 
 * Advertising channel packets
 * Data channel packets
@@ -99,7 +99,7 @@ The same packet format for both
 <br />
 BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
 
-## Discovery Process
+### Discovery Process
 * Advertising interval: 20 ms
 * Scan interval: 50 ms
 * Scan window: 25 ms
@@ -109,7 +109,7 @@ BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-l
 <br />
 Advertising and Scanning. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-discovery](https://microchipdeveloper.com/wireless:ble-link-layer-discovery){:target="_blank"}
 
-## Connection Process
+### Connection Process
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/ble-connecting-phase.png" alt="Connection establishment." title="Connection establishment." height="596">
 <br />
@@ -122,27 +122,27 @@ Connected phase. Figure from [https://microchipdeveloper.com/wireless:ble-link-l
 
 
 ## Bluetooth Stack and Development Kit
-## Linux
+### Linux
 * C language: [BlueZ](http://www.bluez.org/){:target="_blank"}. Check [An Introduction to Bluetooth Programming](https://people.csail.mit.edu/albert/bluez-intro/index.html){:target="_blank"} about its usage.
 * Python: [bluepy](https://github.com/IanHarvey/bluepy){:target="_blank"}.
 
-## Micropython
+### Micropython
 * [ubluetooth library](https://docs.micropython.org/en/latest/library/ubluetooth.html){:target="_blank"}
 * [Pycom devices](https://docs.pycom.io/firmwareapi/pycom/network/bluetooth/){:target="_blank"}
 
 Note: The module is still under development and its classes, functions, methods and constants are subject to change. It only supports the basic BLE functions.
 
-## Texas Instruments 
+### Texas Instruments 
 * [TI BLE SDK](https://www.ti.com/tool/BLE-STACK){:target="_blank"} support Bluetooth 4.2 and Bluetooth 5.
 * [TI BLE-Stack for Bluetooth 4.2 API Documentation  3.01.00.07](http://software-dl.ti.com/lprf/simplelink_cc2640r2_latest/docs/blestack/ble_user_guide/doxygen/ble/html/index.html)
 * [ SimpleLink™ CC26x2 SDK BLE5-Stack User's Guide](http://software-dl.ti.com/lprf/simplelink_cc26x2_latest/docs/ble5stack/ble_user_guide/html/ble-stack-5.x-guide/index-cc26x2.html){:target="_blank"}.
 * [SimpleLink™ CC13x2 / CC26x2 SDK BLE5-Stack User's Guide](http://software-dl.ti.com/simplelink/esd/simplelink_cc13x2_26x2_sdk/4.20.01.04/exports/docs/ble5stack/ble_user_guide/html/ble-stack-5.x-guide/index-cc13x2_26x2.html){:target="_blank"}.
 * Supported TI devices can be found [External resource](https://www.ti.com/wireless-connectivity/simplelink-solutions/bluetooth-low-energy/overview/overview.html){:target="_blank"}.
 
-## Scapy for Bluetooth
+### Scapy for Bluetooth
 * [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
 
-## MATLAB Bluetooth Support
+### MATLAB Bluetooth Support
 MATLAB has also provided simulation support for Bluetooth and BLE. Visit [Communications Toolbox Library for the Bluetooth Protocol support package](https://uk.mathworks.com/help/comm/bluetooth.html) for more information.
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
