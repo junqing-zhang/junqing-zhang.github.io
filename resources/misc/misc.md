@@ -20,6 +20,5 @@ This page summarises resources related to research.
 * [Tools for Research and Everyday Work](/resources/misc/tools/)
 * [How to Build a Personal Website](/resources/misc/building-a-website/)
 * [Linux For Beginners](/resources/misc/linux/)
+
 [//]:  [Machine Lerning for Commmunciations](/resources/misc/ml4comm/)
-
-
