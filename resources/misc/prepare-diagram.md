@@ -96,3 +96,6 @@ end
 - Check that labels, annotations, and legends are not clipped and that margins are appropriate.
 - Check a grayscale preview. Distinguish data series with line styles or markers as well as color, as recommended by the IEEE graphics guidelines.
 - Inspect exported files for rendering artifacts and retain editable source files and plotting scripts.
+
+## Acknowledgement
+Some content on this page was prepared or edited with assistance from ChatGPT.

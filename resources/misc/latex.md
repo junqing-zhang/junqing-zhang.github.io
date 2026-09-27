@@ -297,3 +297,6 @@ Use `~` to keep adjacent items on the same line, for example `Table~\ref{tab:res
 ## 11. Conclusion
 
 LaTeX takes time to learn. Start with a small working document, add one feature at a time, and consult your template's documentation when preparing a submission. If you run into difficulties, feel free to contact me; I may have encountered the same problem and would be happy to share what helped.
+
+## Acknowledgement
+Some content on this page was prepared or edited with assistance from ChatGPT.
