@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Resources for Bluetooth Low Energy'
-date: 2024-03-03
+show_last_updated: true
 permalink: /resources/wireless/bluetooth/
 categories:
   - Resources

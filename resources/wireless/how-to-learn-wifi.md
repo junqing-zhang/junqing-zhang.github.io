@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'How To Learn Wi-Fi'
-date: 2026-03-27
+show_last_updated: true
 permalink: /resources/wireless/how-to-learn-wifi/
 categories:
   - Resources
