@@ -15,6 +15,8 @@ Learning Wi-Fi can be quite complicated for beginners. Wi-Fi physical layer has 
 
 This blog post focuses on the preamble-related parts.
 
+{% include toc title="On this page" %}
+
 ## 0. OFDM
 Reading materials:
 * Read Section 4.1, 4.2 of Book [MIMO-OFDM Wireless Communications with MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470825631){:target="_blank"}.
