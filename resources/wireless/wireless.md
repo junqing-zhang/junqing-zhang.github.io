@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Wireless Communication Technologies'
-date: 2020-01-15
+show_last_updated: true
 permalink: /resources/wireless/
 categories:
   - Internet of Things
@@ -22,7 +22,7 @@ This page summarises resources related to wireless communications, involving fun
 ## Wireless Standards
 * [Wi-Fi/IEEE 802.11](/resources/wireless/wifi/)
 * [Wi-Fi Modes](/resources/wireless/wifi-modes/)
-* [How To Learn Wi-Fi](/resources/wireless/how-to-learn-wifi/)
+* [How to Learn Wi-Fi PHY: OFDM, Synchronisation and Channel Estimation](/resources/wireless/how-to-learn-wifi/)
 * [ZigBee/IEEEE 802.15.4](/resources/wireless/zigbee/)
 * [LoRa, LoRaWAN](/resources/wireless/lora-lorawan/)
 * [Bluetooth](/resources/wireless/bluetooth/)
