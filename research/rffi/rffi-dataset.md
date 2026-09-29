@@ -21,7 +21,7 @@ This page lists publicly available datasets and source code for radio-frequency 
 {% include toc title="On this page" %}
 
 ## LoRa Dataset 
-## University of Liverpool
+### University of Liverpool
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Xuyu Wang, and Shiwen Mao, “Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning,” _IEEE Transactions on Information Forensics and Security_, 2024.
 * [Dataset: LoRa Federated RFFI](https://ieee-dataport.org/documents/lorafederatedrffidataset){:target="_blank"}
 * [LoRa Federated RFFI](https://github.com/gxhen/federatedRFFI){:target="_blank"}
@@ -40,22 +40,22 @@ This page lists publicly available datasets and source code for radio-frequency 
 * [Code: LoRa RFFI](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 
 
-## Northeastern University and InterDigital
+### Northeastern University and InterDigital
 Al-Shawabka, A., Pietraski, P., Pattar, S.B., Restuccia, F., & Melodia, T. (2021, July 26-29). DeepLoRa: Fingerprinting LoRa Devices at Scale Through Deep Learning and Data Augmentation. Proc. 22nd International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China.
 * [Dataset Download Link](https://www.interdigital.com/data_sets/lora-radio-data.){:target="_blank"}
 
-## Oregon State University
+### Oregon State University
 The NetSTAR lab Oregon State University at Oregon State University has made a few datasets available, including LoRa and Wi-Fi datasets.
 [Dataset Download Link](https://research.engr.oregonstate.edu/hamdaoui/datasets){:target="_blank"}
 
 ## Wi-Fi Dataset
-## Oregon State University
+### Oregon State University
 The NetSTAR lab Oregon State University at Oregon State University has made a few datasets available, including LoRa and Wi-Fi datasets.
 [Dataset Download Link](https://research.engr.oregonstate.edu/hamdaoui/datasets){:target="_blank"}
 
 
 ## Drone Remote Controller RF Signal Dataset 
-## North Carolina State University
+### North Carolina State University
 
 * M. Ezuma, F. Erden, C. Kumar, O. Ozdemir, and I. Guvenc, "Micro-UAV detection and classification from RF fingerprints using machine learning techniques," in Proc. IEEE Aerosp. Conf., Big Sky, MT, Mar. 2019, pp. 1-13.
 * M. Ezuma, F. Erden, C. K. Anjinappa, O. Ozdemir, and I. Guvenc, "Detection and classification of UAVs using RF fingerprints in the presence of Wi-Fi and Bluetooth interference," IEEE Open J. Commun. Soc., vol. 1, no. 1, pp. 60-79, Nov. 2019.
@@ -63,10 +63,10 @@ The NetSTAR lab Oregon State University at Oregon State University has made a fe
 * [Dataset Download Link](https://ieee-dataport.org/open-access/drone-remote-controller-rf-signal-dataset){:target="_blank"}
 
 ## ADS-B Dataset 
-## Embry-Riddle Aeronautical University
+### Embry-Riddle Aeronautical University
 Yongxin Liu, Jian Wang, Jianqiang Li, Shuteng Niu, and Houbing Song, "Class-Incremental Learning for Wireless Device Identification in IoT," IEEE Internet of Things, vol. 8, no. 23, pp. 17227 - 17235, Dec. 2021.
 * [Download](https://ieee-dataport.org/documents/ads-b-signals-records-non-cryptographic-identification-and-incremental-learning){:target="_blank"}
 
-## GENESYS Lab at Northeastern University
+### GENESYS Lab at Northeastern University
 GENESYS Lab at Northeastern University [External resource](https://genesys-lab.org/mldatasets){:target="_blank"} has made several datasets available.
 
