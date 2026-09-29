@@ -18,14 +18,14 @@ This page provides setup guides, software, and learning resources for LimeSDR.
 ## Overview
 
 ## Getting Started
-## Step 1: Hardware and Software Setup
+### Step 1: Hardware and Software Setup
 [Getting Started with the LimeSDR](https://wiki.myriadrf.org/Getting_Started_with_the_LimeSDR){:target="_blank"}
 * Hardware assembly: [https://wiki.myriadrf.org/LimeSDR_Hardware_Installation](https://wiki.myriadrf.org/LimeSDR_Hardware_Installation){:target="_blank"} 
 * [LimeSDR Windows Driver Installation](https://wiki.myriadrf.org/LimeSDR_Windows_Driver_Installation){:target="_blank"} 
 * [Installing Lime Suite on Windows](https://wiki.myriadrf.org/Installing_Lime_Suite_on_Windows){:target="_blank"} 
 This completes the hardware and software setup.
 
-## Step 2: LimeSDR-USB Quick Test
+### Step 2: LimeSDR-USB Quick Test
 * [LimeSDR-USB Quick Test](https://wiki.myriadrf.org/LimeSDR-USB_Quick_Test){:target="_blank"}
 
 ## Tutorial

@@ -20,11 +20,11 @@ This page provides resources for software-defined radios based on Analog Devices
 ## Getting Started
 
 ## Development Boards/Kit
-## AD9361/AD9363/AD9364 Boards
+### AD9361/AD9363/AD9364 Boards
 * [Introduction to boards based on the AD9361/AD9363/AD9364](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms2-ebz/introduction){:target="_blank"}
 * [Difference among AD9361/AD9363/AD9364](https://wiki.analog.com/resources/eval/user-guides/ad-fmcomms2-ebz/ad9361){:target="_blank"}
 
-## AD9371
+### AD9371
 * [AD9371 & AD9375 Prototyping Platform User Guide](https://wiki.analog.com/resources/eval/user-guides/mykonos#ad9371_ad9375_prototyping_platform_user_guide)
 
 

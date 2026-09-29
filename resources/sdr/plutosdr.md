@@ -22,10 +22,10 @@ Check [Analog Device ADALM-PLUTO](https://www.analog.com/en/resources/evaluation
 
 ## Development Tool
 
-## MATLAB
+### MATLAB
 The MATLAB has a support package for ADALM-Pluto Radio [Communications Toolbox Support Package for Analog Devices ADALM-Pluto Radio](https://uk.mathworks.com/help/comm/plutoradio.html){:target="_blank"}
 
-## Python
+### Python
 [PlutoSDR in Python](https://pysdr.org/content/pluto.html){:target="_blank"}
 
 

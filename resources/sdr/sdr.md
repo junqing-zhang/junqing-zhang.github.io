@@ -52,24 +52,24 @@ A comparison between different SDR is produced by LimeSDR and quoted here. Sourc
 
 ## Development Tool
 
-## GNU Radio
+### GNU Radio
 [Tutorial](https://wiki.gnuradio.org/index.php/Tutorials){:target="_blank"}
 
 * [IEEE 802.11 a/g/p transceiver for GNU Radio](https://github.com/bastibl/gr-ieee802-11){:target="_blank"}
 * [LoRa PHY based on GNU Radio](https://www.epfl.ch/labs/tcl/resources-and-sw/lora-phy/){:target="_blank"}
 
 
-## MATLAB
+### MATLAB
 * Supported Devices: USRP, Zynq SDR, RTL-SDR, and Adalm PlutoSDR
 * [MATLAB Link](https://uk.mathworks.com/discovery/sdr.html){:target="_blank"}
 
-## Python
+### Python
 Some SDR also supports Python. Check Chapters 5-9 in the Book [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}.
 
 
 
 ## Resources
-## Books
+### Books
 * [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/index.html){:target="_blank"}
 * [Software-Defined Radio with Zynq UltraScale+ RFSoC](https://www.rfsocbook.com/){:target="_blank"}
 * [Software-Defined Radio for Engineers, 2018](https://www.analog.com/en/resources/technical-books/software-defined-radio-for-engineers.html){:target="_blank"}
