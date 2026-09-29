@@ -30,18 +30,14 @@ RFF identification is consisted of two stages, namely the training and classific
 ## Outcome
 Supported by this Research Grants, our group has equipped with LoRa devices from different vendors (Pycom FiPy and LoPy4, Semtech kits) and software defined radio (SDR) platforms (including USRP N210, PlutoSDR, RTLSDR, etc). We have built LoRa-RFFI testbed and achieved fruitful outcomes.
 
-## Publication
+### Publication
 {% bibliography --query @*[key=shen2023towards || key=shen2023length || key=shen2022scalable || key=shen2021radioj || key=shen2021infocom] %}
 
 
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, “Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification”, _IEEE Transactions on Mobile Computing_, vol. 23, no. 7, pp. 7618 - 7634, Jul. 2024. [IEEE](https://ieeexplore.ieee.org/document/10345732){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.02999){:target="_blank"}
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, “Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,” _IEEE Transactions on Information Forensics and Security_, vol. 18, pp. 2355 - 2367, Apr. 2023. [IEEE](https://ieeexplore.ieee.org/document/10100932){:target="_blank"}, [arXiv link](https://arxiv.org/abs/2207.03001){:target="_blank"}
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, and Joseph Cavallaro, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” _IEEE Transactions on Information Forensics and Security_, vol. 17, pp. 774 - 787, Feb. 2022. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9715147){:target="_blank"}
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning,” _IEEE Journal on Selected Areas in Communications_, vol. 39, no. 8, pp. 2604 - 2616, Aug. 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9448147){:target="_blank"}
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, Alan Marshall, Linning Peng, and Xianbin Wang, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN,” in _Proc. IEEE INFOCOM_, 2021. [arXiv](https://arxiv.org/abs/2101.01668){:target="_blank"}
 
 
-## Datasets and Code
+
+### Datasets and Code
 The datasets and source code associated with the following papers are publicly available.
 
 {% bibliography --query @article[keywords~=rffi && keywords~=data_code && keywords~=lora] %}
