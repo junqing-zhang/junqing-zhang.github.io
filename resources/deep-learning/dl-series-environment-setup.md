@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Module 0 — Environment Setup (Beginner Guide)'
-date: 2026-06-24
+show_last_updated: true
 permalink: /resources/deep-learning/dl-series-environment-setup/
 categories:
   - Resources

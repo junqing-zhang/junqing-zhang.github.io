@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Deep Learning for Resources'
-date: 2024-06-05
+show_last_updated: true
 permalink: /resources/deep-learning/dl-resources/
 categories:
   - Resources

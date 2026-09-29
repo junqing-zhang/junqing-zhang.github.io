@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Module 2 — Training & Learning Process'
-date: 2026-06-24
+show_last_updated: true
 permalink: /resources/deep-learning/dl-series-training-learning/
 categories:
   - Resources

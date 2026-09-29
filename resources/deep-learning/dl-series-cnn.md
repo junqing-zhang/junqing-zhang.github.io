@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Module 4 — CNNs and Computer Vision'
-date: 2026-06-24
+show_last_updated: true
 permalink: /resources/deep-learning/dl-series-cnn/
 categories:
   - Resources

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Module 3 — Practical Deep Learning with PyTorch'
-date: 2026-06-24
+show_last_updated: true
 permalink: /resources/deep-learning/dl-series-pytorch/
 categories:
   - Resources

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Module 5 Deep Learning Architectures'
-date: 2026-06-24
+show_last_updated: true
 permalink: /resources/deep-learning/dl-series-dl-architecture/
 categories:
   - Resources

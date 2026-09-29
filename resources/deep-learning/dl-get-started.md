@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Deep Learning Tutorial for Beginners, Get Started'
-date: 2026-06-24
+show_last_updated: true
 permalink: /resources/deep-learning/dl-get-started/
 categories:
   - Resources
