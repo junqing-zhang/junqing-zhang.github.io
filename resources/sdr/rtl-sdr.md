@@ -29,13 +29,13 @@ RTL SDR is a low cost SDR. Check [External resource](https://www.rtl-sdr.com/abo
 
 ## Development Tool
 Please check [External resource](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/){:target="_blank"} for a quick start guide.
-## MATLAB
+### MATLAB
 The MATLAB has a support package for RTL SDR: [Communications Toolbox Support Package for RTL-SDR Radio](https://uk.mathworks.com/help/supportpkg/rtlsdrradio/index.html){:target="_blank"}
 
-## Python
+### Python
 [A Python Wrapper for RTL-SDR Radio](https://pypi.org/project/pyrtlsdr/){:target="_blank"}
 
-## GNU Radio
+### GNU Radio
 [https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr){:target="_blank"}
 
 Return to the Main Page of [Software-Defined Radio](/resources/sdr/).
