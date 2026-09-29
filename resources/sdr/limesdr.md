@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Software-Defined Radio - LimeSDR'
-date: 2025-08-30
+show_last_updated: true
 permalink: /resources/sdr/limesdr/
 categories:
   - Resources

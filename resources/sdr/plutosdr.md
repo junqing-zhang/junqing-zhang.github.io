@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Software-Defined Radio - PlutoSDR'
-date: 2025-09-23
+show_last_updated: true
 permalink: /resources/sdr/plutosdr/
 categories:
   - Resources

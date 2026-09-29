@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Software-Defined Radio - RTL SDR'
-date: 2025-08-30
+show_last_updated: true
 permalink: /resources/sdr/rtl-sdr/
 categories:
   - Resources
