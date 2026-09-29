@@ -23,11 +23,11 @@ Deep learning is a branch of machine learning techniques that utilizes artificia
 
 This section introduces useful development tools, frameworks for AI research. The Python and MATLAB languages are recommended for beginners.
 
-## 2.1. Python
+### 2.1. Python
 
 Python is currently the most popular programming language for AI researchers. 
 
-### 2.1.1. TensorFlow and PyTorch
+#### 2.1.1. TensorFlow and PyTorch
 
 Two of the most popular deep learning frameworks, Tensorflow and PyTorch, are developed by Google and Facebook respectively. The best way to learn them is to follow the official tutorials, the links to which are listed below:
 - TensorFlow: [Tutorials TensorFlow Core](https://www.tensorflow.org/tutorials){:target="_blank"}
@@ -35,17 +35,17 @@ Two of the most popular deep learning frameworks, Tensorflow and PyTorch, are de
 
 A special note is the TensorFlow has integrated Keras as a high-level API (they exist separately in the past). Keras offers a high level of encapsulation, making it especially suitable for beginners with limited knowledge in deep learning.
 
-### 2.1.2. NumPy
+#### 2.1.2. NumPy
 
 NumPy is another popular Python package used for scientific/numerical computing. It is often used to preprocess data before using Tensorflow/PyTorch to build and train a neural network. Beginners with experience in MATLAB should become familiar with NumPy quickly.
 - NumPy: [NumPy user guide — NumPy v1.24 Manual](https://numpy.org/doc/1.24/user/index.html#user){:target="_blank"}
 
-### 2.1.3. Anaconda
+#### 2.1.3. Anaconda
 
 Anaconda simplified the package management process in Python. In short, the packages such as Tensorflow/PyTorch/NumPy can be installed using the anaconda platform. Anaconda can help create isolated environments and check the version of the package to be installed to avoid conflicts between different library versions. 
 - Download Anaconda: [Free Download Anaconda](https://www.anaconda.com/download/){:target="_blank"}
 
-### 2.1.4. IDE (Integrated Development Environment)
+#### 2.1.4. IDE (Integrated Development Environment)
 
 PyCharm and VS Code are highly recommended IDEs for Python. MATLAB-familiar users can also try Spyder. 
 
@@ -65,7 +65,7 @@ Ref. Links:
 - [Simple MNIST convnet (keras.io)](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"} 
 - [Training a neural network on MNIST with Keras](https://www.tensorflow.org/datasets/keras_example){:target="_blank"}
 
-## 3.1. Load Dataset
+### 3.1. Load Dataset
 
 Import used Python libraries.
 ```
@@ -104,7 +104,7 @@ y_train = keras.utils.to_categorical(y_train, num_classes)
 y_test = keras.utils.to_categorical(y_test, num_classes)
 ```
 
-## 3.2. Build the Model
+### 3.2. Build the Model
 
 Next a neural network is built before the training can be carried out. There are various types of neural networks available, such as recurrent neural network (RNN), convolutional neural network (CNN), graph neural network (GNN), transformer, etc. These neural network architectures/designs exhibit different __inductive biases__, i.e., the prior knowledge/assumption to the data. For example, the CNNs incorporates the assumption of translation invariance, and are therefore primarily used to process images and spatial data. While RNNs exhibits an inductive bias for capturing temporal dependencies in the inputs thus are widely used to process sequential data.
 
@@ -128,7 +128,7 @@ model = keras.Sequential(
 )
 ```
 
-## 3.3. Training
+### 3.3. Training
 
 Next, we train the model. Keras provides a high-level interface that requires only a few lines of code. Initialisation, forward and backward propagation, and parameter updates are handled by the `fit` function.
 
@@ -148,7 +148,7 @@ model.fit(x_train,
 ```
 
 
-## 3.4. Test/Inference
+### 3.4. Test/Inference
 
 Then we can evaluate the model once the training is complete. A commonly used evaluation metric for classification problems is the overall accuracy.
 
