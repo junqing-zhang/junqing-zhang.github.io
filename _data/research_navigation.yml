@@ -6,16 +6,16 @@ rffi:
       url: "/research/rffi/rffi-overview/"
     - label: "Publications"
       url: "/research/rffi/rffi-pub/"
-    - label: "Publications by topic"
-      url: "/research/rffi/rffi-pub-topics/"
     - label: "Datasets"
       url: "/research/rffi/rffi-dataset/"
-    - label: "Getting started"
-      url: "/research/rffi/rffi-get-started/"
     - label: "Recommended reading"
       url: "/research/rffi/rffi-recommended-reading/"
     - label: "Resources"
       url: "/research/rffi/rffi-resources/"
+    - label: "Publications by topic"
+      url: "/research/rffi/rffi-pub-topics/"
+    - label: "Getting started"
+      url: "/research/rffi/rffi-get-started/"
 
 keygen:
   title: "Key Generation from Wireless Channels"
@@ -27,11 +27,10 @@ keygen:
       url: "/research/keygen/keygen-pub/"
     - label: "Datasets"
       url: "/research/keygen/keygen-dataset/"
-    - label: "Applications"
-      url: "/research/keygen/keygen-application/"
     - label: "Recommended reading"
       url: "/research/keygen/keygen-recommended-reading/"
-
+    - label: "Applications"
+      url: "/research/keygen/keygen-application/"
 
 phy-auth:
   title: "Physical-Layer Authentication"
