@@ -23,17 +23,15 @@ tags:
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 
 <div class="section-card pub-list">
-<h2>Preprints</h2>
 
-{% bibliography --query @unpublished %}
 
 <h2>Refereed Journal Articles</h2>
 
-{% bibliography --query @article[keywords~=mmWave-radar] %}
+{% bibliography --query @article[keywords~=mmwave-radar] %}
 
 <h2>Refereed Conference Proceedings</h2>
 
-{% bibliography --query @inproceedings[keywords~=mmWave-radar] %}
+{% bibliography --query @inproceedings[keywords~=mmwave-radar] %}
 </div>
 
 
