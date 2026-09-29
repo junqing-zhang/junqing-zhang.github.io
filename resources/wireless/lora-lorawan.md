@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Resources for LoRa and LoRaWAN'
-date: 2024-03-03
+show_last_updated: true
 permalink: /resources/wireless/lora-lorawan/
 categories:
   - Resources
