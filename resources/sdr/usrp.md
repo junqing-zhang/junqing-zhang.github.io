@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Software-Defined Radio - USRP'
-date: 2025-08-30
+show_last_updated: true
 permalink: /resources/sdr/usrp/
 categories:
   - Resources
@@ -30,7 +30,7 @@ Other methods can be found as follows.
 * [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on OS X](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_OS_X){:target="_blank"}
 
 ## USRP Models
-## USRP B Series
+### USRP B Series
 
 [USRP B200/B210/B200mini/B205mini/B206mini](https://kb.ettus.com/B200/B210/B200mini/B205mini/B206mini){:target="_blank"}
 
@@ -57,10 +57,10 @@ Inst. bandwidth: Up to 56 MHz
  
 
 
-## [USRP N200/N210](https://kb.ettus.com/N200/N210){:target="_blank"}
+### [USRP N200/N210](https://kb.ettus.com/N200/N210){:target="_blank"}
 N200 and N210 are discontinued.
 
-## [USRP X300/X310](https://kb.ettus.com/X300/X310){:target="_blank"}
+### [USRP X300/X310](https://kb.ettus.com/X300/X310){:target="_blank"}
 
 ## MATLAB Support
 MATLAB has a good support for Ettus USRP which allows fast test and prototype. Please visit [Communications Toolbox Support Package for USRP Radio](https://uk.mathworks.com/help/supportpkg/usrpradio/index.html){:target="_blank"} for more information.
