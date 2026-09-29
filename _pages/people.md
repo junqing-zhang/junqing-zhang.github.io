@@ -57,7 +57,7 @@ toc: true
 <table class="alumni-table">
   <thead><tr><th scope="col">Name</th><th scope="col">Period</th><th scope="col">Research topic</th><th scope="col">Next position</th></tr></thead>
   <tbody>
-    <tr><th scope="row"><a href="https://skylarddd.github.io/">Dr Jie Ma</a></th><td>October 2025 – March 2026</td><td>Radio-frequency fingerprint identification (RFFI)</td><td>Postdoctoral Researcher, University of Newcastle</td></tr>
+    <tr><th scope="row"><a href="https://skylarddd.github.io/">Dr Jie Ma</a></th><td>October 2025 – March 2026</td><td>Radio-frequency fingerprint identification</td><td>Postdoctoral Researcher, University of Newcastle</td></tr>
     <tr><th scope="row"><a href="https://guolin-yin.github.io/">Dr Guolin Yin</a></th><td>July 2024 – April 2025</td><td>Radio-frequency fingerprint identification with Wi-Fi</td><td>Postdoctoral Researcher, Queen's University Belfast</td></tr>
     <tr><th scope="row">Dr Chen Chen</th><td>January 2022 – December 2023</td><td>Key generation from wireless channels</td><td>To be added</td></tr>
   </tbody>
@@ -72,7 +72,7 @@ toc: true
   <tbody>
     <tr><th scope="row">Dr Yijia Guo</th><td>November 2021 – January 2026</td><td>Physical-layer authentication using channel state information<span class="alumni-detail">Co-supervisor: Prof Yao-Win Peter Hong, National Tsing Hua University</span></td><td>Postdoctoral Researcher, University of Liverpool</td></tr>
     <tr><th scope="row"><a href="https://skylarddd.github.io/">Dr Jie Ma</a></th><td>July 2021 – August 2025</td><td>Device Authentication Based on Deep Learning and Radio Frequency Fingerprint<span class="alumni-detail">Co-supervisor: Prof Alan Marshall</span></td><td>Postdoctoral Researcher, University of Liverpool</td></tr>
-    <tr><th scope="row"><a href="https://guolin-yin.github.io/">Dr Guolin Yin</a></th><td>September 2020 – July 2024</td><td>Wi-Fi sensing<span class="alumni-detail">Co-supervisors: Dr Xinping Yi and Prof Alan Marshall</span></td><td>Postdoctoral Researcher, University of Liverpool</td></tr>
+    <tr><th scope="row"><a href="https://guolin-yin.github.io/">Dr Guolin Yin</a></th><td>September 2020 – July 2024</td><td>Deep Learning Powered Wi-Fi Sensing<span class="alumni-detail">Co-supervisors: Dr Xinping Yi and Prof Alan Marshall</span></td><td>Postdoctoral Researcher, University of Liverpool</td></tr>
     <tr><th scope="row"><a href="https://gxhen.github.io/">Dr Guanxiong Shen</a></th><td>November 2019 – July 2023</td><td><a href="https://livrepository.liverpool.ac.uk/3170842/">Deep Learning Enhanced Radio Frequency Fingerprint Identification for LoRa</a><span class="alumni-detail">Co-supervisor: Prof Alan Marshall</span></td><td>Associate Professor, Southeast University, China</td></tr>
   </tbody>
 </table>
