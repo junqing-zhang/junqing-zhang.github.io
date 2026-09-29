@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Resources for Wi-Fi'
-date: 2026-06-03
+show_last_updated: true
 permalink: /resources/wireless/wifi/
 categories:
   - Resources

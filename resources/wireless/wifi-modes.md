@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Understanding Wi-Fi Operating Modes: Station, Access Point, and Monitor Mode'
-date: 2026-06-03
+show_last_updated: true
 permalink: /resources/wireless/wifi-modes/
 categories:
   - Resources
