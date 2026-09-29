@@ -16,8 +16,6 @@ rffi:
       url: "/research/rffi/rffi-recommended-reading/"
     - label: "Resources"
       url: "/research/rffi/rffi-resources/"
-    - label: "Projects"
-      url: "/research/rffi/rffi-project/"
 
 keygen:
   title: "Key Generation from Wireless Channels"
