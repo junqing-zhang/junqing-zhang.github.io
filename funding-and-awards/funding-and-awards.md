@@ -44,7 +44,11 @@ description: "Research funding, projects, awards, and travel grants secured by D
   </dl>
   <p class="funding-partners"><strong>Partners:</strong> Heriot Watt University and Queen’s University Belfast</p>
 </article>
+</div>
 
+## Completed Projects
+
+<div class="funding-projects" markdown="0">
 <article class="section-card funding-project">
   <h3><a href="{{ '/funding-and-awards/project-rs-2023-uav-rffi/' | relative_url }}">Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints</a></h3>
   <dl class="funding-details">
@@ -54,11 +58,7 @@ description: "Research funding, projects, awards, and travel grants secured by D
     <div><dt>Role</dt><dd>Principal Investigator</dd></div>
   </dl>
 </article>
-</div>
 
-## Completed Projects
-
-<div class="funding-projects" markdown="0">
 <article class="section-card funding-project">
   <h3><a href="{{ '/funding-and-awards/project-epsrc-2025-rffi/' | relative_url }}">Germany-UK: Securing Device Identification Using Hardware Impairments in RF Circuits</a></h3>
   <dl class="funding-details">
