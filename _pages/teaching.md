@@ -17,7 +17,7 @@ School of Computer Science and Informatics, University of Liverpool
 ## COMP390 Final Year Project
 * 2026 - present
 * Year 3
-* Please see [Related page](/teaching-fyp/) for the final year projects that I am supervising and have supervised.
+* Please check [the final year projects](/teaching-fyp/) that I am supervising and have supervised.
 
 </div>
 
@@ -36,7 +36,7 @@ Department of Electrical Engineering and Electronics, University of Liverpool
 ## ELEC340 Final Year Project
 * 2018 - 2025
 * Year 3
-* Please see [Related page](/teaching-fyp/) for the final year projects that I supervised.
+* Please check [the final year projects](/teaching-fyp/) that I supervised.
 
 ## ELEC192 Mathematics B for Electrical Engineers
 * Semester 2, 2018 - 2023 
