@@ -51,7 +51,7 @@ toc: true
 
 ## Alumni
 
-### Former Postdoctoral Researchers
+### Postdoctoral Researchers
 
 <div class="people-table-container" role="region" aria-labelledby="former-postdoctoral-researchers" tabindex="0" markdown="0">
 <table class="alumni-table">
@@ -78,7 +78,7 @@ toc: true
 </table>
 </div>
 
-### Former Visiting Researchers
+### Visiting Researchers
 
 <div class="people-table-container" role="region" aria-labelledby="former-visiting-researchers" tabindex="0" markdown="0">
 <table class="alumni-table">
