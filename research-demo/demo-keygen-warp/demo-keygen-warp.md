@@ -39,12 +39,12 @@ Our wireless communications are protected by the symmetric encryption, e.g., Wi-
 <img align="center" width="600" src="./demo-keygen-warp-setup.jpg" alt="WARP hardware setup for the wireless key generation demonstration" height="338">
 <br />
 
-## Hardware
+### Hardware
 * [WARP v3](http://warpproject.org/trac/wiki/GettingStarted/WARPv3). The WARP hardware setup can be found in the [external resource](http://warpproject.org/trac/wiki/802.11/wlan_exp/GettingStarted){:target="_blank"}.
 * PC
 * 1Gb Ethernet switch
 
-## Software
+### Software
 * [802.11 Reference Design: Experiments Framework](http://warpproject.org/trac/wiki/802.11/wlan_exp){:target="_blank"}
 * GUI and signal processing: Python
 

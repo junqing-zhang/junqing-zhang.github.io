@@ -19,12 +19,12 @@ RFF identification is an emerging technology and it can be used for authenticati
 <br />
 
 
-## Signal Reception and Processing
+### Signal Reception and Processing
 * Synchronization: Detect the exact starting point of the preamble. 
 * CFO Estimation and Compensation: Estimate the CFO of the received signal and compensate it with the estimated CFO.
 * Singal Transform: Transform I/Q samples into the spectrograms. The differential spectrogram is used to eliminate the impact of the wireless channel.
 
-## Deep Learning  
+### Deep Learning  
 *  CNN Training: Feature extraction and Classification
 *  Inference: Identification of trained devices
 
@@ -35,13 +35,13 @@ RFF identification is an emerging technology and it can be used for authenticati
 <br />
 
 
-## Hardware
+### Hardware
 * LoPy4 x10
 * RTL-SDR x1
 * Jetson TX2 Developer Kit x1
 
 
-## Software
+### Software
 Platform
 * [ATOM](https://atom.io/packages/pymakr){:target="_blank"} for configuring LoPy4
 * MobaXterm for remonte control of Jetson TX2

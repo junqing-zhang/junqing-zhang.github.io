@@ -39,11 +39,11 @@ Our wireless communications are protected by the symmetric encryption, e.g., Wi-
 <img align="center" width="600" src="./keygen_rpi_setup_photo.webp" alt="Raspberry Pi experimental setup for wireless key generation" height="451">
 <br />
 
-## Hardware
+### Hardware
 * Raspberry Pi 4 Model B + Touchscreen * 2
 * ALFA Network AWUS036NHA *2 
 
-## Software
+### Software
 Python is used for the implementation
 * scapy: Wi-Fi 
 * GUI design: Tkinter and matplotlib

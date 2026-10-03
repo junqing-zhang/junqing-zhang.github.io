@@ -18,14 +18,14 @@ This demonstration uses PPG sensors to collect heartbeat signals and extract cry
 <img align="center" width="700" src="./heartbeat_keygen_protocol_with_encryption.png" alt="Heartbeat-based key generation and encryption protocol" height="700">
 <br />
 
-## Heartbeat Measurement
+### Heartbeat Measurement
 Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG sensors. This demonstration uses PPG sensors as example. PPG sensors are very easy to use.
  
-## IPI Extraction:
+### IPI Extraction:
 * Peak Detection: Detect the peaks of the heartbeat signals. Multiple level wavelet transform is used to denoise the heartbeat signals.
 * IPI Alignment: Calculate the interpulse interval (IPI) between any adjacent peaks. Align the common IPIs between Alice and Bob.
 
-## Key Establishment  
+### Key Establishment  
 *  Quantization: IPI trend-based quantization
 *  Information Reconciliation: [BCH-based](https://github.com/jkent/python-bchlib){:target="_blank"} secure sketch
 *  Privacy amplification: hash function [SHA256](https://docs.python.org/3/library/hashlib.html){:target="_blank"}
@@ -43,13 +43,13 @@ Any sensor that can measure heartbeat signals will work, e.g., ECG and PPG senso
 
 Please refer to [GitHub repository](https://github.com/WorldFamousElectronics/Raspberry_Pi/blob/master/PulseSensor_Arduino_Pi/PulseSensor_Arduino_Pi.md){:target="_blank"} for the hardware and software setup.
 
-## Hardware
+### Hardware
 * [Pulse Sensor](https://www.adafruit.com/product/1093){:target="_blank"}x2
 * Arduino board for AD conversion x2
 * Raspberry Pi with touchscreen x2
 
 
-## Software
+### Software
 * [Arduino](https://github.com/WorldFamousElectronics){:target="_blank"}
 * GUI and signal processing: Python
 

@@ -24,11 +24,11 @@ A light sensing and control IoT system is created as a case study. The LoRa end 
 <img align="center" width="1000" src="./demo-lorawan-fipy-setup.jpg" alt="Hardware setup for the LoRaWAN FiPy demonstration" height="454">
 <br />
 
-## Hardware
+### Hardware
 * End device: FiPy + Pysense (light sensors embedded)
 * Gateway: Raspberry Pi + RAK831, an instruction can be found at https://www.thethingsnetwork.org/docs/gateways/rak831/
 
-## Software
+### Software
 * TTN to host the gateway and applications
 * Python SDK
 * Micropython for the FiPy
