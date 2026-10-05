@@ -34,10 +34,10 @@ By the end of this setup:
 - A simple tensor operation runs successfully  
 
 
-## 0.3 Install Python Environment
+## 0.2 Install Python Environment
 Using Anaconda / Miniconda. Best for beginners due to easy package management.
 
-Step 1: Install Miniconda
+Step 1: Install Anaconda
 
 Download: [https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda](https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda){:target="_blank"}
 
@@ -83,7 +83,18 @@ Python 3.10.x
 
 
 
-## 0.4 Install Core Tools
+## 0.3 Install Core Tools
+
+### Install VS Code (Recommended)
+
+Download:
+[https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}
+
+Install extensions:
+
+* Python (Microsoft)
+* Jupyter
+
 
 ### Install Jupyter Notebook
 
@@ -106,25 +117,17 @@ jupyter lab
 
 
 
-### Install VS Code (Recommended)
-
-Download:
-[https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}
-
-Install extensions:
-
-* Python (Microsoft)
-* Jupyter
 
 
 
-## 0.5 Install PyTorch
+
+## 0.4 Install PyTorch
 
 Official selector: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/){:target="_blank"}
 
 select the right installation according to your OS, and compute platform.
 
-## 0.6 Verify Installation
+## 0.5 Verify Installation
 
 Open Python:
 
@@ -156,7 +159,7 @@ Sum: tensor(6.)
 
 
 
-## 0.7 First Jupyter Notebook Test
+## 0.6 First Jupyter Notebook Test
 
 Start notebook:
 
@@ -179,7 +182,7 @@ If output appears, setup is successful.
 
 
 
-## 0.8 Common Issues & Fixes
+## 0.7 Common Issues & Fixes
 
 Issue 1: conda not found
 * Restart terminal
@@ -208,7 +211,7 @@ pip install notebook
 
 
 
-## 0.9 Optional (Advanced)
+## 0.8 Optional (Advanced)
 
 Export environment
 
@@ -250,7 +253,7 @@ pip install torch torchvision torchaudio jupyter
 
 
 
-## 0.10 Final Checklist
+## 0.9 Final Checklist
 
 Before moving on, ensure:
 
