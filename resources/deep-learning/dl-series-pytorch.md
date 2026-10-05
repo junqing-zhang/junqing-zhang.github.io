@@ -69,7 +69,7 @@ print(x)
 
 ## 3.4 Simple Tensor Operations
 
-```
+```python
 a = torch.tensor([2.0, 3.0])
 b = torch.tensor([4.0, 5.0])
 
@@ -83,7 +83,7 @@ print(a * b)
 
 We use a basic feedforward network (MLP).
 
-```
+```python
 import torch
 import torch.nn as nn
 
@@ -115,7 +115,7 @@ MNIST dataset is probably the most popular for creating the first Deep Learning 
 
 ## 3.7 Loading Dataset
 
-```
+```python
 import torchvision
 import torchvision.transforms as transforms
 
@@ -139,7 +139,7 @@ train_loader = torch.utils.data.DataLoader(
 
 ## 3.8 Loss Function and Optimizer
 
-```
+```python
 import torch.optim as optim
 
 model = SimpleNN()
@@ -152,7 +152,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 ## 3.9 Training Loop (Core Part)
 
-```
+```python
 for epoch in range(2):
     total_loss = 0
 
@@ -174,7 +174,7 @@ for epoch in range(2):
 
 ## 3.10 Model Evaluation
 
-```
+```python
 correct = 0
 total = 0
 
