@@ -41,7 +41,7 @@ Step 1: Install Anaconda
 
 Download: [https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda](https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda){:target="_blank"}
 
-Verify installation:
+Verify installation: Open Acaconda Prompt terminal window, run
 
 ```bash
 conda --version
@@ -50,7 +50,7 @@ conda --version
 Expected output:
 
 ```
-conda 23.x.x
+conda 26.x.x
 ```
 
 
@@ -75,7 +75,7 @@ Check Python version:
 python --version
 ```
 
-Expected:
+Expected output:
 
 ```
 Python 3.10.x
@@ -83,53 +83,26 @@ Python 3.10.x
 
 
 
-## 0.3 Install Core Tools
-
-### Install VS Code (Recommended)
-
-Download:
-[https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}
-
-Install extensions:
-
-* Python (Microsoft)
-* Jupyter
+## 0.3 Install VS Code
+* Download: [https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}
+* Tutorial: [https://code.visualstudio.com/docs/python/python-tutorial](https://code.visualstudio.com/docs/python/python-tutorial){:target="_blank"}
 
 
-### Install Jupyter Notebook
-
-```bash
-conda install jupyter -y
-```
-
-Start notebook:
-
-```bash
-jupyter notebook
-```
-
-OR install JupyterLab (recommended):
-
-```bash
-conda install jupyterlab -y
-jupyter lab
-```
-
-
-
-
-
-
-
-## 0.4 Install PyTorch
-
+## 0.4 PyTorch
+### Installation
 Official selector: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/){:target="_blank"}
 
-select the right installation according to your OS, and compute platform.
+Select the right installation according to your OS, and compute platform. One example is shown below
 
-## 0.5 Verify Installation
+![Example PyTorch installation settings](/resources/deep-learning/image/pytorch-install.png)
 
-Open Python:
+Run the command line in the Acaconda Prompt terminal window for installation.
+
+### Verify Installation
+
+* [https://pytorch.org/get-started/locally/#windows-verification](https://pytorch.org/get-started/locally/#windows-verification){:target="_blank"}
+
+In the Python command window, type
 
 ```bash
 python
@@ -158,60 +131,7 @@ Sum: tensor(6.)
 ```
 
 
-
-## 0.6 First Jupyter Notebook Test
-
-Start notebook:
-
-```bash
-jupyter notebook
-```
-
-Run in a cell:
-
-```python
-import torch
-
-a = torch.randn(2, 3)
-b = torch.randn(2, 3)
-
-print(a + b)
-```
-
-If output appears, setup is successful.
-
-
-
-## 0.7 Common Issues & Fixes
-
-Issue 1: conda not found
-* Restart terminal
-* Reinstall Miniconda
-* Ensure PATH is configured
-
-Issue 2: torch import error
-```bash
-pip uninstall torch -y
-pip install torch torchvision torchaudio
-```
-Issue 3: CUDA not detected
-* No NVIDIA GPU OR CPU-only install is used
-* This is fine for beginners
-
-Issue 4: Jupyter not launching
-```bash
-conda install notebook
-```
-
-or
-
-```bash
-pip install notebook
-```
-
-
-
-## 0.8 Optional (Advanced)
+## 0.5 Optional (Advanced)
 
 Export environment
 
@@ -253,7 +173,7 @@ pip install torch torchvision torchaudio jupyter
 
 
 
-## 0.9 Final Checklist
+## 0.6 Final Checklist
 
 Before moving on, ensure:
 
@@ -261,7 +181,6 @@ Before moving on, ensure:
 * [ ] Python runs
 * [ ] PyTorch imports correctly
 * [ ] Tensor operations work
-* [ ] Jupyter launches
 * [ ] No installation errors
 
 
