@@ -67,7 +67,7 @@ Reading materials:
 * [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53){:target="_blank"}
 * [MATLAB, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
 
-### Convolution Operation (Intuition)
+### Convolution Operation 
 
 A filter (kernel) slides over an image and extracts features.
 
