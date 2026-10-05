@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Machine Learning for Beginners'
-date: 2022-04-07
+show_last_updated: true
 permalink: /resources/deep-learning//ml/
 categories:
   - Resources  
@@ -14,9 +14,6 @@ This page provides introductory machine-learning resources for beginners.
 
 {% include toc title="On this page" %}
 
-## Overview
-
-## Machine Learning
 * [Python Machine Learning Tutorial, Scikit-Learn](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn){:target="_blank"}
 * [Training Support Vector Machines for Multiclass Classification](https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification/){:target="_blank"}
 * [DBSCAN Clustering Algorithm in Machine Learning](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html){:target="_blank"}
