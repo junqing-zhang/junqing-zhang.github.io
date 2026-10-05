@@ -123,16 +123,14 @@ Each layer transforms the data step by step.
 
 ---
 
-## 1.6 The Neuron (Core Idea)
+### The Neuron 
 
 A neuron performs:
 
 ```
 output = activation(w1*x1 + w2*x2 + ... + b)
 ```
-
-Where:
-
+Where
 * x = inputs
 * w = weights (learned importance)
 * b = bias
@@ -142,11 +140,11 @@ The neuron learns which inputs matter most.
 
 ---
 
-## 1.7 Activation Functions
+### Activation Functions
 
 Without activation functions, a neural network would only be a linear model.
 
-### ReLU
+#### ReLU
 
 ```
 f(x) = max(0, x)
@@ -155,19 +153,19 @@ f(x) = max(0, x)
 * Most commonly used
 * Simple and effective
 
-### Sigmoid
+#### Sigmoid
 
 * Outputs between 0 and 1
 * Often used for binary classification
 
-### Tanh
+#### Tanh
 
 * Outputs between -1 and 1
 * Less commonly used in modern deep learning
 
 ---
 
-## 1.8 Forward Pass (Prediction Process)
+## 1.6 Forward Pass (Prediction Process)
 
 A forward pass is how a neural network makes predictions:
 
@@ -183,7 +181,7 @@ Steps:
 
 ---
 
-## 1.9 Simple Example
+## 1.7 Simple Example
 
 Predicting house price:
 
@@ -201,7 +199,7 @@ The model learns how each feature affects the final price.
 
 ---
 
-## 1.10 What Does “Learning” Mean?
+## 1.8 What Does “Learning” Mean?
 
 Learning means improving predictions by adjusting weights.
 
@@ -216,7 +214,7 @@ High-level process:
 
 ---
 
-## 1.11 Key Terms Summary
+## 1.9 Key Terms Summary
 
 | Term       | Meaning                            |
 | ---------- | ---------------------------------- |
@@ -228,7 +226,7 @@ High-level process:
 
 ---
 
-## 1.12 Quick Check (No Coding)
+## 1.10 Quick Check (No Coding)
 
 Think about:
 
