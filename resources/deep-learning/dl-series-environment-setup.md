@@ -131,49 +131,7 @@ Sum: tensor(6.)
 ```
 
 
-## 0.5 Optional (Advanced)
-
-Export environment
-
-```bash
-conda env export > dl_env.yml
-```
-
-Restore environment
-
-```bash
-conda env create -f dl_env.yml
-```
-
-Virtual environment alternative
-
-```bash
-python -m venv dl
-```
-
-Activate:
-
-**Windows**
-
-```bash
-dl\Scripts\activate
-```
-
-**Linux/Mac**
-
-```bash
-source dl/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install torch torchvision torchaudio jupyter
-```
-
-
-
-## 0.6 Final Checklist
+## 0.5 Final Checklist
 
 Before moving on, ensure:
 
