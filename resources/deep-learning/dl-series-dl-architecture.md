@@ -39,16 +39,6 @@ By the end of this module, you should understand:
 
 ---
 
-
-
-## Deep Learning Architectures
-* [Deep learning architectures](https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/){:target="_blank"} (IBM blog, 2017)
-> This article classifies deep learning architectures into supervised and unsupervised learning and introduces several popular deep learning architectures: convolutional neural networks, recurrent neural networks (RNNs), long short-term memory/gated recurrent unit (GRU), self-organizing map (SOM), autoencoders (AE) and restricted Boltzman machine (RBM). It also gives an overview of deep belief networks (DBN) and deep stacking networks (DSNs)
-
-
-* [Illustrated: 10 CNN Architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#e276){:target="_blank"}: LeNet-5, AlexNet, VGG-16, Inception-v1, Inception-v3,  ResNet-50, Xception, Inception-v4, Inception-ResNets, ResNeXt-50
-* [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
-
 ## 5.2 What is Sequential Data?
 
 Sequential data has an order where previous elements affect future ones.
@@ -109,7 +99,7 @@ Example problem:
 
 ---
 
-## 5.6 LSTM and GRU (Improved Memory Models)
+## 5.5 LSTM and GRU (Improved Memory Models)
 
 LSTM (Long Short-Term Memory) fixes RNN limitations.
 
@@ -142,7 +132,7 @@ This helps retain important long-term context.
 
 ---
 
-## Attention Mechanism (Core Idea)
+## 5.6 Attention Mechanism (Core Idea)
 
 Attention allows a model to focus on important parts of input.
 
@@ -170,7 +160,7 @@ Why Attention is Powerful
 
 ---
 
-## 5.10 Transformers (Modern Standard)
+## 5.7 Transformers (Modern Standard)
 
 Transformers are the dominant architecture in modern deep learning.
 
@@ -182,7 +172,7 @@ Core components:
 
 ---
 
-### Self-Attention (Intuition)
+### Self-Attention
 
 Each token (word) looks at all other tokens and decides:
 
@@ -212,7 +202,7 @@ Transformers are preferred because:
 
 
 
-## 5.16 Where Each Model is Used
+## 5.8 Where Each Model is Used
 
 | Model       | Use Case                         |
 | ----------- | -------------------------------- |
@@ -223,7 +213,7 @@ Transformers are preferred because:
 
 ---
 
-## 5.17 Key Takeaways
+## 5.9 Key Takeaways
 
 * Sequential data requires memory-aware models
 * RNNs introduced sequence processing
@@ -233,6 +223,15 @@ Transformers are preferred because:
 * Pretrained models dominate real-world applications
 
 ---
+
+
+## Resources: Deep Learning Architectures
+* [Deep learning architectures](https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/){:target="_blank"} (IBM blog, 2017)
+> This article classifies deep learning architectures into supervised and unsupervised learning and introduces several popular deep learning architectures: convolutional neural networks, recurrent neural networks (RNNs), long short-term memory/gated recurrent unit (GRU), self-organizing map (SOM), autoencoders (AE) and restricted Boltzman machine (RBM). It also gives an overview of deep belief networks (DBN) and deep stacking networks (DSNs)
+
+
+* [Illustrated: 10 CNN Architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#e276){:target="_blank"}: LeNet-5, AlexNet, VGG-16, Inception-v1, Inception-v3,  ResNet-50, Xception, Inception-v4, Inception-ResNets, ResNeXt-50
+* [Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/){:target="_blank"}
 
 ## Acknowledgement
 Some content on this page was prepared or edited with assistance from ChatGPT.
