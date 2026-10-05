@@ -298,7 +298,7 @@ Deep layers
 MNIST CNN Examples:
 * PyTorch: [Basic MNIST Example](https://github.com/pytorch/examples/tree/main/mnist){:target="_blank"}
 * Keras: [Simple MNIST convnet](https://keras.io/examples/vision/mnist_convnet/){:target="_blank"}. 
-* MATLAB: [Create Simple Deep Learning Network for Classification](https://uk.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html). The MATLAB Deep Learning Toolbox needs to be installed before you run the example.
+* MATLAB: [Create Simple Deep Learning Network for Classification](https://uk.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html). 
 
 
 ## Acknowledgement
