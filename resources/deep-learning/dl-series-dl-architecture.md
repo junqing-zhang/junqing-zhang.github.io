@@ -17,6 +17,7 @@ Deep Learning Tutorial Series
 - [Module 3 — Practical Deep Learning with PyTorch](/resources/deep-learning/dl-series-pytorch/)
 - [Module 4 — CNNs and Computer Vision](/resources/deep-learning/dl-series-cnn/)
 - [Module 5 — Deep Learning Architectures](/resources/deep-learning/dl-series-dl-architecture/)
+- [Module 6 — Modern Deep Learning Overview](/resources/deep-learning/dl-series-modern-dl/)
 
 This module introduces models for sequential data and gives a high-level overview of modern deep learning systems, including attention and transformers.
 
