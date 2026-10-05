@@ -11,7 +11,7 @@ tags:
   - Machine Learning
 ---
 
-This page provides introductory deep-learning resources for beginners.
+This page summarizes deep-learning resources.
 
 {% include toc title="On this page" %}
 
@@ -44,20 +44,4 @@ MATLAB provides many useful examples and learning resources.
 * [Deep Learning Tips and Tricks](https://www.mathworks.com/help/deeplearning/ug/deep-learning-tips-and-tricks.html){:target="_blank"}
 * [Data Sets for Deep Learning](https://www.mathworks.com/help/deeplearning/ug/data-sets-for-deep-learning.html){:target="_blank"}
 * [MATLAB, Explanation of Different Layers of Convolutional Neural Networks](https://uk.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html){:target="_blank"}
-
-## Development Tool
-### Python
-* [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/){:target="_blank"} 
-
-### Code Snippet
-* Check the installed packages
-```
-conda list
-```
-
-* Install a particular tensorflow version using conda
-```
-conda install -c conda-forge tensorflow=1.13
-```
-
 
