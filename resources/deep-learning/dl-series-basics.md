@@ -59,6 +59,8 @@ In ML, the system learns a function that maps inputs to outputs.
 
 ## 1.3 Types of Machine Learning
 
+* Tutorial: [What is Machine Learning?](https://developers.google.com/machine-learning/intro-to-ml/what-is-ml){:target="_blank"}
+
 ### 1) Supervised Learning
 
 * Data includes inputs and correct answers (labels)
