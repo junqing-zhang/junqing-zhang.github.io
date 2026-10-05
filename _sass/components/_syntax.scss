@@ -1,0 +1,46 @@
+// Token classes emitted by Jekyll's Rouge highlighter.
+.highlight {
+  --syntax-comment: #586674;
+  --syntax-keyword: #7c3aad;
+  --syntax-string: #176b42;
+  --syntax-number: #a34512;
+  --syntax-name: #155a9c;
+  --syntax-error: #b42318;
+
+  code { color: var(--text-primary); }
+
+  .c, .ch, .cm, .c1, .cp, .cpf, .cs {
+    color: var(--syntax-comment);
+    font-style: italic;
+  }
+
+  .k, .kc, .kd, .kn, .kp, .kr, .kt, .ow {
+    color: var(--syntax-keyword);
+  }
+
+  .s, .sa, .sb, .sc, .sd, .s1, .s2, .se, .sh, .si, .sr, .ss, .sx {
+    color: var(--syntax-string);
+  }
+
+  .m, .mb, .mf, .mh, .mi, .mo, .il {
+    color: var(--syntax-number);
+  }
+
+  .nb, .bp, .nc, .nd, .ne, .nf, .fm, .nn, .nt {
+    color: var(--syntax-name);
+  }
+
+  .err, .gr, .gd { color: var(--syntax-error); }
+  .gi { color: var(--syntax-string); }
+  .ge { font-style: italic; }
+  .gs { font-weight: bold; }
+}
+
+[data-bs-theme="dark"] .highlight {
+  --syntax-comment: #a1adb8;
+  --syntax-keyword: #d2a8ff;
+  --syntax-string: #8ddbaf;
+  --syntax-number: #ffb77c;
+  --syntax-name: #8dc6ff;
+  --syntax-error: #ff9990;
+}

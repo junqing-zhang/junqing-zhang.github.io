@@ -39,8 +39,7 @@ Using Anaconda / Miniconda. Best for beginners due to easy package management.
 
 Step 1: Install Miniconda
 
-Download:
-https://docs.conda.io/en/latest/miniconda.html
+Download: [https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda](https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda){:target="_blank"}
 
 Verify installation:
 
@@ -110,7 +109,7 @@ jupyter lab
 ### Install VS Code (Recommended)
 
 Download:
-[https://code.visualstudio.com/](https://code.visualstudio.com/)
+[https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}
 
 Install extensions:
 
@@ -121,7 +120,7 @@ Install extensions:
 
 ## 0.5 Install PyTorch
 
-Official selector: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+Official selector: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/){:target="_blank"}
 
 select the right installation according to your OS, and compute platform.
 
