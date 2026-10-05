@@ -11,7 +11,7 @@ tags:
   - Machine Learning
 ---
 
-This page summarizes deep-learning online resources.
+This page summarizes deep learning online resources.
 
 {% include toc title="On this page" %}
 
