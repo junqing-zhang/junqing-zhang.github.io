@@ -80,7 +80,6 @@ Example idea:
 Operation:
 > Image + Filter →  Feature Map
 
----
 
 ### Filters (Kernels)
 
@@ -94,7 +93,6 @@ It learns to detect specific patterns:
 
 Filters are learned automatically during training.
 
----
 
 ### Feature Maps
 
@@ -105,7 +103,6 @@ A feature map is the output of applying a filter.
 
 Each convolution layer produces multiple feature maps.
 
----
 
 ### Stride and Padding
 Stride: How far the filter moves each step.
@@ -117,7 +114,6 @@ Padding: Adds borders to preserve image size.
 * “Same” padding keeps dimensions
 * “Valid” reduces dimensions
 
----
 
 ### Pooling Layers
 
@@ -136,8 +132,6 @@ Benefits:
 * Reduces computation
 * Improves robustness
 * Prevents overfitting
-
----
 
 ### CNN Architecture Overview
 
@@ -158,8 +152,6 @@ Fully Connected Layer
    ↓
 Output
 ```
-
----
 
 ## 4.4 Building a CNN in PyTorch
 
@@ -235,8 +227,6 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 ```
 
----
-
 ### Training Loop
 
 ```python
@@ -257,8 +247,6 @@ for epoch in range(5):
     print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}")
 ```
 
----
-
 ### Model Evaluation
 
 ```python
@@ -276,9 +264,7 @@ with torch.no_grad():
 print("Accuracy:", correct / total)
 ```
 
----
-
-## What CNNs Learn (Intuition)
+## What CNNs Learn 
 
 CNN layers learn hierarchical features:
 
@@ -293,15 +279,11 @@ Middle layers:
 Deep layers
 * Objects (cat, car, etc.)
 
----
-
 ## 4.5 Common Issues
 * Incorrect input shape (channel mismatch)
 * Forgetting normalization
 * Overfitting on small datasets
 * Too large learning rate
-
----
 
 ## 4.6 Key Takeaways
 
@@ -311,7 +293,6 @@ Deep layers
 * CNNs learn hierarchical representations
 * They outperform fully connected networks on vision tasks
 
----
 
 ## Resources: 
 MNIST CNN Examples:
