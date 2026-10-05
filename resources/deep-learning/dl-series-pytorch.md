@@ -67,7 +67,7 @@ print(x)
 
 ---
 
-## 3.4 Simple Tensor Operations
+Simple Tensor Operations Example
 
 ```python
 a = torch.tensor([2.0, 3.0])
@@ -79,8 +79,47 @@ print(a * b)
 
 ---
 
-## 3.5 Building a Simple Neural Network
+## 3.4 Building a Simple Neural Network
+You built a full ML pipeline:
 
+1. Loaded dataset
+2. Defined neural network
+3. Defined loss function
+4. Optimized model
+5. Model evaluation
+
+This is the core workflow of deep learning.
+
+### Dataset: MNIST
+
+MNIST dataset is probably the most popular for creating the first Deep Learning example. It consists of 70,000 images of handwritten digits from 0-9.
+* Input: 28×28 grayscale image
+* Output: digit label (0–9)
+
+Loading Dataset
+```python
+import torchvision
+import torchvision.transforms as transforms
+
+transform = transforms.ToTensor()
+
+train_data = torchvision.datasets.MNIST(
+    root="./data",
+    train=True,
+    download=True,
+    transform=transform
+)
+
+train_loader = torch.utils.data.DataLoader(
+    train_data,
+    batch_size=64,
+    shuffle=True
+)
+```
+
+---
+
+### Defined neural network model
 We use a basic feedforward network (MLP).
 
 ```python
@@ -104,40 +143,7 @@ class SimpleNN(nn.Module):
 
 ---
 
-## 3.6 Dataset: MNIST
-
-MNIST dataset is probably the most popular for creating the first Deep Learning example. It consists of 70,000 images of handwritten digits from 0-9.
-* Input: 28×28 grayscale image
-* Output: digit label (0–9)
-
-
----
-
-## 3.7 Loading Dataset
-
-```python
-import torchvision
-import torchvision.transforms as transforms
-
-transform = transforms.ToTensor()
-
-train_data = torchvision.datasets.MNIST(
-    root="./data",
-    train=True,
-    download=True,
-    transform=transform
-)
-
-train_loader = torch.utils.data.DataLoader(
-    train_data,
-    batch_size=64,
-    shuffle=True
-)
-```
-
----
-
-## 3.8 Loss Function and Optimizer
+### Loss Function and Optimizer
 
 ```python
 import torch.optim as optim
@@ -150,7 +156,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 ---
 
-## 3.9 Training Loop (Core Part)
+### Training Loop (Core Part)
 
 ```python
 for epoch in range(2):
@@ -172,7 +178,7 @@ for epoch in range(2):
 
 ---
 
-## 3.10 Model Evaluation
+### Model Evaluation
 
 ```python
 correct = 0
@@ -189,23 +195,8 @@ with torch.no_grad():
 print("Accuracy:", correct / total)
 ```
 
----
 
-## 3.11 What Just Happened?
-
-You built a full ML pipeline:
-
-1. Loaded dataset
-2. Defined neural network
-3. Defined loss function
-4. Optimized model
-5. Evaluated performance
-
-This is the core workflow of deep learning.
-
----
-
-## 3.12 Key Concepts Summary
+## 3.5 Key Concepts Summary
 
 | Component     | Role                      |
 | ------------- | ------------------------- |
@@ -217,7 +208,7 @@ This is the core workflow of deep learning.
 
 ---
 
-## 3.13 Common Beginner Mistakes
+## 3.6 Common Beginner Mistakes
 
 * Forgetting `optimizer.zero_grad()`
 * Not reshaping input correctly
@@ -227,7 +218,7 @@ This is the core workflow of deep learning.
 
 ---
 
-## 3.14 Suggested Experiment
+## 3.7 Suggested Experiment
 
 Try changing:
 
