@@ -49,14 +49,14 @@ Anaconda simplified the package management process in Python. In short, the pack
 
 PyCharm and VS Code are highly recommended IDEs for Python. MATLAB-familiar users can also try Spyder. 
 
-## 2.2. MATLAB
+### 2.2. MATLAB
 
 The MATLAB Deep Learning Toolbox provides a framework for designing and implementing neural networks. The author's personal feeling is that MATLAB's deep learning APIs are closer to Keras and are beginner friendly as well. MATLAB provides detailed official documentation and examples to get users familiar with deep learning faster.
 - Example: [Create Simple Image Classification Network - MATLAB & Simulink](https://www.mathworks.com/help/deeplearning/gs/create-simple-deep-learning-classification-network.html){:target="_blank"}
 
 As MATLAB requires a paid license, the public resources for MATLAB are limited compared to Python-based deep learning framework. Researchers who rely heavily on other MATLAB toolboxes, such as wireless researchers, may prefer the MATLAB Deep Learning Toolbox.
 
-### 3. A Typical Deep Learning Procedure
+## 3. A Typical Deep Learning Procedure
 This section use Keras library as an example to show a simple supervised classification task.
 
 The MNIST handwritten digits classification problem is adopted to describe a typical deep learning procedure.  
