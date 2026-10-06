@@ -1,7 +1,7 @@
 ---
 layout: page
 research_section: keygen
-date: 2023-12-12
+show_last_updated: true
 title: "Publication - Key Generation @ University of Liverpool"
 description: "Publications from the University of Liverpool on Key Generation from Wireless Channels."
 permalink: /research/keygen/keygen-pub/

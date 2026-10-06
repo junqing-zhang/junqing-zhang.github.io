@@ -3,7 +3,7 @@ layout: page
 research_section: keygen
 title: "Key Generation Applications"
 description: "Applications and use cases of Key Generation from Wireless Channels for secure wireless communications."
-date: 2019-05-10
+show_last_updated: true
 permalink: /research/keygen/keygen-application/
 categories:
   - Research

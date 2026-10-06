@@ -4,7 +4,7 @@ research_section: rffi
 title: "Publication - RFFI @ University of Liverpool"
 description: "Publications from the University of Liverpool on Radio-Frequency Fingerprint Identification."
 permalink: /research/rffi/rffi-pub/
-date: 2026-09-21
+show_last_updated: true
 toc: true
 categories:
   - Research

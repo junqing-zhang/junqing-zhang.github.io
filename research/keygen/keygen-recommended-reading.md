@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: keygen
 title: "Key Generation Recommended Reading"
 description: "Recommended papers, surveys, and learning resources on Key Generation from Wireless Channels."
-date: 2020-12-22
+show_last_updated: true
 permalink: /research/keygen/keygen-recommended-reading/
 categories:
   - Research

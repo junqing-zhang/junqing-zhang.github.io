@@ -3,7 +3,7 @@ layout: page
 research_section: keygen
 title: "Key Generation Introduction"
 description: "An introduction to Key Generation from Wireless Channels, covering its principles, methods, and research applications."
-date: 2019-04-14
+show_last_updated: true
 permalink: /research/keygen/keygen-overview/
 categories:
   - Research

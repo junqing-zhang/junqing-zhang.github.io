@@ -4,7 +4,7 @@ research_section: phy-auth
 title: "Physical-Layer Authentication @ University of Liverpool"
 description: "An introduction to Physical-Layer Authentication, covering its principles, methods, and research applications."
 permalink: /research/phy-auth/phy-auth-overview/
-date: 2025-08-27
+show_last_updated: true
 toc: true
 categories:
   - Research

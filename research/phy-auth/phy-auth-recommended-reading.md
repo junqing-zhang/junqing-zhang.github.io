@@ -5,7 +5,7 @@ research_section: phy-auth
 title: "Recommended Reading List"
 description: "Recommended papers, surveys, and learning resources on Physical-Layer Authentication."
 permalink: /research/phy-auth/phy-auth-recommended-reading/
-date: 2023-11-08
+show_last_updated: true
 toc: true
 categories:
   - Reading List

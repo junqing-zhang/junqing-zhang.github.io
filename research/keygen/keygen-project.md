@@ -3,7 +3,7 @@ layout: page
 research_section: keygen
 title: "Key Generation Project"
 description: "Research projects from the University of Liverpool on Key Generation from Wireless Channels."
-date: 2021-12-17
+show_last_updated: true
 permalink: /research/keygen/keygen-project/
 categories:
   - Research

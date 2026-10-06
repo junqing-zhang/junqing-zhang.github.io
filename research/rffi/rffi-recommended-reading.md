@@ -5,7 +5,7 @@ research_section: rffi
 title: "RFFI Recommended Reading List"
 description: "Recommended papers, surveys, and learning resources on Radio-Frequency Fingerprint Identification."
 permalink: /research/rffi/rffi-recommended-reading/
-date: 2023-11-06
+show_last_updated: true
 toc: true
 categories:
   - Research

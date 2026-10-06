@@ -3,7 +3,7 @@ layout: page
 research_section: rffi
 title: "Radio-Frequency Fingerprint Identification Project"
 description: "Research projects from the University of Liverpool on Radio-Frequency Fingerprint Identification."
-date: 2021-12-17
+show_last_updated: true
 permalink: /research/rffi/rffi-project/
 categories:
   - Research

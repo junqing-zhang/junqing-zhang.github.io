@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: mmwave-radar
 title: "mmWave Radar Sensing Dataset"
 description: "Public datasets and experimental resources for research on mmWave Radar Sensing."
-date: 2022-01-30
+show_last_updated: true
 permalink: /research/mmwave-radar/mmwave-radar-dataset/
 categories:
   - Research

@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: phy-auth
 title: "Physical-Layer Authentication Dataset"
 description: "Public datasets and experimental resources for research on Physical-Layer Authentication."
-date: 2025-08-27
+show_last_updated: true
 permalink: /research/phy-auth/phy-auth-dataset/
 categories:
   - Research

@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: keygen
 title: "Key Generation Dataset"
 description: "Public datasets and experimental resources for research on Key Generation from Wireless Channels."
-date: 2025-08-22
+show_last_updated: true
 permalink: /research/keygen/keygen-dataset/
 toc: true
 categories:

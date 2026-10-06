@@ -4,7 +4,7 @@ research_section: mmwave-radar
 title: "Publication - mmWave Radar Sensing @ University of Liverpool"
 description: "Publications from the University of Liverpool on mmWave Radar Sensing."
 permalink: /research/mmwave-radar/mmwave-radar-pub/
-date: 2025-05-02
+show_last_updated: true
 toc: true
 categories:
   - Research

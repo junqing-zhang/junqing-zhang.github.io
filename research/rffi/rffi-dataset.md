@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: rffi
 title: "Radio-Frequency Fingerprint Identification Dataset"
 description: "Public datasets and experimental resources for research on Radio-Frequency Fingerprint Identification."
-date: 2022-01-30
+show_last_updated: true
 permalink: /research/rffi/rffi-dataset/
 categories:
   - Research

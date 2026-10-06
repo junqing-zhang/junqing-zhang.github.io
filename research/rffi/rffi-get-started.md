@@ -5,7 +5,7 @@ research_section: rffi
 title: "How to Construct an RFFI System"
 description: "A practical guide to constructing an RFFI system, covering transmitters, SDR receivers, signal collection, preprocessing, and classification."
 permalink: /research/rffi/rffi-get-started/
-date: 2025-09-27
+show_last_updated: true
 toc: true
 categories:
   - Research

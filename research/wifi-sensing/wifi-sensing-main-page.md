@@ -2,6 +2,7 @@
 layout: page
 research_section: wifi-sensing
 title: "Wi-Fi Sensing"
+show_last_updated: true
 description: "An overview of Wi-Fi Sensing, including research topics, publications, datasets, resources, and projects."
 permalink: /research/wifi-sensing/
 ---

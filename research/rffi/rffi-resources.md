@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: rffi
 title: "Radio-Frequency Fingerprint Identification Resources"
 description: "Software, hardware, tools, and external resources for Radio-Frequency Fingerprint Identification."
-date: 2022-07-18
+show_last_updated: true
 permalink: /research/rffi/rffi-resources/
 categories:
   - Research

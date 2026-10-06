@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: mmwave-radar
 title: "mmWave Radar Sensing Resources"
 description: "Software, hardware, tools, and external resources for mmWave Radar Sensing."
-date: 2024-03-10
+show_last_updated: true
 permalink: /research/mmwave-radar/mmwave-radar-resources/
 categories:
   - Research

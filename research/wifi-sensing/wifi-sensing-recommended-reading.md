@@ -5,7 +5,7 @@ research_section: wifi-sensing
 title: "Wi-Fi Sensing Recommended Reading List"
 description: "Recommended papers, surveys, and learning resources on Wi-Fi Sensing."
 permalink: /research/wifi-sensing/wifi-sensing-recommended-reading/
-date: 2023-11-08
+show_last_updated: true
 toc: true
 categories:
   - Reading List

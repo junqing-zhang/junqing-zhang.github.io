@@ -4,7 +4,7 @@ show_last_updated: true
 research_section: wifi-sensing
 title: "Wi-Fi Sensing Dataset"
 description: "Public datasets and experimental resources for research on Wi-Fi Sensing."
-date: 2022-01-30
+show_last_updated: true
 permalink: /research/wifi-sensing/wifi-sensing-dataset/
 categories:
   - Research

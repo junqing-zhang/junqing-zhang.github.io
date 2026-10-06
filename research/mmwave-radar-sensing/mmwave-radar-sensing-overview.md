@@ -4,7 +4,7 @@ research_section: mmwave-radar
 title: "mmWave Radar Sensing"
 description: "An introduction to mmWave Radar Sensing, covering its principles, methods, and research applications."
 permalink: /research/mmwave-radar/mmwave-radar-overview/
-date: 2021-12-17
+show_last_updated: true
 toc: true
 categories:
   - Research

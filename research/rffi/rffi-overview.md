@@ -4,7 +4,7 @@ research_section: rffi
 title: "Radio-Frequency Fingerprint Identification"
 description: "An introduction to Radio-Frequency Fingerprint Identification, covering its principles, methods, and research applications."
 permalink: /research/rffi/rffi-overview/
-date: 2020-10-22
+show_last_updated: true
 toc: true
 categories:
   - Research
