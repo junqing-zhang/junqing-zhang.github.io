@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Linux For Beginners'
-date: 2020-10-17
+show_last_updated: true
 permalink: /resources/misc/linux/
 categories:
   - Resources
@@ -60,6 +60,6 @@ Explanation: [https://www.programmersought.com/article/91451058498/](https://www
 > ">log.txt" refers to redirecting the output to log.txt. 2>&1 means to input the error information into log.txt, 2 Refers to the standard input and output error (stderr), 1 refers to the standard output (stdout), 2> & 1 means 2 is equivalent to 1 output, the last & is the meaning of background operation, combined with the nohup command. 
 
 
-## Tutorial:
+## Tutorial
 * [How to run MATLAB on server, University of Calgary](https://people.ucalgary.ca/~yauf/How_to_run_Matlab_on_server.htm){:target="_blank"}
 * [How do I run my program in the background (including the use of 'screen')?](https://statistics.berkeley.edu/computing/background-program){:target="_blank"}, University of California, Berkeley
