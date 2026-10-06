@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Module 5 — Sequence Models + Modern Deep Learning Overview'
+title: 'Module 6 — Modern Deep Learning Overview'
 show_last_updated: true
 permalink: /resources/deep-learning/dl-series-modern-dl/
 categories:

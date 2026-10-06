@@ -56,7 +56,7 @@ The MATLAB Deep Learning Toolbox provides a framework for designing and implemen
 
 As MATLAB requires a paid license, the public resources for MATLAB are limited compared to Python-based deep learning framework. Researchers who rely heavily on other MATLAB toolboxes, such as wireless researchers, may prefer the MATLAB Deep Learning Toolbox.
 
-## 3. A Typical Deep Learning Procedure
+### 3. A Typical Deep Learning Procedure
 This section use Keras library as an example to show a simple supervised classification task.
 
 The MNIST handwritten digits classification problem is adopted to describe a typical deep learning procedure.  
@@ -76,20 +76,20 @@ from tensorflow.keras import layers
 
 Load the training and test dataset. `x_train` and `y_train` are training data (images) and labels used to update neural network parameters. `x_test` and `y_test` are test data and labels used to evaluate the neural network performance.
 
-```
+```python
 (x_train, y_train), (x_test, y_test) = keras.datasets.mnist.load_data()
 ```
 
 Scale images to the [0, 1] range. 
 
-```
+```python
 x_train = x_train.astype("float32") / 255
 x_test = x_test.astype("float32") / 255
 ```
 
 Make sure images have shape (28, 28, 1)
 
-```
+```python
 x_train = np.expand_dims(x_train, -1)
 x_test = np.expand_dims(x_test, -1)
 print("x_train shape:", x_train.shape)
@@ -99,7 +99,7 @@ print(x_test.shape[0], "test samples")
 
 One-hot encoding, i.e., converting labels to binary class vectors.
 
-```
+```python
 y_train = keras.utils.to_categorical(y_train, num_classes)
 y_test = keras.utils.to_categorical(y_test, num_classes)
 ```
@@ -110,7 +110,7 @@ Next a neural network is built before the training can be carried out. There are
 
 The loaded MNIST handwritten digits are gray-scale images, thus a simple CNN is built for processing.
 
-```
+```python
 num_classes = 10
 input_shape = (28, 28, 1)
 
@@ -132,7 +132,7 @@ model = keras.Sequential(
 
 Next, we train the model. Keras provides a high-level interface that requires only a few lines of code. Initialisation, forward and backward propagation, and parameter updates are handled by the `fit` function.
 
-```
+```python
 batch_size = 128
 epochs = 15
 
@@ -152,7 +152,7 @@ model.fit(x_train,
 
 Then we can evaluate the model once the training is complete. A commonly used evaluation metric for classification problems is the overall accuracy.
 
-```
+```python
 score = model.evaluate(x_test, y_test, verbose=0)
 print("Test loss:", score[0])
 print("Test accuracy:", score[1])
