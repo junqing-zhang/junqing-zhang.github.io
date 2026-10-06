@@ -4,7 +4,7 @@ research_section: wifi-sensing
 title: "Wi-Fi Sensing"
 description: "An introduction to Wi-Fi Sensing, covering its principles, methods, and research applications."
 permalink: /research/wifi-sensing/wifi-sensing-overview/
-date: 2021-12-17
+show_last_updated: true
 toc: true
 categories:
   - Research

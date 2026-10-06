@@ -52,7 +52,7 @@ wifi-sensing:
   main_url: "/research/wifi-sensing/"
   items:
     - label: "Overview"
-      url: "/research/wifi-sensing/wifi-sensing-overview/"
+      url: "/research/wifi-sensing/wifi-sensing/"
     - label: "Publications"
       url: "/research/wifi-sensing/wifi-sensing-pub/"
     - label: "Datasets"

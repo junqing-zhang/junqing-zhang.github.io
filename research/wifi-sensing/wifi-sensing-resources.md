@@ -4,7 +4,6 @@ show_last_updated: true
 research_section: wifi-sensing
 title: "Wi-Fi Sensing Resources"
 description: "Software, hardware, tools, and external resources for Wi-Fi Sensing."
-date: 2024-03-10
 permalink: /research/wifi-sensing/wifi-sensing-resources/
 categories:
   - Research

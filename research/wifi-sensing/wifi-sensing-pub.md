@@ -4,7 +4,7 @@ research_section: wifi-sensing
 title: "Publication - Wi-Fi Sensing @ University of Liverpool"
 description: "Publications from the University of Liverpool on Wi-Fi Sensing."
 permalink: /research/wifi-sensing/wifi-sensing-pub/
-date: 2025-05-02
+show_last_updated: true
 toc: true
 categories:
   - Research
