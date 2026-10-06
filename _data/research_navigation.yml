@@ -3,7 +3,7 @@ rffi:
   main_url: "/research/rffi/"
   items:
     - label: "Overview"
-      url: "/research/rffi"
+      url: "/research/rffi/"
     - label: "Publications"
       url: "/research/rffi/rffi-pub/"
     - label: "Datasets"
@@ -22,7 +22,7 @@ keygen:
   main_url: "/research/keygen/"
   items:
     - label: "Overview"
-      url: "/research/keygen/keygen-overview/"
+      url: "/research/keygen/"
     - label: "Publications"
       url: "/research/keygen/keygen-pub/"
     - label: "Datasets"
