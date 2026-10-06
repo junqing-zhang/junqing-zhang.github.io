@@ -3,7 +3,7 @@ rffi:
   main_url: "/research/rffi/"
   items:
     - label: "Overview"
-      url: "/research/rffi/rffi-overview/"
+      url: "/research/rffi"
     - label: "Publications"
       url: "/research/rffi/rffi-pub/"
     - label: "Datasets"
@@ -37,7 +37,7 @@ phy-auth:
   main_url: "/research/phy-auth/"
   items:
     - label: "Overview"
-      url: "/research/phy-auth/phy-auth-overview/"
+      url: "/research/phy-auth/"
     - label: "Publications"
       url: "/research/phy-auth/phy-auth-pub/"
     - label: "Datasets"
@@ -67,7 +67,7 @@ mmwave-radar:
   main_url: "/research/mmwave-radar/"
   items:
     - label: "Overview"
-      url: "/research/mmwave-radar/mmwave-radar-overview/"
+      url: "/research/mmwave-radar"
     - label: "Publications"
       url: "/research/mmwave-radar/mmwave-radar-pub/"
     - label: "Datasets"
