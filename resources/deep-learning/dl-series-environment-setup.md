@@ -87,7 +87,7 @@ Python 3.10.x
 ## 0.3 Install VS Code
 * Download: [https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}
 * Tutorial: [https://code.visualstudio.com/docs/python/python-tutorial](https://code.visualstudio.com/docs/python/python-tutorial){:target="_blank"}
-
+* If you are using VS Code and Anaconda, check this [tutorial](https://www.anaconda.com/docs/getting-started/working-with-conda/ides/vscode){:target="_blank"} for configuration.
 
 ## 0.4 PyTorch
 ### Installation
