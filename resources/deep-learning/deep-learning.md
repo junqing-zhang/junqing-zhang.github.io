@@ -27,5 +27,5 @@ Please note that the above modules are not intended to be comprehensive learning
 Resources
 * [Deep Learning Resources](/resources/deep-learning/dl-resources/)
 * [Machine Learning for Beginners](/resources/deep-learning//ml/)
-* [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/)
+* [Deep Learning Tutorial for Beginners, Get Started (Keras)](/resources/deep-learning/dl-get-started/)
 
