@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Deep Learning Tutorial for Beginners, Get Started'
+title: 'Deep Learning Tutorial for Beginners, Get Started (Keras)'
 show_last_updated: true
 permalink: /resources/deep-learning/dl-get-started/
 categories:
