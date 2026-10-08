@@ -23,6 +23,7 @@ New features of Bluetooth 5 can be found [External resource](https://www.bluetoo
 Unless otherwise highlighted, the following descriptions apply to BLE, which might not be correct for classic Bluetooth.
 
 ## Tutorial
+* Analog Devices - [Understanding the Architecture of the Bluetooth Low Energy Stack](https://www.analog.com/en/resources/technical-articles/understanding-architecture-bluetooth-low-energy-stack.html){:target="_blank"}
 * [Arduino Bluetooth](https://docs.arduino.cc/learn/communication/bluetooth/){:target="_blank"}
 
 ## Network Architecture
