@@ -16,11 +16,12 @@ description: "Research funding, projects, awards, and travel grants secured by D
 <article class="section-card funding-project">
   <h3>Securing Wi-Fi Connectivity by Radio Frequency Fingerprints</h3>
   <dl class="funding-details">
-    <div><dt>Funder</dt><dd>Federated Telecoms Hubs – Proof of Concept 1</dd></div>
-    <div><dt>Award amount</dt><dd>£74k</dd></div>
+    <div><dt>Funder</dt><dd>EPSRC Federated Telecoms Hubs – Proof of Concept 1</dd></div>
+    <div><dt>Award amount</dt><dd>£74k; total award £110k</dd></div>
     <div><dt>Dates</dt><dd>31 October 2025 – 30 September 2026</dd></div>
     <div><dt>Role</dt><dd>Principal Investigator</dd></div>
   </dl>
+  <p class="funding-partners"><strong>Partners:</strong> Queen’s University Belfast</p>
 </article>
 
 <article class="section-card funding-project">
