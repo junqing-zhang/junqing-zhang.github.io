@@ -11,7 +11,7 @@ tags:
   - Bluetooth
 ---
 
-This page summarises resources for Classic Bluetooth and Bluetooth Low Energy. It is still under active update.
+This page summarises resources for Classic Bluetooth and Bluetooth Low Energy. 
 
 {% include toc title="On this page" %}
 
@@ -143,7 +143,22 @@ Note: The module is still under development and its classes, functions, methods 
 ### Scapy for Bluetooth
 * [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
 
+## SDR Implementations
 ### MATLAB Bluetooth Support
-MATLAB has also provided simulation support for Bluetooth and BLE. Visit [Matlab Bluetooth Toolbox](https://uk.mathworks.com/products/bluetooth.html) for more information.
+MATLAB's [Bluetooth Toolbox](https://www.mathworks.com/products/bluetooth.html){:target="_blank"} provides tools for modelling, simulating, and testing Bluetooth Classic (BR/EDR) and Bluetooth Low Energy (BLE) systems. It supports physical-layer (PHY) studies, communication-link analysis, and software-defined radio (SDR) experiments.
+
+**Simulation and analysis resources:**
+
+* [PHY modelling](https://www.mathworks.com/help/bluetooth/phy-modeling.html){:target="_blank"}: explore waveform generation and transmitter/receiver processing for Bluetooth BR/EDR and LE.
+* [Link-level simulation](https://www.mathworks.com/help/bluetooth/link-level-simulation.html){:target="_blank"}: investigate bit error rate (BER) and packet error rate (PER), and assess the effects of noise, fading, RF impairments, and interference.
+* [Getting started with Bluetooth Toolbox](https://www.mathworks.com/help/bluetooth/getting-started-with-bluetooth-toolbox.html){:target="_blank"}: find tutorials on waveform visualisation, direction finding, and network simulation, including mesh and LE Audio scenarios.
+
+**SDR experiments:** The [Bluetooth BR/EDR waveform generation and transmission using SDR](https://www.mathworks.com/help/bluetooth/ug/bluetooth-br-edr-waveform-generation-and-transmission-using-sdr.html){:target="_blank"} example demonstrates baseband waveform generation, spectrum visualisation, and transmission using an ADALM-PLUTO radio. It also supports saving waveforms to a baseband file and links to a companion SDR reception example for capture and decoding.
+
+**Suggested starting exercise:** Begin with waveform generation and visualisation, then work through a BLE link-level simulation. Compare BER or PER across signal-to-noise ratios, and investigate how frequency offset or fading changes the results. Move to SDR experiments after understanding the simulated transmitter and receiver.
+
+**Requirements:** Simulation does not require radio hardware. Check each example's required products against your installed MATLAB release; SDR experiments also require the specified radio and its support package.
+
+**Connecting to BLE peripherals:** MATLAB provides a separate [Bluetooth Low Energy communication interface](https://www.mathworks.com/help/matlab/bluetooth-low-energy-communication.html){:target="_blank"}. Use `blelist` to discover advertising peripherals, `ble` to connect, and characteristic objects to read or write device data. This interface uses the computer's Bluetooth adapter for device communication; Bluetooth Toolbox and SDR examples support waveform and system-level experiments. Check the interface documentation for supported operating systems and adapter requirements.
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
