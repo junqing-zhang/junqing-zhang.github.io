@@ -153,7 +153,8 @@ After completing the non-HT exercises, run [802.11n Packet Error Rate Simulation
 * ESP32: try [ESP32 CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/){:target="_blank"} to get CSI
 
 ## 4. WireShark
-Using WireShark to monitor the Wi-Fi tranmissions over the air.
+Using WireShark to monitor the Wi-Fi tranmissions over the air. Check more information at [WireShark page](/resources/wireless/wireshark)
+
 
 
 

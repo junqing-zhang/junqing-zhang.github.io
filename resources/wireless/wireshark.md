@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Wireshark'
-date: 2022-01-25
+show_last_updated: true
 permalink: /resources/wireless/wireshark
 categories:
   - Resources

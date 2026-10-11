@@ -166,6 +166,7 @@ Code Examples:
 >Wireshark is a network packet analyzer. A network packet analyzer presents captured packet data in as much detail as possible.
 >You could think of a network packet analyzer as a measuring device for examining what’s happening inside a network cable, just like an electrician uses a voltmeter for examining what’s happening inside an electric cable (but at a higher level, of course).
 
+Check more information at [WireShark page](/resources/wireless/wireshark).
 
 
 
