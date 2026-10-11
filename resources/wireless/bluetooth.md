@@ -123,16 +123,8 @@ Connected phase. Figure from [Microchip Develop Help - Bluetooth® Low Energy Co
 
 
 
-## Bluetooth Stack and Development Kit
-### Linux
-* C language: [BlueZ](http://www.bluez.org/){:target="_blank"}. Check [An Introduction to Bluetooth Programming](https://people.csail.mit.edu/albert/bluez-intro/index.html){:target="_blank"} about its usage.
-* Python: [bluepy](https://github.com/IanHarvey/bluepy){:target="_blank"}.
+## Development Kit
 
-### Micropython
-* [ubluetooth library](https://docs.micropython.org/en/latest/library/ubluetooth.html){:target="_blank"}
-* [Pycom devices](https://docs.pycom.io/firmwareapi/pycom/network/bluetooth/){:target="_blank"}
-
-Note: The module is still under development and its classes, functions, methods and constants are subject to change. It only supports the basic BLE functions.
 
 ### Texas Instruments 
 * [TI BLE SDK](https://www.ti.com/tool/BLE-STACK){:target="_blank"} support Bluetooth 4.2 and Bluetooth 5.
@@ -141,8 +133,8 @@ Note: The module is still under development and its classes, functions, methods 
 * [SimpleLink™ CC13x2 / CC26x2 SDK BLE5-Stack User's Guide](http://software-dl.ti.com/simplelink/esd/simplelink_cc13x2_26x2_sdk/4.20.01.04/exports/docs/ble5stack/ble_user_guide/html/ble-stack-5.x-guide/index-cc13x2_26x2.html){:target="_blank"}.
 * Supported TI devices can be found [External resource](https://www.ti.com/wireless-connectivity/simplelink-solutions/bluetooth-low-energy/overview/overview.html){:target="_blank"}.
 
-### Scapy for Bluetooth
-* [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
+### Nordic Dongles
+(https://www.nordicsemi.com/Products/Wireless/Bluetooth-Low-Energy)[https://www.nordicsemi.com/Products/Wireless/Bluetooth-Low-Energy]{:target="_blank"}.
 
 ## SDR Implementations
 ### MATLAB Bluetooth Support
@@ -161,5 +153,20 @@ MATLAB's [Bluetooth Toolbox](https://www.mathworks.com/products/bluetooth.html){
 **Requirements:** Simulation does not require radio hardware. Check each example's required products against your installed MATLAB release; SDR experiments also require the specified radio and its support package.
 
 **Connecting to BLE peripherals:** MATLAB provides a separate [Bluetooth Low Energy communication interface](https://www.mathworks.com/help/matlab/bluetooth-low-energy-communication.html){:target="_blank"}. Use `blelist` to discover advertising peripherals, `ble` to connect, and characteristic objects to read or write device data. This interface uses the computer's Bluetooth adapter for device communication; Bluetooth Toolbox and SDR examples support waveform and system-level experiments. Check the interface documentation for supported operating systems and adapter requirements.
+
+## Bluetooth Stack
+### Linux
+* C language: [BlueZ](http://www.bluez.org/){:target="_blank"}. Check [An Introduction to Bluetooth Programming](https://people.csail.mit.edu/albert/bluez-intro/index.html){:target="_blank"} about its usage.
+* Python: [bluepy](https://github.com/IanHarvey/bluepy){:target="_blank"}.
+
+### Micropython
+* [ubluetooth library](https://docs.micropython.org/en/latest/library/ubluetooth.html){:target="_blank"}
+* [Pycom devices](https://docs.pycom.io/firmwareapi/pycom/network/bluetooth/){:target="_blank"}
+
+Note: The module is still under development and its classes, functions, methods and constants are subject to change. It only supports the basic BLE functions.
+
+### Scapy for Bluetooth
+* [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
+
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
