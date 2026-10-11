@@ -50,7 +50,7 @@ Some brief introduction of the protocol can be found at the [Microchip Developer
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/ble-protocol-stack.png" alt="Bluetooth Low Energy protocol stack" height="512">
 <br />
-Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
+Figure from [Microchip Develop Help - Bluetooth® Low Energy Link Layer](https://developerhelp.microchip.com/xwiki/bin/view/applications/ble/introduction/bluetooth-architecture/bluetooth-controller-layer/bluetooth-link-layer/){:target="_blank"}.
 
 
 ## Physical Layer
@@ -65,7 +65,7 @@ where hop ranges from 5-16.
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/ble-phy-channel-assignment.png" alt="Bluetooth Low Energy physical-layer channel assignment" height="266">
 <br />
-Figure from [https://microchipdeveloper.com/wireless:ble-introduction](https://microchipdeveloper.com/wireless:ble-introduction){:target="_blank"}.
+Figure from [Microchip Develop Help - Bluetooth® Low Energy Channels](https://developerhelp.microchip.com/xwiki/bin/view/applications/ble/introduction/bluetooth-architecture/bluetooth-controller-layer/bluetooth-link-layer/Channels/){:target="_blank"}.
 
 ### Preamble
 The preamble defined in BLE v5.2:
@@ -98,7 +98,7 @@ The same packet format for both
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/ble-packet-format-top-level.png" alt="BLE Packet Type." title="BLE Packet Type." height="350">
 <br />
-BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-packet-types](https://microchipdeveloper.com/wireless:ble-link-layer-packet-types){:target="_blank"}
+Figure from [Microchip Develop Help - Bluetooth® Low Energy (BLE) Link Layer Packet Types](https://developerhelp.microchip.com/xwiki/bin/view/applications/ble/introduction/bluetooth-architecture/bluetooth-controller-layer/bluetooth-link-layer/Packet-Types/){:target="_blank"}.
 
 ### Discovery Process
 * Advertising interval: 20 ms
@@ -108,18 +108,19 @@ BLE Packet Type. Figure from [https://microchipdeveloper.com/wireless:ble-link-l
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/ble-advertising-and-scanning.png" alt="Advertising and Scanning." title="Advertising and Scanning." height="410">
 <br />
-Advertising and Scanning. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-discovery](https://microchipdeveloper.com/wireless:ble-link-layer-discovery){:target="_blank"}
+Figure from [Microchip Develop Help - Bluetooth® Low Energy Discovery Process](https://developerhelp.microchip.com/xwiki/bin/view/applications/ble/introduction/bluetooth-architecture/bluetooth-controller-layer/bluetooth-link-layer/discovery-process/){:target="_blank"}.
 
 ### Connection Process
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/ble-connecting-phase.png" alt="Connection establishment." title="Connection establishment." height="596">
 <br />
-Connection establishment. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
+Connection establishment. Figure from [Microchip Develop Help - Bluetooth® Low Energy Connections](https://developerhelp.microchip.com/xwiki/bin/view/applications/ble/introduction/bluetooth-architecture/bluetooth-controller-layer/bluetooth-link-layer/Connections/){:target="_blank"}.
 
 <br />
 <img align="center" width="1000" src="/resources/wireless/images/ble-connected-phase.png" alt="ble-connected-phase." title="ble-connected-phase." height="342">
 <br />
-Connected phase. Figure from [https://microchipdeveloper.com/wireless:ble-link-layer-connections](https://microchipdeveloper.com/wireless:ble-link-layer-connections){:target="_blank"}
+Connected phase. Figure from [Microchip Develop Help - Bluetooth® Low Energy Connections](https://developerhelp.microchip.com/xwiki/bin/view/applications/ble/introduction/bluetooth-architecture/bluetooth-controller-layer/bluetooth-link-layer/Connections/){:target="_blank"}.
+
 
 
 ## Bluetooth Stack and Development Kit
