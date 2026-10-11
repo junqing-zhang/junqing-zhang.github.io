@@ -144,6 +144,6 @@ Note: The module is still under development and its classes, functions, methods 
 * [https://scapy.readthedocs.io/en/latest/layers/bluetooth.html](https://scapy.readthedocs.io/en/latest/layers/bluetooth.html){:target="_blank"}.
 
 ### MATLAB Bluetooth Support
-MATLAB has also provided simulation support for Bluetooth and BLE. Visit [Communications Toolbox Library for the Bluetooth Protocol support package](https://uk.mathworks.com/help/comm/bluetooth.html) for more information.
+MATLAB has also provided simulation support for Bluetooth and BLE. Visit [Matlab Bluetooth Toolbox](https://uk.mathworks.com/products/bluetooth.html) for more information.
 
 Return to the Main Page of [Wireless Communication Technologies](/resources/wireless/).
