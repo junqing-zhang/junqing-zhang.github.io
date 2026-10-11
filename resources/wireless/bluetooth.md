@@ -138,8 +138,7 @@ Connected phase. Figure from [Microchip Develop Help - Bluetooth® Low Energy Co
 
 ### ESP32
 
-## SDR Implementations
-### MATLAB Bluetooth Support
+## MATLAB Bluetooth Support
 MATLAB's [Bluetooth Toolbox](https://www.mathworks.com/products/bluetooth.html){:target="_blank"} provides tools for modelling, simulating, and testing Bluetooth Classic (BR/EDR) and Bluetooth Low Energy (BLE) systems. It supports physical-layer (PHY) studies, communication-link analysis, and software-defined radio (SDR) experiments.
 
 **Simulation and analysis resources:**
