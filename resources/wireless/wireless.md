@@ -19,7 +19,7 @@ This page summarises resources related to wireless communications, involving fun
 * [Antenna](/resources/wireless/antenna/)
 * [Digital Communications](/resources/wireless/digital-comms/)
 
-## Wireless Standards
+## Wireless Technologies
 * [Wi-Fi/IEEE 802.11](/resources/wireless/wifi/)
 * [Wi-Fi Modes](/resources/wireless/wifi-modes/)
 * [How to Learn Wi-Fi PHY: OFDM, Synchronisation and Channel Estimation](/resources/wireless/how-to-learn-wifi/)
