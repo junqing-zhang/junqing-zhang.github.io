@@ -131,18 +131,9 @@ Steps 1-4 are not required if you are using public datasets.
 
 
 ## Recommended Readings
-1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
 
-1. J. Zhang, G. Shen, W. Saad, and K. Chowdhury, “Radio frequency fingerprint identification for device authentication in the internet of things,” IEEE Communications Magazine, vol. 61, no. 10, pp. 110–115, 2023, doi: 10.1109/mcom.003.2200974.
+{% bibliography --query @*[key = shen2023deep|| key = zhang2023radio || key = shen2021radioj || key = shen2022scalable || key=zhang2021radio] %}
 
-1. {% bibliography --query @*[key=zhang2021radio] %}
-> This paper systematically models the hardware impairments of narrowband transmitters and receivers, providing a deeper understanding of the principles underlying RFFI.
-
-1. G. Shen, J. Zhang, A. Marshall, L. Peng, and X. Wang, “Radio frequency fingerprint identification for LoRa using deep learning,” IEEE J. Sel. Areas Commun., vol. 39, no. 8, pp. 2604–2616, Aug. 2021.
-> This LoRa-RFFI study explains how to select a signal representation according to the modulation characteristics and compares several basic neural-network architectures.
-
-1. G. Shen, J. Zhang, A. Marshall, and J. Cavallaro.   “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa,” IEEE Trans. Inf. Forensics Security, 2022.
-> This LoRa-RFFI study focuses on mitigating channel effects and also examines open-set recognition.
 
 ## Datasets and Code
 Please visit our [datasets and code page](/research/dataset-code/) for the RFFI datasets and source code shared by our group.
