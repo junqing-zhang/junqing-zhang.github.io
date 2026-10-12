@@ -133,7 +133,9 @@ Steps 1-4 are not required if you are using public datasets.
 ## Recommended Readings
 1. Guanxiong Shen, **Junqing Zhang**<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/document/10144511){:target="_blank"}
 
-1. J. Zhang, R. Woods, M. Sandell, M. Valkama, A. Marshall, and J. Cavallaro, “Radio frequency fingerprint identification for narrowband systems, modelling and classification,” IEEE Trans. Inf. Forensics Security, vol. 16, pp. 3974–3987, 2021
+1. J. Zhang, G. Shen, W. Saad, and K. Chowdhury, “Radio frequency fingerprint identification for device authentication in the internet of things,” IEEE Communications Magazine, vol. 61, no. 10, pp. 110–115, 2023, doi: 10.1109/mcom.003.2200974.
+
+1. {% bibliography --query @*[key=zhang2021radio] %}
 > This paper systematically models the hardware impairments of narrowband transmitters and receivers, providing a deeper understanding of the principles underlying RFFI.
 
 1. G. Shen, J. Zhang, A. Marshall, L. Peng, and X. Wang, “Radio frequency fingerprint identification for LoRa using deep learning,” IEEE J. Sel. Areas Commun., vol. 39, no. 8, pp. 2604–2616, Aug. 2021.
