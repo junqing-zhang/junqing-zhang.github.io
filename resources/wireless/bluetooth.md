@@ -134,9 +134,10 @@ Connected phase. Figure from [Microchip Develop Help - Bluetooth® Low Energy Co
 * Supported TI devices can be found [External resource](https://www.ti.com/wireless-connectivity/simplelink-solutions/bluetooth-low-energy/overview/overview.html){:target="_blank"}.
 
 ### Nordic Dongles
-[https://www.nordicsemi.com/Products/Wireless/Bluetooth-Low-Energy](https://www.nordicsemi.com/Products/Wireless/Bluetooth-Low-Energy){:target="_blank"}.
+[https://www.nordicsemi.com/Products/Wireless/Bluetooth-Low-Energy](https://www.nordicsemi.com/Products/Wireless/Bluetooth-Low-Energy){:target="_blank"}
 
 ### ESP32
+[https://www.espressif.com/en/products/socs/esp32](https://www.espressif.com/en/products/socs/esp32){:target="_blank"}
 
 ## MATLAB Bluetooth Support
 MATLAB's [Bluetooth Toolbox](https://www.mathworks.com/products/bluetooth.html){:target="_blank"} provides tools for modelling, simulating, and testing Bluetooth Classic (BR/EDR) and Bluetooth Low Energy (BLE) systems. It supports physical-layer (PHY) studies, communication-link analysis, and software-defined radio (SDR) experiments.
