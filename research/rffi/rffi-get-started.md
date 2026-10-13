@@ -20,8 +20,21 @@ This page provides a tutorial on how to construct a radio-frequency fingerprint 
 
 {% include toc title="On this page" %}
 
-## Overview
 As shown below, an RFFI system consists of several devices under test (DUTs) and a receiver. Its objective is to identify or classify the DUTs by analysing the physical-layer signals captured by the receiver.
+
+## General Procedures
+1A. Building Your Own Testbed
+* 1A.1 Program the development boards to transmit packets.
+* 1A.2 Develop the signal-collection program to capture packets from the development boards.
+* 1A.3 Collect packets from all DUTs and save the IQ samples as training and test datasets.
+* 1A.4 Optionally verify the wireless transmissions using Wireshark.
+
+1B. Using Public Datasets
+
+2 Design and train a neural network using the training data.
+
+3 Evaluate the trained model using the test data, typically through overall accuracy and a confusion matrix.
+
 
 <figure class="content-figure content-figure--text-column">
   <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" width="600" height="396" alt="Deep-learning-based RFFI system workflow" loading="lazy">
@@ -30,9 +43,8 @@ As shown below, an RFFI system consists of several devices under test (DUTs) and
 
 The software workflow involves signal collection, when required, followed by signal processing and machine learning. Collecting a new dataset requires signal-acquisition algorithms to capture wireless waveforms; alternatively, a public dataset can be used. Deep learning has been widely adopted in RFFI to improve classification accuracy.
 
-
-## Transmitter (DUTs)
-### Hardware 
+## 1A. Building Your Own Testbed
+### Transmitter (DUTs)
 Many wireless devices can be used as DUTs. Although a custom device can be built, commercial off-the-shelf (COTS) development boards and kits usually reduce implementation time.
 
 In general, they can be categorized into programmable and non-programmable. Vendors with programmable devices are listed as follows.
@@ -52,14 +64,12 @@ The table below summarises several LoRa development boards suitable for RFFI res
 
 Non-programmable devices can also be used. For example, our smartphones support Wi-Fi and Bluetooth. 
 
-### Software
 Different development boards use different programming languages and development platforms. The transmitter must be programmed to send wireless packets, often by adapting examples from the manufacturer's documentation. Vendors usually provide the required development software and software development kit (SDK).
 
 For non-programmable devices, traffic can be generated through normal applications. For example, video streaming creates sustained Wi-Fi traffic on a smartphone, while a laptop can generate controlled traffic using the `ping` command.
 
 
-## Receiver
-### Hardware
+### Receiver
 Most COTS gateways, access points, and receivers do not provide access to physical-layer signals. Software-defined radios (SDRs) are therefore commonly used as receivers. An SDR uses a flexible analogue front end to convert the desired radio signal to baseband or an intermediate frequency. An analogue-to-digital converter then samples the signal to produce digital in-phase and quadrature (IQ) samples. Subsequent communication functions, such as packet detection and decoding, are implemented in software, giving researchers access to the physical-layer samples.
 
 The table below summarises several SDRs available in our laboratory. The receiver should be selected according to the target communication technology, such as Wi-Fi, Zigbee, or LoRa. For example, RTL-SDR is unsuitable for Wi-Fi research because of its frequency-range and bandwidth limitations.
@@ -74,9 +84,6 @@ The table below summarises several SDRs available in our laboratory. The receive
 Useful material to learn SDR: [https://pysdr.org/index.html](https://pysdr.org/index.html){:target="_blank"}
 
 
-### Software
-
-#### Signal Collection Module
 Software is a critical part of SDR applications. For RFFI research, a signal-reception program is required to capture valid wireless packets. The figure below shows the flow chart of a basic signal-collection program.
 <figure class="content-figure content-figure--narrow content-figure--text-column">
   <img src="{{ '/research/rffi/images/signal_collection_program.png' | relative_url }}" width="300" height="500" alt="Flow chart of an SDR signal-collection program" loading="lazy">
@@ -91,7 +98,18 @@ MATLAB provides several signal-collection examples. Select the documentation for
 * [Wi-Fi Reception (802.11 a/n/ac/ax)](https://www.mathworks.com/help/wlan/ug/recover-and-analyze-packets-in-802-11-waveform.html){:target="_blank"}
 * [ZigBee reception](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"}
 
-#### Deep Learning Module
+### Wireless Monitoring (Optional)
+Before developing the signal-collection software, confirm that the required wireless traffic is present. Wireshark is useful for monitoring and verification, although it may require a separate receiver.
+* Wi-Fi Sniffer
+* [nRF Sniffer for Bluetooth LE](https://infocenter.nordicsemi.com/topic/ug_sniffer_ble/UG/sniffer_ble/intro.html){:target="_blank"}
+* [nRF Sniffer for 802.15.4](https://infocenter.nordicsemi.com/topic/ug_sniffer_802154/UG/sniffer_802154/intro_802154.html){:target="_blank"}
+
+
+## Public Datasets
+Several public datasets are available for RFFI research; see the [RFFI datasets page](/research/rffi/rffi-dataset/) for details. Using a public dataset removes the need for signal-acquisition hardware, although a suitable computer is still required for processing and model training.
+
+
+## Deep Learning Module
 
 After collecting sufficient signals from the DUTs, a deep-learning classifier can be trained using an architecture such as a CNN, LSTM, GRU, or transformer. Suitable frameworks include PyTorch, TensorFlow, and MATLAB Deep Learning Toolbox. PyTorch and TensorFlow are particularly well supported by their developer communities.
 
@@ -106,34 +124,14 @@ The following two examples provide implementations for RFFI:
 2. [Tensorflow, Towards Scalable and Channel-Robust Radio Frequency 
 Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 
-### Note
 Signal collection and machine learning do not need to use the same programming language. For example, MATLAB can collect and save the dataset, which can then be processed in Python for model development.
 
-## Wireless Monitoring (Optional)
-Before developing the signal-collection software, confirm that the required wireless traffic is present. Wireshark is useful for monitoring and verification, although it may require a separate receiver.
-* Wi-Fi Sniffer
-* [nRF Sniffer for Bluetooth LE](https://infocenter.nordicsemi.com/topic/ug_sniffer_ble/UG/sniffer_ble/intro.html){:target="_blank"}
-* [nRF Sniffer for 802.15.4](https://infocenter.nordicsemi.com/topic/ug_sniffer_802154/UG/sniffer_802154/intro_802154.html){:target="_blank"}
 
 
-## Public Datasets
-Several public datasets are available for RFFI research; see the [RFFI datasets page](/research/rffi/rffi-dataset/) for details. Using a public dataset removes the need for signal-acquisition hardware, although a suitable computer is still required for processing and model training.
-
-## General Procedures
-1. Program the development boards to transmit packets.
-1. Optionally verify the wireless transmissions using Wireshark.
-1. Develop the signal-collection program to capture packets from the development boards.
-1. Collect packets from all DUTs and save the IQ samples as training and test datasets.
-1. Design and train a neural network using the training data.
-1. Evaluate the trained model using the test data, typically through overall accuracy and a confusion matrix.
-
-Steps 1-4 are not required if you are using public datasets.
-
+## Datasets and Code
+Please visit our [datasets and code page](/research/dataset-code/) for the RFFI datasets and source code shared by our group.
 
 ## Recommended Readings
 
 {% bibliography --query @*[key = shen2023deep|| key = zhang2023radio || key = shen2021radioj || key = shen2022scalable || key=zhang2021radio] %}
 
-
-## Datasets and Code
-Please visit our [datasets and code page](/research/dataset-code/) for the RFFI datasets and source code shared by our group.
