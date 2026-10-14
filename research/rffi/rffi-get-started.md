@@ -35,7 +35,7 @@ As shown below, an RFFI system consists of several devices under test (DUTs) and
 
 <figure class="content-figure content-figure--text-column">
   <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" width="600" height="396" alt="Deep-learning-based RFFI system workflow" loading="lazy">
-  <figcaption>Deep-learning-based RFFI system workflow. <a href="https://arxiv.org/pdf/2207.02999.pdf" target="_blank" rel="noopener">Source</a>.</figcaption>
+  <figcaption>Deep-learning-based RFFI system workflow. </figcaption>
 </figure>
 
 The software workflow involves signal collection, when required, followed by signal processing and machine learning. Collecting a new dataset requires signal-acquisition algorithms to capture wireless waveforms; alternatively, a public dataset can be used.
