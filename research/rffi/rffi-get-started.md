@@ -22,9 +22,16 @@ This page provides a tutorial on how to construct a radio-frequency fingerprint 
 {% include toc title="On this page" %}
 
 As shown below, an RFFI system consists of several devices under test (DUTs) and a receiver. Its objective is to identify or classify the DUTs by analysing the physical-layer signals captured by the receiver.
+<figure class="content-figure content-figure--text-column">
+  <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" width="600" height="396" alt="Deep-learning-based RFFI system workflow" loading="lazy">
+  <figcaption>Deep-learning-based RFFI system workflow. </figcaption>
+</figure>
+
 
 ## General Procedures
-- 1A. Building Your Own Testbed
+In general, deep leraning-based RFFI involves datasets and algorithm. The dataset can be self-collected or public. Deep learning has been widely adopted in RFFI to improve classification accuracy. Please read {% cite zhang2025physical %} (Section V) for a detailed description of deep learning-based RFFI design.
+
+- 1A. Building Your Own Testbed For Data Collection
     * 1A.1 Transmitter selection and packet transmisison
     * 1A.2 Verify the wireless transmissions using Wireshark (Optional)
     * 1A.3 Receiver selection and signal-collection programming to capture packets
@@ -33,19 +40,10 @@ As shown below, an RFFI system consists of several devices under test (DUTs) and
 - 3 Evaluate the trained model using the test data, typically through overall accuracy and a confusion matrix.
 
 
-<figure class="content-figure content-figure--text-column">
-  <img src="{{ '/research/rffi/images/RFFI_DL.png' | relative_url }}" width="600" height="396" alt="Deep-learning-based RFFI system workflow" loading="lazy">
-  <figcaption>Deep-learning-based RFFI system workflow. </figcaption>
-</figure>
-
-The software workflow involves signal collection, when required, followed by signal processing and machine learning. Collecting a new dataset requires signal-acquisition algorithms to capture wireless waveforms; alternatively, a public dataset can be used.
-
-Deep learning has been widely adopted in RFFI to improve classification accuracy. Please read {% cite zhang2025physical %} (Section V) for a detailed description of deep learning-based RFFI design.
-
-
     
 ## 1A. Building Your Own Testbed
 If you are using public datasets, this section can be skipped.
+
 ### 1A.1 Transmitter selection and packet transmisison
 Many wireless devices can be used as DUTs. Although a custom device can be built, commercial off-the-shelf (COTS) development boards and kits usually reduce implementation time.
 
@@ -115,18 +113,17 @@ enhance time-domain signals with different levels of channel effects, i.e., $h(\
 ## Signal Representation
 conver the time-domain signals to frequency-domain representation or time-frequency-domain representation (spectrogram).
 
+The neural network can operate directly on the collected IQ samples or on features produced through signal processing. For example, a fast Fourier transform (FFT) can convert the received signals into frequency-domain inputs.
+
+
 ## Deep Learning Module
 
-After collecting sufficient signals from the DUTs, a deep-learning classifier can be trained using an architecture such as a CNN, LSTM, GRU, or transformer. Suitable frameworks include PyTorch, TensorFlow, and MATLAB Deep Learning Toolbox. PyTorch and TensorFlow are particularly well supported by their developer communities.
+A deep-learning classifier can be trained using an architecture such as a CNN, LSTM, GRU, or transformer. Suitable frameworks include PyTorch, TensorFlow, and MATLAB Deep Learning Toolbox. PyTorch and TensorFlow are particularly well supported by their developer communities.
 
-The neural network can operate directly on the collected IQ samples or on features produced through signal processing. For example, a fast Fourier transform (FFT) can convert the received signals into frequency-domain inputs.
 
 If you are new to deep learning, the following introductory resources may be useful.
 * [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/){:target="_blank"}
 * [Deep Learning for Beginners](/resources/deep-learning/){:target="_blank"}
-
-
-Signal collection and machine learning do not need to use the same programming language. For example, MATLAB can collect and save the dataset, which can then be processed in Python for model development.
 
 
 ## Working Examples
