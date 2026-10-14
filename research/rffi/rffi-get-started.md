@@ -6,6 +6,7 @@ title: "How to Construct an RFFI System"
 description: "A practical guide to constructing an RFFI system, covering transmitters, SDR receivers, signal collection, preprocessing, and classification."
 permalink: /research/rffi/rffi-get-started/
 show_last_updated: true
+math: true
 toc: true
 categories:
   - Research
@@ -109,7 +110,7 @@ MATLAB provides several signal-collection examples. Select the documentation for
 Several public datasets are available for RFFI research; see the [RFFI datasets page](/research/rffi/rffi-dataset/) for details. Using a public dataset removes the need for signal-acquisition hardware, although a suitable computer is still required for processing and model training.
 
 ## Data Augmentation (Training Stage Only)
-enhance time-domain signals with different levels of channel and noise effects
+enhance time-domain signals with different levels of channel effects, i.e., $h(\tau, t)$ and noise levels
 
 ## Signal Representation
 conver the time-domain signals to frequency-domain representation or time-frequency-domain representation (spectrogram).
