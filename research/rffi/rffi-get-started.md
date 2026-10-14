@@ -102,11 +102,14 @@ MATLAB provides several signal-collection examples. Select the documentation for
 * [ZigBee reception](https://uk.mathworks.com/help/comm/ug/end-to-end-ieee-802-15-4-phy-simulation.html){:target="_blank"}
 
 
-
-
 ## 1B. Public Datasets
 Several public datasets are available for RFFI research; see the [RFFI datasets page](/research/rffi/rffi-dataset/) for details. Using a public dataset removes the need for signal-acquisition hardware, although a suitable computer is still required for processing and model training.
 
+## Data Augmentation (Training Stage Only)
+enhance time-domain signals with different levels of channel and noise effects
+
+## Signal Representation
+conver the time-domain signals to frequency-domain representation or time-frequency-domain representation (spectrogram).
 
 ## Deep Learning Module
 
@@ -123,7 +126,7 @@ Signal collection and machine learning do not need to use the same programming l
 
 
 ## Working Examples
-The following two examples provide implementations for RFFI:
+The following examples provide implementations for RFFI.
 ### LoRa RFFI
 Please visit our [datasets and code page](/research/dataset-code/) for the RFFI datasets and source code shared by our group.
 
