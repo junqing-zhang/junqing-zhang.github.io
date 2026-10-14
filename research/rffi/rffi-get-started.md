@@ -16,7 +16,7 @@ tags:
 
 {% include research-nav.html section="rffi" %}
 
-This page provides a tutorial on how to construct a radio-frequency fingerprint identification (RFFI) system. The implementation depends on the wireless technology and the selected transmitter and receiver platforms. This tutorial provides general guidelines for designing such a system.
+This page provides a tutorial on how to construct a radio-frequency fingerprint identification (RFFI) system. The implementation depends on the wireless technology and the selected transmitter and receiver platforms. This tutorial provides general guidelines for designing such a system. Read {% cite zhang2023radio %} for more details.
 
 {% include toc title="On this page" %}
 
@@ -37,7 +37,10 @@ As shown below, an RFFI system consists of several devices under test (DUTs) and
   <figcaption>Deep-learning-based RFFI system workflow. <a href="https://arxiv.org/pdf/2207.02999.pdf" target="_blank" rel="noopener">Source</a>.</figcaption>
 </figure>
 
-The software workflow involves signal collection, when required, followed by signal processing and machine learning. Collecting a new dataset requires signal-acquisition algorithms to capture wireless waveforms; alternatively, a public dataset can be used. Deep learning has been widely adopted in RFFI to improve classification accuracy.
+The software workflow involves signal collection, when required, followed by signal processing and machine learning. Collecting a new dataset requires signal-acquisition algorithms to capture wireless waveforms; alternatively, a public dataset can be used.
+
+Deep learning has been widely adopted in RFFI to improve classification accuracy. Please read {% cite zhang2025physical %} (Section V) for a detailed description of deep learning-based RFFI design.
+
 
     
 ## 1A. Building Your Own Testbed
@@ -131,12 +134,14 @@ The following examples provide implementations for RFFI.
 Please visit our [datasets and code page](/research/dataset-code/) for the RFFI datasets and source code shared by our group.
 
 A good starting example would be [Towards Scalable and Channel-Robust Radio Frequency 
-Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}. Both dataset and codes are available. Start with the Closed_set_RFFI example.
+Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}. Both dataset and codes are available. Start with the Closed_set_RFFI example. The technical description of the algorithm can be found in {% cite shen2023deep %} and {% cite shen2022scalable %}
+.
 
 ### Matlab Example
 [MATLAB, Detect WLAN Router Impersonation](https://www.mathworks.com/help/comm/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
 
-## Recommended Readings
 
-{% bibliography --query @*[key = shen2023deep|| key = zhang2023radio || key = shen2021radioj || key = shen2022scalable || key=zhang2021radio] %}
+## References
 
+{% capture readings %}{% bibliography --cited_in_order %}{% endcapture %}
+{{ readings | replace: ' reversed="reversed"', '' }}
