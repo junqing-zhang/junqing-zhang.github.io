@@ -19,11 +19,9 @@ tags:
 {% include toc title="On this page" %}
 
 ## Survey and Tutorial Papers from Our Group
-<div class="section-card pub-list">
 
 {% bibliography --query @article[keywords~=rffi && keywords~=survey] %}
 
-</div>
 
 ## Technical Papers from Our Group
 ### LoRa RFFI
