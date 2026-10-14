@@ -118,17 +118,20 @@ If you are new to deep learning, the following introductory resources may be use
 * [Deep Learning Tutorial for Beginners, Get Started](/resources/deep-learning/dl-get-started/){:target="_blank"}
 * [Deep Learning for Beginners](/resources/deep-learning/){:target="_blank"}
 
-The following two examples provide implementations for RFFI:
-1. [MATLAB, Detect WLAN Router Impersonation](https://www.mathworks.com/help/comm/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
-2. [Tensorflow, Towards Scalable and Channel-Robust Radio Frequency 
-Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}
 
 Signal collection and machine learning do not need to use the same programming language. For example, MATLAB can collect and save the dataset, which can then be processed in Python for model development.
 
 
-
-## Datasets and Code
+## Working Examples
+The following two examples provide implementations for RFFI:
+### LoRa RFFI
 Please visit our [datasets and code page](/research/dataset-code/) for the RFFI datasets and source code shared by our group.
+
+A good starting example would be [Towards Scalable and Channel-Robust Radio Frequency 
+Fingerprint Identification for LoRa](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}. Both dataset and codes are available. Start with the Closed_set_RFFI example.
+
+### Matlab Example
+[MATLAB, Detect WLAN Router Impersonation](https://www.mathworks.com/help/comm/ug/design-a-deep-neural-network-with-simulated-data-to-detect-wlan-router-impersonation.html){:target="_blank"}
 
 ## Recommended Readings
 
