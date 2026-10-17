@@ -138,9 +138,13 @@ Apply data augmentation to the time-domain IQ samples in the training set before
 
 Augmentation is optional and may be less useful when the training dataset already covers the expected operating conditions. Choose transformations that preserve the device label and relevant hardware characteristics, and assess their benefit on the validation set. Apply augmentation only to the training data after splitting the dataset; retain validation and test data for evaluation under clearly specified conditions.
 
+Read Section V.A of {% cite shen2022scalable %} and Section V.C of {% cite zhang2025physical %} for more information.
+
 ### 2.3 Signal Representation
 
 The neural network can take time-domain IQ samples directly or use representations derived through signal processing. For example, a fast Fourier transform (FFT) produces a frequency-domain representation, while a short-time Fourier transform (STFT) produces a time–frequency representation such as a spectrogram. Choose the representation according to the waveform and model, and record its parameters so the same transformation can be reproduced at inference time.
+
+Read Section V.D of {% cite zhang2025physical %} for more information.
 
 ## 3. Classifier Training
 
