@@ -44,9 +44,9 @@ This tutorial focuses on closed-set identification: every device to be identifie
 Whether you collect your own data or use a public dataset, the workflow is as follows:
 
 - 1A. Build your own testbed to collect signals, or 1B. use a public dataset.
-- 2. Preprocess the signals, optionally augment the time-domain training signals, and choose a signal representation.
-- 3. Train a classifier using the prepared training data.
-- 4. Evaluate the classifier on held-out test data using accuracy and a confusion matrix.
+- 2 Preprocess the signals, optionally augment the time-domain training signals, and choose a signal representation.
+- 3 Train a classifier using the prepared training data.
+- 4 Evaluate the classifier on held-out test data using accuracy and a confusion matrix.
 
 
     
@@ -95,7 +95,7 @@ The table below summarises several SDRs available in our laboratory. The receive
 | USRP N210 with UBX-40 daughterboard | 10 MHz–6 GHz | 40 MHz | MATLAB, UHD (C/C++ and Python APIs), GNU Radio, LabVIEW |
 | Zynq-based platform with AD9361 | 70 MHz–6 GHz (transceiver specification) | Up to 56 MHz | MATLAB, libiio (C and Python APIs), GNU Radio |
 | ADALM-PLUTO | 325 MHz–3.8 GHz | Up to 20 MHz | MATLAB, libiio (C and Python APIs), GNU Radio |
-| RTL-SDR | Depends on tuner and model | Depends on model and sample rate | MATLAB, pyrtlsdr (Python API), GNU Radio |
+| RTL-SDR | 22 MHz~2.2 GHz | 3.2 MHz | MATLAB, pyrtlsdr (Python API), GNU Radio |
 
 These RF bandwidths do not necessarily equal the bandwidth that can be continuously captured on a host PC. The interface, sample format, sample rate, and storage speed also constrain capture. For example, the N210 supports streaming up to 25 MS/s with 16-bit complex samples or 50 MS/s with 8-bit complex samples; its UBX-40 daughterboard has a nominal RF bandwidth of 40 MHz. See the [Ettus device-selection guide](https://kb.ettus.com/Selecting_a_USRP_Device){:target="_blank"} and [UBX-40 specifications](https://www.ettus.com/all-products/ubx40/){:target="_blank"}. For the Analog Devices platforms, see the [AD9361 specifications](https://www.analog.com/en/products/ad9361.html){:target="_blank"} and [ADALM-PLUTO hardware documentation](https://wiki.analog.com/university/tools/pluto/hacking/hardware){:target="_blank"}; the carrier board and host interface determine the sustained capture rate.
 
