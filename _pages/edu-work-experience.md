@@ -62,7 +62,7 @@ permalink: /edu-work-experience/
       <p>Centre for Wireless Innovation, Institute of Electronics, Communications and Information Technology (ECIT)</p>
       <div class="career-details">
         <p><strong>Thesis:</strong> <em>Key Generation and Physical Layer Encryption for Secure Wireless Communications</em></p>
-        <p><strong>Supervisors:</strong> Prof Roger Woods (Principal Supervisor); Dr Trung Q. Duong (Secondary Supervisor); Prof Alan Marshall (External Supervisor, University of Liverpool).</p>
+        <p><strong>Supervisors:</strong> Prof Roger Woods (Principal Supervisor); Prof Trung Q. Duong (Secondary Supervisor); Prof Alan Marshall (External Supervisor, University of Liverpool).</p>
         <p><strong>Funding:</strong> A prestigious full University International Studentship as part of the international WiPhyLoc8 project involving Rice University, USA, and University College Dublin, Ireland.</p>
       </div>
     </div>
