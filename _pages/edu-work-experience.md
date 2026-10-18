@@ -14,7 +14,7 @@ permalink: /edu-work-experience/
     <div class="career-body">
       <h3>Reader (Associate Professor)</h3>
       <p class="career-institution">University of Liverpool, UK</p>
-      <p>Trustworthy Computing, School of Computer Science and Informatics</p>
+      <p>Advanced Networks Research Group (ANRG), Trustworthy Computing, School of Computer Science and Informatics</p>
     </div>
   </li>
   <li class="career-entry">
@@ -22,7 +22,7 @@ permalink: /edu-work-experience/
     <div class="career-body">
       <h3>Senior Lecturer (Associate Professor)</h3>
       <p class="career-institution">University of Liverpool, UK</p>
-      <div class="career-organisation"><p><strong>October 2022 – August 2025:</strong> Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics.</p><p><strong>September 2025 – May 2026:</strong> Trustworthy Computing, School of Computer Science and Informatics.</p></div>
+      <div class="career-organisation"><p><strong>October 2022 – August 2025:</strong> Advanced Networks Research Group (ANRG), Department of Electrical Engineering and Electronics.</p><p><strong>September 2025 – May 2026:</strong> Advanced Networks Research Group (ANRG), Trustworthy Computing, School of Computer Science and Informatics.</p></div>
     </div>
   </li>
   <li class="career-entry">
