@@ -16,7 +16,7 @@ tags:
 
 {% include research-nav.html section="rffi" %}
 
-This page lists publicly available datasets and source code for radio-frequency fingerprint identification research.
+This page lists publicly available datasets and source code for RFFI research. We have validated only those provided by our group. Users should independently assess the quality and suitability of resources from other sources.
 
 {% include toc title="On this page" %}
 
@@ -27,10 +27,6 @@ This page lists publicly available datasets and source code for radio-frequency 
 
 ### Northeastern University and InterDigital
 {% bibliography --query @*[key=alshawabka2021deeplora] %}
-
-### Oregon State University
-The NetSTAR lab Oregon State University at Oregon State University has made a few datasets available, including LoRa and Wi-Fi datasets.
-[Dataset Download Link](https://research.engr.oregonstate.edu/hamdaoui/datasets){:target="_blank"}
 
 ## Wi-Fi Dataset
 ### Southeast University
@@ -46,6 +42,9 @@ The NetSTAR lab Oregon State University at Oregon State University has made a fe
 ### Southeast University
 {% bibliography --query @*[key=shi2023robust || key= shi2025snr] %}
 
+## LTE
+### Southeast University
+{% bibliography --query @*[key=peng2024hybrid] %}
 
 ## Drone Remote Controller RF Signal Dataset 
 ### North Carolina State University
@@ -55,3 +54,8 @@ The NetSTAR lab Oregon State University at Oregon State University has made a fe
 * E. Ozturk, F. Erden, and I. Guvenc, "RF-based low-SNR classification of UAVs using convolutional neural networks." arXiv preprint arXiv:2009.05519, Sept. 2020.
 * [Dataset Download Link](https://ieee-dataport.org/open-access/drone-remote-controller-rf-signal-dataset){:target="_blank"}
 
+
+
+## Oregon State University
+The NetSTAR lab Oregon State University at Oregon State University has made a few datasets available, including LoRa, Wi-Fi and Bluetooth datasets.
+[Dataset Download Link](https://research.engr.oregonstate.edu/hamdaoui/datasets){:target="_blank"}
