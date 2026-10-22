@@ -17,7 +17,7 @@ destinations. External links and bookmarks to these retired URLs will return 404
 
 ## Publications
 
-Publication entries are generated from `assets/ref.bib` using Jekyll Scholar.
+Publication entries are generated from `_bibliography/my-publications.bib` using Jekyll Scholar.
 Update that file to update the publication list.
 
 ## Local preview

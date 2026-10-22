@@ -241,7 +241,7 @@ __Using this template? Share your site and I'll add it here!__
 - **Smooth expand/collapse** — CSS transitions on publication abstracts and BibTeX entries
 
 ### Publications
-- **Auto-generated from BibTeX** via Jekyll Scholar — just edit `assets/ref.bib`
+- **Auto-generated from BibTeX** via Jekyll Scholar — just edit `_bibliography/my-publications.bib`
 - **Search bar** — filter publications by title, author, or year
 - **Year badges** — small accent-colored pills for quick scanning
 - **Pill buttons** — PDF, DOI, arXiv, Link, Code, Slides, Video, Poster, Data, BIB, Abstract, all driven by BibTeX fields
@@ -286,7 +286,7 @@ __Using this template? Share your site and I'll add it here!__
    ./setup.sh          # keep the demo content as examples, or
    vim _config.yml     # edit Steps 1-5 directly
    ```
-4. **Add your publications** to `assets/ref.bib`
+4. **Add your publications** to `_bibliography/my-publications.bib`
 5. **Customize** data files in `_data/` (team members, news, awards, etc.)
 6. **Preview** your site:
    ```bash
@@ -335,7 +335,7 @@ Or run the interactive setup script:
 ./setup.sh --clean  # same, after removing the demo content
 ```
 
-`--clean` asks for confirmation, then empties the data files (keeping their field comments), `assets/ref.bib`, `_posts/`, `papers/`, the demo team and research images, and the Feynman prose in `home.md`, `research.md`, and `team.md`, and points `photo` at a placeholder avatar.
+`--clean` asks for confirmation, then empties the data files (keeping their field comments), `_bibliography/my-publications.bib`, `_posts/`, `papers/`, the demo team and research images, and the Feynman prose in `home.md`, `research.md`, and `team.md`, and points `photo` at a placeholder avatar.
 
 ### Step 4: Add Your Links
 
@@ -358,7 +358,13 @@ Place your profile photo in the `images/` directory. Update the `photo` field in
 
 ### Step 6: Add Publications
 
-Edit `assets/ref.bib` with your BibTeX entries. The publications page is auto-generated. Example:
+Edit `_bibliography/my-publications.bib` with your BibTeX entries. The publications page is auto-generated. Keep papers by other authors that you cite in `_bibliography/other-references.bib`.
+
+Jekyll Scholar loads all `*.bib` files in `_bibliography` into one database. Keep citation keys unique across the files, preserve existing keys when moving entries, and store each paper only once. Do not put backup `.bib` files in this directory.
+
+Inline citations such as `{% raw %}{% cite shamnaz2018deep %}{% endraw %}` and bibliography queries without `--file` can use either file. Publication-only lists use `{% raw %}{% bibliography --file my-publications --query @article %}{% endraw %}`; Recommended Readings can query both files. For a page with inline citations, put `{% raw %}{% bibliography --cited_in_order %}{% endraw %}` after the citations and remove the global reversed-list attribute as in `research/rffi/rffi-get-started.md`, so list numbers match citation numbers.
+
+Example publication entry:
 
 ```bibtex
 @article{smith2024,
@@ -560,7 +566,7 @@ MathJax is loaded only where it is needed. Add `math: true` to the front matter 
 
 ## Publications
 
-Publications are generated from `assets/ref.bib` by [Jekyll Scholar](https://github.com/inukshuk/jekyll-scholar); see [Step 6](#step-6-add-publications) for the supported fields and name bolding.
+Publications are generated from `_bibliography/my-publications.bib` by [Jekyll Scholar](https://github.com/inukshuk/jekyll-scholar); see [Step 6](#step-6-add-publications) for the supported fields and name bolding.
 
 ## Hosting
 

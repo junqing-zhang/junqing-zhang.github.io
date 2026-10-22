@@ -19,7 +19,7 @@ We have made selected datasets and source code publicly available.
 ## Radio-Frequency Fingerprint Identification (RFFI)
 <div class="section-card pub-list">
 
-{% bibliography --query @article[keywords~=rffi && keywords~=data_code] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=data_code] %}
 
 </div>
 
@@ -30,7 +30,7 @@ We have made selected datasets and source code publicly available.
 
 <div class="section-card pub-list">
 
-{% bibliography --query @article[keywords~=phy-auth && keywords~=data_code] %}
+{% bibliography --file my-publications --query @article[keywords~=phy-auth && keywords~=data_code] %}
 
 </div>
 
@@ -39,6 +39,6 @@ We have made selected datasets and source code publicly available.
 
 <div class="section-card pub-list">
 
-{% bibliography --query @article[keywords~=wifi-sensing && keywords~=data_code] %}
+{% bibliography --file my-publications --query @article[keywords~=wifi-sensing && keywords~=data_code] %}
 
 </div>

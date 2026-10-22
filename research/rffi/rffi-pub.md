@@ -34,13 +34,13 @@ Please visit [RFFI publications by topic](/research/rffi/rffi-pub-topics/) for o
 ## Refereed Journal Articles
 <div class="section-card pub-list">
 
-{% bibliography --query @article[keywords~=rffi] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi] %}
 </div>
 
 ## Refereed Conference Proceedings
 
 <div class="section-card pub-list">
-{% bibliography --query @inproceedings[keywords~=rffi] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=rffi] %}
 </div>
 
 

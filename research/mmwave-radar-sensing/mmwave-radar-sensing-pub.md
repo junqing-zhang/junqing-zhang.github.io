@@ -27,11 +27,11 @@ tags:
 
 <h2>Refereed Journal Articles</h2>
 
-{% bibliography --query @article[keywords~=mmwave-radar] %}
+{% bibliography --file my-publications --query @article[keywords~=mmwave-radar] %}
 
 <h2>Refereed Conference Proceedings</h2>
 
-{% bibliography --query @inproceedings[keywords~=mmwave-radar] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=mmwave-radar] %}
 </div>
 
 

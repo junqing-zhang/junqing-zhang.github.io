@@ -60,7 +60,7 @@ nav_pages:
   - name: teaching
 
 # ============================================================
-# STEP 5: Publications (assets/ref.bib)
+# STEP 5: Publications (_bibliography/my-publications.bib)
 # ============================================================
 # Your name is bolded in the publication list. Write it exactly as it
 # appears in the rendered list ("F. M. Last"); list the longest form first.
@@ -69,8 +69,9 @@ scholar:
   first_name: ["J.", "Junqing"]
   style: ieee
   locale: en
-  source: /assets/
-  bibliography: ref.bib
+  # Shared citation database; publication-only lists select --file my-publications.
+  source: ./_bibliography
+  bibliography: "*.bib"
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending

@@ -44,7 +44,7 @@ Wireless sensing
 </div>
 
 
-{% capture selected %}{% bibliography --query @*[selected=true] %}{% endcapture %}
+{% capture selected %}{% bibliography --file my-publications --query @*[selected=true] %}{% endcapture %}
 {% if selected contains "pub-entry" %}
 ## Selected Publications
 

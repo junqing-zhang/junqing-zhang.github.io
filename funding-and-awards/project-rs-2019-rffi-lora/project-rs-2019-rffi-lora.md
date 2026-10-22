@@ -31,7 +31,7 @@ RFF identification is consisted of two stages, namely the training and classific
 Supported by this Research Grants, our group has equipped with LoRa devices from different vendors (Pycom FiPy and LoPy4, Semtech kits) and software defined radio (SDR) platforms (including USRP N210, PlutoSDR, RTLSDR, etc). We have built LoRa-RFFI testbed and achieved fruitful outcomes.
 
 ### Publication
-{% bibliography --query @*[key=shen2023towards || key=shen2023length || key=shen2022scalable || key=shen2021radioj || key=shen2021infocom] %}
+{% bibliography --file my-publications --query @*[key=shen2023towards || key=shen2023length || key=shen2022scalable || key=shen2021radioj || key=shen2021infocom] %}
 
 
 
@@ -40,6 +40,6 @@ Supported by this Research Grants, our group has equipped with LoRa devices from
 ### Datasets and Code
 The datasets and source code associated with the following papers are publicly available.
 
-{% bibliography --query @article[keywords~=rffi && keywords~=data_code && keywords~=lora] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=data_code && keywords~=lora] %}
 
 

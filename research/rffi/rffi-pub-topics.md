@@ -23,7 +23,7 @@ tags:
 ## Survey/Tutorial
 <div class="section-card pub-list">
 
-{% bibliography --query @article[keywords~=rffi && keywords~=survey] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=survey] %}
 
 </div>
 
@@ -32,11 +32,11 @@ tags:
 <div class="section-card pub-list">
 
 <h3>Refereed Jounal Articles</h3>
-{% bibliography --query @article[keywords~=rffi && keywords~=wifi] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=wifi] %}
 
 <h3>Refereed Conference Proceedings</h3>
 
-{% bibliography --query @inproceedings[keywords~=rffi && keywords~=wifi] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=rffi && keywords~=wifi] %}
 
 
 </div>
@@ -46,11 +46,11 @@ tags:
 <div class="section-card pub-list">
 
 <h3>Refereed Jounal Articles</h3>
-{% bibliography --query @article[keywords~=rffi && keywords~=lora] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=lora] %}
 
 <h3>Refereed Conference Proceedings</h3>
 
-{% bibliography --query @inproceedings[keywords~=rffi && keywords~=lora] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=rffi && keywords~=lora] %}
 
 
 </div>
@@ -61,11 +61,11 @@ tags:
 <div class="section-card pub-list">
 
 <h3>Refereed Jounal Articles</h3>
-{% bibliography --query @article[keywords~=rffi && keywords~=ble] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=ble] %}
 
 <h3>Refereed Conference Proceedings</h3>
 
-{% bibliography --query @inproceedings[keywords~=rffi && keywords~=ble] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=rffi && keywords~=ble] %}
 
 
 
@@ -76,11 +76,11 @@ tags:
 <div class="section-card pub-list">
 
 <h3>Refereed Jounal Articles</h3>
-{% bibliography --query @article[keywords~=rffi && keywords~=zigbee] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=zigbee] %}
 
 <h3>Refereed Conference Proceedings</h3>
 
-{% bibliography --query @inproceedings[keywords~=rffi && keywords~=zigbee] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=rffi && keywords~=zigbee] %}
 
 </div>
 
@@ -89,11 +89,11 @@ tags:
 <div class="section-card pub-list">
 
 <h3>Refereed Jounal Articles</h3>
-{% bibliography --query @article[keywords~=rffi && keywords~=lte] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=lte] %}
 
 <h3>Refereed Conference Proceedings</h3>
 
-{% bibliography --query @inproceedings[keywords~=rffi && keywords~=lte] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=rffi && keywords~=lte] %}
 
 
 </div>
@@ -121,11 +121,11 @@ tags:
 1. Yuxuan Xu, Ming Liu, Linning Peng, **Junqing Zhang**, and Yawen Zheng, “Colluding RF Fingerprint Impersonation Attack Based on Generative Adversarial Network”, in _Proc. IEEE ICC_, 2022
 
 ## Modelling
-{% bibliography --query @*[key=zhang2021radio] %}
+{% bibliography --file my-publications --query @*[key=zhang2021radio] %}
 
 ## Others
 **Journal Article**
-{% bibliography --query @*[key=xing2020design] %}
+{% bibliography --file my-publications --query @*[key=xing2020design] %}
 
 **Conference Paper**
 1. To Truong An, Simon L. Cotton, **Junqing Zhang**, Yuan Ding and Trung Q. Duong, “LoRa Radio Frequency Fingerprinting Using a Hybrid Quantum-Classical Neural Network”, in _Proc. IEEE VTC Fall_, 2024.

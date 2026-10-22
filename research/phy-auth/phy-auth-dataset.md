@@ -18,5 +18,5 @@ tags:
 
 This page lists publicly available datasets for physical-layer authentication research.
 
-{% bibliography --query @*[key=guo2025practical] %}
+{% bibliography --file my-publications --query @*[key=guo2025practical] %}
 

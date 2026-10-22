@@ -29,4 +29,4 @@ Click the image below to watch the demo video.
 
 
 ## Outcome
-{% bibliography --query @*[key=yin2025noise || key=ma2025towards || key=yuan2025robust || key=an2024lora] %}
+{% bibliography --file my-publications --query @*[key=yin2025noise || key=ma2025towards || key=yuan2025robust || key=an2024lora] %}

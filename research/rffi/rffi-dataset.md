@@ -22,21 +22,29 @@ This page lists publicly available datasets and source code for radio-frequency 
 
 ## LoRa Dataset 
 ### University of Liverpool
-{% bibliography --query @article[keywords~=rffi && keywords~=data_code && keywords~=lora] %}
+{% bibliography --file my-publications --query @article[keywords~=rffi && keywords~=data_code && keywords~=lora] %}
 
 
 ### Northeastern University and InterDigital
-Al-Shawabka, A., Pietraski, P., Pattar, S.B., Restuccia, F., & Melodia, T. (2021, July 26-29). DeepLoRa: Fingerprinting LoRa Devices at Scale Through Deep Learning and Data Augmentation. Proc. 22nd International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China.
-* [Dataset Download Link](https://www.interdigital.com/data_sets/lora-radio-data.){:target="_blank"}
+{% bibliography --query @*[key=alshawabka2021deeplora] %}
 
 ### Oregon State University
 The NetSTAR lab Oregon State University at Oregon State University has made a few datasets available, including LoRa and Wi-Fi datasets.
 [Dataset Download Link](https://research.engr.oregonstate.edu/hamdaoui/datasets){:target="_blank"}
 
 ## Wi-Fi Dataset
+### Southeast University
+{% bibliography --query @*[key=xie2024towards] %}
+
 ### Oregon State University
 The NetSTAR lab Oregon State University at Oregon State University has made a few datasets available, including LoRa and Wi-Fi datasets.
 [Dataset Download Link](https://research.engr.oregonstate.edu/hamdaoui/datasets){:target="_blank"}
+
+
+
+## ZigBee
+### Southeast University
+{% bibliography --query @*[key=shi2023robust || key= shi2025snr] %}
 
 
 ## Drone Remote Controller RF Signal Dataset 
@@ -46,12 +54,4 @@ The NetSTAR lab Oregon State University at Oregon State University has made a fe
 * M. Ezuma, F. Erden, C. K. Anjinappa, O. Ozdemir, and I. Guvenc, "Detection and classification of UAVs using RF fingerprints in the presence of Wi-Fi and Bluetooth interference," IEEE Open J. Commun. Soc., vol. 1, no. 1, pp. 60-79, Nov. 2019.
 * E. Ozturk, F. Erden, and I. Guvenc, "RF-based low-SNR classification of UAVs using convolutional neural networks." arXiv preprint arXiv:2009.05519, Sept. 2020.
 * [Dataset Download Link](https://ieee-dataport.org/open-access/drone-remote-controller-rf-signal-dataset){:target="_blank"}
-
-## ADS-B Dataset 
-### Embry-Riddle Aeronautical University
-Yongxin Liu, Jian Wang, Jianqiang Li, Shuteng Niu, and Houbing Song, "Class-Incremental Learning for Wireless Device Identification in IoT," IEEE Internet of Things, vol. 8, no. 23, pp. 17227 - 17235, Dec. 2021.
-* [Download](https://ieee-dataport.org/documents/ads-b-signals-records-non-cryptographic-identification-and-incremental-learning){:target="_blank"}
-
-### GENESYS Lab at Northeastern University
-GENESYS Lab at Northeastern University [External resource](https://genesys-lab.org/mldatasets){:target="_blank"} has made several datasets available.
 

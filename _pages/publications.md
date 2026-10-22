@@ -42,7 +42,7 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you would like a copy
 ## Selected Publications
 <div class="section-card pub-list">
 
-{% bibliography --query @*[selected=true] %}
+{% bibliography --file my-publications --query @*[selected=true] %}
 </div>
 
 
@@ -50,12 +50,12 @@ Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you would like a copy
 
 <div class="section-card pub-list">
 
-{% bibliography --query @article %}
+{% bibliography --file my-publications --query @article %}
 
 </div>
 
 
 ## Refereed Conference Proceedings
 <div class="section-card pub-list">
-{% bibliography --query @inproceedings %}
+{% bibliography --file my-publications --query @inproceedings %}
 </div>

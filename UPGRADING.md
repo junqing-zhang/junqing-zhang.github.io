@@ -61,7 +61,7 @@ Field names in `team_members.yml`, `alumni.yml`, `news.yml`, etc. are unchanged.
 
 ## 5. Publications
 
-`assets/ref.bib` format is unchanged. Jekyll Scholar config stays in `_config.yml`. Update the `scholar.last_name` and `scholar.first_name` fields.
+`_bibliography/my-publications.bib` format is unchanged. Jekyll Scholar config stays in `_config.yml`. Update the `scholar.last_name` and `scholar.first_name` fields.
 
 ## 6. Custom CSS
 

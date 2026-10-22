@@ -31,6 +31,6 @@ tags:
 {% bibliography --query @*[key=zhang2021radio] %}
 
 ## Tutorial Papers from Other Groups
-1. Shamnaz Riyaz, Kunal Sankhe, Stratis Ioannidis, and Kaushik Chowdhury, “Deep Learning Convolutional Neural Networks for Radio Identification,” _IEEE Communications Magazine_, 2018
+{% bibliography --query @*[key=shamnaz2018deep] %}
 
 

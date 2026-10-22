@@ -40,7 +40,7 @@ clean_demo() {
   rm -f _data/great_mathematicians_and_physicists.csv
 
   # Publications
-  printf '@comment{Add your BibTeX entries here. See README.md for the supported fields.}\n' > assets/ref.bib
+  printf '@comment{Add your BibTeX entries here. See README.md for the supported fields.}\n' > _bibliography/my-publications.bib
   rm -f papers/*.pdf; touch papers/.gitkeep
 
   # Blog posts and demo images
@@ -60,7 +60,7 @@ permalink: /
 
 Introduce your research in a few sentences. This first paragraph is set slightly larger than the rest.
 
-{% capture selected %}{% bibliography --query @*[selected=true] %}{% endcapture %}
+{% capture selected %}{% bibliography --file my-publications --query @*[selected=true] %}{% endcapture %}
 {% if selected contains "pub-entry" %}
 ## Selected publications
 
@@ -153,7 +153,7 @@ echo "     (update 'photo' in _config.yml to match)"
 echo ""
 echo "  2. Add your links in _config.yml (Step 2)"
 echo ""
-echo "  3. Add your publications to assets/ref.bib"
+echo "  3. Add your publications to _bibliography/my-publications.bib"
 echo "     (check scholar.first_name in _config.yml matches how"
 echo "      your initials appear in the rendered list, e.g. \"J. A.\")"
 echo ""

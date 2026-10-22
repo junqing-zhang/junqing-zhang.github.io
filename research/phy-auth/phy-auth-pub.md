@@ -23,15 +23,15 @@ tags:
 <div class="section-card pub-list">
 <h2>Preprints</h2>
 
-{% bibliography --query @unpublished %}
+{% bibliography --file my-publications --query @unpublished %}
 
 <h2>Refereed Journal Articles</h2>
 
-{% bibliography --query @article[keywords~=phy-auth] %}
+{% bibliography --file my-publications --query @article[keywords~=phy-auth] %}
 
 <h2>Refereed Conference Proceedings</h2>
 
-{% bibliography --query @inproceedings[keywords~=phy-auth] %}
+{% bibliography --file my-publications --query @inproceedings[keywords~=phy-auth] %}
 </div>
 
 
