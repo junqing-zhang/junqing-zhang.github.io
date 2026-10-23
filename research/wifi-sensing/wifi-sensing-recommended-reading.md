@@ -23,8 +23,11 @@ scholar:
 {% include research-nav.html section="wifi-sensing" %}
 
 ## Survey/Tutorial
-{% bibliography --template recommended --query @*[key=yang2023sensefi || key=ma2019wifisurvey || key=yousefi2017survey || key=meneghello2023toward || key=yang2022handson] %}
+{% nocite yang2023sensefi meneghello2023toward yang2022handson ma2019wifisurvey yousefi2017survey %}
+{% bibliography --template recommended --cited_in_order --clear %}
 
 
 ## Technical Papers 
-{% bibliography --template recommended --query @*[key=yin2022fewsense || key=zhang2018crosssense || key=palipana2017falldefi || key=ma2018signfi || key=wang2017devicefree || key=li2016wifinger || key=zhang2022widar3 || key=meneghello2023sharp] %}
+
+{% nocite yin2022fewsense meneghello2023sharp zhang2018crosssense palipana2017falldefi ma2018signfi wang2017devicefree li2016wifinger zhang2022widar3  %}
+{% bibliography --template recommended --cited_in_order --clear %}
