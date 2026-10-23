@@ -127,9 +127,9 @@ read -rp "Your title (e.g., Professor of Physics): " TITLE
 read -rp "Your institution: " INSTITUTION
 read -rp "Your email: " EMAIL
 
-# Derive the name forms used to bold you in the publication list
+# Derive full names for author identity matching; check compound surnames manually.
 LAST="${NAME##* }"
-INITIAL="${NAME:0:1}."
+GIVEN="${NAME% *}"
 
 echo ""
 echo "Updating _config.yml..."
@@ -139,7 +139,7 @@ sed -i.bak -e "s/^name: .*/name: \"$NAME\"/" \
            -e "s/^email: .*/email: $EMAIL/" \
            -e "s/^description: .*/description: \"Academic webpage of $NAME\"/" \
            -e "s/^  last_name: .*/  last_name: $LAST/" \
-           -e "s/^  first_name: .*/  first_name: [\"$INITIAL\"]/" _config.yml
+           -e "s/^  first_name: .*/  first_name: [\"$GIVEN\"]/" _config.yml
 rm -f _config.yml.bak
 
 echo "Done!"
@@ -155,7 +155,7 @@ echo "  2. Add your links in _config.yml (Step 2)"
 echo ""
 echo "  3. Add your publications to _bibliography/my-publications.bib"
 echo "     (check scholar.first_name in _config.yml matches how"
-echo "      your initials appear in the rendered list, e.g. \"J. A.\")"
+echo "      your full given name appears in BibTeX, e.g. \"Jane Alice\")"
 echo ""
 echo "  4. Fill in the data files in _data/"
 echo "     (team_members.yml, news.yml, talks.yml, ...)"

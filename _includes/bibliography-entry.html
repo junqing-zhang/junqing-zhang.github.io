@@ -5,19 +5,6 @@
   static-file index once and performs an O(1) lookup for each PDF field.
 {% endcomment %}
 {% assign ref = reference | strip_ieee_number %}
-{% if site.scholar.last_name and site.scholar.first_name %}
-  {% assign bolded = false %}
-  {% for first in site.scholar.first_name %}
-    {% unless bolded %}
-      {% capture me %}{{ first }} {{ site.scholar.last_name }}{% endcapture %}
-      {% if ref contains me %}
-        {% capture me_bold %}<b>{{ me }}</b>{% endcapture %}
-        {% assign ref = ref | replace: me, me_bold %}
-        {% assign bolded = true %}
-      {% endif %}
-    {% endunless %}
-  {% endfor %}
-{% endif %}
 
 {% assign arxiv_id = entry.arxiv %}
 {% if arxiv_id == nil or arxiv_id == "" %}

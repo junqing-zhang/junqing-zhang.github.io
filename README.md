@@ -396,12 +396,12 @@ Every link is a BibTeX field; use the ones you have:
 
 `webnote` appears only in Recommended Readings that explicitly select the `recommended` template, for example `{% raw %}{% bibliography --template recommended --query @article[keywords~=wifi-sensing] %}{% endraw %}`. Default bibliography lists ignore it, including Publications and normal References lists. Both templates share `_includes/bibliography-entry.html` to keep citation formatting and links consistent. It stays inside the same numbered reference and is omitted from the copyable BibTeX. Missing or whitespace-only notes display nothing. This website-only field is separate from the standard BibTeX `note` field; ordinary LaTeX bibliography styles ignore unknown fields.
 
-Your name is bolded automatically in the publication list. Set it in `_config.yml` exactly as it appears in the rendered list (`Last, F. M.`), longest form first:
+Your name is bolded by matching the full BibTeX author identity before the citation style abbreviates it. Set your full given and family names in `_config.yml`; do not add initials, which can match other people:
 
 ```yaml
 scholar:
   last_name: Smith
-  first_name: ["J. A.", "J."]
+  first_name: ["Jane Alice"]
 ```
 
 ### Step 7: Add Team Members
@@ -593,7 +593,8 @@ Set `url` (and `baseurl` if the site lives in a sub-path) in `_config.yml`, buil
 |---|---|
 | The deploy workflow fails at "Configure Pages" | Pages is not enabled for GitHub Actions yet. Settings > Pages > Source > **GitHub Actions** (one time). |
 | Site builds locally but pages 404 on GitHub | Push to the `source` branch; the workflow only deploys from there. Check the Actions tab for the run. |
-| My name is not bold in the publication list | `scholar.first_name` must match the rendered initials exactly, e.g. `["J. A.", "J."]`, longest form first. |
+| My name is not bold in the publication list | Set `scholar.first_name` to your full BibTeX given name and `scholar.last_name` to your family name. Initial-only BibTeX names are ambiguous and are not highlighted. |
+| Author highlighting does not update in the local preview | Restart `bundle exec jekyll serve` after adding or changing `_plugins/author_highlighting.rb` or `_config.yml`; Ruby plugins are loaded when Jekyll starts. Run `bundle exec ruby scripts/author-highlighting-test.rb` to verify identity matching. |
 | `bundle install` fails on macOS | The system Ruby is too old or read-only. Install Ruby 3.2+ with Homebrew, rbenv, or mise, then rerun. |
 | A page is missing from Cmd+K search | Pages need a `title` in their front matter; `search: false` excludes a page on purpose. |
 | Equations do not render | Add `math: true` to that page's front matter, or `math: true` in `_config.yml`. |

@@ -62,11 +62,11 @@ nav_pages:
 # ============================================================
 # STEP 5: Publications (_bibliography/my-publications.bib)
 # ============================================================
-# Your name is bolded in the publication list. Write it exactly as it
-# appears in the rendered list ("F. M. Last"); list the longest form first.
+# Highlight only this full BibTeX author identity, before CSL abbreviation.
+# Do not add initials here: they cannot distinguish authors with the same name.
 scholar:
   last_name: Zhang
-  first_name: ["J.", "Junqing"]
+  first_name: ["Junqing"]
   style: ieee
   locale: en
   # Shared citation database; publication-only lists select --file my-publications.
