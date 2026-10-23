@@ -20,17 +20,17 @@ tags:
 
 ## Survey and Tutorial Papers from Our Group
 
-{% bibliography --query @article[keywords~=rffi && keywords~=survey] %}
+{% bibliography --template recommended --query @article[keywords~=rffi && keywords~=survey] %}
 
 
 ## Technical Papers from Our Group
 ### LoRa RFFI
-{% bibliography --query @*[key=shen2022scalable || key=shen2023length || key=shen2023towards || key=shen2024federated || key=shen2021radioj] %}
+{% bibliography --template recommended --query @*[key=shen2022scalable || key=shen2023length || key=shen2023towards || key=shen2024federated || key=shen2021radioj] %}
 
 ### Modelling
-{% bibliography --query @*[key=zhang2021radio] %}
+{% bibliography --template recommended --query @*[key=zhang2021radio] %}
 
 ## Tutorial Papers from Other Groups
-{% bibliography --query @*[key=shamnaz2018deep] %}
+{% bibliography --template recommended --query @*[key=shamnaz2018deep] %}
 
 

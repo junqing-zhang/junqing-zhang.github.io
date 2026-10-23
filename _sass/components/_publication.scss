@@ -104,6 +104,17 @@
 
 .pub-reference a { text-decoration: underline; text-underline-offset: 0.15em; }
 
+// Optional editorial commentary stays inside the reference's existing list item.
+.pub-webnote {
+  margin: var(--space-3) 0 var(--space-3) var(--space-2);
+  padding-left: var(--space-3);
+  border-left: 2px solid var(--border-color);
+  color: var(--text-muted);
+  font-size: 0.875em;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
 // Selected publications on the home page: no list numbering
 .selected-pubs ol.bibliography {
   list-style: none;

@@ -18,6 +18,6 @@ tags:
 
 
 
-{% bibliography --query @article[keywords~=phy-auth] %}
+{% bibliography --template recommended --query @article[keywords~=phy-auth] %}
 
 

@@ -30,6 +30,165 @@ data = {https://www.interdigital.com/data_sets/lora-radio-data}
   pages={19218-19233},
   doi={10.1109/JIOT.2023.3281644},
   data = {https://ieee-dataport.org/documents/zigbeerffdataset}}
+
+% Wi-Fi Recommended Readings, in reading-list order. Verified 2026-10-23.
+% Metadata: publisher deposits via Crossref, supplemented by author sources below.
+% Unverified code/arXiv fields are omitted, rather than creating empty link buttons.
+% https://github.com/nwuzj/CrossSense (includes the authors' BibTeX)
+@inproceedings{zhang2018crosssense,
+  author = {Zhang, Jie and Tang, Zhanyong and Li, Meng and Fang, Dingyi and Nurmi, Petteri and Wang, Zheng},
+  title = {{CrossSense}: Towards Cross-Site and Large-Scale {WiFi} Sensing},
+  booktitle = {Proceedings of the 24th Annual International Conference on Mobile Computing and Networking},
+  year = {2018},
+  pages = {305--320},
+  doi = {10.1145/3241539.3241570},
+  code = {https://github.com/nwuzj/CrossSense},
+  webnote = {Introduces synthetic training samples and a mixture-of-experts approach for extending Wi-Fi sensing to new environments and larger recognition problems. The authors provide code and dataset instructions.}
+}
+
+% The authors' paper identifies the issue as December 2017; Crossref records
+% online publication in January 2018. Use the year printed in the paper.
+% https://www.davidrojas.co.uk/wp-content/uploads/2017/10/falldefi_ubiquitous_fall_detection_wifi.pdf
+% https://github.com/dmsp123/FallDeFi
+@article{palipana2017falldefi,
+  author = {Palipana, Sameera and Rojas, David and Agrawal, Piyush and Pesch, Dirk},
+  title = {{FallDeFi}: Ubiquitous Fall Detection using Commodity {Wi-Fi} Devices},
+  journal = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  year = {2017},
+  volume = {1},
+  number = {4},
+  pages = {155:1--155:25},
+  doi = {10.1145/3161183},
+  code = {https://github.com/dmsp123/FallDeFi},
+  webnote = {An example of device-free fall detection using Wi-Fi CSI. It combines time-frequency analysis with feature selection to identify features that are less sensitive to environmental changes.}
+}
+
+% https://github.com/yongsen/SignFi
+@article{ma2018signfi,
+  author = {Ma, Yongsen and Zhou, Gang and Wang, Shuangquan and Zhao, Hongyang and Jung, Woosub},
+  title = {{SignFi}: Sign Language Recognition Using {WiFi}},
+  journal = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  year = {2018},
+  volume = {2},
+  number = {1},
+  pages = {23:1--23:21},
+  doi = {10.1145/3191755},
+  code = {https://github.com/yongsen/SignFi},
+  webnote = {Demonstrates sign-language gesture recognition with Wi-Fi CSI and a convolutional neural network. The authors release a dataset and example training code, making this a useful practical starting point.}
+}
+
+% https://doi.org/10.1109/JSAC.2017.2679658
+@article{wang2017devicefree,
+  author = {Wang, Wei and Liu, Alex X. and Shahzad, Muhammad and Ling, Kang and Lu, Sanglu},
+  title = {Device-Free Human Activity Recognition Using Commercial {WiFi} Devices},
+  journal = {IEEE Journal on Selected Areas in Communications},
+  year = {2017},
+  volume = {35},
+  number = {5},
+  pages = {1118--1131},
+  doi = {10.1109/JSAC.2017.2679658},
+  webnote = {A reference on device-free activity recognition using commercial Wi-Fi hardware, offering background for understanding how wireless channel measurements can support human activity recognition.}
+}
+
+% https://leehomcs.github.io/HongLi.github.io/papers/WiFinger.pdf
+% This is Li et al.'s UbiComp paper, not the similarly named MobiHoc paper.
+@inproceedings{li2016wifinger,
+  author = {Li, Hong and Yang, Wei and Wang, Jianxin and Xu, Yang and Huang, Liusheng},
+  title = {{WiFinger}: Talk to Your Smart Devices with Finger-Grained Gesture},
+  booktitle = {Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing},
+  year = {2016},
+  pages = {250--261},
+  doi = {10.1145/2971648.2971738},
+  webnote = {Explores fine-grained finger gestures and continuous number input using CSI patterns from commodity Wi-Fi devices. It illustrates how small movements can be used for wireless human-computer interaction.}
+}
+
+% https://tns.thss.tsinghua.edu.cn/widar3.0/
+% https://hub.hku.hk/handle/10722/319437 (final 2022 journal publication)
+@article{zhang2022widar3,
+  author = {Zhang, Yi and Zheng, Yue and Qian, Kun and Zhang, Guidong and Liu, Yunhao and Wu, Chenshu and Yang, Zheng},
+  title = {{Widar3.0}: Zero-Effort Cross-Domain Gesture Recognition With {Wi-Fi}},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year = {2022},
+  volume = {44},
+  number = {11},
+  pages = {8671--8688},
+  doi = {10.1109/TPAMI.2021.3105387},
+  code = {https://tns.thss.tsinghua.edu.cn/widar3.0/},
+  webnote = {Introduces domain-independent motion features for cross-domain gesture recognition. The authors' project page provides code and data, making this a useful reference for studying generalisation across sensing conditions.}
+}
+
+% https://github.com/francescamen/SHARP (includes the authors' BibTeX)
+% https://arxiv.org/abs/2103.09924
+@article{meneghello2023sharp,
+  author = {Meneghello, Francesca and Garlisi, Domenico and {Dal Fabbro}, Nicol\`o and Tinnirello, Ilenia and Rossi, Michele},
+  title = {{SHARP}: Environment and Person Independent Activity Recognition With Commodity {IEEE} 802.11 Access Points},
+  journal = {IEEE Transactions on Mobile Computing},
+  year = {2023},
+  volume = {22},
+  number = {10},
+  pages = {6160--6175},
+  doi = {10.1109/TMC.2022.3185681},
+  code = {https://github.com/francescamen/SHARP},
+  arxiv = {2103.09924},
+  webnote = {Uses Wi-Fi channel phase processing to extract Doppler information for activity recognition across people and environments. The public implementation supports studying the signal-processing pipeline as well as the classifier.}
+}
+
+% https://www.cs.wm.edu/~yma/files/WiFiSensing_YongsenMa_authorversion.pdf
+% Use the authors' 2019 citation; the journal issue was printed in May 2020.
+@article{ma2019wifisurvey,
+  author = {Ma, Yongsen and Zhou, Gang and Wang, Shuangquan},
+  title = {{WiFi} Sensing with Channel State Information: A Survey},
+  journal = {ACM Computing Surveys},
+  year = {2019},
+  volume = {52},
+  number = {3},
+  pages = {46:1--46:36},
+  doi = {10.1145/3310194},
+  webnote = {A broad introduction to CSI-based Wi-Fi sensing, organised around detection, recognition, and estimation. It also discusses robustness, privacy, and the coexistence of sensing and networking.}
+}
+
+% https://github.com/ermongroup/Wifi_Activity_Recognition
+@article{yousefi2017survey,
+  author = {Yousefi, Siamak and Narui, Hirokazu and Dayal, Sankalp and Ermon, Stefano and Valaee, Shahrokh},
+  title = {A Survey on Behavior Recognition Using {WiFi} Channel State Information},
+  journal = {IEEE Communications Magazine},
+  year = {2017},
+  volume = {55},
+  number = {10},
+  pages = {98--104},
+  doi = {10.1109/MCOM.2017.1700082},
+  code = {https://github.com/ermongroup/Wifi_Activity_Recognition},
+  webnote = {Reviews CSI-based human behaviour recognition and explores recurrent neural networks for activity classification. The accompanying repository provides code for the paper's learning-based example.}
+}
+
+% https://github.com/francescamen/SHARPax (includes the authors' BibTeX)
+% https://arxiv.org/abs/2212.13930
+@article{meneghello2023toward,
+  author = {Meneghello, Francesca and Chen, Cheng and Cordeiro, Carlos and Restuccia, Francesco},
+  title = {Toward Integrated Sensing and Communications in {IEEE} 802.11bf {Wi-Fi} Networks},
+  journal = {IEEE Communications Magazine},
+  year = {2023},
+  volume = {61},
+  number = {7},
+  pages = {128--133},
+  doi = {10.1109/MCOM.001.2200806},
+  code = {https://github.com/francescamen/SHARPax},
+  arxiv = {2212.13930},
+  webnote = {Connects Wi-Fi sensing algorithms with the physical and medium-access-control mechanisms considered for IEEE 802.11bf. It discusses how communication parameters affect sensing; the authors provide an IEEE 802.11ax implementation.}
+}
+
+% https://arxiv.org/abs/2206.09532
+% https://tns.thss.tsinghua.edu.cn/wst/docs/code_download/
+@misc{yang2022handson,
+  author = {Yang, Zheng and Zhang, Yi and Chi, Guoxuan and Zhang, Guidong},
+  title = {Hands-on Wireless Sensing with {Wi-Fi}: A Tutorial},
+  year = {2022},
+  howpublished = {arXiv preprint arXiv:2206.09532},
+  doi = {10.48550/arXiv.2206.09532},
+  arxiv = {2206.09532},
+  code = {https://tns.thss.tsinghua.edu.cn/wst/docs/code_download/},
+  webnote = {A practical introduction covering data collection, signal processing, feature extraction, and model design. The companion tutorial includes downloadable code and data for working through the sensing pipeline.}
+}
   
 @ARTICLE{shi2025snr,
   author={Shi, Junxian and Peng, Linning and Xie, Lingnan and Fu, Hua and Hu, Aiqun},

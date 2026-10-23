@@ -392,6 +392,9 @@ Every link is a BibTeX field; use the ones you have:
 | `code`, `slides`, `video`, `poster`, `data` | Code, Slides, Video, Poster, Data |
 | `abstract` | Abstract (expandable) |
 | `selected = {true}` | Listed under "Selected publications" on the home page |
+| `webnote = {My explanation of this paper.}` | Optional plain-text commentary below the reference, labelled **Why this paper?** |
+
+`webnote` appears only in Recommended Readings that explicitly select the `recommended` template, for example `{% raw %}{% bibliography --template recommended --query @article[keywords~=wifi-sensing] %}{% endraw %}`. Default bibliography lists ignore it, including Publications and normal References lists. Both templates share `_includes/bibliography-entry.html` to keep citation formatting and links consistent. It stays inside the same numbered reference and is omitted from the copyable BibTeX. Missing or whitespace-only notes display nothing. This website-only field is separate from the standard BibTeX `note` field; ordinary LaTeX bibliography styles ignore unknown fields.
 
 Your name is bolded automatically in the publication list. Set it in `_config.yml` exactly as it appears in the rendered list (`Last, F. M.`), longest form first:
 

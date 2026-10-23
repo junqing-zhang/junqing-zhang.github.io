@@ -81,7 +81,7 @@ scholar:
   bibliography_list_attributes:
     reversed: "reversed"
   # Template-only fields, kept out of the copyable BibTeX
-  bibtex_skip_fields: [abstract, month_numeric, file, selected, code, slides, video, poster, data]
+  bibtex_skip_fields: [abstract, month_numeric, file, selected, code, slides, video, poster, data, webnote]
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
