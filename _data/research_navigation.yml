@@ -31,6 +31,8 @@ keygen:
       url: "/research/keygen/keygen-recommended-reading/"
     - label: "Applications"
       url: "/research/keygen/keygen-application/"
+    - label: "Publications by topic"
+      url: "/research/keygen/keygen-pub-topics/"
 
 phy-auth:
   title: "Physical-Layer Authentication"
