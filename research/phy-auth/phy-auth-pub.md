@@ -17,21 +17,25 @@ tags:
 
 
 
+{% include research-nav.html section="phy-auth" %}
+
+{% include toc title="On this page" %}
+
 
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 
+
+## Refereed Journal Articles
 <div class="section-card pub-list">
-<h2>Preprints</h2>
-
-{% bibliography --file my-publications --query @unpublished %}
-
-<h2>Refereed Journal Articles</h2>
 
 {% bibliography --file my-publications --query @article[keywords~=phy-auth] %}
+</div>
 
-<h2>Refereed Conference Proceedings</h2>
+## Refereed Conference Proceedings
 
+<div class="section-card pub-list">
 {% bibliography --file my-publications --query @inproceedings[keywords~=phy-auth] %}
 </div>
+
 
 
