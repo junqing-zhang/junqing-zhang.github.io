@@ -31,6 +31,20 @@ data = {https://www.interdigital.com/data_sets/lora-radio-data}
   doi={10.1109/JIOT.2023.3281644},
   data = {https://ieee-dataport.org/documents/zigbeerffdataset}}
 
+
+  
+@ARTICLE{shi2025snr,
+  author={Shi, Junxian and Peng, Linning and Xie, Lingnan and Fu, Hua and Hu, Aiqun},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={An SNR-Aware Feature Reconstruction Method in Radio Frequency Fingerprint Identification}, 
+  year={2025},
+  volume={20},
+  number={},
+  pages={7895-7910},
+  doi={10.1109/TIFS.2025.3592567},
+  data = {https://ieee-dataport.org/documents/zigbeerffdataset}}
+
+
 % Wi-Fi Recommended Readings, in reading-list order. Verified 2026-10-23.
 % Metadata: publisher deposits via Crossref, supplemented by author sources below.
 % Unverified code/arXiv fields are omitted, rather than creating empty link buttons.
@@ -114,6 +128,7 @@ data = {https://www.interdigital.com/data_sets/lora-radio-data}
   pages = {8671--8688},
   doi = {10.1109/TPAMI.2021.3105387},
   code = {https://tns.thss.tsinghua.edu.cn/widar3.0/},
+  data = {https://tns.thss.tsinghua.edu.cn/widar3.0/},
   webnote = {Introduces domain-independent motion features for cross-domain gesture recognition. The authors' project page provides code and data, making this a useful reference for studying generalisation across sensing conditions.}
 }
 
@@ -189,14 +204,21 @@ data = {https://www.interdigital.com/data_sets/lora-radio-data}
   code = {https://tns.thss.tsinghua.edu.cn/wst/docs/code_download/},
   webnote = {A practical introduction covering data collection, signal processing, feature extraction, and model design. The companion tutorial includes downloadable code and data for working through the sensing pipeline.}
 }
-  
-@ARTICLE{shi2025snr,
-  author={Shi, Junxian and Peng, Linning and Xie, Lingnan and Fu, Hua and Hu, Aiqun},
-  journal={IEEE Transactions on Information Forensics and Security}, 
-  title={An SNR-Aware Feature Reconstruction Method in Radio Frequency Fingerprint Identification}, 
-  year={2025},
-  volume={20},
-  number={},
-  pages={7895-7910},
-  doi={10.1109/TIFS.2025.3592567},
-  data = {https://ieee-dataport.org/documents/zigbeerffdataset}}
+
+% Publisher author order differs from the preprint/repository citation.
+% https://doi.org/10.1016/j.patter.2023.100703
+% https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
+% https://arxiv.org/abs/2207.07859
+@article{yang2023sensefi,
+  author = {Yang, Jianfei and Chen, Xinyan and Zou, Han and Lu, Chris Xiaoxuan and Wang, Dazhuo and Sun, Sumei and Xie, Lihua},
+  title = {{SenseFi}: A library and benchmark on deep-learning-empowered {WiFi} human sensing},
+  journal = {Patterns},
+  year = {2023},
+  volume = {4},
+  number = {3},
+  pages = {100703},
+  doi = {10.1016/j.patter.2023.100703},
+  code = {https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark},
+  arxiv = {2207.07859},
+  webnote = {Provides an open-source library and benchmark for comparing deep-learning approaches to Wi-Fi human sensing. It is useful for studying model architectures and learning strategies across sensing tasks and hardware platforms.}
+}

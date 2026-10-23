@@ -22,5 +22,9 @@ scholar:
 
 {% include research-nav.html section="wifi-sensing" %}
 
-{% comment %}One bibliography keeps numbering continuous. With sort_by: none, entries follow their order in the merged BibTeX database: FewSense first, then the Wi-Fi reading block in other-references.bib.{% endcomment %}
-{% bibliography --template recommended --query @*[key=yin2022fewsense || key=zhang2018crosssense || key=palipana2017falldefi || key=ma2018signfi || key=wang2017devicefree || key=li2016wifinger || key=zhang2022widar3 || key=meneghello2023sharp || key=ma2019wifisurvey || key=yousefi2017survey || key=meneghello2023toward || key=yang2022handson] %}
+## Survey/Tutorial
+{% bibliography --template recommended --query @*[key=yang2023sensefi || key=ma2019wifisurvey || key=yousefi2017survey || key=meneghello2023toward || key=yang2022handson] %}
+
+
+## Technical Papers 
+{% bibliography --template recommended --query @*[key=yin2022fewsense || key=zhang2018crosssense || key=palipana2017falldefi || key=ma2018signfi || key=wang2017devicefree || key=li2016wifinger || key=zhang2022widar3 || key=meneghello2023sharp] %}
