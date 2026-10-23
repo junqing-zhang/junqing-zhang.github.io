@@ -20,5 +20,5 @@ tags:
 
 This page lists publicly available datasets for Wi-Fi sensing research.
 
-To be updated.
-
+{% nocite zhang2022widar3  %}
+{% bibliography --template recommended --cited_in_order --clear %}
