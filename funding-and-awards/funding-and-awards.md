@@ -94,29 +94,11 @@ description: "Research funding, projects, awards, and travel grants secured by D
 
 <ul class="funding-list">
   <li>
-    <strong>Best Workshop Paper Award — IEEE WCNC 2025</strong>
+    <strong>IEEE WCNC 2025 Best Workshop Paper Award</strong>
     <p><em>Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model</em><br>Guolin Yin, Junqing Zhang, Yuan Ding, and Simon Cotton.</p>
-    <p class="funding-award-links"><a href="https://wcnc2025.ieee-wcnc.org/program-0/program-glance/best-paper-awards" target="_blank" rel="noopener">Conference award website</a><a href="https://arxiv.org/abs/2503.05514" target="_blank" rel="noopener">Paper on arXiv</a></p>
+    <p class="funding-award-links"><a href="https://wcnc2025.ieee-wcnc.org/program-0/program-glance/best-paper-awards" target="_blank" rel="noopener">Conference award website</a><a href="https://ieeexplore.ieee.org/document/10978824" target="_blank" rel="noopener">Paper on IEEE</a><a href="https://arxiv.org/abs/2503.05514" target="_blank" rel="noopener">Paper on arXiv</a></p>
   </li>
 </ul>
 
-## Travel Grants
-
-<ul class="funding-list">
-  <li>
-    <strong><a href="http://www.ukchinaengineering.com/" target="_blank" rel="noopener">UK-China University Consortium on Engineering Education and Research (UKCEER)</a> Mobility Grant for Early Career Researchers</strong>
-    <p>Host: Professor Aiqun Hu, Southeast University, China · August 2019 · £3,000</p>
-  </li>
-  <li>
-    <strong>British Council Travel Grant – The Researcher Links initiative in Turkey</strong>
-    <p>September 2017 · £1,500</p>
-  </li>
-  <li>
-    <strong>IEEE Signal Processing Society Travel Grants for ICASSP 2015</strong>
-  </li>
-  <li>
-    <strong>Queen’s University Belfast Emily Sarah Montgomery Travel Scholarship 2015</strong>
-  </li>
-</ul>
 
 </div>
