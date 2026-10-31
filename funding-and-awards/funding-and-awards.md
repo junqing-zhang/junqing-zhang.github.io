@@ -11,7 +11,7 @@ description: "Research funding, projects, awards, and travel grants secured by D
 <p class="funding-highlight"><strong>£1.3 million</strong> research income secured as Principal Investigator</p>
 
 ## Ongoing Projects
-
+<div class="funding-projects" markdown="0">
 <article class="section-card funding-project">
   <h3><a href="{{ '/funding-and-awards/project-epsrc-2026-secure-id/' | relative_url }}">NSF ECCS-EPSRC: SecureID: Towards Secure Device Identification Using Radio Frequency Fingerprints</a></h3>
   <dl class="funding-details">
@@ -48,7 +48,6 @@ description: "Research funding, projects, awards, and travel grants secured by D
   <p class="funding-partners"><strong>Partners:</strong> Queen’s University Belfast</p>
 </article>
 
-<div class="funding-projects" markdown="0">
 <article class="section-card funding-project">
   <h3><a href="{{ '/funding-and-awards/project-rs-2023-uav-rffi/' | relative_url }}">Skies with Safety: Distributed Identification of Unmanned Aerial Vehicles Using RF Hardware Fingerprints</a></h3>
   <dl class="funding-details">
