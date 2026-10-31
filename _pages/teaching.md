@@ -18,6 +18,7 @@ School of Computer Science and Informatics, University of Liverpool
 * 2026 - present
 * Year 3
 * Please check [the final year projects](/teaching-fyp/) that I am supervising and have supervised.
+* Visit [this link](https://www.csc.liv.ac.uk/~stuart/comp390/) for the instructions and requirements of COMP390.
 
 </div>
 
