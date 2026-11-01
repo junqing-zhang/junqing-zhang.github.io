@@ -5,18 +5,21 @@ permalink: /teaching-fyp/
 toc: true
 ---
 
-Please find a list of the final year projects that I am supervising or have supervised. Students are also welcome to propose their own projects.
+Below is a list of the final-year projects that I am supervising or have supervised. Students are also welcome to propose their own projects.
 
-The final year projects that I am supervising usually 
-* Use embedded systems such as Raspberry Pi, Arduino, FPGA, and [software defined radio platforms](/resources/sdr/) 
-* Build wireless applications, such as IoT, security, and sensing
-* Involve wireless technologies including [Wi-Fi](/resources/wireless/wifi/), [LoRa/LoRaWAN](/resources/wireless/lora-lorawan/), [ZigBee](/resources/wireless/zigbee/), and [Bluetooth](/resources/wireless/bluetooth/);
-* Require strong programming skills such as Python, C/C++, MATLAB
-* Involve machine learning and deep learning
+The final-year projects that I supervise usually:
 
-If your project is in the area of Radio Frequency Fingerprinting Identification (RFFI), read this [post](https://junqing-zhang.github.io/research/rffi/rffi-get-started/).
+* Use embedded systems such as Raspberry Pi, Arduino, FPGAs, and [software-defined radio platforms](/resources/sdr/).
+* Involve developing wireless applications for IoT, security, and sensing.
+* Involve wireless technologies including [Wi-Fi](/resources/wireless/wifi/), [LoRa/LoRaWAN](/resources/wireless/lora-lorawan/), [ZigBee](/resources/wireless/zigbee/), and [Bluetooth](/resources/wireless/bluetooth/).
+* Require strong programming skills in languages such as Python, C/C++, and MATLAB.
+* Involve machine learning and deep learning.
 
-I am running the following final year projects in the academic year 2025-2026.
+If your project is in the area of radio frequency fingerprinting identification (RFFI), read this [post](https://junqing-zhang.github.io/research/rffi/rffi-get-started/).
+
+Please visit [this link](https://www.csc.liv.ac.uk/~stuart/comp390/) for the COMP390 instructions and requirements.
+
+I am supervising the following final-year projects during the 2025–2026 academic year.
  
 ## 2025
 * Device Authentication for Bluetooth Using Deep Learning and Radio Frequency Fingerprint
