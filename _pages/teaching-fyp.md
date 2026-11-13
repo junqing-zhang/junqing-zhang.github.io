@@ -20,7 +20,16 @@ If your project is in the area of radio frequency fingerprinting identification 
 Please visit [this link](https://www.csc.liv.ac.uk/~stuart/comp390/) for the COMP390 instructions and requirements.
 
 I am supervising the following final-year projects during the 2025–2026 academic year.
- 
+
+## 2026
+* Deep Learning Optimisation for Real-Time Edge AI
+* Deep Learning-Based RGB-D Sensing
+* Deep Learning-Based Radio Frequency Fingerprint Identification for BLE Devices
+* Deep Learning-Based Radio Frequency Fingerprint Identification for Wi-Fi
+* Design Lightwight Deep Learning for LoRa Radio Frequency Fingerprint Identification
+* Rogue Device Detection for LoRa RFFI
+* Deep Learning-Based Wi-Fi Sensing
+
 ## 2025
 * Device Authentication for Bluetooth Using Deep Learning and Radio Frequency Fingerprint
 * Device Authentication for LoRa Using Deep Learning and Radio Frequency Fingerprint

@@ -11,4 +11,7 @@ permalink: /funding-and-awards/project-rs-2023-uav-rffi/
 * Duration: March 2023 to September 2026
 * Amount: £55.8k
 
-To be updated
+
+
+## Outcome
+
