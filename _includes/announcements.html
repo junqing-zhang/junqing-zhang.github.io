@@ -1,34 +1,19 @@
-{% if site.data.announcements %}
-{%- assign today = site.time | london_date -%}
 {%- assign pinned = site.data.announcements | where_exp: "entry", "entry.pinned == true" -%}
-{%- assign unpinned = site.data.announcements | where_exp: "entry", "entry.pinned != true" -%}
-{%- assign ordered = pinned | concat: unpinned -%}
-{%- assign limit = 3 -%}
-{%- assign active_count = 0 -%}
-{%- capture items -%}
-  {%- for entry in ordered -%}
-    {%- assign deadline = entry.deadline | default: "" -%}
-    {%- if deadline != "" and deadline < today -%}
-      {%- continue -%}
-    {%- endif -%}
-    {%- assign active_count = active_count | plus: 1 %}
-    <li data-deadline="{{ deadline | escape }}"{% if active_count > limit %} hidden{% endif %}>
+{% if pinned.size > 0 %}
+<section class="announcements" aria-labelledby="announcements">
+  <h2 id="announcements">Announcements</h2>
+  <ul>
+    {% for entry in pinned %}
+    <li>
       <strong>{{ entry.type | escape }}</strong> &middot;
       <a href="{{ entry.url | escape }}">{{ entry.title | escape }}</a>
-      {% if deadline != "" -%}
+      {% if entry.deadline and entry.deadline != "" -%}
         <span class="announcements-deadline">{{ entry.deadline_label | default: "Deadline" | escape }}:
-          <time datetime="{{ deadline | escape }}">{{ deadline | date: "%A %-d %B %Y" }}</time>
+          <time datetime="{{ entry.deadline | escape }}">{{ entry.deadline | date: "%A %-d %B %Y" }}</time>
         </span>
       {%- endif %}
     </li>
-  {%- endfor -%}
-{%- endcapture -%}
-{% if active_count > 0 %}
-<section class="announcements" aria-labelledby="announcements" data-announcement-limit="{{ limit }}">
-  <h2 id="announcements">Announcements</h2>
-  <ul>{{ items }}
+    {% endfor %}
   </ul>
 </section>
-<script src="{{ '/assets/js/announcements.js' | relative_url }}" defer></script>
-{% endif %}
 {% endif %}
