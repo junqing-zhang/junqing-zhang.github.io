@@ -91,6 +91,18 @@
   }
 }
 
+.announcements {
+  li + li {
+    margin-top: var(--space-2);
+  }
+
+  .announcements-deadline {
+    display: block;
+    color: var(--text-muted);
+    font-size: 0.875rem;
+  }
+}
+
 // News timeline
 .news-timeline {
   margin-top: 0;

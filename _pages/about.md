@@ -12,18 +12,8 @@ Junqing Zhang is a Reader (Associate Professor) in the School of Computer Scienc
 His research combines wireless communications, signal processing, and machine learning to develop secure and intelligent wireless systems, with a strong emphasis on experimental validation using practical wireless devices and testbeds. He has published more than 100 research papers and serves as a Senior Area Editor for IEEE Transactions on Information Forensics and Security and an Associate Editor for IEEE Transactions on Mobile Computing.
 
 
-[//]: ## Call for Paper
-[//]: * [IEEE WCNC 2026: Third Workshop on Physical Layer Security for Wireless Communications](https://sites.google.com/view/pls-workshop){:target="_blank"}. Deadline: December 1, 2025
-[//]: * [IEEE INFOCOM 2026: The Fourth DeepWireless Workshop on Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop){:target="_blank"}. December 29, 2025
-[//]: * [IEEE GLOBECOM 2026: The Sixth Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"}. Deadline: 12 August, 2026
 
-
-[//]: [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open soon on the 31 January 2023. If you are interested in wireless security and wireless sensing, please drop me an email with your CV.
-
- 
-[//]: ## Call for CSC Application
-[//]: If you want to do a PhD with us in the area of wireless security and wireless sensing,  please drop me an email with your CV. Pleaes visit [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} for more information. Deadline: TBC
-
+{% include announcements.html %}
 
 ## Research Area
 
