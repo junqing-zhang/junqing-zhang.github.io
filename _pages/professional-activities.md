@@ -39,17 +39,29 @@ description: "Editorial appointments, conference leadership, workshops, reviewin
 Workshop co-chair roles across the following series.
 
 ### [DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security Workshop](https://sites.google.com/view/deepwireless-workshop/){:target="_blank"}
-* [IEEE INFOCOM 2026 Fourth Edition](https://infocom2026.ieee-infocom.org/workshops){:target="_blank"}, [IEEE INFOCOM 2025 Third Edition](https://infocom2025.ieee-infocom.org/3rd-workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless-call-papers){:target="_blank"}, [IEEE INFOCOM 2024 Second Edition](https://infocom2024.ieee-infocom.org/second-deepwireless-workshop-deep-learning-wireless-communications-sensing-and-security-call-papers){:target="_blank"}, [IEEE INFOCOM 2023 First Edition](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
+* [IEEE INFOCOM 2027 Fifth Edition](https://infocom2027.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security){:target="_blank"} 
+* [IEEE INFOCOM 2026 Fourth Edition](https://infocom2026.ieee-infocom.org/workshops){:target="_blank"}
+* [IEEE INFOCOM 2025 Third Edition](https://infocom2025.ieee-infocom.org/3rd-workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless-call-papers){:target="_blank"} 
+* [IEEE INFOCOM 2024 Second Edition](https://infocom2024.ieee-infocom.org/second-deepwireless-workshop-deep-learning-wireless-communications-sensing-and-security-call-papers){:target="_blank"}
+*  [IEEE INFOCOM 2023 First Edition](https://infocom2023.ieee-infocom.org/workshop-deep-learning-wireless-communications-sensing-and-security-deepwireless){:target="_blank"}
 
 ###  [Machine Learning and Deep Learning for Wireless Security Workshop](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"}
-* [IEEE GLOBECOM 2026 Sixth Edition](https://globecom2026.ieee-globecom.org/call-workshop-papers){:target="_blank"}, [IEEE ICC 2026 Fifth Edition](https://icc2026.ieee-icc.org/workshop/ws17-ieee-icc-2026-fifth-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}, [IEEE GLOBECOM 2025 Fourth Edition](https://globecom2025.ieee-globecom.org/workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}, [IEEE ICC 2025 Third Edition](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"}, [IEEE GLOBECOM 2024 Second Edition](https://globecom2024.ieee-globecom.org/workshop/ws-17-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}, [IEEE ICC 2024 First edition](https://icc2024.ieee-icc.org/workshop/ws-18-ieee-icc-2024-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
+* [IEEE GLOBECOM 2026 Sixth Edition](https://globecom2026.ieee-globecom.org/call-workshop-papers){:target="_blank"}
+* [IEEE ICC 2026 Fifth Edition](https://icc2026.ieee-icc.org/workshop/ws17-ieee-icc-2026-fifth-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"} 
+* [IEEE GLOBECOM 2025 Fourth Edition](https://globecom2025.ieee-globecom.org/workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
+* [IEEE ICC 2025 Third Edition](https://sites.google.com/view/ml-dl-wireless-sec/){:target="_blank"} 
+* [IEEE GLOBECOM 2024 Second Edition](https://globecom2024.ieee-globecom.org/workshop/ws-17-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
+* [IEEE ICC 2024 First edition](https://icc2024.ieee-icc.org/workshop/ws-18-ieee-icc-2024-workshop-machine-learning-and-deep-learning-wireless-security){:target="_blank"}
 
 ### ACM Workshop on Wireless Security and Machine Learning 
 * [ACM Workshop on Wireless Security and Machine Learning (WiseML 2026)](https://wisec26.events.cispa.de/wiseml2026-workshops/){:target="_blank"}
 * [ACM Workshop on Wireless Security and Machine Learning (WiseML 2023)](https://wisec2023.surrey.ac.uk/wiseml2023/){:target="_blank"}
 
 ### [Physical Layer Security Workshop](https://sites.google.com/view/pls-workshop){:target="_blank"}
-* [IEEE/CIC ICCC 2026 Fourth Edition](https://iccc2026.ieee-iccc.org/authors/call-workshop-papers){:target="_blank"}, [IEEE WCNC 2026 Third Edition](https://wcnc2026.ieee-wcnc.org/){:target="_blank"}, [IEEE PIMRC 2025 Second Edition](https://pimrc2025.ieee-pimrc.org/workshop/ws-18-second-workshop-physical-layer-security-wireless-communications){:target="_blank"}, [IEEE WCNC 2025 Edition](https://wcnc2025.ieee-wcnc.org/workshop/ws06-ieee-wcnc-workshop-physical-layer-security-wireless-communications){:target="_blank"}
+* [IEEE/CIC ICCC 2026 Fourth Edition](https://iccc2026.ieee-iccc.org/authors/call-workshop-papers){:target="_blank"}
+* [IEEE WCNC 2026 Third Edition](https://wcnc2026.ieee-wcnc.org/){:target="_blank"}
+* [IEEE PIMRC 2025 Second Edition](https://pimrc2025.ieee-pimrc.org/workshop/ws-18-second-workshop-physical-layer-security-wireless-communications){:target="_blank"}
+* [IEEE WCNC 2025 Edition](https://wcnc2025.ieee-wcnc.org/workshop/ws06-ieee-wcnc-workshop-physical-layer-security-wireless-communications){:target="_blank"}
 
 ## Programme committees and reviewing
 
