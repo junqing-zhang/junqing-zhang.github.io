@@ -1,9 +1,9 @@
-
 ---
 layout: page
 title: "Understanding Wi-Fi Speed Classes: AC600, AX900, and Beyond"
 description: "A reference to advertised Wi-Fi speed classes, PHY parameters, and theoretical data-rate calculations."
 show_last_updated: true
+math: true
 permalink: /resources/wireless/wifi-speed-classes/
 categories:
   - Resources
@@ -115,12 +115,12 @@ Again, **2402 Mbps**, not 3000 Mbps, is the maximum theoretical 5 GHz single-lin
 
 The advertised class and calculated PHY rates do **not** represent TCP/UDP application throughput. Real throughput is lower because of preambles, MAC headers, contention, interframe spacing, acknowledgements, retransmissions, protocol overhead and possibly USB/host limitations. The result also depends on signal quality, interference, access-point capability and the negotiated MCS/NSS/bandwidth.
 
-For radio-frequency fingerprint identification (RFFI) experiments, the **actual per-packet PHY configuration** matters more than the marketing class. In particular, record the chipset and driver, frequency/channel, channel width, PHY format, MCS, NSS, GI, transmit power and active RF chains where possible. A 2×2-capable adapter does not necessarily use two spatial streams for every transmitted packet, and a device supporting 1024-QAM can also transmit at lower MCS values. Preamble-based fingerprinting may be largely independent of the payload constellation, depending on the waveform and features used.
-
 ## References and further reading
 
-- [IEEE 802.11 Wireless LAN Working Group](https://www.ieee802.org/11/) — IEEE standardisation and related technical material.
 - [Cisco: 802.11ac Wireless Throughput Testing and Validation](https://www.cisco.com/c/en/us/support/docs/wireless-mobility/wireless-lan-wlan/212892-802-11ac-wireless-throughput-testing-and.pdf) — background on 802.11ac throughput and PHY rates.
 - [Electronics Notes: IEEE 802.11ax Modulation and Coding](https://www.electronics-notes.com/articles/connectivity/wifi-ieee-802-11/802-11ax-modulation-coding.php) — Wi-Fi 6 MCS, coding and data-rate information.
 
 *Note: Marketing class names and their rounding conventions are not defined by IEEE 802.11. Always check the exact product's data sheet before assuming that its PHY capabilities match a row above.*
+
+## Acknowledgement
+Some content on this page was prepared or edited with assistance from ChatGPT.

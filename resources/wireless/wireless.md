@@ -22,6 +22,7 @@ This page summarises resources related to wireless communications, involving fun
 ## Wireless Technologies
 * [Wi-Fi/IEEE 802.11](/resources/wireless/wifi/)
 * [Wi-Fi Modes](/resources/wireless/wifi-modes/)
+* [Understanding Wi-Fi Speed Classes: AC600, AX900, and Beyond](/resources/wireless/wifi-speed-classes/)
 * [How to Learn Wi-Fi PHY: OFDM, Synchronisation and Channel Estimation](/resources/wireless/how-to-learn-wifi/)
 * [ZigBee/IEEEE 802.15.4](/resources/wireless/zigbee/)
 * [LoRa, LoRaWAN](/resources/wireless/lora-lorawan/)
